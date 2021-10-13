@@ -3264,9 +3264,9 @@
 3	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	1	obl	1:obl	_
 
 # sent_id = 445 (?? root)
-# text = [ekəy  iʔke] wep owakára
+# text = ekəy  iʔke] wep owakára
 # text_eng = It is not with you that I am angry (Gabas 1999, 147)
-1	[ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	_	_	_	_
+1	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	_	_	_	_
 2	iʔke]	_	PART	part	_	1	advmod	1:advmod	_
 3	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
 4	owakára	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	ccomp	1:ccomp	_
@@ -4655,11 +4655,11 @@
 2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 622
-# text = mõm at (okəy)
+# text = mõm at okəy
 # text_eng = He/it saw (me). (Gabas 1999, 199)
 1	mõm	_	VERB	v	_	0	root	0:root	_
 2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|PronType=Prs	1	aux	1:aux	_
-3	(okəy)	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	1:obj	_
+3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	1:obj	_
 
 # sent_id = 623
 # text = õn aʔyamón
@@ -4668,11 +4668,11 @@
 2	aʔyamón	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 624
-# text = kahyep wet (aʔkəy)
+# text = kahyep wet aʔkəy
 # text_eng = I missed (him/it). (Gabas 1999, 199)
 1	kahyep	_	VERB	v	_	0	root	0:root	_
 2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
-3	(aʔkəy)	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	1:obj	_
+3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	1:obj	_
 
 # sent_id = 625
 # text = õn aʔtigat
