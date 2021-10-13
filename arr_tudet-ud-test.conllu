@@ -1,10 +1,10 @@
 # sent_id = 000
 # text = war iyõm ib an
 # text_eng = my father brought a fish (Gabas 1999, 24)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-2	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ib	_	NOUN	n	_	4	obj	4:obj	_
-4	an	_	VERB	v	Mood=Ind	0	root	0:root	_
+1	war	war	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+2	iyõm	iyõm	NOUN	n	_	4	nsubj	4:nsubj	_
+3	ib	ib	NOUN	n	_	4	obj	4:obj	_
+4	an	an	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 002
 # text = cawap wɨy
