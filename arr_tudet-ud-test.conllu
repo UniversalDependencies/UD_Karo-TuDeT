@@ -5058,37 +5058,3 @@
 2	pə	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
 3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
 
-# sent_id = 674 (??)
-# text = menə iʔkɨy coke
-# text_eng = I wonder, belief, clearly that... (Gabas 1999, 221)
-1	menə	_	PART	part	Evident=Fh	_	_	_	_
-2	iʔkɨy	_	PART	part	Evident=Fh	_	_	_	_
-3	coke	_	PART	part	Evident=Fh	_	_	_	_
-
-# sent_id = 675
-# text = menə iʔkɨy igã
-# text_eng = I wonder, belief should... (Gabas 1999, 221)
-1	menə	_	PART	part	Evident=Fh	_	_	_	_
-2	iʔkɨy	_	PART	part	Evident=Fh	_	_	_	_
-3	igã	_	PART	part	Evident=Fh	_	_	_	_
-
-# sent_id = 676
-# text = menə iʔkɨy tə
-# text_eng = I wonder, belief, it is said that... (Gabas 1999, 221)
-1	menə	_	PART	part	Evident=Fh	_	_	_	_
-2	iʔkɨy	_	PART	part	Evident=Fh	_	_	_	_
-3	tə	_	PART	part	Evident=Nfh	_	_	_	_
-
-# sent_id = 677
-# text = pə menə igã
-# text_eng = Maybe, I wonder, should... (Gabas 1999, 221)
-1	pə	_	PART	part	Evident=Fh	_	_	_	_
-2	menə	_	PART	part	Evident=Fh	_	_	_	_
-3	igã	_	PART	part	Evident=Fh	_	_	_	_
-
-# sent_id = 678
-# text = menə ʔkɨy nãnin
-# text_eng = I wonder, belief, really... (Gabas 1999, 221)
-1	menə	_	PART	part	Evident=Fh	_	_	_	_
-2	ʔkɨy	_	PART	part	Evident=Fh	_	_	_	_
-3	nãnin	_	PART	part	Evident=Fh	_	_	_	_
