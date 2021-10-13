@@ -1,7 +1,7 @@
 # sent_id = 001
 # text= war iyõm ib an
 # text_eng= my father brought a fish (Gabas 1999, 24)
-1	war 	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ib	_	NOUN	n	_	4	obj	4:obj	_
 4	an	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -83,7 +83,7 @@
 # text_eng = He left to see the snake (Gabas 1999, 26)
 1	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
 2	roba	_	VERB	v	VerbForm=Ger	4	xcomp	4:xcomp	_
-3	at	_	AUX	aux	Mood=Ind|Number=Sg|Person=3 	4	aux	4:aux	_
+3	at	_	AUX	aux	Mood=Ind|Number=Sg|Person=3	4	aux	4:aux	_
 4	towɨya	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 014
@@ -97,7 +97,7 @@
 # text = iʔ-nõ gəy rə
 # text_eng = for one of us, they say (Gabas 1999, 27)
 1	iʔnõ	_	_	_	Number=Pl|Person=1	0	root	0:root	_
-2	gəy	_	ADP	adp 	Case=Dat	1	case	1:case	_
+2	gəy	_	ADP	adp	Case=Dat	1	case	1:case	_
 3	rə	_	PART	part	Evident=Nfh	1	mark	1:mark	_
 
 # sent_id = 016
@@ -122,7 +122,7 @@
 # text = iyõm mat
 # text_eng = beautiful father (Gabas 1999, 27)
 1	iyõm	_	NOUN	n	_	0	root	0:root	_
-2	mat	_ 	ADJ	adj	_	1	amod	1:amod	_
+2	mat	_	ADJ	adj	_	1	amod	1:amod	_
 
 # sent_id = 20
 # text = koran map
@@ -211,7 +211,7 @@
 # text_eng = blood of (an) alligator (Gabas 1999, 30)
 1	wayo	_	NOUN	n	_	3	nmod	3:nmod	_
 2	bah	_	PART	part	_	3	clf:cylb	3:clf:cylb	_
-3	yu	_ 	NOUN	n	_	0	root	0:root	_
+3	yu	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 033
 # text = nãn iket
@@ -291,7 +291,7 @@
 # text_eng = The woman boiled the water. (Gabas 1999, 42)
 1	maʔpəy	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	icɨ	_	NOUN	n	_	3	obj	3:obj	_
-3	téy	_	VERB	v	Mood=Ind1 	0	root	0:root	_
+3	téy	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 044
 # text = apəy ŋa ʔet topaba mɨy mãm
@@ -347,7 +347,7 @@
 # text_eng =  shaman's house (Gabas 1999, 43)
 1	agóaʔpər	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
 2	at	_	PART	part	PronType=Prs	1	case	1:case	_
-3	kaʔa	_	NOUN	 n	_	0	root	0:root	_
+3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 053
 # text = et tágɨp
@@ -463,7 +463,7 @@
 1	nãn	_	PRON	pron	PronType=Int	4	obl	4:obl	_
 2	mihmãm	_	ADP	adp	Case=Com	1	case	1:case	_
 3	ekab	_	AUX	aux	Number=SG|Mood=Ind|Person=2|Tense=Fut	4	aux	4:aux	_
-4	eyaʔwara	_ 	VERB	Number=SG|Person=2|VerbForm=Ger	_	0	root	0:root	_
+4	eyaʔwara	_	VERB	Number=SG|Person=2|VerbForm=Ger	_	0	root	0:root	_
 
 # sent_id = 070
 # text = kanãy iʔkap aʔwĩa
@@ -483,7 +483,7 @@
 # text = at aʔpɨy gahmõmnem
 # text_eng = He waited for him quietly. (Gabas 1999, 50)
 1	at	_	PRON	pron	_	2	nsubj	2:nsubj	_
-2	aʔpɨy	_	VERB	 v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
+2	aʔpɨy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 3	gahmõmnem	_	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 073
@@ -518,7 +518,7 @@
 # text = wat tap
 # text_eng =  My relatives, stuff/things. (Gabas 1999, 54)
 1	wat	wat	PRON	pron	Number=Sg|Person=1|PronType=Prs	0	root	0:root	_
-2	tap	tap 	PART	part	Case=Assoc	1	case	1:case	_
+2	tap	tap	PART	part	Case=Assoc	1	case	1:case	_
 
 # sent_id = 077
 # text = wat kaʔa ʔaʔtoʔ
@@ -606,7 +606,7 @@
 # sent_id = 088
 # text = at towirup ʔot cúrem
 # text_eng = He ate his own food a lot. (Gabas 1999, 57)
-1	at	_ 	PRON	pron	Number=Sg|Person=3|PronType=PRS	3	nsubj	3:nsubj	_
+1	at	_	PRON	pron	Number=Sg|Person=3|PronType=PRS	3	nsubj	3:nsubj	_
 2	towirup	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔot	_	VERB	v	Mood=Ind	0	root	0:root	_
 4	cúrem	_	ADV	adv	_	3	advmod	3:advmod	_
@@ -614,7 +614,7 @@
 # sent_id = 089
 # text = oyaʔwan át mãm
 # text_eng = I left during the day. (Gabas 1999, 58)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sg|Person=1 	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
 2	át	_	NOUN	n	_	1	obl	1:obl	_
 3	mãm	_	PART	part	_	_	_	_	_
 
@@ -669,7 +669,7 @@
 # text_id= 096
 # text = õn amaken
 # text_eng = I made it/him sleep. (Gabas 1999, 63)
-1	õn	_ 	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	amaken	_	VERB	v	Case=Cau|Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
 
 # text_id= 097
@@ -733,7 +733,7 @@
 # text_id= 106
 # text = õn wat awe rabitẽy
 # text_eng = I made my brother cross, crossing with him. (Gabas 1999, 65)
-1	õn	_ 	PRON	pron 	Number=Sg|Person=1|PronType=Prs	4	nsubj	_	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	_	_
 2	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	3	nmod:poss	_	_
 3	awe	_	NOUN	n	_	4	obj	_	_
 4	rabitẽy	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
@@ -836,7 +836,7 @@
 # text_eng = The ox fell and got killed. (Gabas 1999, 68)
 1	boi	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	ʔet	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
-3	towaʔpara	 _	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+3	towaʔpara	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
 4	towewĩ-a	_	VERB	v	Person=3R|VerbForm=Ger|Voice=Pass	3	conj	3:conj	_
 
 # sent_id = 121
@@ -949,7 +949,7 @@
 # sent_id = 139
 # text = õn abeʔnoy
 # text_eng = Let me see it/him. (Gabas 1999, 73)
-1	õn	_ 	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	abeʔnoy	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sg|Person=3	0	root	0:root	_
 
 # sent_id = 140
@@ -1084,7 +1084,7 @@
 # text = cárarem õn
 # text_eng= I am tall. (Gabas 1999, 77)
 1	cárarem	_	ADV	adv	_	0	root	0:root	_
-2	õn	_	PRON 	pron	Number=Sg|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
+2	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 
 # sent_id = 163 
 # text = kaptem at ahyə
@@ -1104,7 +1104,7 @@
 # text_eng= My children are big and beautiful. (Gabas 1999, 78)
 1	pattem	_	ADJ	adj	_	2	conj	2:conj	_
 2	cúrem	_	ADJ	adj	_	0	root	0:root	_
-3	wat	_	PRON	pron 	Number=Sg|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	owe	_	NOUN	n	_	1	nsubj	1:nsubj|2:nsubj	_
 5	tap	_	PART	part	_	4	case	4:case	_
 
@@ -1136,7 +1136,7 @@
 # sent_id = 170
 # text = õn aʔtoy
 # text_eng= I saw it/him.(Gabas 1999, 83)
-1	õn	_ 	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 
 # sent_id = 171
@@ -1235,12 +1235,12 @@
 1	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔɨya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	kanã	_	PART	 part	NOMZ	3	mark	3:mark	_
+4	kanã	_	PART	part	NOMZ	3	mark	3:mark	_
 
 # sent_id = 186
 # text = õn aʔwĩa kanã yaʔti nãn
 # text_eng = I like to kill it. (Gabas 1999, 87)
-1	õn	_ 	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	aʔwĩa	_	VERB	v	Number=Sg|Person=3|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	adp	NOMZ	4	mark	4:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
@@ -1301,7 +1301,7 @@
 # sent_id = 192
 # text = õn amãn ara gotoy
 # text_eng = I saw the rain falling. (Gabas 1999, 89)
-1	õn	_ 	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	amãn	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	ara	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
 4	gotoy	_	VERB	v	Mood=Ind|NOMZ	0	root	0:root	_
@@ -1438,7 +1438,7 @@
 # sent_id = 212
 # text = wirik kanã cú
 # text_eng = big edible thing (Gabas 1999, 93)
-1	wirik	_ 	NOUN	n	_	2	compound	2:compound	_
+1	wirik	_	NOUN	n	_	2	compound	2:compound	_
 2	kanã	_	NOUN	n	_	0	root	0:root	_
 3	cú	_	ADJ	adj	_	2	amod	2:amod	_
 
@@ -1612,7 +1612,7 @@
 2	kaʔa	kaʔa	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
-5	at	_ 	PRON	pron	Number=Sg|Person=3|PronTyoe=Prs	2	nsubj	2:nsubj	_
+5	at	_	PRON	pron	Number=Sg|Person=3|PronTyoe=Prs	2	nsubj	2:nsubj	_
 6	epɨyap	_	VERB	v	Mood=Ind|Number=Sg|Person=2	2	parataxis	2:parataxis	_
 
 # sent_id = 234
@@ -3103,7 +3103,7 @@
 # sent_id = 424
 # text = aʔtoy yat
 # text_eng = I will see him/it. (Gabas 1999, 142)
-1	õn	_	PRON	pron 	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
+1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 3	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 
@@ -3564,7 +3564,7 @@
 # text_eng = We really cannot call the woman's name, (Gabas 1999, 156)
 1	iʔtə	_	PRON	pron	Clusivity=Incl|Number=Pl|Number=1	5	nsubj	5:nsubj	_
 2	maʔpəy	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
-3	ŋa	_	PART	part	 Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
 4	cet	_	NOUN	n	_	5	obj	5:obj	_
 5	maʔã	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 6	iʔke	_	PART	part	_	5	advmod	5:advmod	_
@@ -5005,7 +5005,7 @@
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
-4	coke	_	ADV	adv 	Evident=Fh	2	advmod	2:advmod	_
+4	coke	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 668
 # text = ayaʔwan nãnin igã
