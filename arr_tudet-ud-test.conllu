@@ -2204,7 +2204,7 @@
 # text_eng = shaman's bow (Gabas 1999, 117)
 1	agóaʔpət	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
 2	at	_	PART	part	_	1	case	1:case	_
-3	tágɨp	_	_	NOUN	n	0	root	0:root	_
+3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 313
 # text = at ip ʔɨy Naʔkɨt pihmãm
@@ -2497,7 +2497,7 @@
 # sent_id = 352
 # text = péŋ yaʔi toat mok peʔ cán iga
 # text_eng = The white man will go down (to the river) to wash his clothes. (Gabas 1999, 126)
-1	péŋ	_	Noun	n	_	2	nsubj	2:nsubj	_
+1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	yaʔi	_	VERB	v	Mood=Ind	0	root	0:root	_
 3	toat	_	PRON	pron	Person=3R|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	mok	_	NOUN	n	_	6	obj	6:obj	_
@@ -2715,7 +2715,7 @@
 # sent_id = 379
 # text = õn okõna okera
 # text_eng = I slept. (Gabas 1999, 131)
-1	õn	_	Pron	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	okõna	_	ADP	adp	Number=Sing|Person=1	3	mark	3:mark	_
 3	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
@@ -2993,7 +2993,7 @@
 2	cĩm	_	NOUN	n	_	3	obj	3:obj	_
 3	yegat	_	VERB	v	Mood=Ind	0	root	0:root	_
 4	yat	_	PART	part	Tense=Fut	3	mark	3:mark	_
-5	co	_	Part	part	Tense=Past	3	mark	3:mark	_
+5	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 
 # sent_id = 412
 # text = õn owirap tɨn yat co
@@ -3001,8 +3001,8 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	owirap	_	NOUN	n	_	3	obj	3:obj	_
 3	tɨn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	yat	_	Part	part	Tense=Fut	3	mark	3:mark	_
-5	co	_	Part	part	Tense=Past	3	mark	3:mark	_
+4	yat	_	PART	part	Tense=Fut	3	mark	3:mark	_
+5	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 
 # sent_id = 413
 # text = wat kanã rakəga wet co kán
@@ -3118,7 +3118,7 @@
 # sent_id = 426
 # text = aʔcey ŋa yat
 # text_eng = his future wife (Gabas 1999, 143)
-1	aʔcey	_	Noun	n	Number=Sing|Person=3	0	root	0:root	_
+1	aʔcey	_	NOUN	n	Number=Sing|Person=3	0	root	0:root	_
 2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
 3	yat	_	PART	part	Tense=Fut	1	mark	1:mark	_
 
