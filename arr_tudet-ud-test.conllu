@@ -2669,7 +2669,7 @@
 # text_eng = Sit down next to me! (Gabas 1999, 130)
 1	paramu	_	VERB	v	_	0	root	0:root	_
 2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	1:aux	_
-3	owikop	_	ADP	adp	Case=Abes|Number=Sing|Person=1	1	obl	1:obl	_
+3	owikop	_	ADP	adp	Case=Abe|Number=Sing|Person=1	1	obl	1:obl	_
 
 # sent_id = 374
 # text = ci baʔpe bem wep owaraʔkəga
@@ -5054,4 +5054,3 @@
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 2	pə	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
 3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
-
