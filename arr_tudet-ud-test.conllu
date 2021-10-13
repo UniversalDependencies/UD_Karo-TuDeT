@@ -78,7 +78,7 @@
 1	pew	_	NOUN	n	_	0	root	0:root	_
 2	bət	_	ADJ	adj	_	1	amod	1:amod	_
 
-# sent_id = 013 
+# sent_id = 013
 # text = mãygãra roba at towɨya
 # text_eng = He left to see the snake (Gabas 1999, 26)
 1	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
@@ -106,7 +106,7 @@
 1	oti	_	VERB	v	Number=Sg|Mood=Ind|Person=1	0	root	0:root	_
 2	gán	_	PART	part	Tense=RPast	1	mark	1:mark	_
 
-# sent_id = 017 
+# sent_id = 017
 # text = iyãy gõm
 # text_eng = like a tooth (Gabas 1999, 27)
 1	iyãy	_	NOUN	n	Person=3Imp	0	root	0:root	_
@@ -142,8 +142,8 @@
 1	haran	_	NOUN	n	_	0	root	0:root	_
 2	narap	_	ADJ	adj	_	1	amod	1:amod	_
 
-# sent_id = 022 
-# text = iyõm ŋõm 
+# sent_id = 022
+# text = iyõm ŋõm
 # text_eng = like father (Gabas 1999, 28)
 1	iyõm	_	NOUN	n	_	0	root	0:root	_
 2	ŋõm	_	ADP	adp	Case=Simil	1	case	1:case	_
@@ -174,7 +174,7 @@
 2	naʔto	_	NOUN	n	_	3	obj	3:obj	_
 3	wīn	_	VERB	v	Mood=Ind	1	dep	1:dep	_
 
-# sent_id = 027 
+# sent_id = 027
 # text = cób mawɨya
 # text_id = Make the fly leave  (frighten it!) (Gabas 1999, 29)
 1	cób	_	NOUN	n	__	2	obj	2:obj	_
@@ -194,7 +194,7 @@
 3	mõm	_	ADV	adv	_	1	advmod	1:advmod	_
 4	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 030 
+# sent_id = 030
 # text =naʔyoh nõ
 # text_eng = one of the leaves (Gabas 1999, 30)
 1	naʔyoh	_	NOUN	n	_	0	root	0:root	_
@@ -280,7 +280,7 @@
 1	nãn	_	PRON	pron	_	0	root	0:root	_
 2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 
-# sent_id = 042 
+# sent_id = 042
 # text = maʔwɨt paraʔkət
 # text_eng = The man came back. (Gabas 1999, 42)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
@@ -319,18 +319,18 @@
 # text_eng = your head (Gabas 1999, 43)
 1	enaká	_	NOUN	n	Number=Sg|Person=2	_	_	_	_
 
-# sent_id = 048 
+# sent_id = 048
 # text = wayo naká
 # text_eng = alligator head (Gabas 1999, 43)
 1	wayo	_	NOUN	n	_	2	compound	2:compound	_
 2	naká	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 049
-# text = aʔkun 
+# text = aʔkun
 # text_eng = his/its belly (Gabas 1999, 43)
 1	aʔkun	_	NOUN	n	Number=Sg|Person=3	_	_	_	_
 
-# sent_id = 050 
+# sent_id = 050
 # text = owẽ gun
 # text_eng = baby belly (Gabas 1999, 43)
 1	owẽ	_	NOUN	n	_	2	compound	2:compound	_
@@ -363,7 +363,7 @@
 3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 055
-# text = Kokõ rap 
+# text = Kokõ rap
 # text_eng = the Hawk people (Gabas 1999, 44)
 1	Kokõ	_	PROPN	propn	_	0	root	0:root	_
 2	rap	_	PART	part	Case=Assoc	1	case	1:case	_
@@ -428,7 +428,7 @@
 4	waʔye	_	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 065
-# text = kanɑ̃y abagon nap waʔye 
+# text = kanɑ̃y abagon nap waʔye
 # text_eng = Then there were his friends. (Gabas 1999, 47)
 1	kanɑ̃y	_	ADV	_	_	4	advmod	4:advmod	_
 2	abagon	_	NOUN	n	Number=Pl|Person=3	4	nsubj	4:nsubj	_
@@ -457,7 +457,7 @@
 1	tenaʔwara	_	VERB	v	Clusivity=Ex|Number=Pl|Person=1|VerbForm=Ger	0	root	0:root	_
 2	reʔkay	_	AUX	aux	Clusivity=Ex|Number=Pl|Mood=Ind|Person=1|Tense=Fut	1	aux	1:aux	_
 
-# sent_id = 069 
+# sent_id = 069
 # text = nãn mihmãm ekab eyaʔwara
 # text_eng = With whom you will leave? (Gabas 1999, 48)
 1	nãn	_	PRON	pron	PronType=Int	4	obl	4:obl	_
@@ -542,7 +542,7 @@
 3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
 4	okõna	_	ADP	adp	Number=Sg|Person=1|PronType=Emp	3	mark	3:mark	_
 
-# sent_id = 080 
+# sent_id = 080
 # text =maʔpəy bat tokõna at ipɨy
 # text_eng = It was the beautiful woman whom he waited for. (Gabas 1999, 55)
 1	maʔpəy	_	NOUN	n	_	5	obj	5:obj	_
@@ -612,7 +612,7 @@
 4	cúrem	_	ADV	adv	_	3	advmod	3:advmod	_
 
 # sent_id = 089
-# text = oyaʔwan át mãm 
+# text = oyaʔwan át mãm
 # text_eng = I left during the day. (Gabas 1999, 58)
 1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sg|Person=1 	0	root	0:root	_
 2	át	_	NOUN	n	_	1	obl	1:obl	_
@@ -627,7 +627,7 @@
 4	kaʔa	_	NOUN	n	_	_	_	_	_
 5	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 091 
+# sent_id = 091
 # text = cúrem at towirup ʔop
 # text_eng = A lot, he ate his own food.(Gabas 1999, 60)
 1	cúrem	_	ADV	adv	_	4	obl	4:obl	_
@@ -642,7 +642,7 @@
 2	mãm	_	PART	part	_	_	_	_	_
 3	oyaʔwarap	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
 
-# text_id= 093 
+# text_id= 093
 # text = maʔwɨt at kaʔa õn itop
 # text_eng = It was the white man's house what I saw. (Gabas 1999, 60)
 1	maʔwɨt	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
@@ -667,7 +667,7 @@
 2	kanã	_	Part	part	Nomz	1	mark	1:mark	_
 
 # text_id= 096
-# text = õn amaken 
+# text = õn amaken
 # text_eng = I made it/him sleep. (Gabas 1999, 63)
 1	õn	_ 	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	amaken	_	VERB	v	Case=Cau|Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
@@ -868,7 +868,7 @@
 1	at	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	tomãmwĩn	_	VERB	v	Mood=Ind|Person=3R|Reflex=Yes	0	root	0:root	_
 
-# sent_id = 126 
+# sent_id = 126
 # text = owakán omãmkəy
 # text_eng = I am angry at myself. (Gabas 1999, 70)
 1	owakán	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
@@ -887,14 +887,14 @@
 1	tap	_	PRON	pron	Number=Pl|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	toroyapít	_	VERB	v	Mood=Ind|Person=3|PronType=Rcp	0	root	0:root	_
 
-# sent_id = 129 
+# sent_id = 129
 # text = kaʔto karorocapét ahyə
 # text_eng = Did you beat each other? (Gabas 1999, 71)
 1	kaʔto	_	PRON	pron	Number=Pl|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	karorocapét	_	VERB	v	Mood=Ind|Number=Pl|Person=2|PronType=Rcp	0	root	0:root	_
 3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
 
-# sent_id = 130 
+# sent_id = 130
 # text = oweʔŋen
 # text_eng = Let me sleep. (Gabas 1999, 71)
 1	oweʔŋen	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sg|Person=1	0	_	_	_
@@ -910,13 +910,13 @@
 1	naʔwəy	_	NOUN	n	_	2	obj	2:obj	_
 2	beʔŋət	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
 
-# sent_id = 133 
+# sent_id = 133
 # text = inãw beʔnogat
 # text_eng = Let the curassow eat! (Gabas 1999, 72)
 1	inãw	_	NOUN	n	_	2	obj	2:obj	_
 2	beʔnogat	_	VERB	_	Mood=Ind|Mood=Opt	0	root	0:root	_
 
-# sent_id = 134 
+# sent_id = 134
 # text = kãram meʔnẽykãram meʔnẽy
 # text_eng = Let the hummingbird fly! (Gabas 1999, 72)
 1	kãram	_	NOUN	n	_	2	obj	2:obj	_
@@ -1003,7 +1003,7 @@
 1	kaʔa	_	NOUN	n	_	0	root	0:root	_
 2	ʔaʔtoʔ	_	PART	part	Number=Pl	1	clf:rd	1:clf:rd	_
 
-# sent_id = 149 
+# sent_id = 149
 # text = wat kaʔa ʔa pɨk=toʔ
 # text_eng= the rest of my houses (Gabas 1999, 75)
 1	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
@@ -1059,7 +1059,7 @@
 1	oken	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
 2	cúrem	_	ADV	adv	_	1	advmod	1:advmod	_
 
-# sent_id = 159 
+# sent_id = 159
 # text = cúrem wep okera
 # text_eng= I slept a lot. (Gabas 1999, 77)
 1	cúrem	_	ADJ	adj	_	3	advmod	3:advmod	_
@@ -1080,20 +1080,20 @@
 2	ŋaap	_	AUX	aux	Gender=Fem|Mood=Ind|Number=Sg|Person=3	3	aux	3:aux	_
 3	otoba	_	VERB	v	Number=Sg|Person=1|VerbForm=Ger	0	root	0:root	_
 
-# sent_id = 162 
+# sent_id = 162
 # text = cárarem õn
 # text_eng= I am tall. (Gabas 1999, 77)
 1	cárarem	_	ADV	adv	_	0	root	0:root	_
 2	õn	_	PRON 	pron	Number=Sg|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 
-# sent_id = 163  
+# sent_id = 163 
 # text = kaptem at ahyə
 # text_eng= Is it delicious? (Gabas 1999, 78)
 1	kaptem	_	ADJ	adj	_	0	root	0:root	_
 2	at	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	1	nsubj	1:nsubj	_
 3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 
-# sent_id = 164 
+# sent_id = 164
 # text = pattem maʔpəy
 # text_eng= The woman is beautiful (Gabas 1999, 78)
 1	pattem	_	ADj	adj	_	0	root	0:root	_
@@ -1168,13 +1168,13 @@
 2	aʔkɨrɨk	_	ADJ	adj	Number=Sg|Person=3	3	obj	3:obj	_
 3	ʔan	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 176 
+# sent_id = 176
 # text = tocitóga aʔkay
 # text_eng = He will go urinate. (Gabas 1999, 84)
 1	tocitóga	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
 2	aʔkay	_	AUX	aux	Mood=Ind|Number=Sg|Person=3|Tense=Fut	1	aux	1:aux	_
 
-# sent_id = 177 
+# sent_id = 177
 # text = kanãy wep okera
 # text_eng = Then I slept. (Gabas 1999, 84)
 1	kanãy	_	ADV	adv	_	3	advmod	3:advmod	_
@@ -1187,7 +1187,7 @@
 1	owakán	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
 2	aʔkəy	_	ADP	adp	Case=Dat|Number=Sg|Person=3	1	obl	1:obl	_
 
-# sent_id = 179 
+# sent_id = 179
 # text = maʔwɨt yaʔwan ŋapik
 # text_eng = The man left with her. (Gabas 1999, 84)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
@@ -1210,7 +1210,7 @@
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
 3	aʔnãn	_	AUX	aux	Mood=Ind|Number=Sg|Person=3	1	cop	1:cop	_
 
-# sent_id = 182 
+# sent_id = 182
 # text = maʔpəy pat ŋanãn
 # text_eng = She is a/the beautiful woman. (Gabas 1999, 85)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
@@ -1278,7 +1278,7 @@
 4	yaʔti	_	Verb	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 
-# sent_id = 190 (PERSON 5?) 
+# sent_id = 190 (PERSON 5?)
 # text = owirup tẽy kokəy okap ocagəpto cára koãm
 # text_eng = While my food boils I will go wash my dishes too. (Gabas 1999, 88)
 1	owirup	_	NOUN	n	Number=Sg|Person=1	2	nsubj	2:nsubj	_
@@ -1306,7 +1306,7 @@
 3	ara	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
 4	gotoy	_	VERB	v	Mood=Ind|NOMZ	0	root	0:root	_
 
-# sent_id = 193 
+# sent_id = 193
 # text = Júnior ŋa pa gotoy ahyə
 # text_eng = Did Júnior see her die? (Gabas 1999, 89)
 1	Júnior	_	PROPN	propn	_	4	nsubj	4:nsubj	_
@@ -1334,7 +1334,7 @@
 1	korét	_	NOUN	n	_	0	root	0:root	_
 2	capõt	_	ADJ	adj	_	1	compound	1:compound	_
 
-# sent_id = 197 
+# sent_id = 197
 # text = korét capõt pat
 # text_eng = beautiful bird (sp.) (Gabas 1999, 90)
 1	korét	_	NOUN	n	_	0	root	0:root	_
@@ -1347,7 +1347,7 @@
 1	cego	_	NOUN	n	_	0	root	0:root	_
 2	bɨk	_	ADJ	adj	_	1	compound	1:compound	_
 
-# sent_id = 199 
+# sent_id = 199
 # text = cego bɨk kãp
 # text_eng = delicious black monkey (Gabas 1999, 90)
 1	cego	_	NOUN	n	_	0	root	0:root	_
@@ -1373,7 +1373,7 @@
 2	óra	_	NOUN	n	_	3	compound	3:compound	_
 3	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 203 
+# sent_id = 203
 # text = maʔpəy bat óra wɨy
 # text_eng = The beautiful woman sang. (Gabas 1999, 91)
 1	maʔpəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
@@ -1416,7 +1416,7 @@
 2	cigá	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 209
-# text = opábe cú cigá 
+# text = opábe cú cigá
 # text_eng = my [big hand] blister (Gabas 1999, 93)
 1	opábe	_	NOUN	n	Number=Sg|Person=1	3	compound	3:compound	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
@@ -1457,7 +1457,7 @@
 
 # 4. Syntax
 
-# sent_id = 215 
+# sent_id = 215
 # text = at toat kaʔaʔ ʔaʔ pẽn
 # text_eng = He made his own house. (Gabas 1999, 95)
 1	at	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
@@ -1509,7 +1509,7 @@
 # text_eng = He fell down. (Gabas 1999, 96)
 1	abaʔpan	_	VERB	v	Mood=Ind|Number=Sg|Person=3	_	_	_	_
 
-# sent_id = 222 
+# sent_id = 222
 # text =wayo gap ar iʔop
 # text_eng = (It is) a tasty alligator (that) he ate. (Gabas 1999, 97)
 1	wayo	wayo	NOUN	n	_	4	obj	_	_
@@ -1517,7 +1517,7 @@
 3	ar	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	4	nsubj	_	_
 4	iʔop	_	VERB	v	Mood=Ind|Person=3IMP	0	root	_	_
 
-# sent_id = 223 
+# sent_id = 223
 # text = ar wayo gap ʔot
 # text_eng = He ate a tasty alligator. (Gabas 1999, 97)
 1	ar	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	4	nsubj	_	_
@@ -1579,7 +1579,7 @@
 4	Ø	_	_	_	_	_	_	_	_
 5	opɨya	_	VERB	v	Number=Sg|Person=1|VerbForm=Ger	_	_	_	_
 
-# sent_id = 230 
+# sent_id = 230
 # text = cak mãm okap cĩm ʔóa
 # text_eng = Tomorrow I will eat meat. (Gabas 1999, 99)
 1	cak	_	ADV	adv	_	5	obl	5:obl	_
@@ -1615,7 +1615,7 @@
 5	at	_ 	PRON	pron	Number=Sg|Person=3|PronTyoe=Prs	2	nsubj	2:nsubj	_
 6	epɨyap	_	VERB	v	Mood=Ind|Number=Sg|Person=2	2	parataxis	2:parataxis	_
 
-# sent_id = 234 
+# sent_id = 234
 # text = cĩm ʔoa okay cak mam
 # text_eng = I will eat meat tomorrow. (Gabas 1999, 99)
 1	cĩm	_	NOUN	n	_	2	obj	2:obj	_
@@ -1657,14 +1657,14 @@
 1	eken	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
 2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 
-# sent_id = 239 
+# sent_id = 239
 # text = eken mattem ahyə
 # text_eng = Did you sleep well? (Gabas 1999, 100)
 1	eken	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
 2	mattem	_	ADJ	adj	_	1	advmod	1:advmod	_
 3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 
-# sent_id = 240 
+# sent_id = 240
 # text = eken wat manikap peʔ battem ahyə
 # text_eng = Did you sleep well in my hammock? (Gabas 1999, 101)
 1	eken	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
@@ -1705,14 +1705,14 @@
 2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 3	iket	_	VERB	v	Person=3IMP	1	dep	1:dep	_
 
-# sent_id = 245 
+# sent_id = 245
 # text = pattem ahyə ekerap
 # text_eng = Did you sleep well? (lit. "Is it well that you slept?"")(Gabas 1999, 102)
 1	pattem	_	ADJ	adj	_	3	advmod	3:advmod	_
 2	ahyə	_	PART	part	PronType=Int	3	mark	3:mark	_
 3	ekerap	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
 
-# sent_id = 246 
+# sent_id = 246
 # text = wat manikap peʔ ahyə ekerap
 # text_eng = Did you sleep in my hammock? ("Was it in my hammock you slept?")(Gabas 1999, 102)
 1	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
@@ -1805,7 +1805,7 @@
 2	tɨra	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	(ẽn/kaʔto)	_	PRON	pron	Number=Sg/Pl|Person=2	2	appos	2:appos	_
 
-# sent_id = 259 
+# sent_id = 259
 # text = yét maʔpəy bat toba (ẽn/kaʔto)
 # text_eng = Watch this beautiful woman! (Gabas 1999, 105)
 1	yét	_	PRON	pron	PronType=Dem	2	nmod:poss	2:nmod:poss	_
@@ -1858,7 +1858,7 @@
 3	kaʔa	_	NOUN	n	_	1	nsubj	1:nsubj	_
 4	ʔa	_	PART	part	_	3	clf:rd	3:clf:rd	_
 
-# sent_id = 266 
+# sent_id = 266
 # text = pattem et owẽ rap
 # text_eng = Your children are beautiful. (Gabas 1999, 107)
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
@@ -2035,7 +2035,7 @@
 9	ɨgana	_	NOUN	n	_	8	obl	8:obl	_
 10	peʔ	_	ADP	adp	Case=Loc	9	case	9:case	_
 
-# sent_id = 288 
+# sent_id = 288
 # text = maʔpəy pat
 # text_eng = beautiful woman (Gabas 1999, 113)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
@@ -2053,7 +2053,7 @@
 1	owicorop	_	ADJ	adj	Number=Sg|Person=1	2	xcomp	2:xcomp	_
 2	ken	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 291 
+# sent_id = 291
 # text = aʔwak toba agóaʔpət ʔet
 # text_eng = The shaman went to see him-sick. (Gabas 1999, 114)
 1	aʔwak	_	ADJ	adj	Number=Sg|Person=3	2	amod	2:amod	_
@@ -2090,7 +2090,7 @@
 3	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 
 # sent_id = 296
-# text = pagon nóptem nakõm nap tə 
+# text = pagon nóptem nakõm nap tə
 # text_eng = three kids, they say (Gabas 1999, 115)
 1	pagon	_	NUM	num	_	3	nummod	3:nummod	_
 2	nóptem	_	X	x	_	3	advmod	3:advmod	_
@@ -2098,7 +2098,7 @@
 4	nap	_	PART	part	_	3	case	3:case	_
 5	tə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
-# sent_id = 297 
+# sent_id = 297
 # text = məy péŋ ʔet kohmãy ʔerem tokəga
 # text_eng = Then (I saw that) the white man was walking through the top (of the three), (Gabas 1999, 115)
 1	məy	_	ADV	adv	_	6	advmod	6:advmod	_
@@ -2294,7 +2294,7 @@
 3	matet	_	ADV	adv	_	2	obl	2:obl	_
 
 # sent_id = 323
-# text = iyõm wat awe capét 
+# text = iyõm wat awe capét
 # text_eng = Father beat my brother. (Gabas 1999, 120)
 1	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
@@ -2302,7 +2302,7 @@
 4	capét	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 324
-# text = wat awe iyõm capét 
+# text = wat awe iyõm capét
 # text_eng = My brother beat father. (Gabas 1999, 120)
 1	wat	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	awe	_	NOUN	n	_	4	nsubj	4:nsubj	_
@@ -2341,7 +2341,7 @@
 # text_eng = He/it went back. (Gabas 1999, 121)
 1	abaraʔkət	_	VERB	v	Mood=Ind|Number=Sg|Person=3	_	_	_	_
 
-# sent_id = 331 
+# sent_id = 331
 # text = õn ameko toy
 # text_eng = I saw the jaguar. (Gabas 1999, 121)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
@@ -2463,7 +2463,7 @@
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 348 
+# sent_id = 348
 # text = kanãy péŋ ʔet (...)
 # text_eng = Then, the white man (...) (Gabas 1999, 125)
 1	kanãy	_	ADV	adv	__	3	advmod	3:advmod	_
@@ -2522,7 +2522,7 @@
 3	nãn	_	VERB	v	Mood=Ind	2	cop	2:cop	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
-# sent_id = 355 
+# sent_id = 355
 # text = teʔyoy iʔke tawrem
 # text_eng = We do not live far. (Gabas 1999, 127)
 1	teʔyoy	_	VERB	v	Clusivity=In|Mood=Ind|Number=Pl|Person=1	0	root	0:root	_
@@ -2530,7 +2530,7 @@
 3	tawrem	_	ADJ	adj	_	1	advmod	1:advmod	_
 
 # sent_id = 356
-# text = ewét yahmãm 
+# text = ewét yahmãm
 # text_eng = Do not cry! (Gabas 1999, 127)
 1	ewét	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
 2	yahmãm	_	PART	part	_	1	advmod	1:advmod	_
@@ -2626,7 +2626,7 @@
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 368
-# text = pecéptem ẽn et iyõm ŋõm 
+# text = pecéptem ẽn et iyõm ŋõm
 # text_eng = You are ugly like your father. (Gabas 1999, 129)
 1	pecéptem	_	ADJ	adj	_	0	root	0:root	_
 2	ẽn	_	PRON	pron	Number=Sg|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
@@ -2689,7 +2689,7 @@
 4	okõna	_	ADP	adp	Number=Sg|Person=1	3	mark	3:mark	_
 
 # sent_id = 376
-# text = õn okõna ip ʔɨy 
+# text = õn okõna ip ʔɨy
 # text_eng = I caught the fish. (Gabas 1999, 131)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	okõna	_	ADP	adp	Number=Sg|Person=1	1	mark	1:mark	_
@@ -2785,7 +2785,7 @@
 5	cək	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	_	PART	part	_	_	_	_	_
 
-# sent_id = 388 
+# sent_id = 388
 # text = õn aʔtoy pattem
 # text_eng = I saw it nicely. (Gabas 1999, 134)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
@@ -2809,7 +2809,7 @@
 4	icɨ	_	NOUN	n	_	5	obj	5:obj	_
 5	arap	_	VERB	v	Mood=Ind	0	root	0:root	_
 
-# sent_id = 391 
+# sent_id = 391
 # text = pattem iʔke ap towerowɨya
 # text_eng = It was not beautifully that he spoke. (Gabas 1999, 134)
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
@@ -2836,8 +2836,8 @@
 4	iʔke	_	PART	part	_	3	advmod	3:advmod	_
 5	rẽna	_	ADV	adv	_	3	advmod	3:advmod	_
 
-# sent_id = 394 
-# text = aʔwero wɨy iʔke battem 
+# sent_id = 394
+# text = aʔwero wɨy iʔke battem
 # text_eng = He did not speak beautifully. (Gabas 1999, 135)
 1	aʔwero	_	NOUN	n	Number=Sg|Person=3	2	dep	2:dep	_
 2	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2845,7 +2845,7 @@
 4	battem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 395
-# text = Petɨp petõn iʔke matet 
+# text = Petɨp petõn iʔke matet
 # text_eng = Petĩp did not told (the story) yesterday. (Gabas 1999, 135)
 1	Petɨp	_	PROPN	propn	_	2	nsubj	2:nsubj	_
 2	petõn	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2924,7 +2924,7 @@
 2	wet	_	AUX	aux	Mood=Ind|Number=Sg|Person=1	1	aux	1:aux	_
 3	co	_	PART	part	Tense=Past	1	mark	1:mark	_
 
-# sent_id = 404 
+# sent_id = 404
 # text = eken ahyə co battem
 # text_eng = Did you sleep well? (Gabas 1999, 137)
 1	eken	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
@@ -3311,8 +3311,8 @@
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	_	PART	part	_	_	_	_	_
 
-# sent_id = 450 
-# text = pattem iʔke õn 
+# sent_id = 450
+# text = pattem iʔke õn
 # text_eng = I am not beautiful. (Gabas 1999, 148)
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
@@ -3327,7 +3327,7 @@
 4	owẽ	_	NOUN	n	_	1	nsubj	1:nsubj	_
 5	rap	_	PART	part	Case=Assoc	4	case	4:case	_
 
-# sent_id = 452 
+# sent_id = 452
 # text = ar iʔke pattem
 # text_eng = It is not him who is beautiful. (Gabas 1999, 149)
 1	ar	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	0	root	0:root	_
@@ -3380,7 +3380,7 @@
 2	yat	_	PART	part	Case=Fut	1	mark	1:mark	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 
-# sent_id = 459 
+# sent_id = 459
 # text = õn aʔtoy yat iʔke pattem
 # text_eng = I will not see it/him nicley. (Gabas 1999, 150)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
@@ -3449,7 +3449,7 @@
 3	eken	_	VERB	v	Mood=Ind|Number=Sg|Person=2	0	root	0:root	_
 4	yahmãm	_	PART	part	_	3	advmod	3:advmod	_
 
-# sent_id = 468  
+# sent_id = 468 
 # text =  taykir iʔwirup toba
 # text_eng = Aren't/weren't (you) watching our food? (Gabas 1999, 152)
 1	taykir	_	PART	part	_	3	advmod	3:advmod	_
@@ -3571,7 +3571,7 @@
 7	nãnin	_	PART	part	EVID	5	mark	5:mark	_
 8	,	_	PUNCT	punct	_	5	punct	5:punct	_
 
-# sent_id = 482 
+# sent_id = 482
 # text = naco ʔerem ye kanãp iʔkəga
 # text_eng = when we walk through the forest. (Gabas 1999, 156)
 1	naco	_	NOUN	n	_	5	obl	5:obl	_
@@ -3936,8 +3936,8 @@
 # text_eng = fire (Gabas 1999, 171)
 1	cán	_	NOUN	n	_	0	root	0:root	_
 2	nãʔ	_	PART	part	_	1	clf	1:clf	_
- 
-# sent_id= 529 
+
+# sent_id = 529
 # text = wayo nãk pap
 # text_eng = mouth of (an) alligator(Gabas 1999, 171)
 1	wayo	_	NOUN	n	_	2	nmod	2:nmod	_
@@ -4012,7 +4012,7 @@
 1	ameko	_	NOUN	n	_	2	nmod	2:nmod	_
 2	ʔora	_	NOUN	n	_	0	root	0:root	_
 
-# sent_id = 540 
+# sent_id = 540
 # text = karam wirap
 # text_eng = hummingbird's food (Gabas 1999, 174)
 1	karam	_	NOUN	n	_	2	nmod	2:nmod	_
@@ -4053,7 +4053,7 @@
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
 4	bap	_	PART	part	_	1	clf:cylb	1:clf:cylb	_
 
-# sent_id = 546 
+# sent_id = 546
 # text = ĩya ʔip par ip
 # text_eng = beautiful bird (Gabas 1999, 176)
 1	ĩya	_	NOUN	n	_	0	root	0:root	_
@@ -4085,7 +4085,7 @@
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
 4	cɨʔ	_	PART	part	_	1	clf:tflat	1:clf:tflat	_
 
-# sent_id = 550 
+# sent_id = 550
 # text = karo ʔaʔ par aʔ
 # text_eng = beautiful macaw (Gabas 1999, 177)
 1	karo	_	NOUN	n	_	0	root	0:root	_
@@ -4109,7 +4109,7 @@
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
 4	gap	_	PART	part	_	1	clf:bss	1:clf:bss	_
 
-# sent_id = 553 
+# sent_id = 553
 # text = maʔta maʔ kap maʔ
 # text_eng = delicious beans (Gabas 1999, 177)
 1	maʔta	_	NOUN	n	_	0	root	0:root	_
@@ -4117,7 +4117,7 @@
 3	kap	_	ADJ	adj	_	1	amod	1:amod	_
 4	maʔ	_	PART	part	_	1	clf:bds	1:clf:bds	_
 
-# sent_id = 554 
+# sent_id = 554
 # text = maʔpəy ŋa para ŋa
 # text_eng = beautiful woman (Gabas 1999, 177)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
@@ -4133,7 +4133,7 @@
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
 4	nãʔ	_	PART	part	_	1	clf	1:clf	_
 
-# sent_id = 556 
+# sent_id = 556
 # text = wayo nak pap cú bap
 # text_eng = big alligator mouth (Gabas 1999, 178)
 1	wayo	_	NOUN	n	_	2	compound	2:compound	_
@@ -4218,7 +4218,7 @@
 2	gáʔ	_	PART	part	_	1	clf:ccv	1:clf:ccv	_
 
 # sent_id = 566
-# text = iyã gap 
+# text = iyã gap
 # text_eng = Brazil nuts in their shell (Gabas 1999, 181)
 1	iyã	_	NOUN	n	_	0	root	0:root	_
 2	gap	_	PART	part	_	1	clf:bss	1:clf:bss	_
@@ -4230,7 +4230,7 @@
 2	ʔaʔ	_	PART	part	_	1	clf:rd	1:clf:rd	_
 
 # sent_id = 568
-# text = oyãy gap 
+# text = oyãy gap
 # text_eng = (all) my teeth (Gabas 1999, 181)
 1	oyãy	_	NOUN	n	Number=Sg|Person=1	0	root	0:root	_
 2	gap	_	PART	part	_	1	clf:bss	1:clf:bss	_
@@ -4477,7 +4477,7 @@
 2	púŋ	_	VERB	v	_	1	obl	1:obl	_
 3	ʔa	_	AUX	aux	Number=Sg|Person=2|VerbForm=Ger	1	aux	1:aux	_
 
-# sent_id = 601 
+# sent_id = 601
 # text = iyɨt okay oʔa ecap pɨʔtoʔ
 # text_eng = I will pinch both your legs. (Gabas 1999, 193)
 1	iyɨt	_	VERB	v	_	0	root	0:root	_
@@ -4553,7 +4553,7 @@
 5	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 610
-# text = õn púŋ kanã yaʔti nãn 
+# text = õn púŋ kanã yaʔti nãn
 # text_eng = I like to shoot (shooting). (Gabas 1999, 196)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	púŋ	_	VERB	v	_	4	obl	4:obl	_
@@ -4629,7 +4629,7 @@
 3	ué	_	VERB	v	_	4	root	4:root	_
 4	ué	_	VERB	v	_	2	dep	2:dep	_
 5	kanãp	_	ADV	adv	_	2	advmod	2:advmod	_
- 
+
 # sent_id = 619
 # text = oken kãy kãy kanãp
 # text_eng = I slept scratching. (Gabas 1999, 198)
@@ -4739,7 +4739,7 @@
 7	toba	_	VERB	verb	VerbForm=Ger	2	conj	2:conj	_
 
 # sent_id = 633
-# text = at otoy 
+# text = at otoy
 # text_eng = He/it saw me. Gabas 1999, 201)
 1	at	_	PRON	pron	Number=Sg|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	otoy	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
@@ -4777,7 +4777,7 @@
 2	wet	_	AUX	aux	Mood=Ind|Number=Sg|Person=1	1	aux	1:aux	_
 3	(aʔkəy)	_	ADP	adp	Case=Dat|Number=Sg|Person=3	1	obj	1:obj	_
 
-# sent_id = 639 
+# sent_id = 639
 # text = péŋ ʔet topə toat macaʔɨt wĩa
 # text_eng = (It was seen that) the white man killed his pet. (Gabas 1999, 209)
 1	péŋ	_	NOUN	n	_	6	nsubj	6:nsubj	_
@@ -4820,7 +4820,7 @@
 # text_eng = I suppose he is sleeping. (Gabas 1999, 210)
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 2	memã	_	VERB	v	_	1	parataxis	1:parataxis	_
- 
+
 # sent_id = 645
 # text = aʔken iʔkɨy
 # text_eng = It is possible that he is sleeping/slept. (Gabas 1999, 211)
@@ -4836,7 +4836,7 @@
 4	manã	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 647
-# text = õn aʔtoy nãnin kán 
+# text = õn aʔtoy nãnin kán
 # text_eng = I really saw him long ago. (Gabas 1999, 211)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
@@ -4930,7 +4930,7 @@
 3	aʔtoy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 4	tə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
-# sent_id = 658 
+# sent_id = 658
 # text = pattem at topə
 # text_eng = I saw that he/it is beautiful. (Gabas 1999, 214)
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
@@ -4983,7 +4983,7 @@
 2	topə	_	VERB	v	Evident=Fh	0	root	0:root	_
 3	nãnin	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
 
-# sent_id = 665 
+# sent_id = 665
 # text = kõm at iʔkɨy menə
 # text_eng = I wonder how he might have done it? (Gabas 1999, 218)
 1	kõm	_	PRON	pron	PronType=Int	2	advmod	2:advmod	_
@@ -5000,7 +5000,7 @@
 4	aket	_	VERB	b	Evident=Fh	2	aux	2:aux	_
 
 # sent_id = 667
-# text = õn aʔtoy nãnin coke 
+# text = õn aʔtoy nãnin coke
 # text_eng = I really just saw him/it. (Gabas 1999, 219)
 1	õn	_	PRON	pron	Number=Sg|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
@@ -5013,7 +5013,7 @@
 1	ayaʔwan	_	VERB	v	Mood=Ind|Number=Sg|Person=3	0	root	0:root	_
 2	nãnin	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
 3	igã	_	VERB	v	Evident=Fh	1	aux	1:aux	_
- 
+
 # sent_id = 669
 # text = péŋ aʔwĩn menə aket
 # text_eng = It is wondered whether the white man must have killed it/him (Gabas 1999, 219)
