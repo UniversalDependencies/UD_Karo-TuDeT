@@ -1872,7 +1872,7 @@
 1	kopət	_	NOUN	n	_	0	root	0:root	_
 2	to	_	PART	part	Number=Plur	1	clf	1:clf	_
 3	wecéb	_	ADJ	adj	_	1	amod	1:amod	_
-4	aʔmãn	_	VERB	v	Mood=Ind|Number=Sing|Person=3|	1	cop	1:cop	_
+4	aʔmãn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 268
 # text = Antônio yãn kaʔa ʔa naʔot peʔ
