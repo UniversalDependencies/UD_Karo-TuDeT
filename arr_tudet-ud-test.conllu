@@ -177,7 +177,7 @@
 # sent_id = 027
 # text = cób mawɨya
 # text_id = Make the fly leave  (frighten it!) (Gabas 1999, 29)
-1	cób	_	NOUN	n	__	2	obj	2:obj	_
+1	cób	_	NOUN	n	_	2	obj	2:obj	_
 2	mawɨya	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 028
@@ -264,7 +264,7 @@
 4	mã	_	ADP	adp	Case=Instr	2	case	2:case	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
 6	yate	_	NOUN	n	_	7	obj	7:obj	_
-7	wĩm	_	VERB	v	Mood=Ind	0	root	0:root	__
+7	wĩm	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 040
 # text = nãn ahyə mẽr ã
@@ -2466,7 +2466,7 @@
 # sent_id = 348
 # text = kanãy péŋ ʔet (...)
 # text_eng = Then, the white man (...) (Gabas 1999, 125)
-1	kanãy	_	ADV	adv	__	3	advmod	3:advmod	_
+1	kanãy	_	ADV	adv	_	3	advmod	3:advmod	_
 2	péŋ	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	ʔet	_	AUX	aux	Mood=Ind	0	root	0:root	_
 4	(...)	_	PUNCT	punct	_	3	punct	3:punct	_
@@ -3652,7 +3652,7 @@
 3	[péŋ	_	NOUN	n	_	5	nsubj	5:nsubj	_
 4	manẽ	_	ADJ	adj	_	3	amod	3:amod	_
 5	ya	_	VERB	v	VerbForm=Ger	1	dep	1:dep	_
-6	kanãp]	_	SCONJ	sconj	_	5	mark	5:mark	__
+6	kanãp]	_	SCONJ	sconj	_	5	mark	5:mark	_
 
 # sent_id = 491
 # text = ŋa otoy iʔke [okera kanãp]
@@ -5053,4 +5053,4 @@
 # text_eng = It is wondered whether he is sleeping. (Gabas 1999, 220)
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 2	pə	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
-3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
+3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_Ï
