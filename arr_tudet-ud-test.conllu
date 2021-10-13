@@ -462,8 +462,8 @@
 # text_eng = With whom you will leave? (Gabas 1999, 48)
 1	nãn	_	PRON	pron	PronType=Int	4	obl	4:obl	_
 2	mihmãm	_	ADP	adp	Case=Com	1	case	1:case	_
-3	ekab	_	AUX	aux	Number=Sing|Mood=Ind|Person=2|Tense=Fut	4	aux	4:aux	_
-4	eyaʔwara	_	VERB	_	Number=Sing|Person=2|VerbForm=Ger	_	0	root	0:root	_
+3	ekab	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
+4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	_	0	root	0:root	_
 
 # sent_id = 070
 # text = kanãy iʔkap aʔwĩa
@@ -1111,13 +1111,13 @@
 # sent_id = 166
 # text = otoyrem at
 # text_eng= He/it is pretending to be watching me. (Gabas 1999, 78)
-1	otoyrem	_	VERB	v	Mood=Ind|Number=Sing|Person=1|ADVZ	0	root	0:root	_
+1	otoyrem	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
 
 # sent_id = 167
 # text = okennem wet
 # text_eng= I am pretending to be sleeping. (Gabas 1999, 79)
-1	okennem	_	VERB	v	Mood=Ind|Number=Sing|Person=1|ADVZ	0	root	0:root	_
+1	okennem	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
 
 # sent_id = 168
@@ -3534,7 +3534,7 @@
 # text = Ø ŋaramãya,
 # text_eng = (he) took her (in), (Gabas 1999, 155)
 1	Ø	_	_	_	_	2	nsubj	2:nsubj	_
-2	ŋaramãya	_	VERB	v	Gender=Fem|Case=Com|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
+2	ŋaramãya	_	VERB	v	Case=Com|Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 478
