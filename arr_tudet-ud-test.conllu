@@ -2886,7 +2886,7 @@
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
-5	okəy	_	ADP	adp	Case=Dat|Numebr=Sg|Person=1	4	mark	4:mark	_
+5	okəy	_	ADP	adp	Case=Dat|Numebr=Sing|Person=1	4	mark	4:mark	_
 
 # sent_id = 400
 # text = war owã ŋa bakán okəy matet
@@ -2905,7 +2905,7 @@
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
-5	okəy	_	ADP	adp	Case=Dat|Numebr=Sg|Person=1	4	case	4:case	_
+5	okəy	_	ADP	adp	Case=Dat|Numebr=Sing|Person=1	4	case	4:case	_
 
 # sent_id = 402
 # text = ...matet péŋ at kaʔa ʔa peʔ
