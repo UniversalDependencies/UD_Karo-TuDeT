@@ -48,7 +48,7 @@
 # sent_id = 008
 # text = õn yaracewag yaʔti nãn
 # text_eng = I like the wild dog (Gabas 1999, 25)
-1	õn	_	PRON	pron	Number=1|Person=Sg|PronType=Prs	3	nsubj	3:nsubj	_
+1	õn	_	PRON	pron	Person=1|Person=Sing|PronType=Prs	3	nsubj	3:nsubj	_
 2	yaracewag	_	NOUN	n	_	3	obj	3:obj	_
 3	yaʔti	_	VERB	v	_	0	root	0:root	_
 4	nãn	_	AUX	aux	Mood=Ind	3	cop	3:cop	_
@@ -3562,7 +3562,7 @@
 # sent_id = 481
 # text = iʔtə maʔpəy ŋa cet maʔã iʔke nãnin,
 # text_eng = We really cannot call the woman's name, (Gabas 1999, 156)
-1	iʔtə	_	PRON	pron	Clusivity=Incl|Number=Plur|Number=1	5	nsubj	5:nsubj	_
+1	iʔtə	_	PRON	pron	Clusivity=Incl|Number=Plur|Person=1	5	nsubj	5:nsubj	_
 2	maʔpəy	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
 3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
 4	cet	_	NOUN	n	_	5	obj	5:obj	_
