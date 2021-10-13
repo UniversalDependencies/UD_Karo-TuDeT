@@ -69,7 +69,7 @@
 # sent_id = 011
 # text = oyakõy battem
 # text_eng = I dove beautifully (Gabas 1999, 26)
-1	oyakõy	_	VERB	v	Mood=Ind|Number=Sg|Person=1 	0	root	0:root	_
+1	oyakõy	_	VERB	v	Mood=Ind|Number=Sg|Person=1	0	root	0:root	_
 2	battem	_	ADV	adv	_	1	advmod	1:advmod	_
 
 # sent_id = 012
