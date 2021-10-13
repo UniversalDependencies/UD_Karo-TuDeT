@@ -48,7 +48,7 @@
 # sent_id = 008
 # text = õn yaracewag yaʔti nãn
 # text_eng = I like the wild dog (Gabas 1999, 25)
-1	õn	_	PRON	pron	Person=1|Person=Sing|PronType=Prs	3	nsubj	3:nsubj	_
+1	õn	_	PRON	pron	Person=1|Number=Sing|PronType=Prs	3	nsubj	3:nsubj	_
 2	yaracewag	_	NOUN	n	_	3	obj	3:obj	_
 3	yaʔti	_	VERB	v	_	0	root	0:root	_
 4	nãn	_	AUX	aux	Mood=Ind	3	cop	3:cop	_
@@ -944,7 +944,7 @@
 # text = õn aʔpẽn
 # text_eng = I stepped on it/him. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔpẽn	_	VERB	v	Mood=Ind|Person=Sg|Number=3	0	root	0:root	_
+2	aʔpẽn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 139
 # text = õn abeʔnoy
