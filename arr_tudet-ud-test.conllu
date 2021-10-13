@@ -146,7 +146,7 @@
 # text = iyõm ŋõm
 # text_eng = like father (Gabas 1999, 28)
 1	iyõm	_	NOUN	n	_	0	root	0:root	_
-2	ŋõm	_	ADP	adp	Case=Simil	1	case	1:case	_
+2	ŋõm	_	ADP	adp	Case=Sim	1	case	1:case	_
 
 # sent_id = 023
 # text = okun ŋɨt
@@ -261,7 +261,7 @@
 1	kɨgomət	_	PRON	pron	PronType=Int	7	dep	7:dep	_
 2	ĩyá	_	NOUN	n	_	7	dep	7:dep	_
 3	naká	_	NOUN	n	_	2	compound	2:compound	_
-4	mã	_	ADP	adp	Case=Instr	2	case	2:case	_
+4	mã	_	ADP	adp	Case=Ins	2	case	2:case	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
 6	yate	_	NOUN	n	_	7	obj	7:obj	_
 7	wĩm	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -366,31 +366,31 @@
 # text = Kokõ rap
 # text_eng = the Hawk people (Gabas 1999, 44)
 1	Kokõ	_	PROPN	propn	_	0	root	0:root	_
-2	rap	_	PART	part	Case=Assoc	1	case	1:case	_
+2	rap	_	PART	part	Case=Ass	1	case	1:case	_
 
 # sent_id = 056
 # text = maʔpəy rap
 # text_eng =  women (a woman and other women) (Gabas 1999, 44)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
-2	rap	_	PART	part	Case=Assoc	1	case	1:case	_
+2	rap	_	PART	part	Case=Ass	1	case	1:case	_
 
 # sent_id = 057
 # text = aʔcot tap
 # text_eng = its seed (Gabas 1999, 44)
 1	aʔcot	_	NOUN	n	Number=Sing|Person=3	0	root	0:root	_
-2	tap	_	PART	part	Case=Assoc	1	case	1:case	_
+2	tap	_	PART	part	Case=Ass	1	case	1:case	_
 
 # sent_id = 058
 # text = tabat tap
 # text_eng =  theirs (things) (Gabas 1999, 44)
 1	tabat	_	PRON	pron	Number=Plur|Person=3|PronType=Prs	0	root	0:root	_
-2	tap	_	PART	part	Case=Assoc	1	case	1:case	_
+2	tap	_	PART	part	Case=Ass	1	case	1:case	_
 
 # sent_id = 059
 # text = iʔtə rap
 # text_eng = ours (things), us (Gabas 1999, 44)
 1	iʔtə	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	0	root	0:root	_
-2	rap	_	PART	part	Case=Assoc	1	case	1:case	_
+2	rap	_	PART	part	Case=Ass	1	case	1:case	_
 
 # sent_id = 060
 # text = maʔwɨt cú
@@ -432,7 +432,7 @@
 # text_eng = Then there were his friends. (Gabas 1999, 47)
 1	kanɑ̃y	_	ADV	_	_	4	advmod	4:advmod	_
 2	abagon	_	NOUN	n	Number=Plur|Person=3	4	nsubj	4:nsubj	_
-3	nap	_	PART	part	Case=Assoc	2	case	2:case	_
+3	nap	_	PART	part	Case=Ass	2	case	2:case	_
 4	waʔya	_	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 066
@@ -491,7 +491,7 @@
 # text_eng = I like mine (family, personal things) very much.
 1	õn	õn	PRON	pron	Number=Sing|Person=1	4	nsubj	4:nsubj	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	_
-3	tap	tap	PART	part	Case=Assoc	2	case	2:case	_
+3	tap	tap	PART	part	Case=Ass	2	case	2:case	_
 4	yaʔti	yaʔti	VERB	v	_	0	root	0:root	_
 5	nãn	nãn	PART	part	Mood=Ind	4	cop	4:cop	_
 6	cúrem	cú=tem	ADV	adv	_	4	advmod	4:advmod	_
@@ -500,7 +500,7 @@
 # text = maʔpəy rah mõm ikérat
 # text_eng = Only the women slept. (Gabas 1999, 53)
 1	maʔpəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
-2	rah	_	PART	part	Case=Assoc	1	case	1:case	_
+2	rah	_	PART	part	Case=Ass	1	case	1:case	_
 3	mõm	_	ADV	adv	_	1	advmod	1:advmod	_
 4	ikérat	_	VERB	v	Person=3Imp	0	root	0:root	_
 
@@ -508,9 +508,9 @@
 # text = maʔpəy rap pat tah mõm ikérat
 # text_eng = Only the beautiful women slept. (Gabas 1999, 53)
 1	maʔpəy	_	NOUN	n	_	6	nsubj	6:nsubj	_
-2	rap	_	PART	part	Case=Assoc	1	case	1:case	_
+2	rap	_	PART	part	Case=Ass	1	case	1:case	_
 3	pat	_	ADJ	adj	_	1	amod	1:amod	_
-4	tah	_	PART	part	Case=Assoc	1	case	1:case	_
+4	tah	_	PART	part	Case=Ass	1	case	1:case	_
 5	mõm	_	ADV	adv	_	1	advmod	1:advmod	_
 6	ikérat	_	VERB	v	Person=3Imp	0	root	0:root	_
 
@@ -518,7 +518,7 @@
 # text = wat tap
 # text_eng =  My relatives, stuff/things. (Gabas 1999, 54)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
-2	tap	tap	PART	part	Case=Assoc	1	case	1:case	_
+2	tap	tap	PART	part	Case=Ass	1	case	1:case	_
 
 # sent_id = 077
 # text = wat kaʔa ʔaʔtoʔ
@@ -2632,7 +2632,7 @@
 2	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
 3	et	_	PRON	pron	Number=Sing]Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
-5	ŋõm	_	ADP	adp	Case=Simil	4	case	4:case	_
+5	ŋõm	_	ADP	adp	Case=Sim	4	case	4:case	_
 
 # sent_id = 369
 # text = ŋabenaoy abihmãm
@@ -2662,14 +2662,14 @@
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
 3	gət	_	VERB	v	Mood=Ind	0	root	0:root	_
 4	icɨ	_	NOUN	n	_	3	obl	3:obl	_
-5	bət	_	ADP	adp	Case=Iness	4	case	4:case	_
+5	bət	_	ADP	adp	Case=Ines	4	case	4:case	_
 
 # sent_id = 373
 # text = paramu ʔa owikop
 # text_eng = Sit down next to me! (Gabas 1999, 130)
 1	paramu	_	VERB	v	_	0	root	0:root	_
 2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	1:aux	_
-3	owikop	_	ADP	adp	Case=Abess|Number=Sing|Person=1	1	obl	1:obl	_
+3	owikop	_	ADP	adp	Case=Abes|Number=Sing|Person=1	1	obl	1:obl	_
 
 # sent_id = 374
 # text = ci baʔpe bem wep owaraʔkəga
@@ -3203,7 +3203,7 @@
 # text_eng = It wasn't his children who ate your food. (Gabas 1999, 145)
 1	[ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	owẽ	_	NOUN	n	_	6	nsubj	6:nsubj	_
-3	rab	_	PART	part	Case=Assoc	2	case	2:case	_
+3	rab	_	PART	part	Case=Ass	2	case	2:case	_
 4	iʔke]	_	PART	part	_	2	advmod	2:advmod	_
 5	ewirup	_	NOUN	n	Number=Sing|Person=2	6	obj	6:obj	_
 6	ʔot	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -3325,7 +3325,7 @@
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	owẽ	_	NOUN	n	_	1	nsubj	1:nsubj	_
-5	rap	_	PART	part	Case=Assoc	4	case	4:case	_
+5	rap	_	PART	part	Case=Ass	4	case	4:case	_
 
 # sent_id = 452
 # text = ar iʔke pattem
@@ -5054,3 +5054,4 @@
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 2	pə	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
 3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
+
