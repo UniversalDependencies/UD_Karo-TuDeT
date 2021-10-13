@@ -96,7 +96,7 @@
 # sent_id = 015
 # text = iʔnõ gəy rə
 # text_eng = for one of us, they say (Gabas 1999, 27)
-1	iʔnõ	_	_	_	Number=Plur|Person=1	0	root	0:root	_
+1	iʔnõ	_	PRON	pron	Number=Plur|Person=1	0	root	0:root	_
 2	gəy	_	ADP	adp	Case=Dat	1	case	1:case	_
 3	rə	_	PART	part	Evident=Nfh	1	mark	1:mark	_
 
@@ -664,7 +664,7 @@
 # text = o=ker-a kanã
 # text_eng = My place to sleep (Gabas 1999, 62)
 1	o=ker-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
-2	kanã	_	Part	part	Nomz	1	mark	1:mark	_
+2	kanã	_	PART	part	Nomz	1	mark	1:mark	_
 
 # text_id= 096
 # text = õn amaken
@@ -1096,7 +1096,7 @@
 # sent_id = 164
 # text = pattem maʔpəy
 # text_eng= The woman is beautiful (Gabas 1999, 78)
-1	pattem	_	ADj	adj	_	0	root	0:root	_
+1	pattem	_	ADJ	adj	_	0	root	0:root	_
 2	maʔpəy	_	NOUN	n	_	1	nsubj	1:nsubj	_
 
 # sent_id = 165
@@ -1275,7 +1275,7 @@
 1	kaʔto	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 2	karowéya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	part	NOMZ	2	case	2:case	_
-4	yaʔti	_	Verb	v	_	0	root	0:root	_
+4	yaʔti	_	VERB	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 
 # sent_id = 190 (PERSON 5?)
@@ -2203,7 +2203,7 @@
 # text = agóaʔpət at tágɨp
 # text_eng = shaman's bow (Gabas 1999, 117)
 1	agóaʔpət	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
-2	at	_	_	PART	part	1	case	1:case	_
+2	at	_	PART	part	_	1	case	1:case	_
 3	tágɨp	_	_	NOUN	n	0	root	0:root	_
 
 # sent_id = 313
@@ -2405,13 +2405,13 @@
 4	(aʔtop)	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 340
-# text = [mĩm mãm iʔke]AdvP péŋ [yowarap]
+# text = mĩm mãm iʔke péŋ yowarap
 # text_eng = It was not now that the white man left. (Gabas 1999, 123)
-1	(mĩm	_	Adv	adv	_	5	obl	5:obl	_
+1	mĩm	_	ADV	adv	_	5	obl	5:obl	_
 2	mãm	_	PART	x	_	_	_	_	_
-3	iʔke)	_	PART	part	_	1	advmod	1:advmod	_
+3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 4	péŋ	_	NOUN	n	_	5	nsubj	5:nsubj	_
-5	(yowarap)	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	yowarap	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 341
 # text = agóaʔpət [mãygãra roy iʔke]
