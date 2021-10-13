@@ -3770,20 +3770,20 @@
 5	yat]	_	VERB	v	_	1	dep	1:dep	_
 
 # sent_id = 503
-# text = õn ŋabean ya [ŋa oyaʔti nãn]
+# text = õn ŋabean ya ŋa oyaʔti nãn
 # text_eng = Because she liked me, I married her (Gabas 1999, 162)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	ŋabean	_	VERB	v	Gender=Fem|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	ya	_	SCONJ	sconj	_	5	mark	5:mark	_
-4	(ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+4	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 5	oyaʔti	_	VERB	v	Number=Sing|Person=1	2	dep	2:dep	_
-6	nãn)	_	AUX	aux	Mood=Ind	5	cop	5:cop	_
+6	nãn	_	AUX	aux	Mood=Ind	5	cop	5:cop	_
 
 # sent_id = 504
-# text = [wawwaw bay] ye ŋaʔet toyaʔwara
+# text = wawwaw bay ye ŋaʔet toyaʔwara
 # text_eng = Because the dog died, she left. (Gabas 1999, 163)
-1	[wawwaw	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	bay]	_	VERB	v	Mood=Ind	5	dep	5:dep	_
+1	wawwaw	_	NOUN	n	_	2	nsubj	2:nsubj	_
+2	bay	_	VERB	v	Mood=Ind	5	dep	5:dep	_
 3	ye	_	SCONJ	sconj	_	5	mark	5:mark	_
 4	ŋaʔet	_	AUX	aux	Gender=Fem|Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
 5	toyaʔwara	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
@@ -3798,9 +3798,9 @@
 5	oweʔcɨra	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 506
-# text = [ŋaken] yəye wer oyaʔwara
+# text = ŋaken yəye wer oyaʔwara
 # text_eng = Because she slept, I left. (Gabas 1999, 163)
-1	[ŋaken]	_	VERB	v	Gender=Fem|Mood=Ind|Number=Sing|Person=3	4	dep	4:dep	_
+1	ŋaken	_	VERB	v	Gender=Fem|Mood=Ind|Number=Sing|Person=3	4	dep	4:dep	_
 2	yəye	_	SCONJ	sconj	_	1	mark	1:mark	_
 3	wer	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
 4	oyaʔwara	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
