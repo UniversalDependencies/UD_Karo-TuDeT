@@ -142,7 +142,7 @@
 1	haran	_	NOUN	n	_	0	root	0:root	_
 2	narap	_	ADJ	adj	_	1	amod	1:amod	_
 
-# sent_id = 022
+# sent_id = 0022
 # text = iyõm ŋõm
 # text_eng = like father (Gabas 1999, 28)
 1	iyõm	_	NOUN	n	_	0	root	0:root	_
@@ -161,7 +161,7 @@
 2	naká	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 025
-# text = epan mãm ahyə
+# text = epɑ̃n mãm ahyə
 # text_eng = Are you good/alright? (Gabas 1999, 29)
 1	epɑ̃n	_	ADJ	adj	Number=Sing|Person=2	0	root	0:root	_
 2	mãm	_	PART	part	_	_	_	_	_
@@ -5054,4 +5054,3 @@
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 2	pə	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
 3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
-
