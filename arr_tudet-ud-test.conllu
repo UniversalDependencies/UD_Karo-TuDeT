@@ -2373,7 +2373,7 @@
 2	maʔwɨt	_	NOUN	n	_	0	root	0:root	_
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
-# sent_id = 336 (???????)
+# sent_id = 336
 # text = toat páy gəy roʔwa
 # text_eng = his own other. (Gabas 1999, 122)
 1	toat	_	PRON	pron	Person=3R|PronType=Prs	2	nmod:poss	2:nmod:poss	_
@@ -2586,7 +2586,7 @@
 # sent_id = 363
 # text = wat owẽ ŋa kət yat iʔke menə
 # text_eng = I wonder whether my baby girl will not walk. (Gabas 1999, 128)
-1	wat	_	PRON	pron	Number=Sing|Person=!|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	owẽ	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PART	part	_	2	clf:fem	2:clf:fem	_
 4	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -3110,7 +3110,7 @@
 # sent_id = 425
 # text = wat kaʔa ʔa yat
 # text_eng = My future house. (Gabas 1999, 143)
-1	wat	_	PRON	pron	Number=Sing|Person=!|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	2	clf:rd	2:clf:rd	_
 4	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
@@ -3216,7 +3216,7 @@
 3	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 4	itop	_	VERB	v	Person=3Imp	0	root	0:root	_
 
-# sent_id = 439 (root)
+# sent_id = 439
 # text = [naʔto cú iʔke] at iwĩ
 # text_eng = It wasn't the big tapir that he killed. (Gabas 1999, 146)
 1	[naʔto	_	NOUN	n	_	_	_	_	_
@@ -3225,7 +3225,7 @@
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 5	iwĩ	_	VERB	v	Person=3Imp	_	_	_	_
 
-# sent_id = 440 (root)
+# sent_id = 440
 # text = [ẽn iʔke] ŋa icát
 # text_eng = It wasn't you that she washed. (Gabas 1999, 146)
 1	[ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
@@ -3233,7 +3233,7 @@
 3	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 4	icát	_	VERB	v	Person=3Imp	1	ccomp	1:ccomp	_
 
-# sent_id = 441 (root)
+# sent_id = 441
 # text = [õn iʔke] at icapé
 # text_eng = It was not me that he beat. (Gabas 1999, 146)
 1	[õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	0	root	0:root	_
@@ -3241,7 +3241,7 @@
 3	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 4	icapé	_	VERB	v	Person=3Imp	1	ccomp	1:ccomp	_
 
-# sent_id = 442 (!a)
+# sent_id = 442
 # text = [maʔpəy pat iʔke] iyaʔwat
 # text_eng = It wasn't the beautiful woman who left. (Gabas 1999, 146)
 1	[maʔpəy	_	NOUN	n	_	0	root	0:root	_
@@ -3263,7 +3263,7 @@
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	1	obl	1:obl	_
 
-# sent_id = 445 (?? root)
+# sent_id = 445
 # text = ekəy  iʔke] wep owakára
 # text_eng = It is not with you that I am angry (Gabas 1999, 147)
 1	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	_	_	_	_
@@ -3293,7 +3293,7 @@
 6	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	7	aux	7:aux	_
 7	aʔtoba	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	ccomp	2:ccomp	_
 
-# sent_id = 448  (root)
+# sent_id = 448
 # text = pattem iʔke web okera
 # text_eng = It was not nicely that I slept. (Gabas 1999, 148)
 1	pattem	_	ADJ	adj	_	_	_	_	_
@@ -3301,7 +3301,7 @@
 3	web	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
 4	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	ccomp	1:ccomp	_
 
-# sent_id = 449 (???)
+# sent_id = 449
 # text = mekõm iʔke iʔyat kotigap mɨy mãm
 # text_eng = It is/was not like this that ours (relatives) use to tell in old times. (Gabas 1999, 148)
 1	mekõm	_	ADP	adp	_	0	root	0:root	_
@@ -3614,7 +3614,7 @@
 3	[ewpak-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	2:dep	_
 4	kanãp]	_	SCONJ	sconj	_	3	mark	3:mark	_
 
-# sent_id = 487 (?? 1&2)
+# sent_id = 487
 # text = wĩt wĩaw aʔwaʔye [Ø at chapéu káʔ to kanãp]
 # text_eng = He whistled when he saw his hat. (Gabas 1999, 158)
 1	wĩt	_	NOUN	n	_	2	compound	2:compound	_
@@ -4715,7 +4715,7 @@
 3	tocit	_	NOUN	n	Person=3R	1	obl	1:obl	_
 4	paʔpara	_	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 
-# sent_id = 631 (???)
+# sent_id = 631
 # text = tɨk tɨk at toat wirik kanã təga tə
 # text_eng = He was picking his pears, they say. (Gabas 1999, 200)
 1	tɨk	_	VERB	v	_	2	compound	2:compound	_
