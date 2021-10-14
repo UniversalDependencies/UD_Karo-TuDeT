@@ -817,17 +817,16 @@
 2	bemeŋãn	_	VERB	v	Mood=Ind|Voice=Pass	0	root	0:root	_
 
 # sent_id = 118
-# text = taykit yaw be bewĩa
+# text = taykit yawbe bewĩa
 # text_eng = Isn't the ray going to get killed? (Gabas 1999, 68)
-1	taykit	_	PART	part	Neg	4	advmod	4:advmod	_
-2	yaw	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	be	_	PART	part	_	2	clf:flat	2:clf:flat	_
-4	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	0:root	_
+1	taykit	_	PART	part	Polarity=Neg	3	advmod	3:advmod	_
+2	yawbe	_	NOUN	n	Clas=Flat	3	nsubj	3:nsubj	_
+3	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	0:root	_
 
 # sent_id = 119
 # text = taykit aʔi bekɨga
 # text_eng = Did the sloth get caught? (Gabas 1999, 68)
-1	taykit	_	PART	part	Neg	3	advmod	3:advmod	_
+1	taykit	_	PART	part	Polarity=Neg	3	advmod	3:advmod	_
 2	aʔi	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	bekɨga	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	0:root	_
 
@@ -1257,7 +1256,7 @@
 6	kanã	_	PART	part	NOMZ	5	mark	5:mark	_
 7	yaʔti	_	VERB	v	_	0	root	0:root	_
 8	nãn	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
-9	iʔke	_	PART	part	NEG	7	advmod	7:advmod	_
+9	iʔke	_	PART	part	Polarity=Neg	7	advmod	7:advmod	_
 
 # sent_id = 188
 # text = ẽn ekera kanã yaʔti nãn ahyə
