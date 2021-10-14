@@ -1179,7 +1179,7 @@
 # text_eng = Then I slept. (Gabas 1999, 84)
 1	kanãy	_	ADV	adv	_	3	advmod	3:advmod	_
 2	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
-3	okera	_	VERB	v	Number=Sing|PErson=1|VerbForm=Ger	0	root	0:root	_
+3	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 178
 # text = owakán aʔkəy
@@ -1477,7 +1477,7 @@
 # sent_id = 217
 # text =  at toat kaʔa ʔaʔ pẽ mãm
 # text_eng = He is making his own house. (Gabas 1999, 95)
-1	at	_	PRON	pron	Number=Sing|Personn=3|PronType=Prs	5	nsubj	5:nsubj	_
+1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	toat	_	PRON	pron	3R	3	nmod:poss	3:nmod:poss	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	PART	part	_	3	clf:rd	3:clf:rd	_
@@ -1812,7 +1812,6 @@
 4	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 5	(ẽn/kaʔto)	_	PRON	pron	Number=Sing/Pl|Person=2	4	appos	4:appos	_
 
-
 # sent_id = 260
 # text = wat manikap peya (ẽn/kaʔto)
 # text_eng = Make my hammock! (Gabas 1999, 105)
@@ -2071,7 +2070,7 @@
 # text = abakán aʔpap kəy
 # text_eng = He was angry at the hurt one. (Gabas 1999, 114)
 1	abakán	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	aʔpap	_	ADJ	adj	Number=Sing|Perosn=3	1	amod	1:amod	_
+2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	1	amod	1:amod	_
 3	kəy	_	ADP	adp	_	1	case	1:case	_
 
 # sent_id = 294
@@ -2084,7 +2083,7 @@
 # text = at topə aʔwĩn
 # text_eng = He was seen to have killed it. (Gabas 1999, 114)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-2	topə	_	VERB	v	Eviedent=Fh	3	mark	3:mark	_
+2	topə	_	VERB	v	Evident=Fh	3	mark	3:mark	_
 3	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 296
@@ -2884,7 +2883,7 @@
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
-5	okəy	_	ADP	adp	Case=Dat|Numebr=Sing|Person=1	4	mark	4:mark	_
+5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	mark	4:mark	_
 
 # sent_id = 400
 # text = war owã ŋa bakán okəy matet
@@ -2903,7 +2902,7 @@
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
-5	okəy	_	ADP	adp	Case=Dat|Numebr=Sing|Person=1	4	case	4:case	_
+5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	case	4:case	_
 
 # sent_id = 402
 # text = matet péŋ at kaʔa ʔa peʔ
