@@ -417,7 +417,7 @@
 2	mãm	_	PART	part	_	_	_	_	_
 3	péŋ	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	ʔep	_	AUX	aux	Mood=Ind	0	root	0:root	_
-5	toʔwa	_	AUX	aux	3R|VerbForm=Ger	4	aux	4:aux	_
+5	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 064
 # text = məy maʔpəy ŋa waʔye
@@ -632,7 +632,7 @@
 # text_eng = A lot, he ate his own food.(Gabas 1999, 60)
 1	cúrem	_	ADV	adv	_	4	obl	4:obl	_
 2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-3	towirup	_	NOUN	n	3R	4	obj	4:obj	_
+3	towirup	_	NOUN	n	Person=3R	4	obj	4:obj	_
 4	ʔop	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # text_id= 092
@@ -1612,7 +1612,7 @@
 2	kaʔa	kaʔa	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
-5	at	_	PRON	pron	Number=Sing|Person=3|PronTyoe=Prs	2	nsubj	2:nsubj	_
+5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 6	epɨyap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	2	parataxis	2:parataxis	_
 
 # sent_id = 234
@@ -1930,14 +1930,14 @@
 4	tocaropaba	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 274
-# text = [wat owẽ] wét
+# text = wat owẽ wét
 # text_eng = My child cried. (Gabas 1999, 110)
-1	[wat	_	PRON	pron	Number=Sing|Person=1|PronType=1	2	nmod:poss	2:nmod:poss	_
-2	owẽ]	_	NOUN	n	_	3	nsubj	3:nsubj	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=1	2	nmod:poss	2:nmod:poss	_
+2	owẽ	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	wét	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 275
-# text = [karoat] yãn iʔke tẽna
+# text = karoat yãn iʔke tẽna
 # text_eng = Yours (your animals) are not at home now. (Gabas 1999, 110)
 1	karoat	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	yãn	_	VERB	v	Mood=Ind	0	root	0:root	_
