@@ -178,7 +178,7 @@
 # text = cób mawɨya
 # text_id = Make the fly leave  (frighten it!) (Gabas 1999, 29)
 1	cób	_	NOUN	n	_	2	obj	2:obj	_
-2	mawɨya	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
+2	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 
 # sent_id = 028
 # text = wagag naká
@@ -571,7 +571,7 @@
 # text = aʔwét tokõna
 # text_eng = He cried. (Gabas 1999, 56)
 1	aʔwét	aʔ=wét	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	tokõna	to=kõna	ADP	adp	Corf=Yes|Person=3|Prontype=Emp	1	case	1:case	_
+2	tokõna	to=kõna	ADP	adp	Corf=Yes|Person=3|PronType=Emp	1	case	1:case	_
 
 # sent_id = 084
 # text = taraptem õn okõna
@@ -606,7 +606,7 @@
 # sent_id = 088
 # text = at towirup ʔot cúrem
 # text_eng = He ate his own food a lot. (Gabas 1999, 57)
-1	at	_	PRON	pron	Number=Sing|Person=3|PronType=PRS	3	nsubj	3:nsubj	_
+1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	towirup	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔot	_	VERB	v	Mood=Ind	0	root	0:root	_
 4	cúrem	_	ADV	adv	_	3	advmod	3:advmod	_
@@ -670,58 +670,58 @@
 # text = õn amaken
 # text_eng = I made it/him sleep. (Gabas 1999, 63)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	amaken	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	amaken	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 
 # text_id = 097
 # text = et owã emakət
 # text_eng = Your mother made you walk. (Gabas 1999, 63)
 1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	owã	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	emakət	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+3	emakət	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 
 # text_id = 098
 # text = ŋa omacopɨn
 # text_eng = She made me be fat. (Gabas 1999, 63)
 1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3	2	nsubj	2:nsubj	_
-2	omacopɨn	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	omacopɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
 
 # text_id = 099
 # text = at amabaraʔkət
 # text_eng = He made it/him come back. (Gabas 1999, 64)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	amabaraʔkət	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	amabaraʔkət	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # text_id = 100
 # text = õn emaberopit ŋakəy
 # text_eng = I made you pinch her. (Gabas 1999, 64)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	emaberopit	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	emaberopit	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 3	ŋakəy	_	ADP	adp	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # text_id = 101
 # text = agóaʔpət amagahmõm nãn
 # text_eng = The shaman made him/it calm down. (Gabas 1999, 64)
 1	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	amagahmõm	_	VERB	v	Case=Cau|Number=Sing|Person=3	0	root	0:root	_
+2	amagahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 3	nãn	_	AUX	aux	Mood=Ind	2	cop	2:cop	_
 
 # text_id = 102
 # text = õn amapəri
 # text_eng = I emptied it. (Gabas 1999, 64)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	amapəri	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	amapəri	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # text_id = 103
 # text = at amati
 # text_eng = He made him/it come (Gabas 1999, 64)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	amati	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	amati	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # text_id = 104
 # text = õn amaken
 # text_eng = I put him/it to sleep. (Gabas 1999, 65)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	amaken	_	VERB	v	Case=Cau|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	amaken	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # text_id = 105
 # text = wat owã orakət
@@ -1687,7 +1687,7 @@
 # text_eng = Was it the toad who really made us get lost? (Gabas 1999, 101)
 1	mɨrɨrɨy	_	NOUN	n	_	0	root	0:root	_
 2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
-3	imaterãn	_	VERB	v	Case=Cau|Mood=Ind|Number=Plur|Person=1	1	acl	1:acl	_
+3	imaterãn	_	VERB	v	Mood=Ind|Number=Plur|Person=1|Voice=Cau	1	acl	1:acl	_
 4	nãnin	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
 
 # sent_id = 243
@@ -2731,7 +2731,7 @@
 # text = iʔca macahmərəba rokõna
 # text_eng = making our sight hazy. (Gabas 1999, 132)
 1	iʔca	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod:poss	2:nmod:poss	_
-2	macahmərəba	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
+2	macahmərəba	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 3	rokõna	_	ADP	adp	Corf=Yes|Person=3	2	mark	2:mark	_
 
 # sent_id = 382
@@ -2937,7 +2937,7 @@
 # text_eng = I healed the girl (long ago). (Gabas 1999, 137)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ĩriŋ	_	NOUN	n	_	3	obj	3:obj	_
-3	macéri	_	VERB	v	Case=Cau|Mood=Ind	0	root	0:root	_
+3	macéri	_	VERB	v	Mood=Ind|Voice=Cau	0	root	0:root	_
 4	gán	_	PART	part	Tense=RPast	3	mark	3:mark	_
 
 # sent_id = 406
@@ -3009,7 +3009,7 @@
 # text_eng = I had my things long ago. (Gabas 1999, 139)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	kanã	_	NOUN	n	_	3	obj	3:obj	_
-3	rakəga	_	VERB	v	Case=Comit|VerbForm=Ger	0	root	0:root	_
+3	rakəga	_	VERB	v	Case=Com|VerbForm=Ger	0	root	0:root	_
 4	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
 5	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 6	kán	_	PART	part	Tense=RPast	3	mark	3:mark	_
@@ -3499,7 +3499,7 @@
 5	waʔye	_	AUX	aux	_	8	aux	8:aux	_
 6	cán	_	NOUN	n	_	8	obj	8:obj	_
 7	nã	_	PART	part	_	6	clf	6:clf	_
-8	makɨra	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
+8	makɨra	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 
 # sent_id = 474
 # text = war iyõm ʔet okəy matet
@@ -3516,7 +3516,7 @@
 1	Ø	_	_	_	_	4	nsubj	4:nsubj	_
 2	ci	_	NOUN	n	_	3	nmod	3:nmod	_
 3	baʔpe	_	NOUN	n	_	4	obj	4:obj	_
-4	mawɨga	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
+4	mawɨga	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 5	,	_	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 476
@@ -3527,7 +3527,7 @@
 3	mininĩ	_	NOUN	n	_	6	obj	6:obj	_
 4	ʔa	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	mõm	_	ADV	adv	_	6	advmod	6:advmod	_
-6	mawɨya	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
+6	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 7	,	_	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 477
@@ -3734,7 +3734,7 @@
 # text_eng = I brought her so that you could see her. (Gabas 1999, 161)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
-3	tati	_	VERB	v	Case=Comit|Mood=Ind	0	root	0:root	_
+3	tati	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
 4	[ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	ŋato	_	VERB	v	Number=Sing|Person=3	3	dep	3:dep	_
 6	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
@@ -4902,7 +4902,7 @@
 # text = mɨrɨrɨy imatẽran nãnin toʔwa
 # text_eng = The toad would certainly make people get lost. (Gabas 1999, 214)
 1	mɨrɨrɨy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	imatẽran	_	VERB	v	Case=Cau|Mood=Ind|Person=3Imp	0	root	0:root	_
+2	imatẽran	_	VERB	v	Mood=Ind|Person=3Imp|Voice=Cau	0	root	0:root	_
 3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
