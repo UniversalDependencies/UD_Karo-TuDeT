@@ -84,7 +84,7 @@
 1	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
 2	roba	_	VERB	v	VerbForm=Ger	4	xcomp	4:xcomp	_
 3	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	4	aux	4:aux	_
-4	towɨya	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+4	towɨya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 014
 # text = ar inãw rati
@@ -299,7 +299,7 @@
 1	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
 3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
-4	topaba	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+4	topaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	_	PART	part	_	_	_	_	_
 
@@ -417,7 +417,7 @@
 2	mãm	_	PART	part	_	_	_	_	_
 3	péŋ	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	ʔep	_	AUX	aux	Mood=Ind	0	root	0:root	_
-5	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	4	aux	4:aux	_
+5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 064
 # text = məy maʔpəy ŋa waʔye
@@ -532,7 +532,7 @@
 # text_eng = My friend pushed me. (Gabas 1999, 55)
 1	owagon	_	PRON	pron	Number=Sing|Person=1	2	nsubj	2:nsubj	_
 2	oyakay	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
-3	tokõna	_	ADP	adp	Person=3R|PronType=Emp	2	case	2:case	_
+3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	2:case	_
 
 # sent_id = 079
 # text = õn ip ʔɨy okõna
@@ -555,7 +555,7 @@
 # text = móa rokõna ẽn ibeʔtɨn ahyə
 # text_eng = Was it a/the tortoise that you fried? (Gabas 1999, 56)
 1	móa	_	NOUN	n	_	4	obj	4:obj	_
-2	rokõna	_	ADP	adp	Person=3R|PronType=Emp	4	mark	4:mark	_
+2	rokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	4	mark	4:mark	_
 3	ẽn	_	PRON	pron	Number=Sing|Person=2	4	nsubj	4:nsubj	_
 4	ibeʔtɨn	_	VERB	v	Mood=Ind|Person=3Imp	0	root	0:root	_
 5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
@@ -565,13 +565,13 @@
 # text_eng = The man is handicapped. (Gabas 1999, 56)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	pekey	_	VERB	v	_	0	root	0:root	_
-3	tokõna	_	ADP	adp	Person=3R|PronType=Emp	2	case	2:case	_
+3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	2:case	_
 
 # sent_id = 083
 # text = aʔwét tokõna
 # text_eng = He cried. (Gabas 1999, 56)
 1	aʔwét	aʔ=wét	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	tokõna	to=kõna	ADP	adp	Person=3R|Prontype=Emp	1	case	1:case	_
+2	tokõna	to=kõna	ADP	adp	Corf=Yes|Person=3|Prontype=Emp	1	case	1:case	_
 
 # sent_id = 084
 # text = taraptem õn okõna
@@ -585,7 +585,7 @@
 # text_eng = He is big. (Gabas 1999, 56)
 1	cúrem	_	ADV	adv	_	2	advmod	2:advmod	_
 2	at	_	PRON	pron	Number=Sing|Person=3	0	root	0:root	_
-3	tokõna	_	ADP	adp	Person=3R|PronType=Emp	2	case	2:case	_
+3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	2:case	_
 
 # sent_id = 086
 # text = caropaptem gaʔto garo=kõna
@@ -632,7 +632,7 @@
 # text_eng = A lot, he ate his own food.(Gabas 1999, 60)
 1	cúrem	_	ADV	adv	_	4	obl	4:obl	_
 2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-3	towirup	_	NOUN	n	Person=3R	4	obj	4:obj	_
+3	towirup	_	NOUN	n	Corf=Yes|Person=3	4	obj	4:obj	_
 4	ʔop	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # text_id= 092
@@ -836,8 +836,8 @@
 # text_eng = The ox fell and got killed. (Gabas 1999, 68)
 1	boi	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	ʔet	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
-3	towaʔpara	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
-4	towewĩ-a	_	VERB	v	Person=3R|VerbForm=Ger|Voice=Pass	3	conj	3:conj	_
+3	towaʔpara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
+4	towewĩ-a	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger|Voice=Pass	3	conj	3:conj	_
 
 # sent_id = 121
 # text = cĩm memaʔwaba
@@ -848,7 +848,7 @@
 # sent_id = 122
 # text = abebeʔtɨra
 # text_eng = I got roasted. (Gabas 1999, 69)
-1	abebeʔtɨra	_	VERB	v	Number=|Person=3|VerbForm=Ger|Voice=Pass	0	_	_	_
+1	abebeʔtɨra	_	VERB	v	Person=3|VerbForm=Ger|Voice=Pass	0	_	_	_
 
 # sent_id = 123
 # text = abegahmõm nã
@@ -866,7 +866,7 @@
 # text = at tomãmwĩn
 # text_eng = He killed him/itself. (Gabas 1999, 70)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	tomãmwĩn	_	VERB	v	Mood=Ind|Person=3R|Reflex=Yes	0	root	0:root	_
+2	tomãmwĩn	_	VERB	v	Mood=Ind|Corf=Yes|Person=3|Reflex=Yes	0	root	0:root	_
 
 # sent_id = 126
 # text = owakán omãmkəy
@@ -879,7 +879,7 @@
 # text_eng = He spoke to himself. (Gabas 1999, 70)
 1	aʔwero	_	VERB	v	Number=Sing|Person=3	0	root	0:root	_
 2	wɨy	_	VERB	v	Mood=Ind	1	clf	1:clf	_
-3	tomãmkəy	_	ADP	adp	Case=Dat|Person=3R|Reflex=Yes	1	obl	1:obl	_
+3	tomãmkəy	_	ADP	adp	Case=Dat|Corf=Yes|Person=3|Reflex=Yes	1	obl	1:obl	_
 
 # sent_id = 128
 # text = tap toroyapít
@@ -1171,7 +1171,7 @@
 # sent_id = 176
 # text = tocitóga aʔkay
 # text_eng = He will go urinate. (Gabas 1999, 84)
-1	tocitóga	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+1	tocitóga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 2	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 177
@@ -1296,7 +1296,7 @@
 2	kokoãm	_	PART	part	_	1	mark	1:mark	_
 3	ocagəptoʔ	_	NOUN	n	Number=Sing/Pl|Person=1	1	nsubj	1:nsubj	_
 4	ʔet	_	AUX	aux	Mood=Ind	1	aux	1:aux	_
-5	toyawɨga	_	VERB	v	Person=3R|VerbForm=Ger	1	dep	1:dep	_
+5	toyawɨga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 192
 # text = õn amãn ara gotoy
@@ -1927,7 +1927,7 @@
 1	kanãy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	[yét]	_	PRON	pron	PronType=Dem	4	nsubj	4:nsubj	_
 3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
-4	tocaropaba	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+4	tocaropaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 274
 # text = wat owẽ wét
@@ -2067,7 +2067,7 @@
 1	kanãy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	4	amod	4:amod	_
 3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
-4	towecɨra	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+4	towecɨra	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 293
 # text = abakán aʔpap kəy
@@ -2106,12 +2106,12 @@
 3	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
 4	kohmãy	_	NOUN	n	_	6	obl	6:obl	_
 5	ʔerem	_	ADP	adp	Case=Disp	6	case	6:case	_
-6	tokəga	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+6	tokəga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 298
 # text = tomanẽ mãŋa tə
 # text_eng = him entirely, they say (Gabas 1999, 115)
-1	tomanẽ	_	ADJ	adj	Person=3R	2	amod	2:amod	_
+1	tomanẽ	_	ADJ	adj	Corf=Yes|Person=3	2	amod	2:amod	_
 2	mãŋa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	tə	_	PART	part	EVID	2	mark	2:mark	_
 
@@ -2127,7 +2127,7 @@
 1	kanãy	_	ADV	adv	_	7	advmod	7:advmod	_
 2	pèŋ	_	NOUN	n	_	7	nsubj	7:nsubj	_
 3	ʔep	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
-4	toat	_	PRON	pron	Person=3R|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	mok	_	NOUN	n	_	7	obj	7:obj	_
 6	peroʔ	_	PART	part	Number=Plur	5	clf:flat	5:clf:flat	_
 7	cára	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -2223,7 +2223,7 @@
 3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
 5	pihmãm	_	ADP	adp	Case=Com	4	case	4:case	_
-6	(towakára)	_	VERB	v	Person=3R|VerbForm=Ger	_	_	_	_
+6	(towakára)	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	_	_	_	_
 
 # sent_id = 315 (parataxis)
 # text = at ĩya wĩn kokõ wĩa kõam
@@ -2376,15 +2376,15 @@
 # sent_id = 336
 # text = toat páy gəy roʔwa
 # text_eng = his own other. (Gabas 1999, 122)
-1	toat	_	PRON	pron	Person=3R|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	páy	_	ADJ	adj	_	0	root	0:root	_
 3	gəy	_	PART	part	Case=Dat	2	case	2:case	_
-4	roʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	2	aux	2:aux	_
+4	roʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 337
 # text = towagon gəy
 # text_eng = His own friend. (Gabas 1999, 122)
-1	towagon	_	NOUN	n	Person=3R	0	root	0:root	_
+1	towagon	_	NOUN	n	Corf=Yes|Person=3	0	root	0:root	_
 2	gəy	_	PART	part	Case=Dat	1	case	1:case	_
 
 # sent_id = 338
@@ -2499,7 +2499,7 @@
 # text_eng = The white man will go down (to the river) to wash his clothes. (Gabas 1999, 126)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	yaʔi	_	VERB	v	Mood=Ind	0	root	0:root	_
-3	toat	_	PRON	pron	Person=3R|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	mok	_	NOUN	n	_	6	obj	6:obj	_
 5	peʔ	_	PART	part	_	4	clf:flat	4:clf:flat	_
 6	cán	_	VERB	v	_	2	xcomp	2:xcomp	_
@@ -2700,7 +2700,7 @@
 # text = ŋa tokõna icɨ an yat aʔkəy
 # text_eng = She will bring water to him/it. (Gabas 1999, 131)
 1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3	4	nsubj	4:nsubj	_
-2	tokõna	_	ADP	adp	Person=3R	3	mark	3:mark	_
+2	tokõna	_	ADP	adp	Corf=Yes|Person=3	3	mark	3:mark	_
 3	icɨ	_	NOUN	n	_	4	obj	4:obj	_
 4	an	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
@@ -2732,7 +2732,7 @@
 # text_eng = making our sight hazy. (Gabas 1999, 132)
 1	ʔca	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod:poss	2:nmod:poss	_
 2	macahmərəba	_	VERB	v	Case=Caus|VerbForm=Ger	0	root	0:root	_
-3	rokõna	_	ADP	adp	Person=3R	2	mark	2:mark	_
+3	rokõna	_	ADP	adp	Corf=Yes|Person=3	2	mark	2:mark	_
 
 # sent_id = 382
 # text = ip tokõna õn yɨy
@@ -2815,17 +2815,17 @@
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
-4	towerowɨya	_	VERB	v	Person=3R|VerbForm=Ger	1	dep	1:dep	_
+4	towerowɨya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 392
 # text = matet iʔke rokõna Petĩp ʔep towetõa
 # text_eng = It was not yesterday that Petɨp told it (the story). (Gabas 1999, 134)
 1	matet	_	ADV	adv	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	rokõna	_	ADP	adp	Person=3R	1	mark	1:mark	_
+3	rokõna	_	ADP	adp	Corf=Yes|Person=3	1	mark	1:mark	_
 4	Petĩp	_	PROPN	propn	_	6	nsubj	6:nsubj	_
 5	ʔep	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
-6	towetõa	_	VERB	v	Person=3R|VerbForm=Ger	1	dep	1:dep	_
+6	towetõa	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 393
 # text = maʔpəy icɨ an iʔke rẽna
@@ -2983,7 +2983,7 @@
 # text_eng = Dad was going to dance. (Gabas 1999, 138)
 1	iyõm	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ikap	_	AUX	aux	Mood=Ind|Person=3Imp|Tenses=Fut	0	root	0:root	_
-3	towenaoba	_	VERB	v	Person=3R|VerbForm=Ger	2	xcomp	2:xcomp	_
+3	towenaoba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	xcomp	2:xcomp	_
 4	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 
 # sent_id = 411
@@ -3027,7 +3027,7 @@
 # sent_id = 415
 # text = tokera [maʔwɨt cú] kay
 # text_eng = The big man is going to sleep. (Gabas 1999, 140)
-1	tokera	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 2	[maʔwɨt	_	NOUN	n	_	1	nsubj	1:nsubj	_
 3	cú]	_	ADJ	adj	_	2	amod	2:amod	_
 4	kay	_	AUX	aux	Mood=Ind|Tense=Fut	1	aux	1:aux	_
@@ -3059,7 +3059,7 @@
 # sent_id = 419
 # text = tokera iʔke [maʔwɨt cú] gay
 # text_eng = The big man is not going to sleep. (Gabas 1999, 141)
-1	tokera	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	(maʔwɨt	_	NOUN	n	_	1	nsubj	1:nsubj	_
 4	cú)	_	ADJ	adj	_	3	amod	3:amod	_
@@ -3547,7 +3547,7 @@
 # sent_id = 479
 # text = toyãy ʔa binõ ya,
 # text_eng = (he) cracked his own teeth (Gabas 1999, 156)
-1	toyãy	_	NOUN	n	Person=3R	4	obj	4:obj	_
+1	toyãy	_	NOUN	n	Corf=Yes|Person=3	4	obj	4:obj	_
 2	ʔa	_	PART	part	_	1	clf:rd	1:clf:rd	_
 3	binõ	_	NOUN	n	_	1	compound	1:compound	_
 4	ya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -3594,7 +3594,7 @@
 2	aʔtop	_	VERB	v	Number=Sv|Person=3	0	root	0:root	_
 3	mãm	_	PART	part	_	_	_	_	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-5	towirap	_	NOUN	n	Person=3R	6	obj	6:obj	_
+5	towirap	_	NOUN	n	Corf=Yes|Person=3	6	obj	6:obj	_
 6	ʔo	_	VERB	v	VerbForm=Ger	2	dep	2:dep	_
 7	kanãp	_	SCONJ	sconj	_	6	mark	6:mark	_
 
@@ -3603,7 +3603,7 @@
 # text_eng = The white man left when he cried. (Gabas 1999, 158)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	yaʔwan	_	VERB	v	Mood=Ind	0	root	0:root	_
-3	[towéya	_	VERB	v	Person=3R|VerbForm=Ger	2	dep	2:dep	_
+3	[towéya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	dep	2:dep	_
 4	kanãp]	_	SCONJ	sconj	_	3	mark	3:mark	_
 
 # sent_id = 486
@@ -3681,7 +3681,7 @@
 4	macaʔɨt	_	NOUN	n	_	5	obj	5:obj	_
 5	wĩ	_	VERB	v	_	1	dep	1:dep	_
 6	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
-7	toʔwa]	_	AUX	aux	Person=3R|VerbForm=Ger	5	aux	5:aux	_
+7	toʔwa]	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	5:aux	_
 
 # sent_id = 494
 # text = oyaʔwan [ocaʔyõk nãt wa]
@@ -3699,7 +3699,7 @@
 3	macaʔɨt	_	NOUN	n	_	4	obj	4:obj	_
 4	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	nãt]	_	SCONJ	sconj	_	4	mark	4:mark	_
-6	totia	_	VERB	v	Person=3R|VerbForm=Ger	4	dep	4:dep	_
+6	totia	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	4:dep	_
 
 # sent_id = 496
 # text = [oken nãt] ocaʔyõga
@@ -3718,7 +3718,7 @@
 5	(Ø	_	Ø	_	Number=Sing|Person=3	_	_	_	_
 6	aʔcá	_	VERB	v	Number=Sing|Person=3	4	dep	4:dep	_
 7	nãt	_	SCONJ	sconj	_	6	mark	6:mark	_
-8	toʔwa)	_	AUX	aux	Person=3R|VerbForm=Ger	6	aux	6:aux	_
+8	toʔwa)	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	6	aux	6:aux	_
 
 # sent_id = 498 
 # text = abeʔcɨn [noorawa nãt toʔwa rawrem]
@@ -3726,7 +3726,7 @@
 1	abeʔcɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 2	[noorawa	_	VERB	v	_	1	dep	1:dep	_
 3	nãt	_	SCONJ	sconj	_	2	mark	2:mark	_
-4	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	2	aux	2:aux	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 5	rawrem]	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 499
@@ -3748,7 +3748,7 @@
 3	[owəy	_	VERB	v	Number=Sing|Person=1	2	dep	2:dep	_
 4	nã	_	AUX	aux	_	3	cop	3:cop	_
 5	nãt	_	SCONJ	sconj	_	3	mark	3:mark	_
-6	toʔwa]	_	AUX	aux	Person=3R|VerbForm=Ger	3	aux	3:aux	_
+6	toʔwa]	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 501
 # text = ebeʔcɨn [wat iyõm eto nãr a]
@@ -3786,7 +3786,7 @@
 2	bay	_	VERB	v	Mood=Ind	5	dep	5:dep	_
 3	ye	_	SCONJ	sconj	_	5	mark	5:mark	_
 4	ŋaʔet	_	AUX	aux	Gender=Fem|Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
-5	toyaʔwara	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+5	toyaʔwara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 505
 # text = [ar otoy] ye wer oweʔcɨra
@@ -4410,14 +4410,14 @@
 # text_eng = Who climbed down? (Gabas 1999, 190)
 1	nãn	_	PRON	pron	PronType=Int	2	nsubj	2:nsubj	_
 2	oturum	_	VERB	v	_	0	root	0:root	_
-3	toʔwa	_	AUX	Person=3R|VerbForm=Ger	_	2	aux	2:aux	_
+3	toʔwa	_	AUX	Corf=Yes|Person=3|VerbForm=Ger	_	2	aux	2:aux	_
 
 # sent_id = 593
 # text = nãn nərəŋ toʔwa
 # text_eng = Who turned his head over? (Gabas 1999, 190)
 1	nãn	_	PRON	pron	PronType=Int	2	nsubj	2:nsubj	_
 2	nərəŋ	_	VERB	v	_	0	root	0:root	_
-3	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	2	aux	2:aux	_
+3	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 594
 # text =kãy kãy wet iʔke
@@ -4442,7 +4442,7 @@
 2	iʔke	_	PART	part	_	4	advmod	4:advmod	_
 3	cok	_	VERB	v	_	4	root	4:root	_
 4	cok	_	VERB	v	_	0	root	0:root	_
-5	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	4	aux	4:aux	_
+5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 597
 # text = õn iʔke púŋ wa
@@ -4507,7 +4507,7 @@
 # text = ŋit toʔwa aʔkay yahmãm
 # text_eng = He will not stand up. (Gabas 1999, 194)
 1	ŋit	_	VERB	v	_	0	root	0:root	_
-2	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	1	aux	1:aux	_
+2	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	1	aux	1:aux	_
 3	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
 4	yahmãm	_	PART	part	_	1	advmod	1:advmod	_
 
@@ -4550,7 +4550,7 @@
 2	ikap	_	AUX	aux	Person=3Imp|Tense=Fut	4	aux	4:aux	_
 3	púŋ	_	VERB	v	_	4	root	4:root	_
 4	púŋ	_	VERB	v	_	0	root	0:root	_
-5	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	4	aux	4:aux	_
+5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 610
 # text = õn púŋ kanã yaʔti nãn
@@ -4592,7 +4592,7 @@
 1	mẽt	_	ADV	adv	_	3	advmod	3:advmod	_
 2	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	3	aux	3:aux	_
 3	púŋ	_	VERB	v	_	0	root	0:root	_
-4	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	3	aux	3:aux	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 615
 # text = kaʔa ʔa peʔ ap kãy kãy toʔwa
@@ -4603,7 +4603,7 @@
 4	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	6	aux	6:aux	_
 5	kãy	_	VERB	v	_	6	root	6:root	_
 6	kãy	_	VERB	v	_	0	root	0:root	_
-7	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	6	aux	6:aux	_
+7	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	6	aux	6:aux	_
 
 # sent_id = 616
 # text = ameko aʔkɨgat tpu toʔwa
@@ -4611,7 +4611,7 @@
 1	ameko	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔkɨgat	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	tpu	_	VERB	v	_	2	obl	2:obl	_
-4	toʔwa	_	AUX	aux	Person=3R|VerbForm=Ger	2	aux	2:aux	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 617
 # text = tpu ameko ʔet aʔkɨga
@@ -4703,7 +4703,7 @@
 # text_eng = Then he came. (Gabas 1999, 200)
 1	məy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	4	aux	4:aux	_
-3	totia	_	VERB	v	Person=3R|VerbForm=Ger	4	dep	4:dep	_
+3	totia	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	4:dep	_
 4	oyuruŋ	_	VERB	v	_	0	root	0:root	_
 5	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	4	aux	4:aux	_
 
@@ -4712,7 +4712,7 @@
 # text_eng = He fell from his bike. (Gabas 1999, 200)
 1	onoroŋ	_	VERB	v	_	0	root	0:root	_
 2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
-3	tocit	_	NOUN	n	Person=3R	1	obl	1:obl	_
+3	tocit	_	NOUN	n	Corf=Yes|Person=3	1	obl	1:obl	_
 4	paʔpara	_	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 631
@@ -4721,7 +4721,7 @@
 1	tɨk	_	VERB	v	_	2	compound	2:compound	_
 2	tɨk	_	VERB	v	_	7	parataxis	7:parataxis	_
 3	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	2	aux	2:aux	_
-4	toat	_	PRON	pron	Person=3R|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	wirik	_	NOUN	n	_	7	obj	7:obj	_
 6	kanã	_	ADV	adv	_	5	advmod	5:advmod	_
 7	təga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -4811,7 +4811,7 @@
 # sent_id = 643
 # text = tokera at igã
 # text_eng = He must have gone to sleep. (Gabas 1999, 210)
-1	tokera	_	VERB	v	Person=3R|VerbForm=Ger	0	root	0:root	_
+1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
 3	igã	_	VERB	v	Evident=Fh	1	aux	1:aux	_
 
@@ -4885,7 +4885,7 @@
 # text_eng = The white man was seen to have killed one of his own pets. (Gabas 1999, 213)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	topə	_	VERB	v	Evident=Fh	0	root	0:root	_
-3	toat	_	PRON	pron	Person=3R|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	macaʔɨt	_	NOUN	n	_	2	obj	2:obj	_
 5	nõ	_	ADV	adv	_	4	nmod	4:nmod	_
 6	wĩn	_	VERB	v	Mood=Ind	2	ccomp	2:ccomp	_
@@ -4904,7 +4904,7 @@
 1	mɨrɨrɨy	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	imatẽran	_	VERB	v	Case=Caus|Mood=Ind|Person=3Imp	0	root	0:root	_
 3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
-4	toʔwa	_	AUX	aux	Person=3R|VerbForm=GEr	2	aux	2:aux	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=GEr	2	aux	2:aux	_
 
 # sent_id = 655
 # text = kõm aʔcat menə
