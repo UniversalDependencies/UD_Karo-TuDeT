@@ -176,7 +176,7 @@
 
 # sent_id = 027
 # text = cób mawɨya
-# sent_id = Make the fly leave  (frighten it!) (Gabas 1999, 29)
+# text_eng = Make the fly leave  (frighten it!) (Gabas 1999, 29)
 1	cób	_	NOUN	n	_	2	obj	2:obj	_
 2	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 
@@ -746,7 +746,7 @@
 3	owẽ	_	NOUN	n	_	4	obj	_	_
 4	tanogat	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
 
-# sent_id = 108 (e!)
+# sent_id = 108
 # text = õn wat owẽ raken
 # text_eng = I put my baby to sleep, sleeping with it. (Gabas 1999, 66)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
@@ -3720,7 +3720,7 @@
 7	nãt	_	SCONJ	sconj	_	6	mark	6:mark	_
 8	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	6	aux	6:aux	_
 
-# sent_id = 498 
+# sent_id = 498
 # text = abeʔcɨn [noorawa nãt toʔwa rawrem]
 # text_eng = He ran to defecate far away. (Gabas 1999, 161)
 1	abeʔcɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
@@ -3730,15 +3730,15 @@
 5	rawrem]	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 499
-# text = õn ŋa tati [ẽn ŋato nãt wa]
+# text = õn ŋa tati ẽn ŋato nãt wa
 # text_eng = I brought her so that you could see her. (Gabas 1999, 161)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
 3	tati	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
-4	[ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
+4	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	ŋato	_	VERB	v	Number=Sing|Person=3	3	dep	3:dep	_
 6	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
-7	wa]	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	5	aux	5:aux	_
+7	wa	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	5	aux	5:aux	_
 
 # sent_id = 500
 # text = maʔwɨt owin [owəy nã nãt toʔwa]
