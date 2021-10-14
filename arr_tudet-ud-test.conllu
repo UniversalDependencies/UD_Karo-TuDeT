@@ -742,7 +742,7 @@
 # text = ŋa toat owẽ tanogat
 # text_eng = She fed her baby, eating with it. (Gabas 1999, 65)
 1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	toat	_	PRON	pron	3R	3	nmod:poss	_	_
+2	toat	_	PRON	pron	Person=3R	3	nmod:poss	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
 4	tanogat	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
 
@@ -799,13 +799,13 @@
 # text_eng = My brother crossed with me. (Gabas 1999, 67)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	awe	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	orabitẽy	_	VERB	v	Case=Com|Mood=Ind|Number=|Person=1|PronType=Prs	0	root	0:root	_
+3	orabitẽy	_	VERB	v	Case=Com|Mood=Ind|Person=1|PronType=Prs	0	root	0:root	_
 
 # sent_id = 116
 # text = ŋa toat owẽ ragahmõm nãn
 # text_eng = She calmed her child and calmed down herself. (Gabas 1999, 67)
 1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	3R	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Person=3R	3	nmod:poss	3:nmod:poss	_
 3	owẽ	_	NOUN	n	_	4	obj	4:obj	_
 4	ragahmõm	_	VERB	v	Case=Com	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
@@ -821,7 +821,7 @@
 # text_eng = Isn't the ray going to get killed? (Gabas 1999, 68)
 1	taykit	_	PART	part	Neg	4	advmod	4:advmod	_
 2	yaw	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	be	_	PART	part	cl:flat	2	clf:flat	2:clf:flat	_
+3	be	_	PART	part	_	2	clf:flat	2:clf:flat	_
 4	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	0:root	_
 
 # sent_id = 119
