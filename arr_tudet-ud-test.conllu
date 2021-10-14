@@ -1632,7 +1632,7 @@
 3	ʔĩttem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 236
-# text = aʔpɨya wet wat kaʔa ʔa pe ʔ
+# text = aʔpɨya wet wat kaʔa ʔa peʔ
 # text_eng = I waited for him/it at my house. (Gabas 1999, 100)
 1	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
 2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
@@ -2730,7 +2730,7 @@
 # sent_id = 381
 # text = iʔca macahmərəba rokõna
 # text_eng = making our sight hazy. (Gabas 1999, 132)
-1	ʔca	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod:poss	2:nmod:poss	_
+1	iʔca	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod:poss	2:nmod:poss	_
 2	macahmərəba	_	VERB	v	Case=Cau|VerbForm=Ger	0	root	0:root	_
 3	rokõna	_	ADP	adp	Corf=Yes|Person=3	2	mark	2:mark	_
 
@@ -3101,7 +3101,7 @@
 4	yat	_	PART	part	Tense=Fut	3	mark	3:mark	_
 
 # sent_id = 424
-# text = aʔtoy yat
+# text = õn aʔtoy yat
 # text_eng = I will see him/it. (Gabas 1999, 142)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
@@ -3250,10 +3250,10 @@
 4	iyaʔwat	_	VERB	v	Person=3Imp	1	dep	1:dep	_
 
 # sent_id = 443
-# text = [õn iʔke] iket
+# text = õn iʔke iket
 # text_eng = It wasn't me who slept. (Gabas 1999, 146)
-1	(õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-2	iʔke)	_	PART	part	_	1	advmod	1:advmod	_
+1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
+2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	iket	_	VERB	v	Person=3Imp	0	root	0:root	_
 
 # sent_id = 444
@@ -3469,7 +3469,7 @@
 # sent_id = 470
 # text =  taykit péŋ ekɨga
 # text_eng = Isn't/wasn't the white man holding you? (Gabas 1999, 153)
-1	taykir	_	PART	part	_	3	advmod	3:advmod	_
+1	taykit	_	PART	part	_	3	advmod	3:advmod	_
 2	péŋ	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	ekɨga	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 
@@ -4752,7 +4752,7 @@
 3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obl	1:obl	_
 
 # sent_id = 635
-# text = õn aʔyamon
+# text = õn aʔyamón
 # text_eng = I missed him/it. (Gabas 1999, 201)
 1	õn	_	PRON	pron	Number=Sing|Person=1	2	nsubj	2:nsubj	_
 2	aʔyamón	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
