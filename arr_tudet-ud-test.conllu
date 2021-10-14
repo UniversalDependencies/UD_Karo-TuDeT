@@ -460,10 +460,10 @@
 # sent_id = 069
 # text = nãn mihmãm ekab eyaʔwara
 # text_eng = With whom you will leave? (Gabas 1999, 48)
-1	nãn	_	PRON	pron	PronType=Int	4	obl	4:obl	_
-2	mihmãm	_	ADP	adp	Case=Com	1	case	1:case	_
-3	ekab	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
-4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	_	0	root	0:root	_
+1	nãn	_	PRON	pron	PronType=Int	4	obl	_	_
+2	mihmãm	_	ADP	adp	Case=Com	1	case	_	_
+3	ekab	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	_	_
+4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 070
 # text = kanãy iʔkap aʔwĩa
@@ -1455,8 +1455,6 @@
 2	cahyoy	_	NOUN	n	_	1	compound	1:compound	_
 3	kɨt	_	ADJ	adj	_	1	amod	1:amod	_
 
-# 4. Syntax
-
 # sent_id = 215
 # text = at toat kaʔaʔ ʔaʔ pẽn
 # text_eng = He made his own house. (Gabas 1999, 95)
@@ -1599,11 +1597,11 @@
 # text = wat kaʔa ʔa peʔ web aʔpɨya
 # text_eng = (It was) at my house (that) I waited for him/it. (Gabas 1999, 99)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
-1	kaʔa	_	NOUN	n	_	0	root	0:root	_
-2	ʔa	_	PART	part	_	1	clf:rd	1:clf:rd	_
-3	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
-4	web	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	5	aux	5:aux	_
-5	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	obj	1:obj	_
+2	kaʔa	_	NOUN	n	_	0	root	0:root	_
+3	ʔa	_	PART	part	_	1	clf:rd	1:clf:rd	_
+4	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
+5	web	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	5	aux	5:aux	_
+6	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	obj	1:obj	_
 
 # sent_id = 233
 # text = et kaʔa ʔa peʔ at epɨyap
