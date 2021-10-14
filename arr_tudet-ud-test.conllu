@@ -853,7 +853,7 @@
 # sent_id = 123
 # text = abegahmõm nã
 # text_eng = It got quiet/calmed down. (Gabas 1999, 69)
-1	abegahmõm	_	VERB	v	Number=Sing|Person=3|Voice=IPass	0	root	0:root	_
+1	abegahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Pass	0	root	0:root	_
 2	nã	_	AUX	aux	VerbForm=Ger	1	cop	1:cop	_
 
 # sent_id = 124
