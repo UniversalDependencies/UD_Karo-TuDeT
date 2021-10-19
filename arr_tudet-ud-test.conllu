@@ -3173,6 +3173,7 @@
 1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 2	nyar	_	PART	part	Tense=Fut	1	mark	1:mark	_
 3	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	xcomp	1:xcomp	_
+2	iga	_	_	_	_	_	_	_	_
 
 # sent_id = 434
 # text = oken iʔke
@@ -4316,13 +4317,12 @@
 4	kəy	_	ADP	adp	Case=Dat	1	case	1:case	_
 
 # sent_id = 582
-# text = púŋ púŋ wet péŋ kəy
+# text = púŋpúŋ wet péŋ kəy
 # text_eng = I shot the white man several times. (Gabas 1999, 187)
-1	púŋ	_	VERB	v	_	2	root	2:root	_
-2	púŋ	_	VERB	v	_	0	root	0:root	_
-3	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	2	aux	2:aux	_
-4	péŋ	_	NOUN	n	_	2	obj	2:obj	_
-5	kəy	_	ADP	adp	Case=Dat	2	case	2:case	_
+1	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+3	péŋ	_	NOUN	n	_	2	obj	2:obj	_
+4	kəy	_	ADP	adp	Case=Dat	2	case	2:case	_
 
 # sent_id = 583
 # text = tuy Babesáya ŋa ʔet yate taʔwara
@@ -4335,15 +4335,14 @@
 6	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 584
-# text = tuy tuy Babesáya ŋa ʔet yate taʔwara
+# text = tuytuy Babesáya ŋa ʔet yate taʔwara
 # text_eng = Babesáya brought the pig by pulling it repeatedly. (Gabas 1999, 187)
-1	tuy	_	VERB	v	_	2	root	2:root	_
-2	tuy	_	VERB	v	_	7	obl	7:obl	_
-3	Babesáya	_	PROPN	propn	_	7	nsubj	7:nsubj	_
-4	ŋa	_	PART	part	Gender=Fem	3	clf:fem	3:clf:fem	_
-5	ʔet	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
-6	yate	_	NOUN	n	_	7	obj	7:obj	_
-7	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
+1	tuytuy	tuy	VERB	v	Aspect=Iter|Redup=Yes	6	obl	6:obl	_
+2	Babesáya	_	PROPN	propn	_	6	nsubj	6:nsubj	_
+3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+4	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
+5	yate	_	NOUN	n	_	6	obj	6:obj	_
+6	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 585
 # text = wéy wet tágɨp peʔ
@@ -4354,20 +4353,18 @@
 4	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
 
 # sent_id = 586
-# text = weri weri at cahwíptem
+# text = weriweri at cahwíptem
 # text_eng = He paddled very fast. (Gabas 1999, 188)
-1	weri	_	VERB	v	_	2	root	2:root	_
-2	weri	_	VERB	v	_	0	root	0:root	_
-3	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	2	aux	2:aux	_
-4	cahwíptem	_	ADJ	adj	_	2	advmod	2:advmod	_
+1	weriweri	weri	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+3	cahwíptem	_	ADJ	adj	_	1	advmod	1:advmod	_
 
 # sent_id = 587
-# text = wen wen we mãm
+# text = wenwen we mãm
 # text_eng = I am writing. (Gabas 1999, 188)
-1	wen	_	VERB	v	_	2	root	2:root	_
-2	wen	_	VERB	v	_	0	root	0:root	_
-3	we	_	AUX	aux	Number=Sing|Person=1	2	aux	2:aux	_
-4	mãm	_	PART	part	_	_	_	_	_
+1	wenwen	wen	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	we	_	AUX	aux	Number=Sing|Person=1	1	aux	1:aux	_
+3	mãm	_	PART	part	_	_	_	_	_
 
 # sent_id = 588
 # text = púŋ at ahyə
@@ -4377,13 +4374,12 @@
 3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 
 # sent_id = 589
-# text = cut cut ʔet ahyə ŋakəy
+# text = cutcut ʔet ahyə ŋakəy
 # text_eng = Did you kiss her? (Gabas 1999, 189)
-1	cut	_	VERB	v	_	2	root	2:root	_
-2	cut	_	VERB	v	_	0	root	0:root	_
-3	ʔet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	2	aux	2:aux	_
-4	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
-5	ŋakəy	_	ADP	adp	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	obj	2:obj	_
+1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	ʔet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	2	aux	2:aux	_
+3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
+4	ŋakəy	_	ADP	adp	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 590
 # text = at ahyə úe úe ye
@@ -4417,12 +4413,11 @@
 3	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 594
-# text =kãy kãy wet iʔke
+# text = kãykãy wet iʔke
 # text_eng = I did not scratch myself. (Gabas 1999, 191)
-1	kãy	_	VERB	v	_	2	root	2:root	_
-2	kãy	_	VERB	v	_	0	root	0:root	_
-3	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	2	aux	2:aux	_
-4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
+1	kãykãy	kãykãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	2	aux	2:aux	_
+3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 595
 # text = púŋ wa iʔke wet
@@ -4433,13 +4428,12 @@
 4	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
 
 # sent_id = 596
-# text = maʔwɨt iʔke cok cok toʔwa
+# text = maʔwɨt iʔke cokcok toʔwa
 # text_eng = It was not the man who ground (it). (Gabas 1999, 191)
 1	maʔwɨt	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	iʔke	_	PART	part	_	4	advmod	4:advmod	_
-3	cok	_	VERB	v	_	4	root	4:root	_
-4	cok	_	VERB	v	_	0	root	0:root	_
-5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
+3	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 597
 # text = õn iʔke púŋ wa
@@ -4450,22 +4444,20 @@
 4	wa	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 598
-# text = púŋ púŋ karoʔwa
+# text = púŋpúŋ karoʔwa
 # text_eng = (You PL.) shoot! (Gabas 1999, 192)
-1	púŋ	_	VERB	v	_	2	root	2:root	_
-2	púŋ	_	VERB	v	_	0	root	0:root	_
-3	karoʔwa	_	AUX	aux	Number=Plur|Person=2|VerbForm=Ger	2	aux	2:aux	_
+1	púŋpúŋ	púŋpúŋ	VERB	v	Redup=Yes	0	root	0:root	_
+2	karoʔwa	_	AUX	aux	Number=Plur|Person=2|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 599
-# text = kãy kãy ʔa et kaʔa ʔa peʔ
+# text = kãykãy ʔa et kaʔa ʔa peʔ
 # text_eng = (You sg.) scratch (at your house)! (Gabas 1999, 192)
-1	kãy	_	VERB	v	_	2	root	2:root	_
-2	kãy	_	VERB	v	_	0	root	0:root	_
-3	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	2	aux	2:aux	_
-4	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	5:nmod:poss	_
-5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
-6	ʔa	_	PART	part	_	5	clf:rd	5:clf:rd	_
-7	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
+1	kãykãy	kãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	1:aux	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
+5	ʔa	_	PART	part	_	4	clf:rd	4:clf:rd	_
+6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 600
 # text = aʔwĩa púŋ ʔa
@@ -4485,12 +4477,11 @@
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 602
-# text = ué ué we yat
+# text = uéué we yat
 # text_eng = I will vomit. (Gabas 1999, 193)
-1	ué	_	VERB	v	_	2	root	2:root	_
-2	ué	_	VERB	v	_	0	root	0:root	_
-3	we	_	AUX	aux	Number=Sing|Person=1	2	aux	2:aux	_
-4	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
+1	uéué	ué	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	we	_	AUX	aux	Number=Sing|Person=1	2	aux	2:aux	_
+3	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 
 # sent_id = 603
 # text = púŋ wa okay yahmãm
@@ -4517,10 +4508,9 @@
 4	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 606
-# text = cok cok maʔpəy ʔet yat iʔke
+# text = cokcok maʔpəy ʔet yat iʔke
 # text_eng = The woman will not grind. (Gabas 1999, 195)
-1	cok	_	VERB	v	_	2	root	2:root	_
-2	cok	_	VERB	v	_	0	root	0:root	_
+2	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 3	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
 4	ʔet	_	AUX	aux	Mood=Ind	2	aux	2:aux	_
 5	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
@@ -4541,12 +4531,11 @@
 4	eʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 609
-# text = nãn ikap púŋ púŋ toʔwa
+# text = nãn ikap púŋpúŋ toʔwa
 # text_eng = Who is going to shoot? (Gabas 1999, 196)
 1	nãn	_	PRON	pron	PronType=Int	4	nsubj	4:nsubj	_
 2	ikap	_	AUX	aux	Person=3Imp|Tense=Fut	4	aux	4:aux	_
-3	púŋ	_	VERB	v	_	4	root	4:root	_
-4	púŋ	_	VERB	v	_	0	root	0:root	_
+4	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 610
@@ -4592,15 +4581,14 @@
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 615
-# text = kaʔa ʔa peʔ ap kãy kãy toʔwa
+# text = kaʔa ʔa peʔ ap kãykãy toʔwa
 # text_eng = At the house he scratched. (Gabas 1999, 197)
-1	kaʔa	_	NOUN	n	_	6	obl	6:obl	_
+1	kaʔa	_	NOUN	n	_	5	obl	5:obl	_
 2	ʔa	_	PART	part	_	1	clf:rd	1:clf:rd	_
 3	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
-4	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	6	aux	6:aux	_
-5	kãy	_	VERB	v	_	6	root	6:root	_
-6	kãy	_	VERB	v	_	0	root	0:root	_
-7	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	6	aux	6:aux	_
+4	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
+5	kãykãy	kãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+6	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	5:aux	_
 
 # sent_id = 616
 # text = ameko aʔkɨgat tpu toʔwa
