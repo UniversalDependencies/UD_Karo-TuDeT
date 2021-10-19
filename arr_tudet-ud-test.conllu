@@ -919,7 +919,8 @@
 # text = kãram meʔnẽykãram meʔnẽy
 # text_eng = Let the hummingbird fly! (Gabas 1999, 72)
 1	kãram	_	NOUN	n	_	2	obj	2:obj	_
-2	meʔnẽy	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
+2	meʔnẽykãram	_	_	_	_	_	_	_	_
+3	meʔnẽy	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
 
 # sent_id = 135
 # text = cãn meʔŋen
@@ -2256,7 +2257,7 @@
 # text_eng = the man's honey, and her honey also (Gabas 1999, 118)
 1	maʔwɨr	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
 2	at	_	PART	part	_	1	case	1:case	_
-3	pewit	_	NOUN	n	_	0	root	0:root	_
+3	pewit	_	NOUN	n	_	0	root	0:root	SpaceAfter=No
 4	,	_	PUNCT	punct	_	3	punct	3:punct	_
 5	ŋaat	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 6	pewit	_	NOUN	n	_	3	appos	3:appos	_
@@ -2265,7 +2266,7 @@
 # sent_id = 319
 # text = opábeʔ, epábeʔ koãm
 # text_eng = my hand, and your hand also (Gabas 1999, 118)
-1	opábeʔ	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
+1	opábeʔ	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	SpaceAfter=No
 2	,	_	PUNCT	punct	_	1	punct	1:punct	_
 3	epábeʔ	_	NOUN	n	Number=Sing|Person=2	1	conj	1:conj	_
 4	koãm	_	PART	part	_	3	mark	3:mark	_
@@ -2366,7 +2367,7 @@
 # text = yét maʔwɨt,
 # text_eng = this man, (Gabas 1999, 122)
 1	yét	_	PRON	pron	PronType=Dem	2	det	2:det	_
-2	maʔwɨt	_	NOUN	n	_	0	root	0:root	_
+2	maʔwɨt	_	NOUN	n	_	0	root	0:root	SpaceAfter=No
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 336
@@ -3512,7 +3513,7 @@
 1	Ø	_	_	_	_	4	nsubj	4:nsubj	_
 2	ci	_	NOUN	n	_	3	nmod	3:nmod	_
 3	baʔpe	_	NOUN	n	_	4	obj	4:obj	_
-4	mawɨga	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
+4	mawɨga	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	SpaceAfter=No
 5	,	_	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 476
@@ -3523,21 +3524,21 @@
 3	mininĩ	_	NOUN	n	_	6	obj	6:obj	_
 4	ʔa	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	mõm	_	ADV	adv	_	6	advmod	6:advmod	_
-6	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
+6	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	SpaceAfter=No
 7	,	_	PUNCT	punct	_	6	punct	6:punct	_
 
 # sent_id = 477
 # text = Ø ŋaramãya,
 # text_eng = (he) took her (in), (Gabas 1999, 155)
 1	Ø	_	_	_	_	2	nsubj	2:nsubj	_
-2	ŋaramãya	_	VERB	v	Case=Com|Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
+2	ŋaramãya	_	VERB	v	Case=Com|Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	SpaceAfter=No
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 478
 # text = Ø ŋaʔóa,
 # text_eng = (he) ate her, (Gabas 1999, 156)
 1	Ø	_	_	_	_	2	nsubj	2:nsubj	_
-2	ŋaʔóa	_	VERB	v	Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
+2	ŋaʔóa	_	VERB	v	Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	SpaceAfter=No
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 479
@@ -3546,13 +3547,13 @@
 1	toyãy	_	NOUN	n	Corf=Yes|Person=3	4	obj	4:obj	_
 2	ʔa	_	PART	part	_	1	clf:rd	1:clf:rd	_
 3	binõ	_	NOUN	n	_	1	compound	1:compound	_
-4	ya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
+4	ya	_	VERB	v	VerbForm=Ger	0	root	0:root	SpaceAfter=No
 5	,	_	PUNCT	punct	_	4	punct	4:punct	_
 
 # sent_id = 480
 # text = at.
 # text_eng = He (the alligator) did. (Gabas 1999, 156)
-1	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 2	.	_	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 481
@@ -3564,7 +3565,7 @@
 4	cet	_	NOUN	n	_	5	obj	5:obj	_
 5	maʔã	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 6	iʔke	_	PART	part	_	5	advmod	5:advmod	_
-7	nãnin	_	PART	part	EVID	5	mark	5:mark	_
+7	nãnin	_	PART	part	EVID	5	mark	5:mark	SpaceAfter=No
 8	,	_	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_id = 482
