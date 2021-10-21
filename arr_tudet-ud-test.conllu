@@ -165,7 +165,7 @@
 # text_eng = Are you good/alright? (Gabas 1999, 29)
 1	epɑ̃n	_	VERB	v	Number=Sing|Person=2	0	root	0:root	_
 2	mãm	_	PART	part	_	_	_	_	_
-3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+3	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 026
 # text =  aʔwɑ̃ŋ naʔto wīn
@@ -270,7 +270,7 @@
 # text = nãn ahyə mẽr ã
 # text_eng = What is this here? (Gabas 1999, 41)
 1	nãn	_	PRON	pron	PronType=Int	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	mẽr	_	ADV	adv	_	1	advmod	1:advmod	_
 4	ã	_	X	x	_	_	_	_	_
 
@@ -278,7 +278,7 @@
 # text = nãn ahyə
 # text_eng = What (happened)?; What/who is it? (Gabas 1999, 41)
 1	nãn	_	PRON	pron	_	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 042
 # text = maʔwɨt paraʔkət
@@ -558,7 +558,7 @@
 2	rokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	4	mark	4:mark	_
 3	ẽn	_	PRON	pron	Number=Sing|Person=2	4	nsubj	4:nsubj	_
 4	ibeʔtɨn	_	VERB	v	Mood=Ind|Person=3Imp	0	root	0:root	_
-5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
+5	ahyə	_	PART	part	Case=Inter	4	mark	4:mark	_
 
 # sent_id = 082
 # text = maʔwɨt pekey tokõna
@@ -891,7 +891,7 @@
 # text_eng = Did you beat each other? (Gabas 1999, 71)
 1	kaʔto	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
 2	karorocapét	_	VERB	v	Mood=Ind|Number=Plur|Person=2|PronType=Rcp	0	root	0:root	_
-3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
+3	ahyə	_	PART	part	Case=Inter	2	mark	2:mark	_
 
 # sent_id = 130
 # text = oweʔŋen
@@ -1091,7 +1091,7 @@
 # text_eng= Is it delicious? (Gabas 1999, 78)
 1	kaptem	_	ADJ	adj	_	0	root	0:root	_
 2	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	1	nsubj	1:nsubj	_
-3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+3	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 164
 # text = pattem maʔpəy
@@ -1131,7 +1131,7 @@
 # text_eng= Did he beat you? (Gabas 1999, 83)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	ecapét	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
-3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
+3	ahyə	_	PART	part	Case=Inter	2	mark	2:mark	_
 
 # sent_id = 170
 # text = õn aʔtoy
@@ -1267,7 +1267,7 @@
 3	kanã	_	PART	part	NOMZ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
-6	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
+6	ahyə	_	PART	part	Case=Inter	4	mark	4:mark	_
 
 # sent_id = 189
 # text = kaʔto karowéya kanã yaʔti nãn
@@ -1313,7 +1313,7 @@
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	pa	_	VERB	v	VerbForm=Ger	4	obj	4:obj	_
 4	gotoy	_	VERB	v	Mood=Ind|NOMZ	0	root	0:root	_
-5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
+5	ahyə	_	PART	part	Case=Inter	4	mark	4:mark	_
 
 # sent_id = 194
 # text = itɨ op
@@ -1548,7 +1548,7 @@
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
 3	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 4	iwĩm	_	VERB	v	Mood=Ind|Person=3Imp	1	acl	1:acl	_
-5	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+5	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 227
 # text = ẽn mãygãra cú wĩn ahyə
@@ -1557,7 +1557,7 @@
 2	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
 3	cú	_	ADJ	adj	_	2	amod	2:amod	_
 4	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
+5	ahyə	_	PART	part	Case=Inter	4	mark	4:mark	_
 
 # sent_id = 228
 # text = maʔwɨr yet Ø mãygãra roba
@@ -1653,14 +1653,14 @@
 # text = eken ahyə
 # text_eng = Did you sleep? (Gabas 1999, 100)
 1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 239
 # text = eken mattem ahyə
 # text_eng = Did you sleep well? (Gabas 1999, 100)
 1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 2	mattem	_	ADJ	adj	_	1	advmod	1:advmod	_
-3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+3	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 240
 # text = eken wat manikap peʔ battem ahyə
@@ -1670,13 +1670,13 @@
 3	manikap	_	NOUN	b	_	1	obl	1:obl	_
 4	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
 5	battem	_	ADJ	adj	_	1	advmod	1:advmod	_
-6	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+6	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 241
 # text = ẽn ahyə béŋ noy
 # text_eng = Was it you who saw the white man? (Gabas 1999, 101)
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	béŋ	_	NOUN	n	_	4	obj	4:obj	_
 4	noy	_	VERB	v	Mood=Ind	1	dep	1:dep	_
 
@@ -1684,7 +1684,7 @@
 # text = mɨrɨrɨy ahyə imaterãn nãnin
 # text_eng = Was it the toad who really made us get lost? (Gabas 1999, 101)
 1	mɨrɨrɨy	_	NOUN	n	_	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	imaterãn	_	VERB	v	Mood=Ind|Number=Plur|Person=1|Voice=Cau	1	acl	1:acl	_
 4	nãnin	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
 
@@ -1692,7 +1692,7 @@
 # text = péŋ ahyə ẽn itop
 # text_eng = Was it the white man that you saw? (Gabas 1999, 101)
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 4	itop	_	VERB	v	Person=3Imp	1	acl	1:acl	_
 
@@ -1700,14 +1700,14 @@
 # text = ẽn ahyə iket
 # text_eng = Was it you who slept? (Gabas 1999, 102)
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	iket	_	VERB	v	Person=3Imp	1	dep	1:dep	_
 
 # sent_id = 245
 # text = pattem ahyə ekerap
 # text_eng = Did you sleep well? (lit. "Is it well that you slept?"")(Gabas 1999, 102)
 1	pattem	_	ADJ	adj	_	3	advmod	3:advmod	_
-2	ahyə	_	PART	part	PronType=Int	3	mark	3:mark	_
+2	ahyə	_	PART	part	Case=Inter	3	mark	3:mark	_
 3	ekerap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 246
@@ -1716,21 +1716,21 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	manikap	_	NOUN	n	_	5	obl	5:obl	_
 3	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
-4	ahyə	_	PART	part	PronType=Int	5	case	5:case	_
+4	ahyə	_	PART	part	Case=Inter	5	case	5:case	_
 5	ekerap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 247
 # text = kɨganape ahyə ekerap
 # text_eng = Where did you sleep? (Gabas 1999, 103)
 1	kɨganape	_	PRON	pron	PronType=Int	3	advmod	3:advmod	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	ekerap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 248
 # text = kɨganapət ahyə at etop
 # text_eng = From where did it see you? (Gabas 1999, 103)
 1	kɨganapət	_	PRON	pron	PronType=Int	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 4	etop	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
@@ -1738,7 +1738,7 @@
 # text = kɨgope ahyə ekap eyaʔwara
 # text_eng = When will you come back? (Gabas 1999, 103)
 1	kɨgope	_	PRON	pron	PronType=Int	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	ekap	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
 4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 
@@ -1746,7 +1746,7 @@
 # text = kõm ahyə mãygãra etóp
 # text_eng = How did the snake bite you? (Gabas 1999, 103)
 1	kõm	_	PRON	pron	PronType=Int	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	mãygãra	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	etóp	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
@@ -1754,7 +1754,7 @@
 # text = kõm ahyə igu ẽn ip yapít
 # text_eng = How many fish did you shoot with a bow? (Gabas 1999, 104)
 1	kõm	_	PRON	pron	PronType=Int	3	advmod	3:advmod	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	igu	_	ADJ	adj	_	5	amod	5:amod	_
 4	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
 5	ip	_	NOUN	n	_	6	obj	6:obj	_
@@ -1764,7 +1764,7 @@
 # text = nãnã ahyə agóaʔpət óra wɨy maŋaptem
 # text_eng = Why did the shaman sing for so long? (Gabas 1999, 104)
 1	nãnã	_	PRON	pron	PronType=Int	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	agóaʔpət	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	óra	_	NOUN	n	_	0	root	0:root	_
 5	wɨy	_	VERB	v	Mood=Ind	4	compound	4:compound	_
@@ -1886,7 +1886,7 @@
 # text_eng = Are the mosquitoes in your house? (lit. Does mosquito fly in your house?) (Gabas 1999, 108)
 1	tik	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	wán	_	VERB	v	Mood=Ind	0	root	0:root	_
-3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
+3	ahyə	_	PART	part	Case=Inter	2	mark	2:mark	_
 4	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 6	ʔa	_	PART	part	_	5	clf:rd	5:clf:rd	_
@@ -2925,7 +2925,7 @@
 # text = eken ahyə co battem
 # text_eng = Did you sleep well? (Gabas 1999, 137)
 1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	co	_	PART	part	Tense=Past	1	mark	1:mark	_
 4	battem	_	ADJ	adj	_	1	advmod	1:advmod	_
 
@@ -4371,21 +4371,21 @@
 # text_eng = Did he shoot? (Gabas 1999, 189)
 1	púŋ	_	VERB	v	_	0	root	0:root	_
 2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
-3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+3	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 
 # sent_id = 589
 # text = cutcut ʔet ahyə ŋakəy
 # text_eng = Did you kiss her? (Gabas 1999, 189)
 1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 2	ʔet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	2	aux	2:aux	_
-3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
+3	ahyə	_	PART	part	Case=Inter	2	mark	2:mark	_
 4	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 590
 # text = at ahyə úe úe ye
 # text_eng = Was it him who vomited? (Gabas 1999, 190)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	úe	_	VERB	v	_	1	dep	1:dep	_
 4	úe	_	VERB	v	_	3	root	3:root	_
 5	ye	_	AUX	aux	Person=3Imp	4	aux	4:aux	_
@@ -4394,7 +4394,7 @@
 # text = ẽn ahyə púŋ ye
 # text_eng = Was it you who shot? (Gabas 1999, 190)
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
-2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+2	ahyə	_	PART	part	Case=Inter	1	mark	1:mark	_
 3	púŋ	_	VERB	v	_	1	dep	1:dep	_
 4	ye	_	AUX	aux	Person=3Imp	3	aux	3:aux	_
 
@@ -4851,7 +4851,7 @@
 # text = ẽn ahyə menə kanã tayãn menə
 # text_eng = Are you really the one who has many things? (Gabas 1999, 213)
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-2	ahyə	_	PART	part	PronType=Int	_	_	_	_
+2	ahyə	_	PART	part	Case=Inter	_	_	_	_
 3	menə	_	VERB	v	Evident=Fh	_	_	_	_
 4	kanã	_	NOUN	n	_	_	_	_	_
 5	tayãn	_	VERB	v	Case=Com|Mood=Ind	_	_	_	_
