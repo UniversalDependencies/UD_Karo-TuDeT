@@ -297,7 +297,7 @@
 # text = apəy ŋa ʔet topaba mɨy mãm
 # text_eng = Grandmother died a long time ago. (Gabas 1999, 42)
 1	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
-2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf:fem	1:clf:fem	_
 3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
 4	topaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
@@ -424,7 +424,7 @@
 # text_eng = So, there was a woman. (Gabas 1999, 47)
 1	məy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	maʔpəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	waʔye	_	AUX	aux	_	0	root	0:root	_
 
 # sent_id = 065
@@ -682,7 +682,7 @@
 # sent_id = 098
 # text = ŋa omacopɨn
 # text_eng = She made me be fat. (Gabas 1999, 63)
-1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3	2	nsubj	2:nsubj	_
+1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	omacopɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
 
 # sent_id = 099
@@ -696,7 +696,7 @@
 # text_eng = I made you pinch her. (Gabas 1999, 64)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	emaberopit	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
-3	ŋakəy	_	ADP	adp	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	obj	2:obj	_
+3	ŋakəy	_	ADP	adp	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 101
 # text = agóaʔpət amagahmõm nãn
@@ -741,7 +741,7 @@
 # sent_id = 107
 # text = ŋa toat owẽ tanogat
 # text_eng = She fed her baby, eating with it. (Gabas 1999, 65)
-1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	toat	_	PRON	pron	Person=3R	3	nmod:poss	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
 4	tanogat	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
@@ -804,7 +804,7 @@
 # sent_id = 116
 # text = ŋa toat owẽ ragahmõm nãn
 # text_eng = She calmed her child and calmed down herself. (Gabas 1999, 67)
-1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 2	toat	_	PRON	pron	Person=3R	3	nmod:poss	3:nmod:poss	_
 3	owẽ	_	NOUN	n	_	4	obj	4:obj	_
 4	ragahmõm	_	VERB	v	Case=Com	0	root	0:root	_
@@ -1069,7 +1069,7 @@
 # sent_id = 160
 # text = ŋa oʔtoy maŋaptem
 # text_eng= She watched me for a long time (Gabas 1999, 77)
-1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	oʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 3	maŋaptem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
@@ -1077,7 +1077,7 @@
 # text = maŋaptem ŋaap otoba
 # text_eng= For a long time she watched me. (Gabas 1999, 77)
 1	maŋaptem	_	ADJ	adj	_	3	advmod	3:advmod	_
-2	ŋaap	_	AUX	aux	Gender=Fem|Mood=Ind|Number=Sing|Person=3	3	aux	3:aux	_
+2	ŋaap	_	AUX	aux	Clas=Fem|Mood=Ind|Number=Sing|Person=3	3	aux	3:aux	_
 3	otoba	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 162
@@ -1192,7 +1192,7 @@
 # text_eng = The man left with her. (Gabas 1999, 84)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	yaʔwan	_	VERB	v	Mood=Ind	0	root	0:root	_
-3	ŋapik	_	ADP	adp	Case=All|Gender=Fem|Number=Sing|Person=3	2	obl	2:obl	_
+3	ŋapik	_	ADP	adp	Case=All|Clas=Fem|Number=Sing|Person=3	2	obl	2:obl	_
 
 # sent_id = 180
 # text = wat iyõm ip ʔɨy owihmãm
@@ -1215,7 +1215,7 @@
 # text_eng = She is a/the beautiful woman. (Gabas 1999, 85)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
 2	pat	_	ADJ	adj	_	1	amod	1:amod	_
-3	ŋanãn	_	AUX	aux	Gender=Fem|Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+3	ŋanãn	_	AUX	aux	Clas=Fem|Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 183
 # text =péŋ aʔnãn
@@ -1310,7 +1310,7 @@
 # text = Júnior ŋa pa gotoy ahyə
 # text_eng = Did Júnior see her die? (Gabas 1999, 89)
 1	Júnior	_	PROPN	propn	_	4	nsubj	4:nsubj	_
-2	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3	3	nmod:poss	3:nmod:poss	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	pa	_	VERB	v	VerbForm=Ger	4	obj	4:obj	_
 4	gotoy	_	VERB	v	Mood=Ind|NOMZ	0	root	0:root	_
 5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
@@ -1528,7 +1528,7 @@
 # text_eng = (It is) my mother (who) I waited for. (Gabas 1999, 97)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
 2	owã	_	NOUN	n	_	5	obj	_	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf	_	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
 4	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 5	ibɨyap	_	VERB	v	Mood=Ind|Person=3Imp	0	root	_	_
 
@@ -1538,7 +1538,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
 3	owã	_	NOUN	n	_	5	obj	_	_
-4	ŋa	_	PART	part	Gender=Fem	3	clf	_	_
+4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf	_	_
 5	pɨy	_	VERB	v	Mood=Ind	0	root	_	_
 
 # sent_id = 226
@@ -2023,7 +2023,7 @@
 # text_eng = Then the woman threw his hat on the floor. (Gabas 1999, 113)
 1	məy	_	ADV	adv	_	8	advmod	8:advmod	_
 2	maʔpəy	_	NOUN	n	_	8	nsubj	8:nsubj	_
-3	ŋa	_	PART	part	_	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	ʔet	_	AUX	aux	Mood=Ind	8	aux	8:aux	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 6	chapéu	_	NOUN	n	_	8	obj	8:obj	_
@@ -2259,7 +2259,7 @@
 2	at	_	PART	part	_	1	case	1:case	_
 3	pewit	_	NOUN	n	_	0	root	0:root	SpaceAfter=No
 4	,	_	PUNCT	punct	_	3	punct	3:punct	_
-5	ŋaat	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	ŋaat	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
 6	pewit	_	NOUN	n	_	3	appos	3:appos	_
 7	koãm	_	PART	part	_	6	mark	6:mark	_
 
@@ -2585,7 +2585,7 @@
 # text_eng = I wonder whether my baby girl will not walk. (Gabas 1999, 128)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	owẽ	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ŋa	_	PART	part	_	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
 6	iʔke	_	PART	part	_	4	advmod	4:advmod	_
@@ -2696,7 +2696,7 @@
 # sent_id = 377
 # text = ŋa tokõna icɨ an yat aʔkəy
 # text_eng = She will bring water to him/it. (Gabas 1999, 131)
-1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3	4	nsubj	4:nsubj	_
+1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 2	tokõna	_	ADP	adp	Corf=Yes|Person=3	3	mark	3:mark	_
 3	icɨ	_	NOUN	n	_	4	obj	4:obj	_
 4	an	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2777,7 +2777,7 @@
 # text_eng = My grandmother woke up early. (Gabas 1999, 133)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	pepat	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	cək	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	_	PART	part	_	_	_	_	_
@@ -2881,7 +2881,7 @@
 # text_eng = My mother was angry at me. (Gabas 1999, 136)
 1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod:poss	2:nmod:poss	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	mark	4:mark	_
 
@@ -2890,7 +2890,7 @@
 # text_eng = My mother was angry at me yesterday. (Gabas 1999, 136)
 1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	mark	4:mark	_
 6	matet	_	ADV	adv	_	4	obl	4:obl	_
@@ -2900,7 +2900,7 @@
 # text_eng = My mother was angry at me... (Gabas 1999, 136)
 1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod:poss	2:nmod:poss	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	case	4:case	_
 
@@ -3116,7 +3116,7 @@
 # text = aʔcey ŋa yat
 # text_eng = his future wife (Gabas 1999, 143)
 1	aʔcey	_	NOUN	n	Number=Sing|Person=3	0	root	0:root	_
-2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf:fem	1:clf:fem	_
 3	yat	_	PART	part	Tense=Fut	1	mark	1:mark	_
 
 # sent_id = 427
@@ -3228,7 +3228,7 @@
 # text_eng = It wasn't you that she washed. (Gabas 1999, 146)
 1	[ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
 2	iʔke]	_	PART	part	_	1	advmod	1:advmod	_
-3	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 4	icát	_	VERB	v	Person=3Imp	1	ccomp	1:ccomp	_
 
 # sent_id = 441
@@ -3493,7 +3493,7 @@
 1	məy	_	ADV	adv	_	8	advmod	8:advmod	_
 2	yét	_	PRON	pron	PronType=Dem	3	det	3:det	_
 3	maʔpəy	_	NOUN	n	_	8	nsubj	8:nsubj	_
-4	ŋa	_	PART	part	Gender=Fem	3	clf:fem	3:clf:fem	_
+4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf:fem	3:clf:fem	_
 5	waʔye	_	AUX	aux	_	8	aux	8:aux	_
 6	cán	_	NOUN	n	_	8	obj	8:obj	_
 7	nã	_	PART	part	_	6	clf	6:clf	_
@@ -3532,14 +3532,14 @@
 # text = Ø ŋaramãya,
 # text_eng = (he) took her (in), (Gabas 1999, 155)
 1	Ø	_	_	_	_	2	nsubj	2:nsubj	_
-2	ŋaramãya	_	VERB	v	Case=Com|Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	SpaceAfter=No
+2	ŋaramãya	_	VERB	v	Case=Com|Clas=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	SpaceAfter=No
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 478
 # text = Ø ŋaʔóa,
 # text_eng = (he) ate her, (Gabas 1999, 156)
 1	Ø	_	_	_	_	2	nsubj	2:nsubj	_
-2	ŋaʔóa	_	VERB	v	Gender=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	SpaceAfter=No
+2	ŋaʔóa	_	VERB	v	Clas=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	SpaceAfter=No
 3	,	_	PUNCT	punct	_	2	punct	2:punct	_
 
 # sent_id = 479
@@ -3562,7 +3562,7 @@
 # text_eng = We really cannot call the woman's name, (Gabas 1999, 156)
 1	iʔtə	_	PRON	pron	Clusivity=Inl|Number=Plur|Person=1	5	nsubj	5:nsubj	_
 2	maʔpəy	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	cet	_	NOUN	n	_	5	obj	5:obj	_
 5	maʔã	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 6	iʔke	_	PART	part	_	5	advmod	5:advmod	_
@@ -3655,7 +3655,7 @@
 # sent_id = 491
 # text = ŋa otoy iʔke [okera kanãp]
 # text_eng = She did not see me when I slept. (Gabas 1999, 159)
-1	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	[okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	2:dep	_
@@ -3731,7 +3731,7 @@
 # text = õn ŋa tati ẽn ŋato nãt wa
 # text_eng = I brought her so that you could see her. (Gabas 1999, 161)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
-2	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
 3	tati	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
 4	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	ŋato	_	VERB	v	Number=Sing|Person=3	3	dep	3:dep	_
@@ -3771,9 +3771,9 @@
 # text = õn ŋabean ya ŋa oyaʔti nãn
 # text_eng = Because she liked me, I married her (Gabas 1999, 162)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	ŋabean	_	VERB	v	Gender=Fem|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	ŋabean	_	VERB	v	Clas=Fem|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	ya	_	SCONJ	sconj	_	5	mark	5:mark	_
-4	ŋa	_	PRON	pron	Gender=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 5	oyaʔti	_	VERB	v	Number=Sing|Person=1	2	dep	2:dep	_
 6	nãn	_	AUX	aux	Mood=Ind	5	cop	5:cop	_
 
@@ -3783,7 +3783,7 @@
 1	wawwaw	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	bay	_	VERB	v	Mood=Ind	5	dep	5:dep	_
 3	ye	_	SCONJ	sconj	_	5	mark	5:mark	_
-4	ŋaʔet	_	AUX	aux	Gender=Fem|Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
+4	ŋaʔet	_	AUX	aux	Clas=Fem|Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
 5	toyaʔwara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 505
@@ -3798,7 +3798,7 @@
 # sent_id = 506
 # text = ŋaken yəye wer oyaʔwara
 # text_eng = Because she slept, I left. (Gabas 1999, 163)
-1	ŋaken	_	VERB	v	Gender=Fem|Mood=Ind|Number=Sing|Person=3	4	dep	4:dep	_
+1	ŋaken	_	VERB	v	Clas=Fem|Mood=Ind|Number=Sing|Person=3	4	dep	4:dep	_
 2	yəye	_	SCONJ	sconj	_	1	mark	1:mark	_
 3	wer	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
 4	oyaʔwara	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
@@ -3915,13 +3915,13 @@
 # text = maʔpəy ŋa
 # text_eng = woman (Gabas 1999, 171)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
-2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf:fem	1:clf:fem	_
 
 # sent_id = 526
 # text = icey ŋa
 # text_eng = wife (Gabas 1999, 171)
 1	icey	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	Clas=Fem	1	clf:fem	1:clf:fem	_
 
 # sent_id = 527
 # text = mani nãʔ
@@ -4119,9 +4119,9 @@
 # text = maʔpəy ŋa para ŋa
 # text_eng = beautiful woman (Gabas 1999, 177)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
-2	ŋa	_	PART	part	_	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	_	1	clf:fem	1:clf:fem	_
 3	para	_	ADJ	adj	_	1	amod	1:amod	_
-4	ŋa	_	PART	part	_	1	clf:fem	1:clf:fem	_
+4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	_	1	clf:fem	1:clf:fem	_
 
 # sent_id = 555
 # text = mani nãʔ cú nãʔ
@@ -4329,7 +4329,7 @@
 # text_eng = Babesáya brought the pig by pulling it once. (Gabas 1999, 187)
 1	tuy	_	VERB	v	_	6	obl	6:obl	_
 2	Babesáya	_	PROPN	propn	_	6	nsubj	6:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
 5	yate	_	NOUN	n	_	6	obj	6:obj	_
 6	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -4339,7 +4339,7 @@
 # text_eng = Babesáya brought the pig by pulling it repeatedly. (Gabas 1999, 187)
 1	tuytuy	tuy	VERB	v	Aspect=Iter|Redup=Yes	6	obl	6:obl	_
 2	Babesáya	_	PROPN	propn	_	6	nsubj	6:nsubj	_
-3	ŋa	_	PART	part	Gender=Fem	2	clf:fem	2:clf:fem	_
+3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
 5	yate	_	NOUN	n	_	6	obj	6:obj	_
 6	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -4379,7 +4379,7 @@
 1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 2	ʔet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	2	aux	2:aux	_
 3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
-4	ŋakəy	_	ADP	adp	Case=Dat|Gender=Fem|Number=Sing|Person=3	2	obj	2:obj	_
+4	ŋakəy	_	ADP	adp	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 590
 # text = at ahyə úe úe ye
@@ -4832,7 +4832,7 @@
 # text = maʔpəy ŋa ʔet at chapéu káʔ tiga menə
 # text_eng = Would it be that the woman threw his hat. (Gabas 1999, 212)
 1	maʔpəy	_	NOUN	n	_	7	nsubj	7:nsubj	_
-2	ŋa	_	PART	part	Gender=Fem	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf:fem	1:clf:fem	_
 3	ʔet	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
 5	chapéu	_	NOUN	n	_	7	obj	7:obj	_
