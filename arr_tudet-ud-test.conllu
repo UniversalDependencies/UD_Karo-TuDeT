@@ -664,7 +664,7 @@
 # text = o=ker-a kanã
 # text_eng = My place to sleep (Gabas 1999, 62)
 1	o=ker-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
-2	kanã	_	PART	part	Nomz	1	mark	1:mark	_
+2	kanã	_	PART	part	Nomzr=Circ	1	mark	1:mark	_
 
 # sent_id = 096
 # text = õn amaken
@@ -1227,7 +1227,7 @@
 # text = o=kera kanã
 # text_eng = My place to sleep. (Gabas 1999, 87)
 1	o=kera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
-2	kanã	_	PART	part	NOMZ	1	mark	1:mark	_
+2	kanã	_	PART	part	Nomzr=Circ	1	mark	1:mark	_
 
 # sent_id = 185
 # text = wat ip ʔɨya kanã
@@ -1235,14 +1235,14 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔɨya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	kanã	_	PART	part	NOMZ	3	mark	3:mark	_
+4	kanã	_	PART	part	Nomzr=Circ	3	mark	3:mark	_
 
 # sent_id = 186
 # text = õn aʔwĩa kanã yaʔti nãn
 # text_eng = I like to kill it. (Gabas 1999, 87)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	4	xcomp	4:xcomp	_
-3	kanã	_	PART	adp	NOMZ	4	mark	4:mark	_
+3	kanã	_	PART	adp	Nomzr=Circ	4	mark	4:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 
@@ -1254,7 +1254,7 @@
 3	mok	_	NOUN	n	_	7	obj	7:obj	_
 4	pe	_	PART	part	_	3	clf	3:clf	_
 5	cára	_	VERB	v	VerbForm=Ger	7	xcomp	7:xcomp	_
-6	kanã	_	PART	part	NOMZ	5	mark	5:mark	_
+6	kanã	_	PART	part	Nomzr=Circ	5	mark	5:mark	_
 7	yaʔti	_	VERB	v	_	0	root	0:root	_
 8	nãn	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
 9	iʔke	_	PART	part	Polarity=Neg	7	advmod	7:advmod	_
@@ -1264,7 +1264,7 @@
 # text_eng =  Do you like to sleep? (Gabas 1999, 88)
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 2	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
-3	kanã	_	PART	part	NOMZ	2	mark	2:mark	_
+3	kanã	_	PART	part	Nomzr=Circ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 6	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
@@ -1274,7 +1274,7 @@
 # text_eng = You (PL.) like to cry. (Gabas 1999, 88)
 1	kaʔto	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 2	karowéya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
-3	kanã	_	PART	part	NOMZ	2	case	2:case	_
+3	kanã	_	PART	part	Nomzr=Circ	2	case	2:case	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 
@@ -1283,7 +1283,7 @@
 # text_eng = While my food boils I will go wash my dishes too. (Gabas 1999, 88)
 1	owirup	_	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
 2	tẽy	_	VERB	v	Mood=Ind	4	advcl	4:advcl	_
-3	kokəy	_	ADP	adp	Case=Dat|NOMZ	2	case	2:case	_
+3	kokəy	_	ADP	adp	Case=Dat|Nomzr=Circ	2	case	2:case	_
 4	okap	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
 5	ocagəpto	_	NOUN	n	Number=Pl|Person=1	6	obj	6:obj	_
 6	cára	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
@@ -1304,7 +1304,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	amãn	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	ara	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
-4	gotoy	_	VERB	v	Mood=Ind|NOMZ	0	root	0:root	_
+4	gotoy	_	VERB	v	Mood=Ind|Nomzr=Circ	0	root	0:root	_
 
 # sent_id = 193
 # text = Júnior ŋa pa gotoy ahyə
@@ -1312,7 +1312,7 @@
 1	Júnior	_	PROPN	propn	_	4	nsubj	4:nsubj	_
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
 3	pa	_	VERB	v	VerbForm=Ger	4	obj	4:obj	_
-4	gotoy	_	VERB	v	Mood=Ind|NOMZ	0	root	0:root	_
+4	gotoy	_	VERB	v	Mood=Ind|Nomzr=Circ	0	root	0:root	_
 5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
 
 # sent_id = 194
@@ -2627,7 +2627,7 @@
 # text_eng = You are ugly like your father. (Gabas 1999, 129)
 1	pecéptem	_	ADJ	adj	_	0	root	0:root	_
 2	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
-3	et	_	PRON	pron	Number=Sing]Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
 5	ŋõm	_	ADP	adp	Case=Sim	4	case	4:case	_
 
@@ -4543,7 +4543,7 @@
 # text_eng = I like to shoot (shooting). (Gabas 1999, 196)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	púŋ	_	VERB	v	_	4	obl	4:obl	_
-3	kanã	_	PART	part	NOMZ	2	mark	2:mark	_
+3	kanã	_	PART	part	Nomzr=Circ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 
@@ -4553,7 +4553,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	púŋ	_	VERB	v	_	2	obl	2:obl	_
-4	kanã	_	PART	part	NOMZ	3	mark	3:mark	_
+4	kanã	_	PART	part	Nomzr=Circ	3	mark	3:mark	_
 5	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
 
 # sent_id = 612
