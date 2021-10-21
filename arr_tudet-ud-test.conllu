@@ -2102,7 +2102,7 @@
 2	péŋ	_	NOUN	n	_	6	nsubj	6:nsubj	_
 3	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
 4	kohmãy	_	NOUN	n	_	6	obl	6:obl	_
-5	ʔerem	_	ADP	adp	Case=Dis	6	case	6:case	_
+5	ʔerem	_	ADP	adp	Case=Disp	6	case	6:case	_
 6	tokəga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 298
@@ -2610,7 +2610,7 @@
 # text_eng = He went through the forest. (Gabas 1999, 129)
 1	aʔwɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 2	naco	_	NOUN	n	_	1	obl	1:obl	_
-3	ʔerem	_	ADP	adp	Case=Dis	2	case	2:case	_
+3	ʔerem	_	ADP	adp	Case=Disp	2	case	2:case	_
 
 # sent_id = 367
 # text = oken péŋ at kaʔa ʔaʔ peʔ
@@ -3573,7 +3573,7 @@
 # text = naco ʔerem ye kanãp iʔkəga
 # text_eng = when we walk through the forest. (Gabas 1999, 156)
 1	naco	_	NOUN	n	_	5	obl	5:obl	_
-2	ʔerem	_	ADP	adp	Case=Dis	1	case	1:case	_
+2	ʔerem	_	ADP	adp	Case=Disp	1	case	1:case	_
 3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	5:aux	_
 4	kanãp	_	NOUN	n	_	5	mark	5:mark	_
 5	iʔkəga	_	VERB	v	Number=Plur.INCL|Person=1|VerbForm=Ger	0	root	0:root	_
