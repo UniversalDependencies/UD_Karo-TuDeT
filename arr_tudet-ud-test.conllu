@@ -1285,7 +1285,7 @@
 2	tẽy	_	VERB	v	Mood=Ind	4	advcl	4:advcl	_
 3	kokəy	_	ADP	adp	Case=Dat|NOMZ	2	case	2:case	_
 4	okap	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
-5	ocagəpto	_	NOUN	n	Number=Sing/Pl|Person=1	6	obj	6:obj	_
+5	ocagəpto	_	NOUN	n	Number=Pl|Person=1	6	obj	6:obj	_
 6	cára	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
 7	koãm	_	ADV	adv	_	6	advmod	6:advmod	_
 
@@ -1294,7 +1294,7 @@
 # text_eng = My things are like they were yesterday, dirty. (Gabas 1999, 88)
 1	matet	_	ADV	adv	_	0	root	0:root	_
 2	kokoãm	_	PART	part	_	1	mark	1:mark	_
-3	ocagəptoʔ	_	NOUN	n	Number=Sing/Pl|Person=1	1	nsubj	1:nsubj	_
+3	ocagəptoʔ	_	NOUN	n	Number=Pl|Person=1	1	nsubj	1:nsubj	_
 4	ʔet	_	AUX	aux	Mood=Ind	1	aux	1:aux	_
 5	toyawɨga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
@@ -1791,34 +1791,34 @@
 1	karokérara	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	_	_	_	_
 
 # sent_id = 257
-# text = taptoba (ẽn/kaʔto)
+# text = taptoba kaʔto
 # text_eng = Watch them! (Gabas 1999, 105)
 1	taptoba	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	0:root	_
-2	(ẽn/kaʔto)	_	PRON	pron	Number=Sing/Pl|Person=2	1	appos	1:appos	_
+2	kaʔto	_	PRON	pron	Number=Pl|Person=2	1	appos	1:appos	_
 
 # sent_id = 258
-# text = owirup tɨra (ẽn/kaʔto)
+# text = owirup tɨra ẽn
 # text_eng = Cook my food! (Gabas 1999, 105)
 1	owirup	_	NOUN	n	Number=Sing|Person=1	2	obj	2:obj	_
 2	tɨra	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	(ẽn/kaʔto)	_	PRON	pron	Number=Sing/Pl|Person=2	2	appos	2:appos	_
+3	ẽn	_	PRON	pron	Number=Sing|Person=2	2	appos	2:appos	_
 
 # sent_id = 259
-# text = yét maʔpəy bat toba (ẽn/kaʔto)
+# text = yét maʔpəy bat toba ẽn
 # text_eng = Watch this beautiful woman! (Gabas 1999, 105)
 1	yét	_	PRON	pron	PronType=Dem	2	nmod:poss	2:nmod:poss	_
 2	maʔpəy	_	NOUN	n	_	4	obj	4:obj	_
 3	bat	_	ADJ	adj	_	2	amod	2:amod	_
 4	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-5	(ẽn/kaʔto)	_	PRON	pron	Number=Sing/Pl|Person=2	4	appos	4:appos	_
+5	ẽn	_	PRON	pron	Number=Sing|Person=2	4	appos	4:appos	_
 
 # sent_id = 260
-# text = wat manikap peya (ẽn/kaʔto)
+# text = wat manikap peya kaʔto
 # text_eng = Make my hammock! (Gabas 1999, 105)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	manikap	_	NOUN	n	_	3	obj	3:obj	_
 3	peya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	(ẽn/kaʔto)	_	PRON	pron	Number=Sing/Pl|Person=2	3	appos	3:appos	_
+4	kaʔto	_	PRON	pron	Number=Pl|Person=2	3	appos	3:appos	_
 
 # sent_id = 261
 # text = kanãy yét péŋ [ʔet]
