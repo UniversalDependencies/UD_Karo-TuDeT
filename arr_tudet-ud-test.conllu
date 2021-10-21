@@ -696,7 +696,7 @@
 # text_eng = I made you pinch her. (Gabas 1999, 64)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	emaberopit	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
-3	ŋakəy	_	ADP	adp	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
+3	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 101
 # text = agóaʔpət amagahmõm nãn
@@ -1185,7 +1185,7 @@
 # text = owakán aʔkəy
 # text_eng = I am angry at him/it. (Gabas 1999, 84)
 1	owakán	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
-2	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obl	1:obl	_
+2	aʔkəy	_	PRON	pron		Case=Dat|Number=Sing|Person=3	1	obl	1:obl	_
 
 # sent_id = 179
 # text = maʔwɨt yaʔwan ŋapik
@@ -2595,7 +2595,7 @@
 # text = abakán ekəy
 # text_eng = He is angry at you. (Gabas 1999, 128)
 1	abakán	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	1	obl	1:obl	_
+2	ekəy	_	PRON	pron	Case=Dat|Number=Sing|Person=2	1	obl	1:obl	_
 
 # sent_id = 365
 # text = péŋ aʔwĩn tágɨh mã
@@ -4379,7 +4379,7 @@
 1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 2	ʔet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	2	aux	2:aux	_
 3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
-4	ŋakəy	_	ADP	adp	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
+4	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 590
 # text = at ahyə úe úe ye
