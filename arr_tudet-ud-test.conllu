@@ -2456,7 +2456,7 @@
 # sent_id = 347
 # text = õn mãygãra toy
 # text_eng = I saw a/the snake(Gabas 1999, 125)
-1	õn	_	PRON	pron	Number=Sing|Person=|PronType=Prs	3	nsubj	3:nsubj	_
+1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
 
@@ -3576,7 +3576,7 @@
 2	ʔerem	_	ADP	adp	Case=Disp	1	case	1:case	_
 3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	5:aux	_
 4	kanãp	_	NOUN	n	_	5	mark	5:mark	_
-5	iʔkəga	_	VERB	v	Number=Plur.INCL|Person=1|VerbForm=Ger	0	root	0:root	_
+5	iʔkəga	_	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 483
 # text = oyaʔwan aʔkera kanãp
