@@ -742,7 +742,7 @@
 # text = ŋa toat owẽ tanogat
 # text_eng = She fed her baby, eating with it. (Gabas 1999, 65)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	toat	_	PRON	pron	Person=3R	3	nmod:poss	_	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
 4	tanogat	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
 
@@ -805,7 +805,7 @@
 # text = ŋa toat owẽ ragahmõm nãn
 # text_eng = She calmed her child and calmed down herself. (Gabas 1999, 67)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	Person=3R	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	3:nmod:poss	_
 3	owẽ	_	NOUN	n	_	4	obj	4:obj	_
 4	ragahmõm	_	VERB	v	Case=Com	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
@@ -1459,7 +1459,7 @@
 # text = at toat kaʔaʔ ʔaʔ pẽn
 # text_eng = He made his own house. (Gabas 1999, 95)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-2	toat	_	PRON	pron	3R	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	3:nmod:poss	_
 3	kaʔaʔ	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	pẽn	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -1469,7 +1469,7 @@
 # text_eng = Then he (went and) made his own house. (Gabas 1999, 95)
 1	kanãy	_	ADV	adv	_	6	advmod	6:advmod	_
 2	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-3	toat	_	PRON	pron	3R	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3	4	nmod:poss	4:nmod:poss	_
 4	kaʔa	_	NOUN	n	_	6	obj	6:obj	_
 5	ʔaʔ	_	PART	part	_	4	clf:rd	4:clf:rd	_
 6	pẽya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -1478,7 +1478,7 @@
 # text =  at toat kaʔa ʔaʔ pẽ mãm
 # text_eng = He is making his own house. (Gabas 1999, 95)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-2	toat	_	PRON	pron	3R	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	3:nmod:poss	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	pẽ	_	VERB	v	_	0	root	0:root	_
