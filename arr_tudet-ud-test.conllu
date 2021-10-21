@@ -1563,7 +1563,7 @@
 # text = maʔwɨr yet Ø mãygãra roba
 # text_eng = (It was) the man (who) saw the snake. (Gabas 1999, 98)
 1	maʔwɨr	_	NOUN	n	_	5	nsubj	5:nsubj	_
-2	yet	_	AUX	aux	Mood=Ind|Number=3Imp	_	_	_	_
+2	yet	_	AUX	aux	Mood=Ind|Person=3Imp	_	_	_	_
 3	Ø	_	_	_	_	_	_	_	_
 4	mãygãra	_	NOUN	n	_	5	obj	5:obj	_
 5	roba	_	VERB	v	VerbForm=Ger	_	_	_	_
@@ -1929,7 +1929,7 @@
 # sent_id = 274
 # text = wat owẽ wét
 # text_eng = My child cried. (Gabas 1999, 110)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=1	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	owẽ	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	wét	_	VERB	v	Mood=Ind	0	root	0:root	_
 
@@ -2102,7 +2102,7 @@
 2	péŋ	_	NOUN	n	_	6	nsubj	6:nsubj	_
 3	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
 4	kohmãy	_	NOUN	n	_	6	obl	6:obl	_
-5	ʔerem	_	ADP	adp	Case=Disp	6	case	6:case	_
+5	ʔerem	_	ADP	adp	Case=Dis	6	case	6:case	_
 6	tokəga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 298
@@ -2610,7 +2610,7 @@
 # text_eng = He went through the forest. (Gabas 1999, 129)
 1	aʔwɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 2	naco	_	NOUN	n	_	1	obl	1:obl	_
-3	ʔerem	_	ADP	adp	Case=Disp	2	case	2:case	_
+3	ʔerem	_	ADP	adp	Case=Dis	2	case	2:case	_
 
 # sent_id = 367
 # text = oken péŋ at kaʔa ʔaʔ peʔ
@@ -3375,7 +3375,7 @@
 # text = aʔwɨy yat iʔke
 # text_eng = He will not go out. (Gabas 1999, 150)
 1	aʔwɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	yat	_	PART	part	Case=Fut	1	mark	1:mark	_
+2	yat	_	PART	part	Tense=Fut	1	mark	1:mark	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 459
@@ -3383,7 +3383,7 @@
 # text_eng = I will not see it/him nicley. (Gabas 1999, 150)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	yat	_	PART	part	Case=Fut	2	mark	2:mark	_
+3	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 5	pattem	_	ADV	adv	_	2	advmod	2:advmod	_
 
@@ -3573,7 +3573,7 @@
 # text = naco ʔerem ye kanãp iʔkəga
 # text_eng = when we walk through the forest. (Gabas 1999, 156)
 1	naco	_	NOUN	n	_	5	obl	5:obl	_
-2	ʔerem	_	ADP	adp	Case=Disp	1	case	1:case	_
+2	ʔerem	_	ADP	adp	Case=Dis	1	case	1:case	_
 3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	5:aux	_
 4	kanãp	_	NOUN	n	_	5	mark	5:mark	_
 5	iʔkəga	_	VERB	v	Number=Plur.INCL|Person=1|VerbForm=Ger	0	root	0:root	_
