@@ -937,7 +937,7 @@
 # sent_id = 137
 # text = õn abeʔmẽn
 # text_eng = Let me step on it/me. (Gabas 1999, 73)
-1	õn	_	PRON	pron	Number=Sing|Person1|PronType=Prs	2	nsubj	2:nsubj	_
+1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	abeʔmẽn	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 138
