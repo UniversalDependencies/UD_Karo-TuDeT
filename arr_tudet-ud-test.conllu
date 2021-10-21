@@ -1192,7 +1192,7 @@
 # text_eng = The man left with her. (Gabas 1999, 84)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	yaʔwan	_	VERB	v	Mood=Ind	0	root	0:root	_
-3	ŋapik	_	ADP	adp	Case=All|Clas=Fem|Number=Sing|Person=3	2	obl	2:obl	_
+3	ŋapik	_	PRON	pron	Case=All|Clas=Fem|Number=Sing|Person=3	2	obl	2:obl	_
 
 # sent_id = 180
 # text = wat iyõm ip ʔɨy owihmãm
