@@ -1686,7 +1686,7 @@
 1	mɨrɨrɨy	_	NOUN	n	_	0	root	0:root	_
 2	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
 3	imaterãn	_	VERB	v	Mood=Ind|Number=Plur|Person=1|Voice=Cau	1	acl	1:acl	_
-4	nãnin	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
+4	nãnin	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
 
 # sent_id = 243
 # text = péŋ ahyə ẽn itop
@@ -4784,14 +4784,14 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	coke	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
+4	coke	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
 
 # sent_id = 642
 # text = péŋ aʔwĩn aket
 # text_eng = The white man must have killed it. (Gabas 1999, 210)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	aket	_	VERB	v	Evident=Nfh	2	aux	2:aux	_
+3	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
 
 # sent_id = 643
 # text = tokera at igã
@@ -4818,14 +4818,14 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	iga	_	PART	part	Tense=Fut	2	mark	2:mark	_
-4	manã	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+4	manã	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 647
 # text = õn aʔtoy nãnin kán
 # text_eng = I really saw him long ago. (Gabas 1999, 211)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	kán	_	PART	part	Tense=RPast	2	mark	2:mark	_
 
 # sent_id = 648
@@ -4845,7 +4845,7 @@
 # text_eng = Maybe he killed it. (Gabas 1999, 212)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	pə	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+3	pə	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 650
 # text = ẽn ahyə menə kanã tayãn menə
@@ -4861,9 +4861,9 @@
 # text = péŋ nãnin aʔwĩn nãnin
 # text_eng = It was really the white man who killed it/him. (Gabas 1999, 213)
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
-2	nãnin	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
+2	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 3	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	dep	1:dep	_
-4	nãnin	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
+4	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 
 # sent_id = 652
 # text = péŋ topə toat macaʔɨt nõ wĩn
@@ -4888,7 +4888,7 @@
 # text_eng = The toad would certainly make people get lost. (Gabas 1999, 214)
 1	mɨrɨrɨy	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	imatẽran	_	VERB	v	Mood=Ind|Person=3Imp|Voice=Cau	0	root	0:root	_
-3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 655
@@ -4951,7 +4951,7 @@
 1	owekuy	_	NOUN	n	Number=Sing|Person=1	4	obj	4:obj	_
 2	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
 3	iʔkɨy	_	VERB	v	Evident=Fh	4	parataxis	4:parataxis	_
-4	tə	_	PRON	pron	Evident=Nfh	_	_	_	_
+4	tə	_	PART	part	Evident=Nfh	_	_	_	_
 
 # sent_id = 663
 # text = péŋ aʔwĩn aket nãnin
@@ -4959,14 +4959,14 @@
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	aket	_	VERB	v	Evident=Fh	2	aux	2:aux	_
-4	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+4	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 664
 # text = ayaʔwan topə nãnin
 # text_eng = It was seen that he really left. (Gabas 1999, 218)
 1	ayaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	2	ccomp	2:ccomp	_
 2	topə	_	VERB	v	Evident=Fh	0	root	0:root	_
-3	nãnin	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 
 # sent_id = 665
 # text = kõm at iʔkɨy menə
@@ -4981,7 +4981,7 @@
 # text_eng = The white man really must have killed it. (Gabas 1999, 218)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	aket	_	VERB	b	Evident=Fh	2	aux	2:aux	_
 
 # sent_id = 667
@@ -4989,14 +4989,14 @@
 # text_eng = I really just saw him/it. (Gabas 1999, 219)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	nãnin	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
-4	coke	_	ADV	adv	Evident=Fh	2	advmod	2:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
+4	coke	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 668
 # text = ayaʔwan nãnin igã
 # text_eng = He really must have left. (Gabas 1999, 219)
 1	ayaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	nãnin	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
+2	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 3	igã	_	VERB	v	Evident=Fh	1	aux	1:aux	_
 
 # sent_id = 669
@@ -5012,15 +5012,15 @@
 # text_eng = They say that the rain will really fall (or: They really say that the rain will fall.) (Gabas 1999, 219)
 1	amãn	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
-3	nãnin	_	ADV	adv	Evident=Fh	4	advmod	4:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	4	advmod	4:advmod	_
 4	tə	_	PART	part	Evident=Nfh	0	root	0:root	_
 
 # sent_id = 671
 # text = aʔken pə coke
 # text_eng = Clearly he may have slept. (Gabas 1999, 220)
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-2	pə	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
-3	coke	_	ADV	adv	Evident=Fh	1	advmod	1:advmod	_
+2	pə	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
+3	coke	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 
 # sent_id = 672
 # text = kõm co iʔyat ip ʔɨy nãnin menə
@@ -5030,13 +5030,13 @@
 3	iʔyat	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
 4	ip	_	NOUN	n	_	5	obj	5:obj	_
 5	ʔɨy	_	VERB	v	Mood=Ind	7	ccomp	7:ccomp	_
-6	nãnin	_	ADV	adv	Evident=Fh	7	advmod	7:advmod	_
+6	nãnin	_	PART	part	Evident=Fh	7	advmod	7:advmod	_
 7	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
 
 # sent_id = 673
 # text = aʔken pə menə
 # text_eng = It is wondered whether he is sleeping. (Gabas 1999, 220)
 1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
-2	pə	_	ADV	adv	Evident=Fh	3	advmod	3:advmod	_
+2	pə	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
 3	menə	_	VERB	v	Evident=Fh	0	root	0:root	_
 
