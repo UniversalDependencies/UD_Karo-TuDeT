@@ -3906,13 +3906,13 @@
 # text = mani nãʔ
 # text_eng = manioc (Gabas 1999, 171)
 1	mani	_	NOUN	n	_	0	root	0:root	_
-2	nãʔ	_	PART	part	_	1	clf	1:clf	_
+2	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
 
 # sent_id = 528
 # text = cán nãʔ
 # text_eng = fire (Gabas 1999, 171)
 1	cán	_	NOUN	n	_	0	root	0:root	_
-2	nãʔ	_	PART	part	_	1	clf	1:clf	_
+2	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
 
 # sent_id = 529
 # text = wayo nãk pap
@@ -4106,9 +4106,9 @@
 # text = mani nãʔ cú nãʔ
 # text_eng = big manioc (Gabas 1999, 177)
 1	mani	_	NOUN	n	_	0	root	0:root	_
-2	nãʔ	_	PART	part	Clas=Clf	1	clf	1:clf	_
+2	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
-4	nãʔ	_	PART	part	Clas=Clf	1	clf	1:clf	_
+4	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
 
 # sent_id = 556
 # text = wayo nak pap cú bap
