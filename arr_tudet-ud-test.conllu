@@ -413,11 +413,11 @@
 # sent_id = 063
 # text = mɨy mãm péŋ ʔep toʔwa
 # text_eng = Long ago there was a white man. (Gabas 1999, 47)
-1	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
-2	mãm	mãm	PART	part	_	_	_	_	_
-3	péŋ	_	NOUN	n	_	4	nsubj	4:nsubj	_
-4	ʔep	_	AUX	aux	Mood=Ind	0	root	0:root	_
-5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
+1	mɨy	_	ADV	adv	_	3	amod	3:amod	_
+2	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
+3	péŋ	_	NOUN	n	_	0	root	0:root	_
+4	ʔep	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
+5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 064
 # text = məy maʔpəy ŋa waʔye
@@ -616,7 +616,7 @@
 # text_eng = I left during the day. (Gabas 1999, 58)
 1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 2	át	_	NOUN	n	_	1	obl	1:obl	_
-3	mãm	mãm	PART	part	_	_	_	_	_
+3	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
 
 # sent_id = 090
 # text = õn maʔwɨt at kaʔa toy
@@ -639,7 +639,7 @@
 # text = át mãm oyaʔwarap
 # text_eng = During the day I left (Gabas 1999, 60)
 1	át	_	NOUN	n	_	3	obl	3:obl	_
-2	mãm	mãm	PART	part	_	_	_	_	_
+2	mãm	mãm	PART	part	_	3	discourse	3:discourse	_
 3	oyaʔwarap	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 093
@@ -1482,7 +1482,7 @@
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	pẽ	_	VERB	v	_	0	root	0:root	_
-6	mãm	mãm	PART	part	_	_	_	_	_
+6	mãm	mãm	PART	part	_	5	discourse	5:discourse	_
 
 # sent_id = 218
 # text = agóaʔpət iket
@@ -1579,7 +1579,7 @@
 # text = cak mãm okap cĩm ʔóa
 # text_eng = Tomorrow I will eat meat. (Gabas 1999, 99)
 1	cak	_	ADV	adv	_	5	obl	5:obl	_
-2	mãm	mãm	PART	part	_	_	_	_	_
+2	mãm	mãm	PART	part	_	5	discourse	5:discourse	_
 3	okap	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	5	aux	5:aux	_
 4	cĩm	_	NOUN	n	_	5	obj	5:obj	_
 5	ʔóa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -2402,7 +2402,7 @@
 # text = mĩm mãm iʔke péŋ yowarap
 # text_eng = It was not now that the white man left. (Gabas 1999, 123)
 1	mĩm	_	ADV	adv	_	5	obl	5:obl	_
-2	mãm	mãm	PART	x	_	_	_	_	_
+2	mãm	mãm	PART	part	_	5	discourse	5:discourse	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 4	péŋ	_	NOUN	n	_	5	nsubj	5:nsubj	_
 5	yowarap	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2751,7 +2751,7 @@
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
 4	paʔpiktem	_	ADJ	adj	_	2	advmod	2:advmod	_
 5	mɨy	_	ADV	adv	_	3	advmod	3:advmod	_
-6	mãm	mãm	PART	part	_	_	_	_	_
+6	mãm	mãm	PART	part	_	3	discourse	3:discourse	_
 
 # sent_id = 385
 # text = mẽganape õn ameko top matet
@@ -2777,7 +2777,7 @@
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
 4	pepat	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	cək	_	ADV	adv	_	4	advmod	4:advmod	_
-6	mãm	mãm	PART	part	_	_	_	_	_
+6	mãm	mãm	PART	part	_	4	discourse	4:discourse	_
 
 # sent_id = 388
 # text = õn aʔtoy pattem
@@ -2960,7 +2960,7 @@
 1	toto	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	ibetõ	_	VERB	v	Person=3Imp	0	root	0:root	_
 3	mɨy	_	ADV	adv	_	2	advmod	2:advmod	_
-4	mãm	mãm	PART	x	_	_	_	_	_
+4	mãm	mãm	PART	part	_	2	discourse	2:discourse	_
 5	ŋán	_	PART	part	Tense=RPast	2	mark	2:mark	_
 
 # sent_id = 409
@@ -3014,7 +3014,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	opit	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 3	məy	_	ADV	adv	_	2	advmod	2:advmod	_
-4	mãm	mãm	PART	part	_	_	_	_	_
+4	mãm	mãm	PART	part	_	2	discourse	2:discourse	_
 5	co	_	PART	part	Tense=Past	2	mark	2:mark	_
 6	kán	_	PART	part	Tense=RPast	2	mark	2:mark	_
 
@@ -3300,7 +3300,7 @@
 3	iʔyat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 4	kotigap	_	VERB	v	Mood=Ind	1	acl	1:acl	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
-6	mãm	mãm	PART	part	_	_	_	_	_
+6	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
 
 # sent_id = 450
 # text = pattem iʔke õn
@@ -3573,7 +3573,7 @@
 # text_eng = I stayed watching it/him while he ate his food. (Gabas 1999, 157)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtop	_	VERB	v	Number=Sing|Person=3	0	root	0:root	_
-3	mãm	mãm	PART	part	_	_	_	_	_
+3	mãm	mãm	PART	part	_	2	discourse	2:discourse	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 5	towirap	_	NOUN	n	Corf=Yes|Person=3	6	obj	6:obj	_
 6	ʔo	_	VERB	v	VerbForm=Ger	2	dep	2:dep	_
@@ -4343,7 +4343,7 @@
 # text_eng = I am writing. (Gabas 1999, 188)
 1	wenwen	wen	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 2	we	_	AUX	aux	Number=Sing|Person=1	1	aux	1:aux	_
-3	mãm	mãm	PART	part	_	_	_	_	_
+3	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
 
 # sent_id = 588
 # text = púŋ at ahyə
