@@ -297,11 +297,11 @@
 # text = apəy ŋa ʔet topaba mɨy mãm
 # text_eng = Grandmother died a long time ago. (Gabas 1999, 42)
 1	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
-2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf:fem	1:clf:fem	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	1:clf	_
 3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
 4	topaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
-6	mãm	_	PART	part	_	_	_	_	_
+6	mãm	_	PART	part	_	4	discourse	4:discourse	_
 
 # sent_id = 045
 # text = opía
