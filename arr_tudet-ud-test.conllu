@@ -209,9 +209,9 @@
 # sent_id = 032
 # text = wayo bah yu
 # text_eng = blood of (an) alligator (Gabas 1999, 30)
-1	wayo	_	NOUN	n	_	3	nmod	3:nmod	_
-2	bah	_	PART	part	_	3	clf:cylb	3:clf:cylb	_
-3	yu	_	NOUN	n	_	0	root	0:root	_
+1	wayo	wayo	NOUN	n	_	3	nmod	3:nmod	_
+2	bah	bap	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
+3	yu	yu	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 033
 # text = nãn iket
