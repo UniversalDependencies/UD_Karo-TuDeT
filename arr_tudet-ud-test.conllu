@@ -1,7 +1,7 @@
 # sent_id = 001
 # text = war iyõm ib an
 # text_eng = my father brought a fish (Gabas 1999, 24)
-1	war	war	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	war	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	iyõm	iyõm	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ib	ib	NOUN	n	_	4	obj	4:obj	_
 4	an	an	VERB	v	Mood=Ind	0	root	0:root	_
@@ -56,7 +56,7 @@
 # sent_id = 009
 # text = yate naʔcəg wew
 # text_eng = pig's large nose (Gabas 1999, 25)
-1	yate	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	yate	_	NOUN	n	_	2	nmod	2:nmod	_
 2	naʔcəg	_	NOUN	n	_	0	root	0:root	_
 3	wew	_	ADJ	adj	_	2	amod	2:amod	_
 
@@ -183,7 +183,7 @@
 # sent_id = 028
 # text = wagag naká
 # text_eng = bird's (sp.) head (Gabas 1999, 29)
-1	wagag	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	wagag	_	NOUN	n	_	2	nmod	2:nmod	_
 2	naká	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 029
@@ -311,7 +311,7 @@
 # sent_id = 046
 # text = naʔwəy bía
 # text_eng =  monkey's liver (Gabas 1999, 43)
-1	naʔwəy	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	naʔwəy	_	NOUN	n	_	2	nmod	2:nmod	_
 2	bía	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 047
@@ -339,26 +339,26 @@
 # sent_id = 051
 # text = wat kaʔa
 # text_eng =  my house (Gabas 1999, 43)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 052
 # text = agóaʔpər at kaʔa
 # text_eng =  shaman's house (Gabas 1999, 43)
-1	agóaʔpər	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	agóaʔpər	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PART	part	PronType=Prs	1	case	1:case	_
 3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 053
 # text = et tágɨp
 # text_eng = your bow (Gabas 1999, 43)
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	_
 2	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 054
 # text = Noep at tágɨp
 # text_eng = Noep's bow (Gabas 1999, 43)
-1	Noep	_	PROPN	propn	_	3	nmod:poss	3:nmod:poss	_
+1	Noep	_	PROPN	propn	_	3	nmod	3:nmod	_
 2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
 3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
@@ -523,7 +523,7 @@
 # sent_id = 077
 # text = wat kaʔa ʔaʔtoʔ
 # text_eng = My houses. (Gabas 1999, 54)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 3	ʔaʔtoʔ	_	PART	part	Number=Plur	2	clf:rd	2:clf:rd	_
 
@@ -622,7 +622,7 @@
 # text = õn maʔwɨt at kaʔa toy
 # text_eng = I saw the man's house. (Gabas 1999, 58)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-2	maʔwɨt	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
+2	maʔwɨt	_	NOUN	n	_	4	nmod	4:nmod	_
 3	at	_	PART	part	_	2	case	2:case	_
 4	kaʔa	_	NOUN	n	_	_	_	_	_
 5	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -645,7 +645,7 @@
 # sent_id = 093
 # text = maʔwɨt at kaʔa õn itop
 # text_eng = It was the white man's house what I saw. (Gabas 1999, 60)
-1	maʔwɨt	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	maʔwɨt	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PART	part	_	1	case	1:case	_
 3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 4	õn	_	PART	part	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
@@ -675,7 +675,7 @@
 # sent_id = 097
 # text = et owã emakət
 # text_eng = Your mother made you walk. (Gabas 1999, 63)
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	emakət	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 
@@ -726,7 +726,7 @@
 # sent_id = 105
 # text = wat owã orakət
 # text_eng = My mother made me walk, walking with me. (Gabas 1999, 65)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	owã	_	NOUN	n	_	3	nsubj	_	_
 3	orakət	_	VERB	v	Case=Com|Mood=Ind|Number=Sing|Person=1	0	root	_	_
 
@@ -734,7 +734,7 @@
 # text = õn wat awe rabitẽy
 # text_eng = I made my brother cross, crossing with him. (Gabas 1999, 65)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	awe	_	NOUN	n	_	4	obj	_	_
 4	rabitẽy	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
 
@@ -742,7 +742,7 @@
 # text = ŋa toat owẽ tanogat
 # text_eng = She fed her baby, eating with it. (Gabas 1999, 65)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	_	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
 4	tanogat	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
 
@@ -750,7 +750,7 @@
 # text = õn wat owẽ raken
 # text_eng = I put my baby to sleep, sleeping with it. (Gabas 1999, 66)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
 4	raken	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
 
@@ -778,7 +778,7 @@
 # text = agóaʔpət et iyõm nakõy
 # text_eng = The shaman warmed your father (warming himself). (Gabas 1999, 66)
 1	agóaʔpət	_	NOUN	n	_	4	nsubj	4:nsubj	_
-2	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	3:nmod	_
 3	iyõm	_	NOUN	n	_	4	obj	4:obj	_
 4	nakõy	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
 
@@ -797,7 +797,7 @@
 # sent_id = 115
 # text = wat awe orabitẽy
 # text_eng = My brother crossed with me. (Gabas 1999, 67)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	awe	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	orabitẽy	_	VERB	v	Case=Com|Mood=Ind|Person=1|PronType=Prs	0	root	0:root	_
 
@@ -805,7 +805,7 @@
 # text = ŋa toat owẽ ragahmõm nãn
 # text_eng = She calmed her child and calmed down herself. (Gabas 1999, 67)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	owẽ	_	NOUN	n	_	4	obj	4:obj	_
 4	ragahmõm	_	VERB	v	Case=Com	0	root	0:root	_
 5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
@@ -1006,7 +1006,7 @@
 # sent_id = 149
 # text = wat kaʔa ʔa pɨk=toʔ
 # text_eng= the rest of my houses (Gabas 1999, 75)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	4	nmod	4:nmod	_
 3	ʔa	_	PART	part	_	2	clf	2:clf	_
 4	pɨk=toʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
@@ -1024,7 +1024,7 @@
 # sent_id = 152
 # text = wat naʔwəyroʔ
 # text_eng= my monkeys (Gabas 1999, 75)
-1	wat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	2	nmod:poss	_	_
+1	wat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
 2	naʔwəyroʔ	_	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 153
@@ -1104,7 +1104,7 @@
 # text_eng= My children are big and beautiful. (Gabas 1999, 78)
 1	pattem	_	ADJ	adj	_	4	amod	4:amod	_
 2	cúrem	_	ADJ	adj	_	1	conj	1:conj	_
-3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	owe	_	NOUN	n	_	0	root	0:root	_
 5	tap	_	PART	part	_	4	case	4:case	_
 
@@ -1197,7 +1197,7 @@
 # sent_id = 180
 # text = wat iyõm ip ʔɨy owihmãm
 # text_eng = My father caught a/the fish with me. (Gabas 1999, 85)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ip	_	NOUN	n	_	4	obj	4:obj	_
 4	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -1232,7 +1232,7 @@
 # sent_id = 185
 # text = wat ip ʔɨya kanã
 # text_eng = My place to catch fish. (Gabas 1999, 87)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔɨya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 4	kanã	_	PART	part	Nomzr=Circ	3	mark	3:mark	_
@@ -1250,7 +1250,7 @@
 # text = õn wat mok pe cára kanã yaʔti nãn iʔke
 # text_eng = I do not like to wash my clothes. (Gabas 1999, 88)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	7	nsubj	7:nsubj	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	mok	_	NOUN	n	_	7	obj	7:obj	_
 4	pe	_	PART	part	_	3	clf	3:clf	_
 5	cára	_	VERB	v	VerbForm=Ger	7	xcomp	7:xcomp	_
@@ -1310,7 +1310,7 @@
 # text = Júnior ŋa pa gotoy ahyə
 # text_eng = Did Júnior see her die? (Gabas 1999, 89)
 1	Júnior	_	PROPN	propn	_	4	nsubj	4:nsubj	_
-2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	pa	_	VERB	v	VerbForm=Ger	4	obj	4:obj	_
 4	gotoy	_	VERB	v	Mood=Ind|Nomzr=Circ	0	root	0:root	_
 5	ahyə	_	PART	part	PronType=Int	4	mark	4:mark	_
@@ -1459,7 +1459,7 @@
 # text = at toat kaʔaʔ ʔaʔ pẽn
 # text_eng = He made his own house. (Gabas 1999, 95)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	kaʔaʔ	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	pẽn	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -1469,7 +1469,7 @@
 # text_eng = Then he (went and) made his own house. (Gabas 1999, 95)
 1	kanãy	_	ADV	adv	_	6	advmod	6:advmod	_
 2	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
-3	toat	_	PRON	pron	Corf=Yes|Person=3	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	6	obj	6:obj	_
 5	ʔaʔ	_	PART	part	_	4	clf:rd	4:clf:rd	_
 6	pẽya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -1478,7 +1478,7 @@
 # text =  at toat kaʔa ʔaʔ pẽ mãm
 # text_eng = He is making his own house. (Gabas 1999, 95)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	pẽ	_	VERB	v	_	0	root	0:root	_
@@ -1526,7 +1526,7 @@
 # sent_id = 224
 # text = wat owã ŋa õn ibɨyap
 # text_eng = (It is) my mother (who) I waited for. (Gabas 1999, 97)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	_	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	owã	_	NOUN	n	_	5	obj	_	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
 4	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
@@ -1536,7 +1536,7 @@
 # text = õn wat owã ŋa pɨy
 # text_eng = I waited for my mother. (Gabas 1999, 97)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	_	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	owã	_	NOUN	n	_	5	obj	_	_
 4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf	_	_
 5	pɨy	_	VERB	v	Mood=Ind	0	root	_	_
@@ -1596,7 +1596,7 @@
 # sent_id = 232
 # text = wat kaʔa ʔa peʔ web aʔpɨya
 # text_eng = (It was) at my house (that) I waited for him/it. (Gabas 1999, 99)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	1	clf:rd	1:clf:rd	_
 4	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
@@ -1606,7 +1606,7 @@
 # sent_id = 233
 # text = et kaʔa ʔa peʔ at epɨyap
 # text_eng = (It was) at your house (that) he waited for you. (Gabas 1999, 99)
-1	et	_	PRON	Number=Sing|Person=2|PronType=Prs	_	2	nmod:poss	2:nmod:poss	_
+1	et	_	PRON	Number=Sing|Person=2|PronType=Prs	_	2	nmod	2:nmod	_
 2	kaʔa	kaʔa	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
@@ -1634,7 +1634,7 @@
 # text_eng = I waited for him/it at my house. (Gabas 1999, 100)
 1	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
 2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
-3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
 5	ʔa	_	PART	part	_	4	clf:rd	4:clf:rd	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
@@ -1644,7 +1644,7 @@
 # text_eng = He waited for you at your house. (Gabas 1999, 100)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	epɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
-3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 5	ʔa	_	PART	part	_	4	clf:rd	4:clf:rd	_
 6	peʔ	_	PART	part	_	4	case	4:case	_
@@ -1666,7 +1666,7 @@
 # text = eken wat manikap peʔ battem ahyə
 # text_eng = Did you sleep well in my hammock? (Gabas 1999, 101)
 1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	manikap	_	NOUN	b	_	1	obl	1:obl	_
 4	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
 5	battem	_	ADJ	adj	_	1	advmod	1:advmod	_
@@ -1713,7 +1713,7 @@
 # sent_id = 246
 # text = wat manikap peʔ ahyə ekerap
 # text_eng = Did you sleep in my hammock? ("Was it in my hammock you slept?")(Gabas 1999, 102)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	manikap	_	NOUN	n	_	5	obl	5:obl	_
 3	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
 4	ahyə	_	PART	part	PronType=Int	5	case	5:case	_
@@ -1806,7 +1806,7 @@
 # sent_id = 259
 # text = yét maʔpəy bat toba ẽn
 # text_eng = Watch this beautiful woman! (Gabas 1999, 105)
-1	yét	_	PRON	pron	PronType=Dem	2	nmod:poss	2:nmod:poss	_
+1	yét	_	PRON	pron	PronType=Dem	2	nmod	2:nmod	_
 2	maʔpəy	_	NOUN	n	_	4	obj	4:obj	_
 3	bat	_	ADJ	adj	_	2	amod	2:amod	_
 4	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -1815,7 +1815,7 @@
 # sent_id = 260
 # text = wat manikap peya kaʔto
 # text_eng = Make my hammock! (Gabas 1999, 105)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	manikap	_	NOUN	n	_	3	obj	3:obj	_
 3	peya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 4	kaʔto	_	PRON	pron	Number=Plur|Person=2	3	appos	3:appos	_
@@ -1824,7 +1824,7 @@
 # text = kanãy yét péŋ [ʔet]
 # text_eng = Then this white man said/did. (Gabas 1999, 106)
 1	kanãy	_	ADV	adv	_	4	advmod	4:advmod	_
-2	yét	_	PRON	pron	PronType=Dem	3	nmod:poss	3:nmod:poss	_
+2	yét	_	PRON	pron	PronType=Dem	3	nmod	3:nmod	_
 3	péŋ	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	[ʔet]	_	AUX	aux	Mood=Ind	0	root	0:root	_
 
@@ -1851,7 +1851,7 @@
 # text = cúrem wat kaʔa ʔa
 # text_eng = My house is big. (Gabas 1999, 107)
 1	cúrem	_	ADJ	adj	_	0	root	0:root	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	1	nsubj	1:nsubj	_
 4	ʔa	_	PART	part	_	3	clf:rd	3:clf:rd	_
 
@@ -1859,7 +1859,7 @@
 # text = pattem et owẽ rap
 # text_eng = Your children are beautiful. (Gabas 1999, 107)
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
-2	et	_	PRON	pron	Number=Sing|Person=2	3	nmod:poss	3:nmod:poss	_
+2	et	_	PRON	pron	Number=Sing|Person=2	3	nmod	3:nmod	_
 3	owẽ	_	NOUN	n	_	1	nsubj	1:nsubj	_
 4	rap	_	PART	part	_	3	case	3:case	_
 
@@ -1887,7 +1887,7 @@
 1	tik	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	wán	_	VERB	v	Mood=Ind	0	root	0:root	_
 3	ahyə	_	PART	part	PronType=Int	2	mark	2:mark	_
-4	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nmod	5:nmod	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 6	ʔa	_	PART	part	_	5	clf:rd	5:clf:rd	_
 7	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
@@ -1896,7 +1896,7 @@
 # text = õn wat kaʔa ʔa kət cagáro kõmnem
 # text_eng = I have two houses. (lit. My two houses walk.) (Gabas 1999, 108)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔa	_	PART	part	_	3	clf:rd	3:clf:rd	_
 5	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -1907,7 +1907,7 @@
 # text = at toat makãri rakət
 # text_eng = He has a necklace. (lit. He walks with his necklace) (Gabas 1999, 108)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	makãri	_	NOUN	n	_	4	obj	4:obj	_
 4	rakət	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
 
@@ -1929,7 +1929,7 @@
 # sent_id = 274
 # text = wat owẽ wét
 # text_eng = My child cried. (Gabas 1999, 110)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	wét	_	VERB	v	Mood=Ind	0	root	0:root	_
 
@@ -1944,14 +1944,14 @@
 # sent_id = 276
 # text = maʔwɨt at tágɨp
 # text_eng = man's bow (Gabas 1999, 110)
-1	maʔwɨt	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	maʔwɨt	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
 3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 277
 # text = agóaʔpət at kaʔa ʔaʔ
 # text_eng = shaman's house (Gabas 1999, 110)
-1	agóaʔpət	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	agóaʔpət	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
 3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 4	ʔaʔ	_	PART	part	_	3	clf	3:clf	_
@@ -1959,7 +1959,7 @@
 # sent_id = 278
 # text = maʔpəy at manikap
 # text_eng = woman's hammock (Gabas 1999, 110)
-1	maʔpəy	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	maʔpəy	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
 3	manikap	_	NOUN	n	_	0	root	0:root	_
 
@@ -1985,13 +1985,13 @@
 # text = mãygãra capóp pɨʔ
 # text_eng = tail of a snake (Gabas 1999, 112)
 1	mãygãra	_	NOUN	n	_	0	root	0:root	_
-2	capóp	_	NOUN	n	_	1	nmod:poss	1:nmod:poss	_
+2	capóp	_	NOUN	n	_	1	nmod	1:nmod	_
 3	pɨʔ	_	PART	part	_	2	clf:cyls	2:clf:cyls	_
 
 # sent_id = 283
 # text = agóaʔpət naká
 # text_eng = shaman's head (Gabas 1999, 112)
-1	agóaʔpət	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	agóaʔpət	_	NOUN	n	_	2	nmod	2:nmod	_
 2	naká	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 284
@@ -2004,7 +2004,7 @@
 # sent_id = 285
 # text = war owẽ nakɨra cop
 # text_eng = the dirt of the ear of my child (Gabas 1999, 112)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	3	nmod	3:nmod	_
 3	nakɨra	_	NOUN	n	_	4	nmod	4:nmod	_
 4	cop	_	NOUN	n	_	0	root	0:root	_
@@ -2012,7 +2012,7 @@
 # sent_id = 286
 # text = ite at owẽ nakɨra cop
 # text_eng = the dirt of the ear of my uncle's child (Gabas 1999, 112)
-1	ite	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	ite	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PRON	pron	_	1	case	1:case	_
 3	owẽ	_	NOUN	n	_	4	nmod	4:nmod	_
 4	nakɨra	_	NOUN	n	_	5	nmod	5:nmod	_
@@ -2025,7 +2025,7 @@
 2	maʔpəy	_	NOUN	n	_	8	nsubj	8:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	ʔet	_	AUX	aux	Mood=Ind	8	aux	8:aux	_
-5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
 6	chapéu	_	NOUN	n	_	8	obj	8:obj	_
 7	káʔ	_	PART	part	_	6	clf:ccv	6:clf:ccv	_
 8	tiga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -2124,7 +2124,7 @@
 1	kanãy	_	ADV	adv	_	7	advmod	7:advmod	_
 2	pèŋ	_	NOUN	n	_	7	nsubj	7:nsubj	_
 3	ʔep	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
-4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	mok	_	NOUN	n	_	7	obj	7:obj	_
 6	peroʔ	_	PART	part	Number=Plur	5	clf:flat	5:clf:flat	_
 7	cára	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -2139,7 +2139,7 @@
 # sent_id = 302
 # text = itɨ cãp
 # text_eng = deer's leg (Gabas 1999, 116)
-1	itɨ	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	itɨ	_	NOUN	n	_	2	nmod	2:nmod	_
 2	cãp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 303
@@ -2150,7 +2150,7 @@
 # sent_id = 304
 # text = yate gap
 # text_eng = pig's fat (Gabas 1999, 116)
-1	yate	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	yate	_	NOUN	n	_	2	nmod	2:nmod	_
 2	gap	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 305
@@ -2161,45 +2161,45 @@
 # sent_id = 306
 # text = aoro cagá
 # text_eng = parrot's eye (Gabas 1999, 116)
-1	aoro	_	NOUN	n	_	2	nmod:poss	2:nmod:poss	_
+1	aoro	_	NOUN	n	_	2	nmod	2:nmod	_
 2	cagá	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 307
 # text = wat kaʔa
 # text_eng = my house (Gabas 1999, 116)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 308
 # text = maʔwɨr at kaʔa
 # text_eng = man's house (Gabas 1999, 116)
-1	maʔwɨr	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	maʔwɨr	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PART	part	_	1	case	1:case	_
 3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 309
 # text = er icɨ
 # text_eng = your water (Gabas 1999, 117)
-1	er	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	er	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	_
 2	icɨ	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 310
 # text = maʔpəy at icɨ
 # text_eng = woman's water (Gabas 1999, 117)
-1	maʔpəy	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	maʔpəy	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PART	part	_	1	case	1:case	_
 3	icɨ	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 311
 # text = at tágɨp
 # text_eng = his bow (Gabas 1999, 117)
-1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	_
 2	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 312
 # text = agóaʔpət at tágɨp
 # text_eng = shaman's bow (Gabas 1999, 117)
-1	agóaʔpət	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	agóaʔpət	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PART	part	_	1	case	1:case	_
 3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
@@ -2217,7 +2217,7 @@
 # text_eng = My father and I were angry yesterday. (Gabas 1999, 117)
 1	owakán	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
 2	matet	_	ADV	adv	_	1	advmod	1:advmod	_
-3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
 5	pihmãm	_	ADP	adp	Case=Com	4	case	4:case	_
 6	(towakára)	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	_	_	_	_
@@ -2255,11 +2255,11 @@
 # sent_id = 318
 # text = maʔwɨr at pewit, ŋaat pewit koãm
 # text_eng = the man's honey, and her honey also (Gabas 1999, 118)
-1	maʔwɨr	_	NOUN	n	_	3	nmod:poss	3:nmod:poss	_
+1	maʔwɨr	_	NOUN	n	_	3	nmod	3:nmod	_
 2	at	_	PART	part	_	1	case	1:case	_
 3	pewit	_	NOUN	n	_	0	root	0:root	SpaceAfter=No
 4	,	_	PUNCT	punct	_	3	punct	3:punct	_
-5	ŋaat	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	ŋaat	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
 6	pewit	_	NOUN	n	_	3	appos	3:appos	_
 7	koãm	_	PART	part	_	6	mark	6:mark	_
 
@@ -2294,14 +2294,14 @@
 # text = iyõm wat awe capét
 # text_eng = Father beat my brother. (Gabas 1999, 120)
 1	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	awe	_	NOUN	n	_	4	obj	4:obj	_
 4	capét	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 324
 # text = wat awe iyõm capét
 # text_eng = My brother beat father. (Gabas 1999, 120)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	awe	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	iyõm	_	NOUN	n	_	4	obj	4:obj	_
 4	capét	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2373,7 +2373,7 @@
 # sent_id = 336
 # text = toat páy gəy roʔwa
 # text_eng = his own other. (Gabas 1999, 122)
-1	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	2	nmod	2:nmod	_
 2	páy	_	ADJ	adj	_	0	root	0:root	_
 3	gəy	_	PART	part	Case=Dat	2	case	2:case	_
 4	roʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
@@ -2388,7 +2388,7 @@
 # text = õn er iyõm noy matet
 # text_eng = I saw your father yesterday. (Gabas 1999, 123)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-2	er	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	er	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	3:nmod	_
 3	iyõm	_	NOUN	n	_	4	obj	4:obj	_
 4	noy	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	matet	_	ADV	adv	_	4	obl	4:obl	_
@@ -2496,7 +2496,7 @@
 # text_eng = The white man will go down (to the river) to wash his clothes. (Gabas 1999, 126)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	yaʔi	_	VERB	v	Mood=Ind	0	root	0:root	_
-3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	4:nmod	_
 4	mok	_	NOUN	n	_	6	obj	6:obj	_
 5	peʔ	_	PART	part	_	4	clf:flat	4:clf:flat	_
 6	cán	_	VERB	v	_	2	xcomp	2:xcomp	_
@@ -2583,7 +2583,7 @@
 # sent_id = 363
 # text = wat owẽ ŋa kət yat iʔke menə
 # text_eng = I wonder whether my baby girl will not walk. (Gabas 1999, 128)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2616,7 +2616,7 @@
 # text = oken péŋ at kaʔa ʔaʔ peʔ
 # text_eng = I slept at the white man's house. (Gabas 1999, 129)
 1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
-2	péŋ	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
+2	péŋ	_	NOUN	n	_	4	nmod	4:nmod	_
 3	at	_	PART	part	_	2	case	2:case	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
 5	ʔaʔ	_	PART	part	_	4	clf	4:clf	_
@@ -2627,7 +2627,7 @@
 # text_eng = You are ugly like your father. (Gabas 1999, 129)
 1	pecéptem	_	ADJ	adj	_	0	root	0:root	_
 2	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	1	nsubj	1:nsubj	_
-3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
 5	ŋõm	_	ADP	adp	Case=Sim	4	case	4:case	_
 
@@ -2727,7 +2727,7 @@
 # sent_id = 381
 # text = iʔca macahmərəba rokõna
 # text_eng = making our sight hazy. (Gabas 1999, 132)
-1	iʔca	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod:poss	2:nmod:poss	_
+1	iʔca	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	2	nmod	2:nmod	_
 2	macahmərəba	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 3	rokõna	_	ADP	adp	Corf=Yes|Person=3	2	mark	2:mark	_
 
@@ -2775,7 +2775,7 @@
 # sent_id = 387
 # text = wat apəy ŋa pepat cək mãm
 # text_eng = My grandmother woke up early. (Gabas 1999, 133)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	pepat	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2879,7 +2879,7 @@
 # sent_id = 399
 # text = war owã ŋa bakán okəy
 # text_eng = My mother was angry at me. (Gabas 1999, 136)
-1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2888,7 +2888,7 @@
 # sent_id = 400
 # text = war owã ŋa bakán okəy matet
 # text_eng = My mother was angry at me yesterday. (Gabas 1999, 136)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2898,7 +2898,7 @@
 # sent_id = 401
 # text = war owã ŋa bakán okəy
 # text_eng = My mother was angry at me... (Gabas 1999, 136)
-1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
@@ -2908,7 +2908,7 @@
 # text = matet péŋ at kaʔa ʔa peʔ
 # text_eng = ... yesterday at the white man's house. (Gabas 1999, 136)
 1	matet	_	ADV	adv	_	4	obl	4:obl	_
-2	péŋ	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
+2	péŋ	_	NOUN	n	_	4	nmod	4:nmod	_
 3	at	_	PART	part	_	2	case	2:case	_
 4	kaʔa	_	NOUN	n	_	0	root	0:root	_
 5	ʔa	_	PART	part	_	4	clf:rd	4:clf:rd	_
@@ -2969,7 +2969,7 @@
 # sent_id = 409
 # text = war icɨ ʔara okay co
 # text_eng = I was going to bring my water (Gabas 1999, 138)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	icɨ	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 4	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	aux	3:aux	_
@@ -3004,7 +3004,7 @@
 # sent_id = 413
 # text = wat kanã rakəga wet co kán
 # text_eng = I had my things long ago. (Gabas 1999, 139)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kanã	_	NOUN	n	_	3	obj	3:obj	_
 3	rakəga	_	VERB	v	Case=Com|VerbForm=Ger	0	root	0:root	_
 4	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
@@ -3041,7 +3041,7 @@
 1	Ø	_	_	_	_	_	_	_	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	[wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	[wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
 5	owẽ]	_	NOUN	n	_	3	nsubj	3:nsubj	_
 6	kay	_	AUX	aux	Mood=Ind|Tense=Fut	3	aux	3:aux	_
 
@@ -3076,7 +3076,7 @@
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 4	iʔke	_	PART	part	_	3	advmod	3:advmod	_
-5	[war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	[war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	6	nmod	6:nmod	_
 6	owẽ]	_	NOUN	n	_	3	nsubj	3:nsubj	_
 7	gay	_	AUX	aux	Mood=Ind|Tense=Fut	3	aux	3:aux	_
 
@@ -3107,7 +3107,7 @@
 # sent_id = 425
 # text = wat kaʔa ʔa yat
 # text_eng = My future house. (Gabas 1999, 143)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	2	clf:rd	2:clf:rd	_
 4	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
@@ -3199,7 +3199,7 @@
 # sent_id = 437
 # text = [ar owẽ rab iʔke] ewirup ʔot
 # text_eng = It wasn't his children who ate your food. (Gabas 1999, 145)
-1	[ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	[ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	6	nsubj	6:nsubj	_
 3	rab	_	PART	part	Case=Com	2	case	2:case	_
 4	iʔke]	_	PART	part	_	2	advmod	2:advmod	_
@@ -3275,7 +3275,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
-4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 6	ʔa	_	PART	part	_	5	clf:rd	5:clf:rd	_
 7	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
@@ -3283,7 +3283,7 @@
 # sent_id = 447
 # text = at kaʔa ʔa peʔ iʔke wep aʔtoba
 # text_eng = It was not at his house that I saw him/it. (Gabas 1999, 147)
-1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	PART	part	_	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
@@ -3321,7 +3321,7 @@
 # text_eng = My children are not many (children). (Gabas 1999, 148)
 1	paʔpiktem	_	ADJ	adj	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	owẽ	_	NOUN	n	_	1	nsubj	1:nsubj	_
 5	rap	_	PART	part	Case=Com	4	case	4:case	_
 
@@ -3335,7 +3335,7 @@
 # sent_id = 453
 # text = war owẽ rab iʔke baʔpiktem
 # text_eng = It is not my children who are many. (Gabas 1999, 149)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	0	root	0:root	_
 3	rab	_	PART	part	_	2	case	2:case	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
@@ -3459,7 +3459,7 @@
 # text_eng = Weren't you sleeping at your house? (Gabas 1999, 153)
 1	taykir	_	PART	part	_	2	advmod	2:advmod	_
 2	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
-3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 5	ʔa	_	PART	part	_	4	clf:rd	4:clf:rd	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
@@ -3502,7 +3502,7 @@
 # sent_id = 474
 # text = war iyõm ʔet okəy matet
 # text_eng = my father said (to me yesterday). (Gabas 1999, 154)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
+1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	iyõm	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔet	_	AUX	aux	_	0	root	0:root	_
 4	okəy	_	ADP	adp	_	3	case	3:case	_
@@ -3561,7 +3561,7 @@
 # text = iʔtə maʔpəy ŋa cet maʔã iʔke nãnin,
 # text_eng = We really cannot call the woman's name, (Gabas 1999, 156)
 1	iʔtə	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
-2	maʔpəy	_	NOUN	n	_	4	nmod:poss	4:nmod:poss	_
+2	maʔpəy	_	NOUN	n	_	4	nmod	4:nmod	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf:fem	2:clf:fem	_
 4	cet	_	NOUN	n	_	5	obj	5:obj	_
 5	maʔã	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -3619,7 +3619,7 @@
 2	wĩaw	_	NOUN	n	_	_	_	_	_
 3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	2:aux	_
 4	[Ø	_	_	_	Number=Sing|Person=3	8	nsubj	8:nsubj	_
-5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod:poss	6:nmod:poss	_
+5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
 6	chapéu	_	NOUN	n	_	8	obj	8:obj	_
 7	káʔ	_	PART	part	_	6	clf:ccv	6:clf:ccv	_
 8	to	_	VERB	v	_	0	root	0:root	_
@@ -3675,7 +3675,7 @@
 # text_eng = He came to kill his animals. (Gabas 1999, 160)
 1	aʔti	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
 2	[Ø	_	_	_	_	_	_	_	_
-3	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	_
 4	macaʔɨt	_	NOUN	n	_	5	obj	5:obj	_
 5	wĩ	_	VERB	v	_	1	dep	1:dep	_
 6	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
@@ -3693,7 +3693,7 @@
 # text = [at toat macaʔɨt wĩn nãt] totia
 # text_eng = (In order) to kill his animals he came. (Gabas 1999, 160)
 1	[at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	macaʔɨt	_	NOUN	n	_	4	obj	4:obj	_
 4	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	nãt]	_	SCONJ	sconj	_	4	mark	4:mark	_
@@ -3710,7 +3710,7 @@
 # text = at toat cĩm nati Ø aʔcá nãt toʔwa
 # text_eng = He brought his hunt to wash it. (Gabas 1999, 161)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	cĩm	_	NOUN	n	_	4	obj	4:obj	_
 4	nati	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	Ø	_	_	_	Number=Sing|Person=3	_	_	_	_
@@ -3752,7 +3752,7 @@
 # text = ebeʔcɨn wat iyõm eto nãr a
 # text_eng = You ran so that my father could see you. (Gabas 1999, 162)
 1	ebeʔcɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
-2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod:poss	3:nmod:poss	_
+2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	eto	_	VERB	v	Number=Sing|Person=2	1	dep	1:dep	_
 5	nãr	_	SCONJ	sconj	_	4	mark	4:mark	_
@@ -4454,7 +4454,7 @@
 # text_eng = (You sg.) scratch (at your house)! (Gabas 1999, 192)
 1	kãykãy	kãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	1:aux	_
-3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
 5	ʔa	_	PART	part	_	4	clf:rd	4:clf:rd	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
@@ -4706,7 +4706,7 @@
 1	tɨk	_	VERB	v	_	2	compound	2:compound	_
 2	tɨk	_	VERB	v	_	7	parataxis	7:parataxis	_
 3	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	2	aux	2:aux	_
-4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	wirik	_	NOUN	n	_	7	obj	7:obj	_
 6	kanã	_	ADV	adv	_	5	advmod	5:advmod	_
 7	təga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -4768,7 +4768,7 @@
 1	péŋ	_	NOUN	n	_	6	nsubj	6:nsubj	_
 2	ʔet	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
 3	topə	_	PART	part	Evident=Fh	0	root	0:root	_
-4	toat	_	PRON	pron	PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	toat	_	PRON	pron	PronType=Prs	5	nmod	5:nmod	_
 5	macaʔɨt	_	NOUN	n	_	6	obj	6:obj	_
 6	wĩa	_	VERB	v	VerbForm=Ger	3	ccomp	3:ccomp	_
 
@@ -4834,7 +4834,7 @@
 1	maʔpəy	_	NOUN	n	_	7	nsubj	7:nsubj	_
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf:fem	1:clf:fem	_
 3	ʔet	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
-4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod:poss	5:nmod:poss	_
+4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	chapéu	_	NOUN	n	_	7	obj	7:obj	_
 6	káʔ	_	PART	part	_	5	clf:ccv	5:clf:ccv	_
 7	tiga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
@@ -4870,7 +4870,7 @@
 # text_eng = The white man was seen to have killed one of his own pets. (Gabas 1999, 213)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	topə	_	PART	part	Evident=Fh	0	root	0:root	_
-3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod:poss	4:nmod:poss	_
+3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	4:nmod	_
 4	macaʔɨt	_	NOUN	n	_	2	obj	2:obj	_
 5	nõ	_	ADV	adv	_	4	nmod	4:nmod	_
 6	wĩn	_	VERB	v	Mood=Ind	2	ccomp	2:ccomp	_
