@@ -163,9 +163,9 @@
 # sent_id = 025
 # text = epɑ̃n mãm ahyə
 # text_eng = Are you good/alright? (Gabas 1999, 29)
-1	epɑ̃n	_	VERB	v	Number=Sing|Person=2	0	root	0:root	_
-2	mãm	_	PART	part	_	_	_	_	_
-3	ahyə	_	PART	part	PronType=Int	1	mark	1:mark	_
+1	epɑ̃n	pat	VERB	v	Number=Sing|Person=2	0	root	0:root	_
+2	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
+3	ahyə	ahyə	PART	part	PronType=Int	1	mark	1:mark	_
 
 # sent_id = 026
 # text =  aʔwɑ̃ŋ naʔto wīn
