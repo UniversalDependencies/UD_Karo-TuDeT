@@ -525,7 +525,7 @@
 # text_eng = My houses. (Gabas 1999, 54)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
-3	ʔaʔtoʔ	_	PART	part	Clas=Rd|Number=Plur	2	clf	2:clf	_
+3	ʔaʔtoʔ	_	ADJ	adj	Clas=Rd|Number=Plur	2	clf	2:clf	_
 
 # sent_id = 078
 # text =owagon oyakay tokõna
@@ -1001,14 +1001,14 @@
 # text = kaʔa ʔaʔtoʔ
 # text_ eng= houses (Gabas 1999, 74)
 1	kaʔa	_	NOUN	n	_	0	root	0:root	_
-2	ʔaʔtoʔ	_	PART	part	Clas=Rd|Number=Plur	1	clf	1:clf	_
+2	ʔaʔtoʔ	_	ADJ	adj	Clas=Rd|Number=Plur	1	clf	1:clf	_
 
 # sent_id = 149
 # text = wat kaʔa ʔa pɨk=toʔ
 # text_eng= the rest of my houses (Gabas 1999, 75)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	4	nmod	4:nmod	_
-3	ʔa	_	PART	part	Clas=Rd	2	clf	2:clf	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	pɨk=toʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 150
@@ -1393,20 +1393,20 @@
 # text_eng = butterfly wing (Gabas 1999, 92)
 1	kɨrɨwep	_	NOUN	n	_	2	compound	2:compound	_
 2	tem	_	NOUN	n	_	0	root	0:root	_
-3	cɨʔ	_	PART	part	Clas=Tflat	2	clf	2:clf	_
+3	cɨʔ	_	ADJ	adj	Clas=Tflat	2	clf	2:clf	_
 
 # sent_id = 206
 # text = mok peʔ cakɨ
 # text_eng = cloth (Gabas 1999, 92)
 1	mok	_	NOUN	n	_	3	compound	3:compound	_
-2	peʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+2	peʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 3	cakɨ	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 207
 # text = wayo bap ci
 # text_eng = alligator soup (Gabas 1999, 92)
 1	wayo	wayo	NOUN	n	_	3	compound	3:compound	_
-2	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 3	ci	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 208
@@ -1461,7 +1461,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	kaʔaʔ	_	NOUN	n	_	5	obj	5:obj	_
-4	ʔaʔ	_	PART	part	Clas=Rd	3	clf	3:clf	_
+4	ʔaʔ	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 5	pẽn	_	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 216
@@ -1471,7 +1471,7 @@
 2	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 3	toat	_	PRON	pron	Corf=Yes|Person=3	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	6	obj	6:obj	_
-5	ʔaʔ	_	PART	part	Clas=Rd	4	clf	4:clf	_
+5	ʔaʔ	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
 6	pẽya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 217
@@ -1480,7 +1480,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
-4	ʔaʔ	_	PART	part	Clas=Rd	3	clf	3:clf	_
+4	ʔaʔ	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 5	pẽ	_	VERB	v	_	0	root	0:root	_
 6	mãm	mãm	PART	part	_	5	discourse	5:discourse	_
 
@@ -1596,7 +1596,7 @@
 # text_eng = (It was) at my house (that) I waited for him/it. (Gabas 1999, 99)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
-3	ʔa	_	PART	part	Clas=Rd	1	clf	1:clf	_
+3	ʔa	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
 5	web	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	5	aux	5:aux	_
 6	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	obj	1:obj	_
@@ -1606,7 +1606,7 @@
 # text_eng = (It was) at your house (that) he waited for you. (Gabas 1999, 99)
 1	et	_	PRON	Number=Sing|Person=2|PronType=Prs	_	2	nmod	2:nmod	_
 2	kaʔa	kaʔa	NOUN	n	_	0	root	0:root	_
-3	ʔa	_	PART	part	Clas=Rd	2	clf	2:clf	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 6	epɨyap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	2	parataxis	2:parataxis	_
@@ -1634,7 +1634,7 @@
 2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
 3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
-5	ʔa	_	PART	part	Clas=Rd	4	clf	4:clf	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 237
@@ -1644,7 +1644,7 @@
 2	epɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
-5	ʔa	_	PART	part	Clas=Rd	4	clf	4:clf	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
 6	peʔ	_	PART	part	_	4	case	4:case	_
 
 # sent_id = 238
@@ -1851,7 +1851,7 @@
 1	cúrem	_	ADJ	adj	_	0	root	0:root	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	1	nsubj	1:nsubj	_
-4	ʔa	_	PART	part	Clas=Rd	3	clf	3:clf	_
+4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 
 # sent_id = 266
 # text = pattem et owẽ rap
@@ -1875,7 +1875,7 @@
 1	Antônio	_	PROPN	propn	_	2	nsubj	2:nsubj	_
 2	yãn	_	VERB	v	Mood=Ind	0	root	0:root	_
 3	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
-4	ʔa	_	PART	part	Clas=Rd	3	clf	3:clf	_
+4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 5	naʔot	_	ADV	adv	_	3	advmod	3:advmod	_
 6	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
 
@@ -1887,7 +1887,7 @@
 3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
 4	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nmod	5:nmod	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
-6	ʔa	_	PART	part	Clas=Rd	5	clf	5:clf	_
+6	ʔa	_	ADJ	adj	Clas=Rd	5	clf	5:clf	_
 7	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
 
 # sent_id = 270
@@ -1896,7 +1896,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
-4	ʔa	_	PART	part	Clas=Rd	3	clf	3:clf	_
+4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 5	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
 6	cagáro	_	NUM	num	_	3	nummod	3:nummod	_
 7	kõmnem	_	X	x	_	5	advmod	5:advmod	_
@@ -1984,7 +1984,7 @@
 # text_eng = tail of a snake (Gabas 1999, 112)
 1	mãygãra	_	NOUN	n	_	0	root	0:root	_
 2	capóp	_	NOUN	n	_	1	nmod	1:nmod	_
-3	pɨʔ	_	PART	part	Clas=Cyls	2	clf	2:clf	_
+3	pɨʔ	_	ADJ	adj	Clas=Cyls	2	clf	2:clf	_
 
 # sent_id = 283
 # text = agóaʔpət naká
@@ -2025,7 +2025,7 @@
 4	ʔet	_	AUX	aux	Mood=Ind	8	aux	8:aux	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
 6	chapéu	_	NOUN	n	_	8	obj	8:obj	_
-7	káʔ	_	PART	part	Clas=Ccv	6	clf	6:clf	_
+7	káʔ	_	ADJ	adj	Clas=Ccv	6	clf	6:clf	_
 8	tiga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 9	ɨgana	_	NOUN	n	_	8	obl	8:obl	_
 10	peʔ	_	ADP	adp	Case=Loc	9	case	9:case	_
@@ -2124,7 +2124,7 @@
 3	ʔep	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
 4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	mok	_	NOUN	n	_	7	obj	7:obj	_
-6	peroʔ	_	PART	part	Clas=Flat|Number=Plur	5	clf	5:clf	_
+6	peroʔ	_	ADJ	adj	Clas=Flat|Number=Plur	5	clf	5:clf	_
 7	cára	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 8	icɨ	_	NOUN	n	_	7	obl	7:obl	_
 9	peʔ	_	ADP	adp	Case=Loc	8	case	8:case	_
@@ -2495,7 +2495,7 @@
 2	yaʔi	_	VERB	v	Mood=Ind	0	root	0:root	_
 3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	4:nmod	_
 4	mok	_	NOUN	n	_	6	obj	6:obj	_
-5	peʔ	_	PART	part	Clas=Flat	4	clf	4:clf	_
+5	peʔ	_	ADJ	adj	Clas=Flat	4	clf	4:clf	_
 6	cán	_	VERB	v	_	2	xcomp	2:xcomp	_
 7	iga	_	PART	part	Tense=Fut	6	mark	6:mark	_
 
@@ -2908,7 +2908,7 @@
 2	péŋ	_	NOUN	n	_	4	nmod	4:nmod	_
 3	at	_	PART	part	_	2	case	2:case	_
 4	kaʔa	_	NOUN	n	_	0	root	0:root	_
-5	ʔa	_	PART	part	Clas=Rd	4	clf	4:clf	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 403
@@ -2948,7 +2948,7 @@
 1	iʔat	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
 2	yaʔmo	_	NOUN	n	_	5	obj	3:compound|5:obj	_
 3	ci	_	NOUN	n	_	_	_	_	_
-4	káʔ	_	PART	part	Clas=Ccv	3	clf	3:clf	_
+4	káʔ	_	ADJ	adj	Clas=Ccv	3	clf	3:clf	_
 5	ʔor	_	VERB	v	Mood=Ind	0	root	0:root	_
 6	iʔke	_	PART	part	_	5	advmod	5:advmod	_
 7	werem	_	ADV	adv	_	5	obl	5:obl	_
@@ -3102,7 +3102,7 @@
 # text_eng = My future house. (Gabas 1999, 143)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
-3	ʔa	_	PART	part	Clas=Rd	2	clf	2:clf	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 
 # sent_id = 426
@@ -3270,7 +3270,7 @@
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
-6	ʔa	_	PART	part	Clas=Rd	5	clf	5:clf	_
+6	ʔa	_	ADJ	adj	Clas=Rd	5	clf	5:clf	_
 7	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
 
 # sent_id = 447
@@ -3278,7 +3278,7 @@
 # text_eng = It was not at his house that I saw him/it. (Gabas 1999, 147)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
-3	ʔa	_	PART	part	Clas=Rd	2	clf	2:clf	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
 5	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 6	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	7	aux	7:aux	_
@@ -3454,7 +3454,7 @@
 2	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
-5	ʔa	_	PART	part	Clas=Rd	4	clf	4:clf	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 470
@@ -3513,7 +3513,7 @@
 # text_eng = (he) made the water bubbles to come up, (Gabas 1999, 155)
 1	ci	_	NOUN	n	_	3	compound	3:compound	_
 2	mininĩ	_	NOUN	n	_	6	obj	6:obj	_
-3	ʔa	_	PART	part	Clas=Rd	3	clf	3:clf	_
+3	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 4	mõm	_	ADV	adv	_	6	advmod	6:advmod	_
 5	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	SpaceAfter=No
 
@@ -3531,7 +3531,7 @@
 # text = toyãy ʔa binõ ya
 # text_eng = (he) cracked his own teeth (Gabas 1999, 156)
 1	toyãy	_	NOUN	n	Corf=Yes|Person=3	4	obj	4:obj	_
-2	ʔa	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔa	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 3	binõ	_	NOUN	n	_	1	compound	1:compound	_
 4	ya	_	VERB	v	VerbForm=Ger	0	root	0:root	SpaceAfter=No
 
@@ -3603,7 +3603,7 @@
 3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	2:aux	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
 5	chapéu	_	NOUN	n	_	8	obj	8:obj	_
-6	káʔ	_	PART	part	Clas=Ccv	6	clf	6:clf	_
+6	káʔ	_	ADJ	adj	Clas=Ccv	6	clf	6:clf	_
 7	to	_	VERB	v	_	0	root	0:root	_
 8	kanãp	_	SCONJ	sconj	_	8	mark	8:mark	_
 
@@ -3786,109 +3786,109 @@
 # text = wayo bap
 # text_eng = alligator (Gabas 1999, 169)
 1	wayo	_	NOUN	n	_	0	root	0:root	_
-2	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 
 # sent_id = 508
 # text = mãygãra bap
 # text_eng = snake (Gabas 1999, 169)
 1	mãygãra	_	NOUN	n	_	0	root	0:root	_
-2	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 
 # sent_id = 509
 # text = ĩya ʔɨp
 # text_eng = bird (general) (Gabas 1999, 169)
 1	ĩya	_	NOUN	n	_	0	root	0:root	_
-2	ʔɨp	_	PART	part	Clas=Cylm	1	clf	1:clf	_
+2	ʔɨp	_	ADJ	adj	Clas=Cylm	1	clf	1:clf	_
 
 # sent_id = 510
 # text = wáya ʔɨp
 # text_eng = spoon (Gabas 1999, 169)
 1	wáya	_	NOUN	n	_	0	root	0:root	_
-2	ʔɨp	_	PART	part	Clas=Cylm	1	clf	1:clf	_
+2	ʔɨp	_	ADJ	adj	Clas=Cylm	1	clf	1:clf	_
 
 # sent_id = 511
 # text = icãp pɨʔ
 # text_eng = leg (Gabas 1999, 170)
 1	icãp	_	NOUN	_	Person=3Imp	0	root	0:root	_
-2	pɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+2	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 
 # sent_id = 512
 # text = icapop pɨʔ
 # text_eng = tail (Gabas 1999, 170)
 1	icapop	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	pɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+2	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 
 # sent_id = 513
 # text = ibeon meʔ
 # text_eng = skin (Gabas 1999, 170)
 1	ibeon	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	meʔ	_	PART	part	Clas=Tflat	1	clf	1:clf	_
+2	meʔ	_	ADJ	adj	Clas=Tflat	1	clf	1:clf	_
 
 # sent_id = 514
 # text = ipá beʔ
 # text_eng = hand (Gabas 1999, 170)
 1	ipá	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	beʔ	_	PART	part	Clas=Tflat	1	clf	1:clf	_
+2	beʔ	_	ADJ	adj	Clas=Tflat	1	clf	1:clf	_
 
 # sent_id = 515
 # text = naʔyop cɨʔ
 # text_eng = leaf (also: money) (Gabas 1999, 170)
 1	naʔyop	_	NOUN	n	_	0	root	0:root	_
-2	cɨʔ	_	PART	part	Clas=Tflat	1	clf	1:clf	_
+2	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	1:clf	_
 
 # sent_id = 516
 # text = wəwə cɨʔ
 # text_eng = hand fanner (Gabas 1999, 170)
 1	wəwə	_	NOUN	n	_	0	root	0:root	_
-2	cɨʔ	_	PART	part	Clas=Tflat	1	clf	1:clf	_
+2	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	1:clf	_
 
 # sent_id = 517
 # text = karo ʔaʔ
 # text_eng = macaw (Gabas 1999, 170)
 1	karo	_	NOUN	n	_	0	root	0:root	_
-2	ʔaʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 518
 # text = icagá ʔaʔ
 # text_eng = eye (Gabas 1999, 170)
 1	icagá	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	ʔaʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 519
 # text = inãk káʔ
 # text_eng = mouth (Gabas 1999, 170)
 1	inãk	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	káʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+2	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 520
 # text = maʔẽ gáʔ
 # text_eng = pan (Gabas 1999, 170)
 1	maʔẽ	_	NOUN	n	_	0	root	0:root	_
-2	gáʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 521
 # text = makap kap
 # text_eng = peanut (Gabas 1999, 170)
 1	makap	_	NOUN	n	_	0	root	0:root	_
-2	kap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	kap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 522
 # text = iyãy gap
 # text_eng = teeth (Gabas 1999, 170)
 1	iyãy	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 523
 # text = maʔta maʔ
 # text_eng = beans (Gabas 1999, 171)
 1	maʔta	_	NOUN	n	_	0	root	0:root	_
-2	maʔ	_	PART	part	Clas=Bds	1	clf	1:clf	_
+2	maʔ	_	ADJ	adj	Clas=Bds	1	clf	1:clf	_
 
 # sent_id = 524
 # text = cicɨ maʔ
 # text_eng = mosquito (Gabas 1999, 171)
 1	cicɨ	_	NOUN	n	_	0	root	0:root	_
-2	maʔ	_	PART	part	Clas=Bds	1	clf	1:clf	_
+2	maʔ	_	ADJ	adj	Clas=Bds	1	clf	1:clf	_
 
 # sent_id = 525
 # text = maʔpəy ŋa
@@ -3906,76 +3906,76 @@
 # text = mani nãʔ
 # text_eng = manioc (Gabas 1999, 171)
 1	mani	_	NOUN	n	_	0	root	0:root	_
-2	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
+2	nãʔ	_	ADJ	adj	Clas=X	1	clf	1:clf	_
 
 # sent_id = 528
 # text = cán nãʔ
 # text_eng = fire (Gabas 1999, 171)
 1	cán	_	NOUN	n	_	0	root	0:root	_
-2	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
+2	nãʔ	_	ADJ	adj	Clas=X	1	clf	1:clf	_
 
 # sent_id = 529
 # text = wayo nãk pap
 # text_eng = mouth of (an) alligator(Gabas 1999, 171)
 1	wayo	_	NOUN	n	_	2	nmod	2:nmod	_
 2	nãk	_	NOUN	n	_	0	root	0:root	_
-3	pap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+3	pap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 
 # sent_id = 530
 # text = ei nãk káʔ
 # text_eng = mouth of (an) honey-eater (Gabas 1999, 172)
 1	ei	_	NOUN	n	_	2	nmod	2:nmod	_
 2	nãk	_	NOUN	n	_	0	root	0:root	_
-3	káʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+3	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 531
 # text = wayo yogá beʔ
 # text_eng = tongue of (an) alligator (Gabas 1999, 172)
 1	wayo	_	NOUN	n	_	2	nmod	2:nmod	_
 2	yogá	_	NOUN	n	_	0	root	0:root	_
-3	beʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+3	beʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 
 # sent_id = 532
 # text = wayo nakira beʔ
 # text_eng = ear of (an) alligator (Gabas 1999, 83)
 1	wayo	_	NOUN	n	_	2	nmod	2:nmod	_
 2	nakira	_	NOUN	n	_	0	root	0:root	_
-3	beʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+3	beʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 
 # sent_id = 533
 # text = aʔi nãk káʔ
 # text_eng = mouth of (a) sloth (Gabas 1999, 172)
 1	aʔi	_	NOUN	n	_	2	nmod	2:nmod	_
 2	nãk	_	NOUN	n	_	0	root	0:root	_
-3	káʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+3	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 534
 # text = karam nãk pɨʔ
 # text_eng = mouth of (a) hummingbird (Gabas 1999, 173)
 1	karam	_	NOUN	n	_	2	nmod	2:nmod	_
 2	nãk	_	NOUN	n	_	0	root	0:root	_
-3	pɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+3	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 
 # sent_id = 535
 # text = karam yogá bɨʔ
 # text_eng = tongue of (a) hummingbird (Gabas 1999, 173)
 1	karam	_	NOUN	n	_	2	nmod	2:nmod	_
 2	yogá	_	NOUN	n	_	0	root	0:root	_
-3	bɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+3	bɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 
 # sent_id = 536
 # text = karo nãg aʔ
 # text_eng = mouth of (a) macaw (Gabas 1999, 173)
 1	karo	_	NOUN	n	_	2	nmod	2:nmod	_
 2	nãg	_	NOUN	n	_	0	root	0:root	_
-3	aʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+3	aʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 537
 # text = karo yogá ʔaʔ
 # text_eng = tongue of (a) macaw (Gabas 1999, 173)
 1	karo	_	NOUN	n	_	2	nmod	2:nmod	_
 2	yogá	_	NOUN	n	_	0	root	0:root	_
-3	ʔaʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+3	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 538
 # text = wayo biru
@@ -4005,94 +4005,94 @@
 # text = iu bap ci
 # text_eng = açai wine (Gabas 1999, 175)
 1	iu	_	NOUN	n	_	3	compound	3:compound	_
-2	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 3	ci	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 543
 # text = cat pap cakɨ
 # text_eng = wood piece (piece of wood) (Gabas 1999, 175)
 1	cat	_	NOUN	n	_	3	compound	3:compound	_
-2	pap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	pap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 3	cakɨ	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 544
 # text = nãya gap peʔwap
 # text_eng = corn mash (Gabas 1999, 175)
 1	nãya	_	NOUN	n	_	3	compound	3:compound	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 3	peʔwap	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 545
 # text = wayo bap cú bap
 # text_eng = big alligator (Gabas 1999, 176)
 1	wayo	_	NOUN	n	_	0	root	0:root	_
-2	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
-4	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+4	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 
 # sent_id = 546
 # text = ĩya ʔip par ip
 # text_eng = beautiful bird (Gabas 1999, 176)
 1	ĩya	_	NOUN	n	_	0	root	0:root	_
-2	ʔip	_	PART	part	Clas=Cylm	1	clf	1:clf	_
+2	ʔip	_	ADJ	adj	Clas=Cylm	1	clf	1:clf	_
 3	par	_	ADJ	adj	_	1	amod	1:amod	_
-4	ip	_	PART	part	Clas=Cylm	1	clf	1:clf	_
+4	ip	_	ADJ	adj	Clas=Cylm	1	clf	1:clf	_
 
 # sent_id = 547
 # text = icap pɨʔ cára bɨʔ
 # text_eng = long leg (Gabas 1999, 176)
 1	icap	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	pɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+2	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 3	cára	_	ADJ	adj	_	1	amod	1:amod	_
-4	bɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+4	bɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 
 # sent_id = 548
 # text = ibeon meʔ kĩn meʔ
 # text_eng = hard skin (Gabas 1999, 176)
 1	ibeon	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	meʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+2	meʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 3	kĩn	_	ADJ	adj	_	1	amod	1:amod	_
-4	meʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+4	meʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 
 # sent_id = 549
 # text = naʔyop cɨʔ cú cɨʔ
 # text_eng = big leaf (Gabas 1999, 176)
 1	naʔyop	_	NOUN	n	_	0	root	0:root	_
-2	cɨʔ	_	PART	part	Clas=Tflat	1	clf	1:clf	_
+2	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	1:clf	_
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
-4	cɨʔ	_	PART	part	Clas=Tflat	1	clf	1:clf	_
+4	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	1:clf	_
 
 # sent_id = 550
 # text = karo ʔaʔ par aʔ
 # text_eng = beautiful macaw (Gabas 1999, 177)
 1	karo	_	NOUN	n	_	0	root	0:root	_
-2	ʔaʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 3	par	_	ADJ	adj	_	1	amod	1:amod	_
-4	aʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+4	aʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 551
 # text = i-nãk ká becép káʔ
 # text_eng = ugly mouth (Gabas 1999, 177)
 1	i-nãk	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	ká	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+2	ká	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 3	becép	_	ADJ	adj	_	1	amod	1:amod	_
-4	káʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+4	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 552
 # text = makap kap cú gap
 # text_eng = big peanut (Gabas 1999, 177)
 1	makap	_	NOUN	n	_	0	root	0:root	_
-2	kap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	kap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
-4	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+4	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 553
 # text = maʔta maʔ kap maʔ
 # text_eng = delicious beans (Gabas 1999, 177)
 1	maʔta	_	NOUN	n	_	0	root	0:root	_
-2	maʔ	_	PART	part	Clas=Bds	1	clf	1:clf	_
+2	maʔ	_	ADJ	adj	Clas=Bds	1	clf	1:clf	_
 3	kap	_	ADJ	adj	_	1	amod	1:amod	_
-4	maʔ	_	PART	part	Clas=Bds	1	clf	1:clf	_
+4	maʔ	_	ADJ	adj	Clas=Bds	1	clf	1:clf	_
 
 # sent_id = 554
 # text = maʔpəy ŋa para ŋa
@@ -4106,25 +4106,25 @@
 # text = mani nãʔ cú nãʔ
 # text_eng = big manioc (Gabas 1999, 177)
 1	mani	_	NOUN	n	_	0	root	0:root	_
-2	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
+2	nãʔ	_	ADJ	adj	Clas=X	1	clf	1:clf	_
 3	cú	_	ADJ	adj	_	1	amod	1:amod	_
-4	nãʔ	_	PART	part	Clas=X	1	clf	1:clf	_
+4	nãʔ	_	ADJ	adj	Clas=X	1	clf	1:clf	_
 
 # sent_id = 556
 # text = wayo nak pap cú bap
 # text_eng = big alligator mouth (Gabas 1999, 178)
 1	wayo	_	NOUN	n	_	2	compound	2:compound	_
 2	nak	_	NOUN	n	_	0	root	0:root	_
-3	pap	_	PART	part	Clas=Cylb	2	clf	2:clf	_
+3	pap	_	ADJ	adj	Clas=Cylb	2	clf	2:clf	_
 4	cú	_	ADJ	adj	_	2	amod	2:amod	_
-5	bap	_	PART	part	Clas=Cylb	2	clf	2:clf	_
+5	bap	_	ADJ	adj	Clas=Cylb	2	clf	2:clf	_
 
 # sent_id = 557
 # text = ei nãk káʔ cú gáʔ
 # text_eng = big mouth of (a) honey-eater (Gabas 1999, 178)
 1	ei	_	NOUN	n	_	2	compound	2:compound	_
 2	nãk	_	NOUN	n	_	0	root	0:root	_
-3	káʔ	_	PART	part	Clas=Ccv	2	clf	2:clf	_
+3	káʔ	_	ADJ	adj	Clas=Ccv	2	clf	2:clf	_
 4	cú	_	NOUN	n	_	2	amod	2:amod	_
 5	gáʔ	_	PART	part	Ccv	2	clf	2:clf	_
 
@@ -4133,159 +4133,159 @@
 # text_eng = long tongue of (an) alligator (Gabas 1999, 178)
 1	wayo	_	NOUN	n	_	2	compound	2:compound	_
 2	yogá	_	NOUN	n	_	0	root	0:root	_
-3	beʔ	_	PART	part	Clas=Flat	2	clf	2:clf	_
+3	beʔ	_	ADJ	adj	Clas=Flat	2	clf	2:clf	_
 4	cára	_	ADJ	adj	_	2	amod	2:amod	_
-5	beʔ	_	PART	part	Clas=Flat	2	clf	2:clf	_
+5	beʔ	_	ADJ	adj	Clas=Flat	2	clf	2:clf	_
 
 # sent_id = 559
 # text = karam nãk pɨʔ ʔĩt pɨʔ
 # text_eng = small mouth of (a) hummingbird (Gabas 1999, 178)
 1	karam	_	NOUN	n	_	2	compound	2:compound	_
 2	nãk	_	NOUN	n	_	0	root	0:root	_
-3	pɨʔ	_	PART	part	Clas=Cyls	2	clf	2:clf	_
+3	pɨʔ	_	ADJ	adj	Clas=Cyls	2	clf	2:clf	_
 4	ʔĩt	_	ADJ	adj	_	2	amod	2:amod	_
-5	pɨʔ	_	PART	part	Clas=Cyls	2	clf	2:clf	_
+5	pɨʔ	_	ADJ	adj	Clas=Cyls	2	clf	2:clf	_
 
 # sent_id = 560
 # text = karo nãg aʔ pĩg aʔ
 # text_eng = black mouth of (a) macaw (Gabas 1999, 178)
 1	karo	_	NOUN	n	_	2	compound	2:compound	_
 2	nãg	_	NOUN	n	_	0	root	0:root	_
-3	aʔ	_	PART	part	Clas=Rd	2	clf	2:clf	_
+3	aʔ	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	pĩg	_	ADJ	adj	_	2	amod	2:amod	_
-5	aʔ	_	PART	part	Clas=Rd	2	clf	2:clf	_
+5	aʔ	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 
 # sent_id = 561
 # text = ɨu bap ci kãp pap
 # text_eng = delicious açai wine (Gabas 1999, 178)
 1	ɨu	_	NOUN	n	_	3	compound	3:compound	_
-2	bap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	bap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 3	ci	_	NOUN	n	_	0	root	0:root	_
 4	kãp	_	ADJ	adj	_	3	amod	3:amod	_
-5	pap	_	PART	part	Clas=Cylb	3	clf	3:clf	_
+5	pap	_	ADJ	adj	Clas=Cylb	3	clf	3:clf	_
 
 # sent_id = 562
 # text = cat pap cakɨ wɨn map
 # text_eng = curved piece of wood (Gabas 1999, 179)
 1	cat	_	NOUN	n	_	3	compound	3:compound	_
-2	pap	_	PART	part	Clas=Cylb	1	clf	1:clf	_
+2	pap	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
 3	cakɨ	_	NOUN	n	_	0	root	0:root	_
 4	wɨn	_	ADJ	adj	_	3	amod	3:amod	_
-5	map	_	PART	part	Clas=Cylb	3	clf	3:clf	_
+5	map	_	ADJ	adj	Clas=Cylb	3	clf	3:clf	_
 
 # sent_id = 563
 # text = nãya gap peʔwap paʔpik kap
 # text_eng = lots of corn mash (Gabas 1999, 179)
 1	nãya	_	NOUN	n	_	3	compound	3:compound	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 3	peʔwap	_	NOUN	n	_	0	root	0:root	_
 4	paʔpik	_	ADJ	adj	_	3	amod	3:amod	_
-5	kap	_	PART	part	Clas=Bss	3	clf	3:clf	_
+5	kap	_	ADJ	adj	Clas=Bss	3	clf	3:clf	_
 
 # sent_id = 564
 # text = opá gap
 # text_eng = (all) my fingers (Gabas 1999, 181)
 1	opá	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 565
 # text = opá gáʔ
 # text_eng = my (one) finger (Gabas 1999, 181)
 1	opá	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-2	gáʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 566
 # text = iyã gap
 # text_eng = Brazil nuts in their shell (Gabas 1999, 181)
 1	iyã	_	NOUN	n	_	0	root	0:root	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 567
 # text = iyã ʔaʔ
 # text_eng = one Brazil nut (Gabas 1999, 181)
 1	iyã	_	NOUN	n	_	0	root	0:root	_
-2	ʔaʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 568
 # text = oyãy gap
 # text_eng = (all) my teeth (Gabas 1999, 181)
 1	oyãy	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 569
 # text = oyãy gáʔ
 # text_eng = my (one) tooth (Gabas 1999, 181)
 1	oyãy	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
-2	gáʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 570
 # text = iyá gap
 # text_eng = gravel (Gabas 1999, 182)
 1	iyá	_	NOUN	n	_	0	root	0:root	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 571
 # text = iyá beʔ
 # text_eng = digging stick (Gabas 1999, 182)
 1	iyá	_	NOUN	n	_	0	root	0:root	_
-2	beʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+2	beʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 
 # sent_id = 572
 # text = iyá ʔaʔ
 # text_eng = stone (Gabas 1999, 182)
 1	iyá	_	NOUN	n	_	0	root	0:root	_
-2	ʔaʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 573
 # text = were beʔ
 # text_eng = toad (Gabas 1999, 182)
 1	were	_	NOUN	n	_	0	root	0:root	_
-2	beʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+2	beʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 
 # sent_id = 574
 # text = were bɨʔ
 # text_eng = frog (Gabas 1999, 182)
 1	were	_	NOUN	n	_	0	root	0:root	_
-2	bɨʔ	_	PART	part	Clas=Cyls	1	clf	1:clf	_
+2	bɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	1:clf	_
 
 # sent_id = 575
 # text = ipá beʔ
 # text_eng = hand (Gabas 1999, 182)
 1	ipá	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	beʔ	_	PART	part	Clas=Flat	1	clf	1:clf	_
+2	beʔ	_	ADJ	adj	Clas=Flat	1	clf	1:clf	_
 
 # sent_id = 576
 # text = ipá gap
 # text_eng = fingers (Gabas 1999, 182)
 1	ipá	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	gap	_	PART	part	Clas=Bss	1	clf	1:clf	_
+2	gap	_	ADJ	adj	Clas=Bss	1	clf	1:clf	_
 
 # sent_id = 577
 # text = ipá gáʔ
 # text_eng = (one) finger (Gabas 1999, 182)
 1	ipá	_	NOUN	n	Person=3Imp	0	root	0:root	_
-2	gáʔ	_	PART	part	Clas=Ccv	1	clf	1:clf	_
+2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	1:clf	_
 
 # sent_id = 578
 # text = caʔwət pab aʔ
 # text_eng = thorn (sp.) (Gabas 1999, 182)
 1	caʔwət	_	NOUN	n	_	0	root	0:root	_
-2	pab	_	PART	part	Clas=Cylb	1	clf	1:clf	_
-3	aʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	pab	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
+3	aʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 579
 # text = mok pab aʔ
 # text_eng = hip ornament (made of cotton) (Gabas 1999, 182)
 1	mok	_	NOUN	n	_	0	root	0:root	_
-2	pab	_	PART	part	Clas=Cylb	1	clf	1:clf	_
-3	aʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	pab	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
+3	aʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 580
 # text = paya bab aʔ
 # text_eng = chest ornament (made of palm tree leaves) (Gabas 1999, 183)
 1	paya	_	NOUN	n	_	0	root	0:root	_
-2	bab	_	PART	part	Clas=Cylb	1	clf	1:clf	_
-3	aʔ	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	bab	_	ADJ	adj	Clas=Cylb	1	clf	1:clf	_
+3	aʔ	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 
 # sent_id = 581
 # text = púŋ wet péŋ kəy
@@ -4435,7 +4435,7 @@
 2	ʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	1:aux	_
 3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
-5	ʔa	_	PART	part	Clas=Rd	4	clf	4:clf	_
+5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 600
@@ -4452,7 +4452,7 @@
 2	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 3	oʔa	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	1:dep	_
 4	ecap	_	NOUN	n	Number=Sing|Person=2	1	obj	1:obj	_
-5	pɨʔtoʔ	_	PART	part	Clas=Cyls|Number=Plur	4	clf	4:clf	_
+5	pɨʔtoʔ	_	ADJ	adj	Clas=Cyls|Number=Plur	4	clf	4:clf	_
 6	peʔ	_	ADP	adp	Case=Loc	4	case	4:case	_
 
 # sent_id = 602
@@ -4563,7 +4563,7 @@
 # text = kaʔa ʔa peʔ ap kãykãy toʔwa
 # text_eng = At the house he scratched. (Gabas 1999, 197)
 1	kaʔa	_	NOUN	n	_	5	obl	5:obl	_
-2	ʔa	_	PART	part	Clas=Rd	1	clf	1:clf	_
+2	ʔa	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 3	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
 4	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
 5	kãykãy	kãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
@@ -4815,7 +4815,7 @@
 3	ʔet	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	chapéu	_	NOUN	n	_	7	obj	7:obj	_
-6	káʔ	_	PART	part	Clas=Ccv	5	clf	5:clf	_
+6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	5:clf	_
 7	tiga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 8	menə	_	PART	part	_	7	mark	7:mark	_
 
