@@ -128,7 +128,7 @@
 # text = koran map
 # text_eng = fish (sp.)(Gabas 1999, 28)
 1	koran	_	NOUN	n	_	0	root	0:root	_
-2	map	_	PART	part	Clas=Cylb	1	nmod	1:nmod	_
+2	map	_	ADJ	adj	Clas=Cylb	1	nmod	1:nmod	_
 
 # sent_id = 021
 # text = karam natia
