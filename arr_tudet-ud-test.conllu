@@ -1285,7 +1285,7 @@
 2	tẽy	_	VERB	v	Mood=Ind	4	advcl	4:advcl	_
 3	kokəy	_	ADP	adp	Case=Dat|Nomzr=Circ	2	case	2:case	_
 4	okap	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
-5	ocagəpto	_	NOUN	n	Number=Pl|Person=1	6	obj	6:obj	_
+5	ocagəpto	_	NOUN	n	Number=Plur|Person=1	6	obj	6:obj	_
 6	cára	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
 7	koãm	_	ADV	adv	_	6	advmod	6:advmod	_
 
@@ -1294,7 +1294,7 @@
 # text_eng = My things are like they were yesterday, dirty. (Gabas 1999, 88)
 1	matet	_	ADV	adv	_	0	root	0:root	_
 2	kokoãm	_	PART	part	_	1	mark	1:mark	_
-3	ocagəptoʔ	_	NOUN	n	Number=Pl|Person=1	1	nsubj	1:nsubj	_
+3	ocagəptoʔ	_	NOUN	n	Number=Plur|Person=1	1	nsubj	1:nsubj	_
 4	ʔet	_	AUX	aux	Mood=Ind	1	aux	1:aux	_
 5	toyawɨga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
@@ -1794,7 +1794,7 @@
 # text = taptoba kaʔto
 # text_eng = Watch them! (Gabas 1999, 105)
 1	taptoba	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	0:root	_
-2	kaʔto	_	PRON	pron	Number=Pl|Person=2	1	appos	1:appos	_
+2	kaʔto	_	PRON	pron	Number=Plur|Person=2	1	appos	1:appos	_
 
 # sent_id = 258
 # text = owirup tɨra ẽn
@@ -1818,7 +1818,7 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod:poss	2:nmod:poss	_
 2	manikap	_	NOUN	n	_	3	obj	3:obj	_
 3	peya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	kaʔto	_	PRON	pron	Number=Pl|Person=2	3	appos	3:appos	_
+4	kaʔto	_	PRON	pron	Number=Plur|Person=2	3	appos	3:appos	_
 
 # sent_id = 261
 # text = kanãy yét péŋ [ʔet]
@@ -3589,7 +3589,7 @@
 # text = õn aʔtop mãm at towirap ʔo kanãp
 # text_eng = I stayed watching it/him while he ate his food. (Gabas 1999, 157)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtop	_	VERB	v	Number=Sv|Person=3	0	root	0:root	_
+2	aʔtop	_	VERB	v	Number=Sing|Person=3	0	root	0:root	_
 3	mãm	_	PART	part	_	_	_	_	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	6:nsubj	_
 5	towirap	_	NOUN	n	Corf=Yes|Person=3	6	obj	6:obj	_
