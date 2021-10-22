@@ -2110,13 +2110,13 @@
 # text_eng = him entirely, they say (Gabas 1999, 115)
 1	tomanẽ	_	ADJ	adj	Corf=Yes|Person=3	2	amod	2:amod	_
 2	mãŋa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	tə	_	PART	part	EVID	2	mark	2:mark	_
+3	tə	_	PART	part	Evident=Nfh	2	mark	2:mark	_
 
 # sent_id = 299
 # text = péŋ tə
 # text_eng = the white man, they say. (Gabas 1999,115)
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
-2	tə	_	PART	part	EVID	1	mark	1:mark	_
+2	tə	_	PART	part	Evident=Nfh	1	mark	1:mark	_
 
 # sent_id = 300
 # text = kanãy pèŋ ʔep toat mok peroʔ cára icɨ peʔ
@@ -2546,7 +2546,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	menə	_	PART	part	EVID	3	mark	3:mark	_
+4	menə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 359
 # text = at mãygãra wĩn nãnin
@@ -2554,7 +2554,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	nãnin	_	PART	part	EVID	3	mark	3:mark	_
+4	nãnin	_	PART	part	Evident=Fh	3	mark	3:mark	_
 
 # sent_id = 360
 # text = at mãygãra wĩn tə
@@ -2562,7 +2562,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	tə	_	PART	part	EVID	3	mark	3:mark	_
+4	tə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 361
 # text = at mãygãra wĩn igã
@@ -2570,7 +2570,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	igã	_	PART	part	EVID	3	mark	3:mark	_
+4	igã	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 362
 # text = at mãygãra wĩn coke
@@ -2578,7 +2578,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
-4	coke	_	PART	part	EVID	3	mark	3:mark	_
+4	coke	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 363
 # text = wat owẽ ŋa kət yat iʔke menə
@@ -2589,7 +2589,7 @@
 4	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
 5	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
 6	iʔke	_	PART	part	_	4	advmod	4:advmod	_
-7	menə	_	PART	part	EVID	4	mark	4:mark	_
+7	menə	_	PART	part	Evident=Nfh	4	mark	4:mark	_
 
 # sent_id = 364
 # text = abakán ekəy
@@ -3304,7 +3304,7 @@
 # text_eng = It is/was not like this that ours (relatives) use to tell in old times. (Gabas 1999, 148)
 1	mekõm	_	ADP	adp	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	iʔyat	_	PRON	pron	Number=Plur|Person=1.INCL|PronType=Prs	1	nsubj	1:nsubj	_
+3	iʔyat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
 4	kotigap	_	VERB	v	Mood=Ind	1	acl	1:acl	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	_	PART	part	_	_	_	_	_
@@ -3566,7 +3566,7 @@
 4	cet	_	NOUN	n	_	5	obj	5:obj	_
 5	maʔã	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 6	iʔke	_	PART	part	_	5	advmod	5:advmod	_
-7	nãnin	_	PART	part	EVID	5	mark	5:mark	SpaceAfter=No
+7	nãnin	_	PART	part	Evident=Fh	5	mark	5:mark	SpaceAfter=No
 8	,	_	PUNCT	punct	_	5	punct	5:punct	_
 
 # sent_id = 482
@@ -4710,7 +4710,7 @@
 5	wirik	_	NOUN	n	_	7	obj	7:obj	_
 6	kanã	_	ADV	adv	_	5	advmod	5:advmod	_
 7	təga	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-8	tə	_	PART	part	EVID	7	mark	7:mark	_
+8	tə	_	PART	part	Evident=Nfh	7	mark	7:mark	_
 
 # sent_id = 632
 # text = məy mõm aʔwaʔye yét kanã cit toba
