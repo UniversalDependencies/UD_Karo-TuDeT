@@ -4958,7 +4958,7 @@
 # text_eng = The white man must really have killed it/him. (Gabas 1999, 218)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
-3	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
+3	aket	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
 4	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 664
