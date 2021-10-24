@@ -4,13 +4,13 @@
 1	war	war	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	iyõm	iyõm	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ib	ib	NOUN	n	_	4	obj	4:obj	_
-4	an	an	VERB	v	Mood=Ind	0	root	0:root	_
+4	an	an	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 002
 # text = cawap wɨy
 # text_eng = the sun rose (Gabas 1999, 24)
 1	cawap	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	wɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 003
 # text = naʔcap yatep
@@ -23,21 +23,21 @@
 # text_eng = the man saw the jaguar (Gabas 1999, 24)
 1	maʔwɨr	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	ameko	_	NOUN	n	_	3	obj	3:obj	_
-3	roy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	roy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 005
 # text = maʔwɨr yét toy
 # text_eng = the man saw this one (Gabas 1999, 25)
 1	maʔwɨr	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	yét	_	PRON	pron	PronType=Dem	3	obj	3:obj	_
-3	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	toy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 006
 # text = õn ŋorér wĩn
 # text_eng = I killed a/the bird (sp.) (Gabas 1999, 25)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ŋorér	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 007
 # text = maʔteg iʔke
@@ -51,7 +51,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	yaracewag	_	NOUN	n	_	3	obj	3:obj	_
 3	yaʔti	_	VERB	v	_	0	root	0:root	_
-4	nãn	_	AUX	aux	Mood=Ind	3	cop	3:cop	_
+4	nãn	_	AUX	aux	Decl=Assert	3	cop	3:cop	_
 
 # sent_id = 009
 # text = yate naʔcəg wew
@@ -69,7 +69,7 @@
 # sent_id = 011
 # text = oyakõy battem
 # text_eng = I dove beautifully (Gabas 1999, 26)
-1	oyakõy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyakõy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	battem	_	ADV	adv	_	1	advmod	1:advmod	_
 
 # sent_id = 012
@@ -83,7 +83,7 @@
 # text_eng = He left to see the snake (Gabas 1999, 26)
 1	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
 2	roba	_	VERB	v	VerbForm=Ger	4	xcomp	4:xcomp	_
-3	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	4	aux	4:aux	_
+3	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	4	aux	4:aux	_
 4	towɨya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 014
@@ -91,7 +91,7 @@
 # text_eng = he brought a bird (Gabas 1999, 26)
 1	ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	inãw	_	NOUN	n	_	3	obj	3:obj	_
-3	rati	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	rati	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 015
 # text = iʔnõ gəy rə
@@ -103,7 +103,7 @@
 # sent_id = 016
 # text = oti gán
 # text_eng = long ago I came (Gabas 1999, 27)
-1	oti	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oti	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	gán	_	PART	part	Tense=RPast	1	mark	1:mark	_
 
 # sent_id = 017
@@ -172,7 +172,7 @@
 # text_eng = He, being sick, killed the tapir. (Gabas 1999, 29)
 1	aʔwɑ̃ŋ	_	VERB	v	Number=Sing|Person=3	0	root	0:root	_
 2	naʔto	_	NOUN	n	_	3	obj	3:obj	_
-3	wīn	_	VERB	v	Mood=Ind	1	dep	1:dep	_
+3	wīn	_	VERB	v	Decl=Assert	1	dep	1:dep	_
 
 # sent_id = 027
 # text = cób mawɨya
@@ -192,7 +192,7 @@
 1	maʔwit	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	tah	_	PART	part	_	1	case	1:case	_
 3	mõm	_	ADV	adv	_	1	advmod	1:advmod	_
-4	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	wɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 030
 # text =naʔyoh nõ
@@ -204,7 +204,7 @@
 # text =  ocorah wét
 # text_eng = my girlfriend cried (Gabas 1999, 30)
 1	ocorah	_	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	wét	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	wét	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 032
 # text = wayo bah yu
@@ -224,7 +224,7 @@
 # text_eng = Who killed the snake? (Gabas 1999, 40)
 1	nãn	_	PRON	pron	Int=Yes	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wīn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wīn	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 035
 # text = nãn ẽn itop
@@ -238,14 +238,14 @@
 # text_ eng = With whom did you sleep? (Gabas 1999, 40)
 1	nãn	_	PRON	pron	Int=Yes	3	obl	3:obl	_
 2	bihmãm	mãm	ADP	adp	Case=Com	1	case	1:case	_
-3	ekerap	_	VERB	v	Mood=Ind2|Number=Sing|Person=2	0	root	0:root	_
+3	ekerap	_	VERB	v	Decl=Assert2|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 037
 # text = kɨgomət ip pay
 # text_eng = Which kind of fish died? (Gabas 1999, 40)
 1	kɨgomət	_	PRON	pron	Int=Yes	2	det	2:det	_
 2	ip	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	pay	_	VERB	v	Mood=Ind1	0	root	0:root	_
+3	pay	_	VERB	v	Decl=Assert1	0	root	0:root	_
 
 # sent_id = 038
 # text = kɨgomət ĩya ẽn iwĩ
@@ -264,7 +264,7 @@
 4	mã	_	ADP	adp	Case=Ins	2	case	2:case	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	7	nsubj	7:nsubj	_
 6	yate	_	NOUN	n	_	7	obj	7:obj	_
-7	wĩm	_	VERB	v	Mood=Ind	0	root	0:root	_
+7	wĩm	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 040
 # text = nãn ahyə mẽr ã
@@ -284,21 +284,21 @@
 # text = maʔwɨt paraʔkət
 # text_eng = The man came back. (Gabas 1999, 42)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	paraʔkət	_	VERB	v	Mood=Ind1	0	root	0:root	_
+2	paraʔkət	_	VERB	v	Decl=Assert1	0	root	0:root	_
 
 # sent_id = 043
 # text = maʔpəy icɨ téy
 # text_eng = The woman boiled the water. (Gabas 1999, 42)
 1	maʔpəy	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	icɨ	_	NOUN	n	_	3	obj	3:obj	_
-3	téy	_	VERB	v	Mood=Ind1	0	root	0:root	_
+3	téy	_	VERB	v	Decl=Assert1	0	root	0:root	_
 
 # sent_id = 044
 # text = apəy ŋa ʔet topaba mɨy mãm
 # text_eng = Grandmother died a long time ago. (Gabas 1999, 42)
 1	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	1:clf	_
-3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	4	aux	4:aux	_
 4	topaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	mãm	PART	part	_	4	discourse	4:discourse	_
@@ -416,7 +416,7 @@
 1	mɨy	_	ADV	adv	_	3	amod	3:amod	_
 2	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
 3	péŋ	_	NOUN	n	_	0	root	0:root	_
-4	ʔep	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
+4	ʔep	_	AUX	aux	Decl=Assert	3	aux	3:aux	_
 5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 064
@@ -440,13 +440,13 @@
 # text_eng = I will listen to him. (Gabas 1999, 48)
 1	aʔwero	_	NOUN	n	Number=Sing|Person=3	2	obj	2:obj	_
 2	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	aux	2:aux	_
+3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	2	aux	2:aux	_
 
 # sent_id = 067
 # text = kõm iʔkay Kabirera wĩa iʔkõna
 # text_eng =  How will we kill Kabirera? (Gabas 1999, 48)
 1	kõm	_	ADV	adv	_	4	advmod	4:advmod	_
-2	iʔkay	_	AUX	aux	Mood=Ind1|Number=Plur|Person=1|Tense=Fut	4	aux	4:aux	_
+2	iʔkay	_	AUX	aux	Decl=Assert1|Number=Plur|Person=1|Tense=Fut	4	aux	4:aux	_
 3	Kabirera	_	PROPN	propn	_	4	obj	4:obj	_
 4	wĩa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 5	iʔkõna	_	PART	part	Clusivity=In|Number=Plur|Person=1	4	nsubj	4:nsubj	_
@@ -455,35 +455,35 @@
 # text = tenaʔwara reʔkay
 # text_eng = We will leave. (Gabas 1999, 48)
 1	tenaʔwara	_	VERB	v	Clusivity=Ex|Number=Plur|Person=1|VerbForm=Ger	0	root	0:root	_
-2	reʔkay	_	AUX	aux	Clusivity=Ex|Mood=Ind|Number=Plur|Person=1|Tense=Fut	1	aux	1:aux	_
+2	reʔkay	_	AUX	aux	Clusivity=Ex|Decl=Assert|Number=Plur|Person=1|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 069
 # text = nãn mihmãm ekab eyaʔwara
 # text_eng = With whom you will leave? (Gabas 1999, 48)
 1	nãn	_	PRON	pron	Int=Yes	4	obl	_	_
 2	mihmãm	mãm	ADP	adp	Case=Com	1	case	_	_
-3	ekab	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	_	_
+3	ekab	_	AUX	aux	Decl=Assert|Number=Sing|Person=2|Tense=Fut	4	aux	_	_
 4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 070
 # text = kanãy iʔkap aʔwĩa
 # text_eng = Then we will kill it. (Gabas 1999, 48)
 1	kanãy	_	ADV	adv	_	3	advmod	3:advmod	_
-2	iʔkap	_	AUX	aux	Clusivity=In|Mood=Ind|Number=Plur|Person=1|Tense=Fut	3	aux	3:aux	_
+2	iʔkap	_	AUX	aux	Clusivity=In|Decl=Assert|Number=Plur|Person=1|Tense=Fut	3	aux	3:aux	_
 3	aʔwĩa	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 071
 # text = maʔpəy aʔtoy ʔĩttem
 # text_eng = The woman saw him/it briefly. (Gabas 1999, 49)
 1	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	Number=Sing|Mood=Ind|Person=3	_	0	root	0:root	_
+2	aʔtoy	_	VERB	Number=Sing|Decl=Assert|Person=3	_	0	root	0:root	_
 3	ʔĩttem	_	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 072
 # text = at aʔpɨy gahmõmnem
 # text_eng = He waited for him quietly. (Gabas 1999, 50)
 1	at	_	PRON	pron	_	2	nsubj	2:nsubj	_
-2	aʔpɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔpɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	gahmõmnem	_	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 073
@@ -493,7 +493,7 @@
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	_
 3	tap	tap	PART	part	Case=Com	2	case	2:case	_
 4	yaʔti	yaʔti	VERB	v	_	0	root	0:root	_
-5	nãn	nãn	PART	part	Mood=Ind	4	cop	4:cop	_
+5	nãn	nãn	PART	part	Decl=Assert	4	cop	4:cop	_
 6	cúrem	cú=tem	ADV	adv	_	4	advmod	4:advmod	_
 
 # sent_id = 074
@@ -531,7 +531,7 @@
 # text =owagon oyakay tokõna
 # text_eng = My friend pushed me. (Gabas 1999, 55)
 1	owagon	_	PRON	pron	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	oyakay	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	oyakay	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	2:case	_
 
 # sent_id = 079
@@ -539,7 +539,7 @@
 # text_eng = I caught the fish (Gabas 1999, 55)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	okõna	_	ADP	adp	Number=Sing|Person=1|PronType=Emp	3	mark	3:mark	_
 
 # sent_id = 080
@@ -549,7 +549,7 @@
 2	bat	_	ADJ	adj	_	1	amod	1:amod	_
 3	tokõna	_	ADP	adp	_	5	case	5:case	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Emp	5	nsubj	5:nsubj	_
-5	ipɨy	_	VERB	v	Mood=Ind|Person=3Imp	0	root	0:root	_
+5	ipɨy	_	VERB	v	Decl=Assert|Person=3Imp	0	root	0:root	_
 
 # sent_id = 081
 # text = móa rokõna ẽn ibeʔtɨn ahyə
@@ -557,7 +557,7 @@
 1	móa	_	NOUN	n	_	4	obj	4:obj	_
 2	rokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	4	mark	4:mark	_
 3	ẽn	_	PRON	pron	Number=Sing|Person=2	4	nsubj	4:nsubj	_
-4	ibeʔtɨn	_	VERB	v	Mood=Ind|Person=3Imp	0	root	0:root	_
+4	ibeʔtɨn	_	VERB	v	Decl=Assert|Person=3Imp	0	root	0:root	_
 5	ahyə	_	PART	part	Int=Yes	4	mark	4:mark	_
 
 # sent_id = 082
@@ -570,7 +570,7 @@
 # sent_id = 083
 # text = aʔwét tokõna
 # text_eng = He cried. (Gabas 1999, 56)
-1	aʔwét	aʔ=wét	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔwét	aʔ=wét	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	tokõna	to=kõna	ADP	adp	Corf=Yes|Person=3|PronType=Emp	1	case	1:case	_
 
 # sent_id = 084
@@ -599,7 +599,7 @@
 # text_eng = I killed the snake there.(Gabas 1999, 57)
 1	õn	_	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	təgana	_	ADV	_	_	3	obl	3:obl	_
 5	peʔ	_	ADP	_	Case=Loc	3	case	3:case	_
 
@@ -608,13 +608,13 @@
 # text_eng = He ate his own food a lot. (Gabas 1999, 57)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	towirup	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔot	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔot	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	cúrem	_	ADV	adv	_	3	advmod	3:advmod	_
 
 # sent_id = 089
 # text = oyaʔwan át mãm
 # text_eng = I left during the day. (Gabas 1999, 58)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	át	_	NOUN	n	_	1	obl	1:obl	_
 3	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
 
@@ -625,7 +625,7 @@
 2	maʔwɨt	_	NOUN	n	_	4	nmod	4:nmod	_
 3	at	_	PART	part	_	2	case	2:case	_
 4	kaʔa	_	NOUN	n	_	_	_	_	_
-5	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	toy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 091
 # text = cúrem at towirup ʔop
@@ -633,14 +633,14 @@
 1	cúrem	_	ADV	adv	_	4	obl	4:obl	_
 2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 3	towirup	_	NOUN	n	Corf=Yes|Person=3	4	obj	4:obj	_
-4	ʔop	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	ʔop	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 092
 # text = át mãm oyaʔwarap
 # text_eng = During the day I left (Gabas 1999, 60)
 1	át	_	NOUN	n	_	3	obl	3:obl	_
 2	mãm	mãm	PART	part	_	3	discourse	3:discourse	_
-3	oyaʔwarap	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+3	oyaʔwarap	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 093
 # text = maʔwɨt at kaʔa õn itop
@@ -649,7 +649,7 @@
 2	at	_	PART	part	_	1	case	1:case	_
 3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 4	õn	_	PART	part	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-5	itop	_	VERB	v	Mood=Ind|Person=3Imp	3	ccomp	3:ccomp	_
+5	itop	_	VERB	v	Decl=Assert|Person=3Imp	3	ccomp	3:ccomp	_
 
 # sent_id = 094
 # text = təgana peʔ õn mãygãra wĩm
@@ -658,7 +658,7 @@
 2	peʔ	_	ADP	adp	Case=Loc	5	case	5:case	_
 3	õn	_	PRON	pron	Number=Sing|Person=1	5	nsubj	5:nsubj	_
 4	mãygãra	_	NOUN	n	_	5	obj	5:obj	_
-5	wĩm	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	wĩm	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 095
 # text = o=ker-a kanã
@@ -670,32 +670,32 @@
 # text = õn amaken
 # text_eng = I made it/him sleep. (Gabas 1999, 63)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	amaken	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
+2	amaken	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 
 # sent_id = 097
 # text = et owã emakət
 # text_eng = Your mother made you walk. (Gabas 1999, 63)
 1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	emakət	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
+3	emakət	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 
 # sent_id = 098
 # text = ŋa omacopɨn
 # text_eng = She made me be fat. (Gabas 1999, 63)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	omacopɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
+2	omacopɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=1|Voice=Cau	0	root	0:root	_
 
 # sent_id = 099
 # text = at amabaraʔkət
 # text_eng = He made it/him come back. (Gabas 1999, 64)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	amabaraʔkət	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
+2	amabaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # sent_id = 100
 # text = õn emaberopit ŋakəy
 # text_eng = I made you pinch her. (Gabas 1999, 64)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	emaberopit	_	VERB	v	Mood=Ind|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
+2	emaberopit	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	0:root	_
 3	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
 # sent_id = 101
@@ -703,32 +703,32 @@
 # text_eng = The shaman made him/it calm down. (Gabas 1999, 64)
 1	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	amagahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
-3	nãn	_	AUX	aux	Mood=Ind	2	cop	2:cop	_
+3	nãn	_	AUX	aux	Decl=Assert	2	cop	2:cop	_
 
 # sent_id = 102
 # text = õn amapəri
 # text_eng = I emptied it. (Gabas 1999, 64)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	amapəri	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
+2	amapəri	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # sent_id = 103
 # text = at amati
 # text_eng = He made him/it come (Gabas 1999, 64)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	amati	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
+2	amati	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # sent_id = 104
 # text = õn amaken
 # text_eng = I put him/it to sleep. (Gabas 1999, 65)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	amaken	_	VERB	v	Mood=Ind|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
+2	amaken	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
 
 # sent_id = 105
 # text = wat owã orakət
 # text_eng = My mother made me walk, walking with me. (Gabas 1999, 65)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	owã	_	NOUN	n	_	3	nsubj	_	_
-3	orakət	_	VERB	v	Case=Com|Mood=Ind|Number=Sing|Person=1	0	root	_	_
+3	orakət	_	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 106
 # text = õn wat awe rabitẽy
@@ -736,7 +736,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	awe	_	NOUN	n	_	4	obj	_	_
-4	rabitẽy	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
+4	rabitẽy	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 107
 # text = ŋa toat owẽ tanogat
@@ -744,7 +744,7 @@
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
-4	tanogat	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
+4	tanogat	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 108
 # text = õn wat owẽ raken
@@ -752,27 +752,27 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	owẽ	_	NOUN	n	_	4	obj	_	_
-4	raken	_	VERB	v	Case=Com|Mood=Ind	0	root	_	_
+4	raken	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 109
 # text = õn aʔ=rati
 # text_eng = I brought him/it. (Gabas 1999, 66)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔ=rati	_	VERB	v	Case=Com|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔ=rati	_	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 110
 # text = ẽn yaw rati
 # text_eng = You brought the ray. (Gabas 1999, 66)
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 2	yaw	_	NOUN	n	_	3	obj	3:obj	_
-3	rati	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
+3	rati	_	VERB	v	Case=Com|Decl=Assert	0	root	0:root	_
 
 # sent_id = 111
 # text =at mɨrɨrɨy ramoy
 # text_eng = He dove with the toad. (Gabas 1999, 66)
 1	at	_	PRON	pron	Number=Sing|Person=3	3	nsubj	3:nsubj	_
 2	mɨrɨrɨy	_	NOUN	n	_	3	obj	3:obj	_
-3	ramoy	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
+3	ramoy	_	VERB	v	Case=Com|Decl=Assert	0	root	0:root	_
 
 # sent_id = 112
 # text = agóaʔpət et iyõm nakõy
@@ -780,7 +780,7 @@
 1	agóaʔpət	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	3:nmod	_
 3	iyõm	_	NOUN	n	_	4	obj	4:obj	_
-4	nakõy	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
+4	nakõy	_	VERB	v	Case=Com|Decl=Assert	0	root	0:root	_
 
 # sent_id = 113
 # text = cãn nakəga
@@ -799,7 +799,7 @@
 # text_eng = My brother crossed with me. (Gabas 1999, 67)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	awe	awe	NOUN	n	_	3	nsubj	3:nsubj	_
-3	orabitẽy	pitẽp	VERB	v	Case=Com|Mood=Ind|Person=1	0	root	0:root	_
+3	orabitẽy	pitẽp	VERB	v	Case=Com|Decl=Assert|Person=1	0	root	0:root	_
 
 # sent_id = 116
 # text = ŋa toat owẽ ragahmõm nãn
@@ -808,13 +808,13 @@
 2	toat	toat	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	owẽ	_	NOUN	n	_	4	obj	4:obj	_
 4	ragahmõm	kahmõm	VERB	v	Case=Com	0	root	0:root	_
-5	nãn	nã	AUX	aux	Mood=Ind	4	cop	4:cop	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 117
 # text = oyãy bemeŋãn
 # text_eng = My tooth got dirty. (Gabas 1999, 68)
 1	oyãy	_	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	bemeŋãn	_	VERB	v	Mood=Ind|Voice=Pass	0	root	0:root	_
+2	bemeŋãn	_	VERB	v	Decl=Assert|Voice=Pass	0	root	0:root	_
 
 # sent_id = 118
 # text = taykit yawbe bewĩa
@@ -834,7 +834,7 @@
 # text = boi ʔet towaʔpara towewĩ-a
 # text_eng = The ox fell and got killed. (Gabas 1999, 68)
 1	boi	_	NOUN	n	_	3	nsubj	3:nsubj	_
-2	ʔet	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
+2	ʔet	_	AUX	aux	Decl=Assert	3	aux	3:aux	_
 3	towaʔpara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 4	towewĩ-a	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger|Voice=Pass	3	conj	3:conj	_
 
@@ -859,138 +859,138 @@
 # text = õn omãmnoy
 # text_eng = I saw myself. (Gabas 1999, 69)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	omãmnoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1|Reflex=Yes	0	root	0:root	_
+2	omãmnoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1|Reflex=Yes	0	root	0:root	_
 
 # sent_id = 125
 # text = at tomãmwĩn
 # text_eng = He killed him/itself. (Gabas 1999, 70)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	tomãmwĩn	_	VERB	v	Corf=Yes|Mood=Ind|Person=3|Reflex=Yes	0	root	0:root	_
+2	tomãmwĩn	_	VERB	v	Corf=Yes|Decl=Assert|Person=3|Reflex=Yes	0	root	0:root	_
 
 # sent_id = 126
 # text = owakán omãmkəy
 # text_eng = I am angry at myself. (Gabas 1999, 70)
-1	owakán	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	omãmkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1|Reflex=Yes	1	obl	1:obl	_
 
 # sent_id = 127
 # text = aʔwero wɨy tomãmkəy
 # text_eng = He spoke to himself. (Gabas 1999, 70)
 1	aʔwero	_	VERB	v	Number=Sing|Person=3	0	root	0:root	_
-2	wɨy	_	VERB	v	Mood=Ind	1	clf	1:clf	_
+2	wɨy	_	VERB	v	Decl=Assert	1	clf	1:clf	_
 3	tomãmkəy	_	ADP	adp	Case=Dat|Corf=Yes|Person=3|Reflex=Yes	1	obl	1:obl	_
 
 # sent_id = 128
 # text = tap toroyapít
 # text_eng = They killed each other. (Gabas 1999, 70)
 1	tap	_	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	toroyapít	_	VERB	v	Mood=Ind|Person=3	0	root	0:root	_
+2	toroyapít	_	VERB	v	Decl=Assert|Person=3	0	root	0:root	_
 
 # sent_id = 129
 # text = kaʔto karorocapét ahyə
 # text_eng = Did you beat each other? (Gabas 1999, 71)
 1	kaʔto	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-2	karorocapét	_	VERB	v	Mood=Ind|Number=Plur|Person=2	0	root	0:root	_
+2	karorocapét	_	VERB	v	Decl=Assert|Number=Plur|Person=2	0	root	0:root	_
 3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
 
 # sent_id = 130
 # text = oweʔŋen
 # text_eng = Let me sleep. (Gabas 1999, 71)
-1	oweʔŋen	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=1	0	_	_	_
+1	oweʔŋen	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	_	_	_
 
 # sent_id = 131
 # text = abeʔŋət
 # text_eng = Let him/it walk. (Gabas 1999, 71)
-1	abeʔŋət	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=3	0	_	_	_
+1	abeʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	_	_	_
 
 # sent_id = 132
 # text = naʔwəy beʔŋət
 # text_eng = Let the monkey walk (free)! (Gabas 1999, 72)
 1	naʔwəy	_	NOUN	n	_	2	obj	2:obj	_
-2	beʔŋət	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
+2	beʔŋət	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 133
 # text = inãw beʔnogat
 # text_eng = Let the curassow eat! (Gabas 1999, 72)
 1	inãw	_	NOUN	n	_	2	obj	2:obj	_
-2	beʔnogat	_	VERB	_	Mood=Ind|Mood=Opt	0	root	0:root	_
+2	beʔnogat	_	VERB	_	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 134
 # text = kãram meʔnẽykãram meʔnẽy
 # text_eng = Let the hummingbird fly! (Gabas 1999, 72)
 1	kãram	_	NOUN	n	_	2	obj	2:obj	_
 2	meʔnẽykãram	_	_	_	_	_	_	_	_
-3	meʔnẽy	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
+3	meʔnẽy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 135
 # text = cãn meʔŋen
 # text_eng = Let the cat sleep! (Gabas 1999, 72)
 1	cãn	_	NOUN	n	_	2	obj	2:obj	_
-2	meʔŋen	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
+2	meʔŋen	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 136
 # text = tĩŋ meʔŋət
 # text_eng = Let the worm go (free)! (Gabas 1999, 72)
 1	tĩŋ	_	NOUN	n	_	2	obj	2:obj	_
-2	meʔŋət	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
+2	meʔŋət	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 137
 # text = õn abeʔmẽn
 # text_eng = Let me step on it/me. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	abeʔmẽn	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
+2	abeʔmẽn	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 138
 # text = õn aʔpẽn
 # text_eng = I stepped on it/him. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔpẽn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔpẽn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 139
 # text = õn abeʔnoy
 # text_eng = Let me see it/him. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	abeʔnoy	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
+2	abeʔnoy	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 140
 # text = õn aʔtoy
 # text_eng = I saw it/him. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 141
 # text = oweʔŋət
 # text_eng = Let me walk. (Gabas 1999, 73)
-1	oweʔŋət	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=1	_	_	_	_
+1	oweʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	_	_	_	_
 
 # sent_id = 142
 # text = okət
 # text_eng = I walked. (Gabas 1999, 73)
-1	okət	_	VERB	v	Mood=Ind|Number=Sing|Person=1	_	_	_	_
+1	okət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	_	_	_	_
 
 # sent_id = 143
 # text = õn ip peʔnɨy
 # text_eng= Let me catch a/the fish. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	peʔnɨy	_	VERB	v	Mood=Ind|Mood=Opt	0	root	0:root	_
+3	peʔnɨy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 144
 # text = õn ip ʔɨy
 # text_eng= I caught a/the fish. (Gabas 1999, 73)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 145
 # text =abeʔnan
 # text_eng= Let it/him fall. (Gabas 1999, 74)
-1	abeʔnan	_	VERB	v	Mood=Ind|Mood=Opt|Number=Sing|Person=3	_	_	_	_
+1	abeʔnan	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	_	_	_	_
 
 # sent_id = 146
 # text = aʔan
 # text_eng= It/he fell. (Gabas 1999, 74)
-1	aʔan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+1	aʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
 
 # sent_id = 147
 # text = kaʔaroʔ
@@ -1056,28 +1056,28 @@
 # sent_id = 158
 # text = oken cúrem
 # text_eng= I slept a lot. (Gabas 1999, 77)
-1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	cúrem	_	ADV	adv	_	1	advmod	1:advmod	_
 
 # sent_id = 159
 # text = cúrem wep okera
 # text_eng= I slept a lot. (Gabas 1999, 77)
 1	cúrem	_	ADJ	adj	_	3	advmod	3:advmod	_
-2	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
+2	wep	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	3	aux	3:aux	_
 3	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 160
 # text = ŋa oʔtoy maŋaptem
 # text_eng= She watched me for a long time (Gabas 1999, 77)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	oʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	oʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 3	maŋaptem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 161
 # text = maŋaptem ŋaap otoba
 # text_eng= For a long time she watched me. (Gabas 1999, 77)
 1	maŋaptem	_	ADJ	adj	_	3	advmod	3:advmod	_
-2	ŋaap	_	AUX	aux	Clas=Fem|Mood=Ind|Number=Sing|Person=3	3	aux	3:aux	_
+2	ŋaap	_	AUX	aux	Clas=Fem|Decl=Assert|Number=Sing|Person=3	3	aux	3:aux	_
 3	otoba	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 162
@@ -1111,87 +1111,87 @@
 # sent_id = 166
 # text = otoyrem at
 # text_eng= He/it is pretending to be watching me. (Gabas 1999, 78)
-1	otoyrem	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+1	otoyrem	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 
 # sent_id = 167
 # text = okennem wet
 # text_eng= I am pretending to be sleeping. (Gabas 1999, 79)
-1	okennem	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+1	okennem	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 
 # sent_id = 168
 # text = ameko otoy
 # text_eng= The jaguar saw me. (Gabas 1999, 82)
 1	ameko	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 169
 # text = at ecapét ahyə
 # text_eng= Did he beat you? (Gabas 1999, 83)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	ecapét	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	ecapét	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
 
 # sent_id = 170
 # text = õn aʔtoy
 # text_eng= I saw it/him.(Gabas 1999, 83)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 171
 # text = oyaʔkoy
 # text_eng= I sweat. (Gabas 1999, 83)
-1	oyaʔkoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	_	_	_
+1	oyaʔkoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	_	_	_
 
 # sent_id = 172
 # text = eyaʔi
 # text_eng= You climbed down. (Gabas 1999, 83)
-1	eyaʔi	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	_	_	_
+1	eyaʔi	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	_	_	_
 
 # sent_id = 173
 # text = aʔken
 # text_eng = He slept. (Gabas 1999, 83)
-1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	_	_	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	_	_	_
 
 # sent_id = 174
 # text = õn aʔpap toy
 # text_eng = I saw him/it dead/hurt. (Gabas 1999, 83)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	3	xcomp	3:xcomp	_
-3	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	toy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 175
 # text = maʔwɨt aʔkɨrɨk ʔan
 # text_eng = The man brought the green one. (Gabas 1999, 84)
 1	maʔwɨt	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	aʔkɨrɨk	_	ADJ	adj	Number=Sing|Person=3	3	obj	3:obj	_
-3	ʔan	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔan	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 176
 # text = tocitóga aʔkay
 # text_eng = He will go urinate. (Gabas 1999, 84)
 1	tocitóga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
-2	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
+2	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 177
 # text = kanãy wep okera
 # text_eng = Then I slept. (Gabas 1999, 84)
 1	kanãy	_	ADV	adv	_	3	advmod	3:advmod	_
-2	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
+2	wep	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	3	aux	3:aux	_
 3	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 178
 # text = owakán aʔkəy
 # text_eng = I am angry at him/it. (Gabas 1999, 84)
-1	owakán	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	aʔkəy	_	PRON	pron	Case=Dat|Number=Sing|Person=3	1	obl	1:obl	_
 
 # sent_id = 179
 # text = maʔwɨt yaʔwan ŋapik
 # text_eng = The man left with her. (Gabas 1999, 84)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	yaʔwan	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yaʔwan	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	ŋapik	_	PRON	pron	Case=All|Clas=Fem|Number=Sing|Person=3	2	obl	2:obl	_
 
 # sent_id = 180
@@ -1200,7 +1200,7 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ip	_	NOUN	n	_	4	obj	4:obj	_
-4	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	owihmãm	mãm	ADP	adp	Case=Com|Number=Sing|Person=1	4	obl	4:obl	_
 
 # sent_id = 181
@@ -1208,20 +1208,20 @@
 # text_eng = It is a/the big snake. (Gabas 1999, 85)
 1	mãygãra	_	NOUN	n	_	0	root	0:root	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	aʔnãn	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+3	aʔnãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 182
 # text = maʔpəy pat ŋanãn
 # text_eng = She is a/the beautiful woman. (Gabas 1999, 85)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
 2	pat	_	ADJ	adj	_	1	amod	1:amod	_
-3	ŋanãn	_	AUX	aux	Clas=Fem|Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+3	ŋanãn	_	AUX	aux	Clas=Fem|Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 183
 # text =péŋ aʔnãn
 # text_eng = He is a/the white man. (Gabas 1999, 85)
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
-2	aʔnãn	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+2	aʔnãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 184
 # text = o=kera kanã
@@ -1244,7 +1244,7 @@
 2	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	adp	Nomzr=Circ	4	mark	4:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
+5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 187
 # text = õn wat mok pe cára kanã yaʔti nãn iʔke
@@ -1256,7 +1256,7 @@
 5	cára	_	VERB	v	VerbForm=Ger	7	xcomp	7:xcomp	_
 6	kanã	_	PART	part	Nomzr=Circ	5	mark	5:mark	_
 7	yaʔti	_	VERB	v	_	0	root	0:root	_
-8	nãn	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
+8	nãn	_	AUX	aux	Decl=Assert	7	aux	7:aux	_
 9	iʔke	_	PART	part	Polarity=Neg	7	advmod	7:advmod	_
 
 # sent_id = 188
@@ -1266,7 +1266,7 @@
 2	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	part	Nomzr=Circ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
+5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
 6	ahyə	_	PART	part	Int=Yes	4	mark	4:mark	_
 
 # sent_id = 189
@@ -1276,15 +1276,15 @@
 2	karowéya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	part	Nomzr=Circ	2	case	2:case	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
+5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 190
 # text = owirup tẽy kokəy okap ocagəpto cára koãm
 # text_eng = While my food boils I will go wash my dishes too. (Gabas 1999, 88)
 1	owirup	_	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	tẽy	_	VERB	v	Mood=Ind	4	advcl	4:advcl	_
+2	tẽy	_	VERB	v	Decl=Assert	4	advcl	4:advcl	_
 3	kokəy	_	ADP	adp	Case=Dat|Nomzr=Circ	2	case	2:case	_
-4	okap	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
+4	okap	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
 5	ocagəpto	_	NOUN	n	Number=Plur|Person=1	6	obj	6:obj	_
 6	cára	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
 7	koãm	_	ADV	adv	_	6	advmod	6:advmod	_
@@ -1295,7 +1295,7 @@
 1	matet	_	ADV	adv	_	0	root	0:root	_
 2	kokoãm	_	PART	part	_	1	mark	1:mark	_
 3	ocagəptoʔ	_	NOUN	n	Number=Plur|Person=1	1	nsubj	1:nsubj	_
-4	ʔet	_	AUX	aux	Mood=Ind	1	aux	1:aux	_
+4	ʔet	_	AUX	aux	Decl=Assert	1	aux	1:aux	_
 5	toyawɨga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 192
@@ -1304,7 +1304,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	amãn	_	NOUN	n	_	3	nsubj	3:nsubj	_
 3	ara	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
-4	gotoy	_	VERB	v	Mood=Ind|Nomzr=Circ	0	root	0:root	_
+4	gotoy	_	VERB	v	Decl=Assert|Nomzr=Circ	0	root	0:root	_
 
 # sent_id = 193
 # text = Júnior ŋa pa gotoy ahyə
@@ -1312,7 +1312,7 @@
 1	Júnior	_	PROPN	propn	_	4	nsubj	4:nsubj	_
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	pa	_	VERB	v	VerbForm=Ger	4	obj	4:obj	_
-4	gotoy	_	VERB	v	Mood=Ind|Nomzr=Circ	0	root	0:root	_
+4	gotoy	_	VERB	v	Decl=Assert|Nomzr=Circ	0	root	0:root	_
 5	ahyə	_	PART	part	Int=Yes	4	mark	4:mark	_
 
 # sent_id = 194
@@ -1371,7 +1371,7 @@
 # text_eng = The woman sang. (Gabas 1999, 91)
 1	maʔpəy	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	óra	_	NOUN	n	_	3	compound	3:compound	_
-3	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 203
 # text = maʔpəy bat óra wɨy
@@ -1462,7 +1462,7 @@
 2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	kaʔaʔ	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔaʔ	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
-5	pẽn	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	pẽn	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 216
 # text =  kanãy at toat kaʔa ʔaʔ pẽya
@@ -1494,7 +1494,7 @@
 # text = agóaʔpət ken
 # text_eng = The shaman slept. (Gabas 1999, 96)
 1	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ken	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	ken	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 220
 # text = at ibaʔpat
@@ -1505,7 +1505,7 @@
 # sent_id = 221
 # text = abaʔpan
 # text_eng = He fell down. (Gabas 1999, 96)
-1	abaʔpan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+1	abaʔpan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
 
 # sent_id = 222
 # text =wayo gap ar iʔop
@@ -1513,7 +1513,7 @@
 1	wayo	wayo	NOUN	n	_	4	obj	_	_
 2	gap	_	ADJ	adj	_	1	amod	_	_
 3	ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-4	iʔop	_	VERB	v	Mood=Ind|Person=3Imp	0	root	_	_
+4	iʔop	_	VERB	v	Decl=Assert|Person=3Imp	0	root	_	_
 
 # sent_id = 223
 # text = ar wayo gap ʔot
@@ -1521,7 +1521,7 @@
 1	ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	wayo	wayo	NOUN	n	_	4	obj	_	_
 3	gap	_	ADJ	adj	_	2	amod	_	_
-4	ʔot	_	VERB	v	Mood=Ind	0	root	_	_
+4	ʔot	_	VERB	v	Decl=Assert	0	root	_	_
 
 # sent_id = 224
 # text = wat owã ŋa õn ibɨyap
@@ -1530,7 +1530,7 @@
 2	owã	_	NOUN	n	_	5	obj	_	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
 4	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-5	ibɨyap	_	VERB	v	Mood=Ind|Person=3Imp	0	root	_	_
+5	ibɨyap	_	VERB	v	Decl=Assert|Person=3Imp	0	root	_	_
 
 # sent_id = 225
 # text = õn wat owã ŋa pɨy
@@ -1539,7 +1539,7 @@
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	owã	_	NOUN	n	_	5	obj	_	_
 4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf	_	_
-5	pɨy	_	VERB	v	Mood=Ind	0	root	_	_
+5	pɨy	_	VERB	v	Decl=Assert	0	root	_	_
 
 # sent_id = 226
 # text = mãygãra cú ẽn iwĩm ahyə
@@ -1547,7 +1547,7 @@
 1	mãygãra	mãygãra	NOUN	n	_	0	root	0:root	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
 3	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
-4	iwĩm	_	VERB	v	Mood=Ind|Person=3Imp	1	acl	1:acl	_
+4	iwĩm	_	VERB	v	Decl=Assert|Person=3Imp	1	acl	1:acl	_
 5	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 
 # sent_id = 227
@@ -1556,14 +1556,14 @@
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	4:nsubj	_
 2	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
 3	cú	_	ADJ	adj	_	2	amod	2:amod	_
-4	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	ahyə	_	PART	part	Int=Yes	4	mark	4:mark	_
 
 # sent_id = 228
 # text = maʔwɨr yet mãygãra roba
 # text_eng = (It was) the man (who) saw the snake. (Gabas 1999, 98)
 1	maʔwɨr	_	NOUN	n	_	5	nsubj	5:nsubj	_
-2	yet	_	AUX	aux	Mood=Ind|Person=3Imp	_	_	_	_
+2	yet	_	AUX	aux	Decl=Assert|Person=3Imp	_	_	_	_
 3	mãygãra	_	NOUN	n	_	5	obj	5:obj	_
 4	roba	_	VERB	v	VerbForm=Ger	_	_	_	_
 
@@ -1572,7 +1572,7 @@
 # text_eng = (It was) the beautiful woman (who) waited for me. (Gabas 1999, 98)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
 2	bat	_	ADJ	adj	_	1	amod	1:amod	_
-3	yet	_	AUX	aux	Mood=Ind|Person=3Imp	_	_	_	_
+3	yet	_	AUX	aux	Decl=Assert|Person=3Imp	_	_	_	_
 4	opɨya	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	_	_	_	_
 
 # sent_id = 230
@@ -1580,7 +1580,7 @@
 # text_eng = Tomorrow I will eat meat. (Gabas 1999, 99)
 1	cak	_	ADV	adv	_	5	obl	5:obl	_
 2	mãm	mãm	PART	part	_	5	discourse	5:discourse	_
-3	okap	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	5	aux	5:aux	_
+3	okap	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	5	aux	5:aux	_
 4	cĩm	_	NOUN	n	_	5	obj	5:obj	_
 5	ʔóa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
@@ -1589,7 +1589,7 @@
 # text_eng = Briefly I saw it/him. (Gabas 1999, 99)
 1	ʔittem	_	ADJ	adj	_	3	advmod	3:advmod	_
 2	õn	_	PRON	pron	Number=Sing|Person=1	3	nsubj	3:nsubj	_
-3	aʔtop	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+3	aʔtop	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 232
 # text = wat kaʔa ʔa peʔ web aʔpɨya
@@ -1598,7 +1598,7 @@
 2	kaʔa	_	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
-5	web	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	5	aux	5:aux	_
+5	web	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	5	aux	5:aux	_
 6	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	obj	1:obj	_
 
 # sent_id = 233
@@ -1609,14 +1609,14 @@
 3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-6	epɨyap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	2	parataxis	2:parataxis	_
+6	epɨyap	_	VERB	v	Decl=Assert|Number=Sing|Person=2	2	parataxis	2:parataxis	_
 
 # sent_id = 234
 # text = cĩm ʔoa okay cak mam
 # text_eng = I will eat meat tomorrow. (Gabas 1999, 99)
 1	cĩm	_	NOUN	n	_	2	obj	2:obj	_
 2	ʔoa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	2	aux	2:aux	_
+3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	2	aux	2:aux	_
 4	cak	_	ADV	adv	_	2	obl	2:obl	_
 5	mam	_	X	x	_	_	_	_	_
 
@@ -1624,14 +1624,14 @@
 # text = õn aʔtoy ʔĩttem
 # text_eng = I saw it/him briefly. (Gabas 1999, 99)
 1	õn	_	PRON	Number=Sing|Person=1|PronType=Prs	_	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	ʔĩttem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 236
 # text = aʔpɨya wet wat kaʔa ʔa peʔ
 # text_eng = I waited for him/it at my house. (Gabas 1999, 100)
 1	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
 5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
@@ -1641,7 +1641,7 @@
 # text = at epɨy et kaʔa ʔa peʔ
 # text_eng = He waited for you at your house. (Gabas 1999, 100)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	epɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	epɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	4:nmod	_
 4	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	4:clf	_
@@ -1650,20 +1650,20 @@
 # sent_id = 238
 # text = eken ahyə
 # text_eng = Did you sleep? (Gabas 1999, 100)
-1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 
 # sent_id = 239
 # text = eken mattem ahyə
 # text_eng = Did you sleep well? (Gabas 1999, 100)
-1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	mattem	_	ADJ	adj	_	1	advmod	1:advmod	_
 3	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 
 # sent_id = 240
 # text = eken wat manikap peʔ battem ahyə
 # text_eng = Did you sleep well in my hammock? (Gabas 1999, 101)
-1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	manikap	_	NOUN	b	_	1	obl	1:obl	_
 4	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
@@ -1676,14 +1676,14 @@
 1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	0:root	_
 2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 3	béŋ	_	NOUN	n	_	4	obj	4:obj	_
-4	noy	_	VERB	v	Mood=Ind	1	dep	1:dep	_
+4	noy	_	VERB	v	Decl=Assert	1	dep	1:dep	_
 
 # sent_id = 242
 # text = mɨrɨrɨy ahyə imaterãn nãnin
 # text_eng = Was it the toad who really made us get lost? (Gabas 1999, 101)
 1	mɨrɨrɨy	_	NOUN	n	_	0	root	0:root	_
 2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	imaterãn	_	VERB	v	Mood=Ind|Number=Plur|Person=1|Voice=Cau	1	acl	1:acl	_
+3	imaterãn	_	VERB	v	Decl=Assert|Number=Plur|Person=1|Voice=Cau	1	acl	1:acl	_
 4	nãnin	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
 
 # sent_id = 243
@@ -1706,7 +1706,7 @@
 # text_eng = Did you sleep well? (lit. "Is it well that you slept?"")(Gabas 1999, 102)
 1	pattem	_	ADJ	adj	_	3	advmod	3:advmod	_
 2	ahyə	_	PART	part	Int=Yes	3	mark	3:mark	_
-3	ekerap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+3	ekerap	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 246
 # text = wat manikap peʔ ahyə ekerap
@@ -1715,14 +1715,14 @@
 2	manikap	_	NOUN	n	_	5	obl	5:obl	_
 3	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
 4	ahyə	_	PART	part	Int=Yes	5	case	5:case	_
-5	ekerap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+5	ekerap	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 247
 # text = kɨganape ahyə ekerap
 # text_eng = Where did you sleep? (Gabas 1999, 103)
 1	kɨganape	kɨganape	ADV	adv	Int=Yes	3	advmod	3:advmod	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
-3	ekerap	ket	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+3	ekerap	ket	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 248
 # text = kɨganapət ahyə at etop
@@ -1730,14 +1730,14 @@
 1	kɨganapət	kɨganapət	ADV	adv	Int=Yes	4	advmod	4:advmod	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
 3	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-4	etop	top	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+4	etop	top	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 249
 # text = kɨgope ahyə ekap eyaʔwara
 # text_eng = When will you come back? (Gabas 1999, 103)
 1	kɨgope	kɨgope	ADV	adv	Int=Yes	4	advmod	4:advmod	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
-3	ekap	kap	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
+3	ekap	kap	AUX	aux	Decl=Assert|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
 4	eyaʔwara	yaʔwat	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 250
@@ -1746,7 +1746,7 @@
 1	kõm	kõm	ADV	adv	Int=Yes	4	advmod	4:advmod	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
 3	mãygãra	mãygãra	NOUN	n	_	4	nsubj	4:nsubj	_
-4	etóp	tóp	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+4	etóp	tóp	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 251
 # text = kõm ahyə igu ẽn ip yapít
@@ -1756,7 +1756,7 @@
 3	igu	igu	ADJ	adj	_	5	amod	5:amod	_
 4	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
 5	ip	ip	NOUN	n	_	6	obj	6:obj	_
-6	yapít	yapí	VERB	v	Mood=Ind	0	root	0:root	_
+6	yapít	yapí	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 252
 # text = nãnã ahyə agóaʔpət óra wɨy maŋaptem
@@ -1765,7 +1765,7 @@
 2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
 3	agóaʔpət	agóaʔpət	NOUN	n	_	4	nsubj	4:nsubj	_
 4	óra	óra	NOUN	n	_	0	root	0:root	_
-5	wɨy	wɨy	VERB	v	Mood=Ind	4	compound	4:compound	_
+5	wɨy	wɨy	VERB	v	Decl=Assert	4	compound	4:compound	_
 6	maŋaptem	maŋap	ADJ	adj	_	4	advmod	4:advmod	_
 
 # sent_id = 253
@@ -1824,20 +1824,20 @@
 1	kanãy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	yét	_	PRON	pron	PronType=Dem	3	nmod	3:nmod	_
 3	péŋ	_	NOUN	n	_	4	nsubj	4:nsubj	_
-4	[ʔet]	_	AUX	aux	Mood=Ind	0	root	0:root	_
+4	[ʔet]	_	AUX	aux	Decl=Assert	0	root	0:root	_
 
 # sent_id = 262
 # text = maʔwɨt [ken]
 # text_eng = The man slept. (Gabas 1999, 106)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	[ken]	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	[ken]	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 263
 # text = õn [aʔwéro toy]
 # text_eng = I heard him. (Gabas 1999, 106)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	[aʔwéro	_	VERB	v	Number=Sing|Person=3	3	obj	3:obj	_
-3	toy]	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	toy]	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 264
 # text = cárarem õn
@@ -1867,13 +1867,13 @@
 1	kopət	_	NOUN	n	_	0	root	0:root	_
 2	to	_	PART	part	Number=Plur	1	clf	1:clf	_
 3	wecéb	_	ADJ	adj	_	1	amod	1:amod	_
-4	aʔmãn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+4	aʔmãn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 268
 # text = Antônio yãn kaʔa ʔa naʔot peʔ
 # text_eng = Antônio is on the top of the house. (Gabas 1999, 107)
 1	Antônio	_	PROPN	propn	_	2	nsubj	2:nsubj	_
-2	yãn	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yãn	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
 4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 5	naʔot	_	ADV	adv	_	3	advmod	3:advmod	_
@@ -1883,7 +1883,7 @@
 # text = tik wán ahyə et kaʔa ʔa peʔ
 # text_eng = Are the mosquitoes in your house? (lit. Does mosquito fly in your house?) (Gabas 1999, 108)
 1	tik	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	wán	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	wán	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
 4	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nmod	5:nmod	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
@@ -1897,7 +1897,7 @@
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	kaʔa	_	NOUN	n	_	5	obj	5:obj	_
 4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
-5	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	kət	_	VERB	v	Decl=Assert	0	root	0:root	_
 6	cagáro	_	NUM	num	_	3	nummod	3:nummod	_
 7	kõmnem	_	X	x	_	5	advmod	5:advmod	_
 
@@ -1907,21 +1907,21 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	makãri	_	NOUN	n	_	4	obj	4:obj	_
-4	rakət	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
+4	rakət	_	VERB	v	Case=Com|Decl=Assert	0	root	0:root	_
 
 # sent_id = 272
 # text = [yét péŋ] paʔpan
 # text_eng = This man fell.(Gabas 1999, 109)
 1	[yét	_	PRON	pron	PronType=Dem	2	det	2:det	_
 2	péŋ]	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	paʔpan	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	paʔpan	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 273
 # text = kanãy [yét] ʔet tocaropaba
 # text_eng = Then this (white man) was sad. (Gabas 1999, 109)
 1	kanãy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	[yét]	_	PRON	pron	PronType=Dem	4	nsubj	4:nsubj	_
-3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	4	aux	4:aux	_
 4	tocaropaba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 274
@@ -1929,13 +1929,13 @@
 # text_eng = My child cried. (Gabas 1999, 110)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	wét	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wét	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 275
 # text = karoat yãn iʔke tẽna
 # text_eng = Yours (your animals) are not at home now. (Gabas 1999, 110)
 1	karoat	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-2	yãn	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yãn	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	tẽna	_	ADV	adv	_	2	advmod	2:advmod	_
 
@@ -2022,7 +2022,7 @@
 1	məy	_	ADV	adv	_	8	advmod	8:advmod	_
 2	maʔpəy	_	NOUN	n	_	8	nsubj	8:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	ʔet	_	AUX	aux	Mood=Ind	8	aux	8:aux	_
+4	ʔet	_	AUX	aux	Decl=Assert	8	aux	8:aux	_
 5	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
 6	chapéu	_	NOUN	n	_	8	obj	8:obj	_
 7	káʔ	_	ADJ	adj	Clas=Ccv	6	clf	6:clf	_
@@ -2046,7 +2046,7 @@
 # text = owicorop ken
 # text_eng = I slept hungry (or, better: I-hungry slept). (Gabas 1999, 113)
 1	owicorop	_	ADJ	adj	Number=Sing|Person=1	2	xcomp	2:xcomp	_
-2	ken	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	ken	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 291
 # text = aʔwak toba agóaʔpət ʔet
@@ -2054,20 +2054,20 @@
 1	aʔwak	_	ADJ	adj	Number=Sing|Person=3	2	amod	2:amod	_
 2	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
-4	ʔet	_	AUX	aux	Mood=Ind	2	aux	2:aux	_
+4	ʔet	_	AUX	aux	Decl=Assert	2	aux	2:aux	_
 
 # sent_id = 292
 # text = kanãy aʔpap ʔet towecɨra
 # text_eng = Then it-hurt ran. (Gabas 1999, 114)
 1	kanãy	_	ADV	adv	_	4	advmod	4:advmod	_
 2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	4	amod	4:amod	_
-3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	4	aux	4:aux	_
 4	towecɨra	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 293
 # text = abakán aʔpap kəy
 # text_eng = He was angry at the hurt one. (Gabas 1999, 114)
-1	abakán	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	abakán	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	1	amod	1:amod	_
 3	kəy	_	ADP	adp	_	1	case	1:case	_
 
@@ -2082,7 +2082,7 @@
 # text_eng = He was seen to have killed it. (Gabas 1999, 114)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	topə	_	PART	part	Evident=Fh	3	mark	3:mark	_
-3	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+3	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 296
 # text = pagon nóptem nakõm nap tə
@@ -2098,7 +2098,7 @@
 # text_eng = Then (I saw that) the white man was walking through the top (of the three), (Gabas 1999, 115)
 1	məy	_	ADV	adv	_	6	advmod	6:advmod	_
 2	péŋ	_	NOUN	n	_	6	nsubj	6:nsubj	_
-3	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	6	aux	6:aux	_
 4	kohmãy	_	NOUN	n	_	6	obl	6:obl	_
 5	ʔerem	_	ADP	adp	Case=Disp	6	case	6:case	_
 6	tokəga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
@@ -2121,7 +2121,7 @@
 # text_eng = Then the white man was washing his clothes in the river. (Gabas 1999, 115)
 1	kanãy	_	ADV	adv	_	7	advmod	7:advmod	_
 2	pèŋ	_	NOUN	n	_	7	nsubj	7:nsubj	_
-3	ʔep	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
+3	ʔep	_	AUX	aux	Decl=Assert	7	aux	7:aux	_
 4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	mok	_	NOUN	n	_	7	obj	7:obj	_
 6	peroʔ	_	ADJ	adj	Clas=Flat|Number=Plur	5	clf	5:clf	_
@@ -2206,14 +2206,14 @@
 # text_eng = He and Naʔkɨt caught the fish. (lit. He caught the fish with Naʔkɨt ) (Gabas 1999, 117)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	Naʔkɨt	_	PROPN	propn	_	3	obl	3:obl	_
 5	pihmãm	mãm	ADP	adp	Case=Com	4	case	4:case	_
 
 # sent_id = 314
 # text = owakán matet wat iyõm pihmãm (towakára)
 # text_eng = My father and I were angry yesterday. (Gabas 1999, 117)
-1	owakán	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	matet	_	ADV	adv	_	1	advmod	1:advmod	_
 3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
@@ -2225,7 +2225,7 @@
 # text_eng = He killds a/the bird and the hawk. (Gabas 1999, 118)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	ĩya	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	kokõ	_	NOUN	n	_	5	obj	5:obj	_
 5	wĩa	_	VERB	v	VerbForm=Ger	3	conj	3:conj	_
 6	kõam	_	PART	part	_	5	mark	5:mark	_
@@ -2235,7 +2235,7 @@
 # text_eng = He and Cabirera are big shamans. (lit. He is a big shaman, like Cabirera)(Gabas 1999, 118)
 1	agóaʔpət	_	NOUN	n	_	0	root	0:root	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	aʔnãn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+3	aʔnãn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 4	Cabirera	_	PROPN	propn	_	1	obl	1:obl	_
 5	kõm	_	ADP	adp	Case=Sim	4	case	4:case	_
 
@@ -2273,19 +2273,19 @@
 # text = maʔpəy ken
 # text_eng = The woman slept. (Gabas 1999, 119)
 1	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ken	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	ken	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 321
 # text = ĩya tẽy
 # text_eng = The bird flew. (Gabas 1999, 119)
 1	ĩya	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	tẽy	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	tẽy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 322
 # text = maʔwɨt ʔet matet
 # text_eng = The man (did something) yesterday. (Gabas 1999, 119)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ʔet	_	AUX	aux	Mood=Ind	0	root	0:root	_
+2	ʔet	_	AUX	aux	Decl=Assert	0	root	0:root	_
 3	matet	_	ADV	adv	_	2	obl	2:obl	_
 
 # sent_id = 323
@@ -2294,7 +2294,7 @@
 1	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	awe	_	NOUN	n	_	4	obj	4:obj	_
-4	capét	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	capét	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 324
 # text = wat awe iyõm capét
@@ -2302,64 +2302,64 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	awe	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	iyõm	_	NOUN	n	_	4	obj	4:obj	_
-4	capét	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	capét	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 325
 # text = oken
 # text_eng = I slept. (Gabas 1999, 120)
-1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	_	_	_	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	_	_	_	_
 
 # sent_id = 326
 # text = owaraʔkət
 # text_eng = I went back. (Gabas 1999, 120)
-1	owaraʔkət	_	VERB	v	Mood=Ind|Number=Sing|Person=1	_	_	_	_
+1	owaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	_	_	_	_
 
 # sent_id = 327
 # text = maʔwɨt ken
 # text_eng = The man slept. (Gabas 1999, 120)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ken	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	ken	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 328
 # text = aʔ=ken
 # text_eng = He/it slept. (Gabas 1999, 120)
-1	aʔ=ken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+1	aʔ=ken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
 
 # sent_id = 329
 # text = agóaʔpət paraʔkət
 # text_eng = The shaman went back. (Gabas 1999, 121)
 1	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	paraʔkət	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	paraʔkət	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 330
 # text = abaraʔkət
 # text_eng = He/it went back. (Gabas 1999, 121)
-1	abaraʔkət	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+1	abaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
 
 # sent_id = 331
 # text = õn ameko toy
 # text_eng = I saw the jaguar. (Gabas 1999, 121)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ameko	_	NOUN	n	_	3	obj	3:obj	_
-3	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	toy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 332
 # text = ameko otoy
 # text_eng = The jaguar saw me. (Gabas 1999, 121)
 1	ameko	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 333
 # text = õn aʔtoy
 # text_eng = I saw it/him. (Gabas 1999, 121)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 334
 # text = at otoy
 # text_eng = It/he saw me. (Gabas 1999, 121)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 335
 # text = yét maʔwɨt
@@ -2387,7 +2387,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	er	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	3:nmod	_
 3	iyõm	_	NOUN	n	_	4	obj	4:obj	_
-4	noy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	noy	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	matet	_	ADV	adv	_	4	obl	4:obl	_
 
 # sent_id = 339
@@ -2396,7 +2396,7 @@
 1	tər	_	ADV	adv	_	4	obl	4:obl	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-4	aʔtop	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+4	aʔtop	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 340
 # text = mĩm mãm iʔke péŋ yowarap
@@ -2405,14 +2405,14 @@
 2	mãm	mãm	PART	part	_	5	discourse	5:discourse	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 4	péŋ	_	NOUN	n	_	5	nsubj	5:nsubj	_
-5	yowarap	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	yowarap	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 341
 # text = agóaʔpət mãygãra roy iʔke
 # text_eng = The shaman did not see the snake. (Gabas 1999, 124)
 1	agóaʔpət	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	roy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	roy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	iʔke	_	PART	part	_	3	clf	3:clf	_
 
 # sent_id = 342
@@ -2428,7 +2428,7 @@
 # text = maʔwɨt ken iʔke
 # text_eng = The man did not sleep (Gabas 1999, 124)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ken	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	ken	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 344
@@ -2437,45 +2437,45 @@
 1	to=kera	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	maʔwɨt	_	NOUN	n	_	4	nsubj	4:nsubj	_
-4	ʔet	_	AUX	aux	Mood=Ind	1	ccomp	1:ccomp	_
+4	ʔet	_	AUX	aux	Decl=Assert	1	ccomp	1:ccomp	_
 
 # sent_id = 345
 # text = aʔken
 # text_eng = He slept. (Gabas 1999, 125)
-1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	_	_	_	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
 
 # sent_id = 346
 # text = agóaʔpət wɨy
 # text_eng = The shaman left. (Gabas 1999, 125)
 1	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	wɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 347
 # text = õn mãygãra toy
 # text_eng = I saw a/the snake(Gabas 1999, 125)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	toy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	toy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 348
 # text = kanãy péŋ ʔet (...)
 # text_eng = Then, the white man (...) (Gabas 1999, 125)
 1	kanãy	_	ADV	adv	_	3	advmod	3:advmod	_
 2	péŋ	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	ʔet	_	AUX	aux	Mood=Ind	0	root	0:root	_
+3	ʔet	_	AUX	aux	Decl=Assert	0	root	0:root	_
 4	(...)	_	PUNCT	punct	_	3	punct	3:punct	_
 
 # sent_id = 349
 # text = õn epɨy co
 # text_eng = I waited for you (Gabas 1999, 125)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	epɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	epɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 3	co	_	PART	part	Tense=Past	2	mark	2:mark	_
 
 # sent_id = 350
 # text = owaʔpan aʔpẽya gán
 # text_eng = I fell stepping on it long ago. (Gabas 1999, 126)
-1	owaʔpan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	owaʔpan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	aʔpẽya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	xcomp	1:xcomp	_
 3	gán	_	PART	part	Tense=RPast	1	mark	1:mark	_
 
@@ -2484,7 +2484,7 @@
 # text_eng = I will not pinch my husband. (Gabas 1999, 126)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	omẽn	_	NOUN	n	Number=Sing|Person=1	3	obj	3:obj	_
-3	meropir	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	meropir	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	yar	_	PART	part	Tense=Fut	3	mark	3:mark	_
 5	iʔke	_	PART	part	_	3	advmod	3:advmod	_
 
@@ -2492,7 +2492,7 @@
 # text = péŋ yaʔi toat mok peʔ cán iga
 # text_eng = The white man will go down (to the river) to wash his clothes. (Gabas 1999, 126)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	yaʔi	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yaʔi	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	4:nmod	_
 4	mok	_	NOUN	n	_	6	obj	6:obj	_
 5	peʔ	_	ADJ	adj	Clas=Flat	4	clf	4:clf	_
@@ -2505,7 +2505,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	péŋ	_	NOUN	n	_	3	obj	3:obj	_
 3	yati	_	VERB	v	_	0	root	0:root	_
-4	nãn	_	VERB	v	Mood=Ind	3	cop	3:cop	_
+4	nãn	_	VERB	v	Decl=Assert	3	cop	3:cop	_
 5	iʔke	_	PART	part	_	3	clf	3:clf	_
 
 # sent_id = 354
@@ -2513,20 +2513,20 @@
 # text_eng =They are not few. (Gabas 1999, 126)
 1	tap	_	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	táy	_	ADJ	adj	_	0	root	0:root	_
-3	nãn	_	VERB	v	Mood=Ind	2	cop	2:cop	_
+3	nãn	_	VERB	v	Decl=Assert	2	cop	2:cop	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 355
 # text = teʔyoy iʔke tawrem
 # text_eng = We do not live far. (Gabas 1999, 127)
-1	teʔyoy	_	VERB	v	Clusivity=In|Mood=Ind|Number=Plur|Person=1	0	root	0:root	_
+1	teʔyoy	_	VERB	v	Clusivity=In|Decl=Assert|Number=Plur|Person=1	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	tawrem	_	ADJ	adj	_	1	advmod	1:advmod	_
 
 # sent_id = 356
 # text = ewét yahmãm
 # text_eng = Do not cry! (Gabas 1999, 127)
-1	ewét	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	ewét	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	yahmãm	mãm	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 357
@@ -2534,7 +2534,7 @@
 # text_eng = He will not catch a fish (Gabas 1999, 127)
 1	ip	_	NOUN	n	_	2	obj	2:obj	_
 2	ʔɨya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
+3	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
 4	yahmãm	mãm	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 358
@@ -2542,7 +2542,7 @@
 # text_eng = It is wondered whether he killed the snake. (Gabas 1999, 127)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	menə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 359
@@ -2550,7 +2550,7 @@
 # text_eng = He really killed the snake. (Gabas 1999, 127)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	nãnin	_	PART	part	Evident=Fh	3	mark	3:mark	_
 
 # sent_id = 360
@@ -2558,7 +2558,7 @@
 # text_eng = He killed the snake, they say. (Gabas 1999, 127)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	tə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 361
@@ -2566,7 +2566,7 @@
 # text_eng = He must have killed the snake. (Gabas 1999, 128)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	igã	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 362
@@ -2574,7 +2574,7 @@
 # text_eng = He clearly killed the snake (but nobody saw the dead snake). (Gabas 1999, 128)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	coke	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 363
@@ -2583,7 +2583,7 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owẽ	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	kət	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	kət	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
 6	iʔke	_	PART	part	_	4	advmod	4:advmod	_
 7	menə	_	PART	part	Evident=Nfh	4	mark	4:mark	_
@@ -2591,28 +2591,28 @@
 # sent_id = 364
 # text = abakán ekəy
 # text_eng = He is angry at you. (Gabas 1999, 128)
-1	abakán	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	abakán	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	ekəy	_	PRON	pron	Case=Dat|Number=Sing|Person=2	1	obl	1:obl	_
 
 # sent_id = 365
 # text = péŋ aʔwĩn tágɨh mã
 # text_eng = the white man killed it with a/the bow (Gabas 1999, 129)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	tágɨh	_	NOUN	n	_	2	obl	2:obl	_
 4	mã	_	ADP	adp	Case=Ins	3	case	3:case	_
 
 # sent_id = 366
 # text = aʔwɨy naco ʔerem
 # text_eng = He went through the forest. (Gabas 1999, 129)
-1	aʔwɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔwɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	naco	_	NOUN	n	_	1	obl	1:obl	_
 3	ʔerem	_	ADP	adp	Case=Disp	2	case	2:case	_
 
 # sent_id = 367
 # text = oken péŋ at kaʔa ʔaʔ peʔ
 # text_eng = I slept at the white man's house. (Gabas 1999, 129)
-1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	péŋ	_	NOUN	n	_	4	nmod	4:nmod	_
 3	at	_	PART	part	_	2	case	2:case	_
 4	kaʔa	_	NOUN	n	_	1	obl	1:obl	_
@@ -2631,14 +2631,14 @@
 # sent_id = 369
 # text = ŋabenaoy abihmãm
 # text_eng = She danced with him. (Gabas 1999, 129)
-1	ŋabenaoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	ŋabenaoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	abihmãm	mãm	ADP	adp	Case=Com|Number=Sing|Person=3	1	obl	1:obl	_
 
 # sent_id = 370
 # text = naʔwəy yaʔi maʔɨp ʔay
 # text_eng = The monkey went down from the tree. (Gabas 1999, 129)
 1	naʔwəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	yaʔi	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yaʔi	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	maʔɨp	_	NOUN	n	_	2	obl	2:obl	_
 4	ʔay	_	ADP	adp	Case=Abl	3	case	3:case	_
 
@@ -2654,7 +2654,7 @@
 # text_eng = The big fish swam in the water. (Gabas 1999, 130)
 1	ip	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	gət	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	gət	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	icɨ	_	NOUN	n	_	3	obl	3:obl	_
 5	bət	_	ADP	adp	Case=Ines	4	case	4:case	_
 
@@ -2671,7 +2671,7 @@
 1	ci	_	NOUN	n	_	2	nmod	2:nmod	_
 2	baʔpe	_	NOUN	n	_	5	obl	5:obl	_
 3	bem	_	ADP	adp	_	2	case	2:case	_
-4	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	5	aux	5:aux	_
+4	wep	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	5	aux	5:aux	_
 5	owaraʔkəga	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 375
@@ -2679,7 +2679,7 @@
 # text_eng = I caught the fish. (Gabas 1999, 131)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	okõna	_	ADP	adp	Number=Sing|Person=1	3	mark	3:mark	_
 
 # sent_id = 376
@@ -2688,7 +2688,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	okõna	_	ADP	adp	Number=Sing|Person=1	1	mark	1:mark	_
 3	ip	_	NOUN	n	_	4	obj	4:obj	_
-4	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 377
 # text = ŋa tokõna icɨ an yat aʔkəy
@@ -2696,14 +2696,14 @@
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 2	tokõna	_	ADP	adp	Corf=Yes|Person=3	3	mark	3:mark	_
 3	icɨ	_	NOUN	n	_	4	obj	4:obj	_
-4	an	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	an	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
 6	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	4	obl	4:obl	_
 
 # sent_id = 378
 # text = oken okõna
 # text_eng = I slept. (Gabas 1999, 131)
-1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	okõna	_	ADP	adp	Number=Sing|Person=3	1	mark	1:mark	_
 
 # sent_id = 379
@@ -2718,7 +2718,7 @@
 # text_eng = From afar, the toad confuses us, (Gabas 1999, 131)
 1	wəŋnem	_	ADJ	adj	_	4	advmod	4:advmod	_
 2	mɨrɨrɨy	_	NOUN	n	_	4	nsubj	4:nsubj	_
-3	ʔet	_	AUX	aux	Mood=Ind	4	aux	4:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	4	aux	4:aux	_
 4	iʔpéya	_	VERB	v	Clusivity=In|Number=Plur|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 381
@@ -2734,12 +2734,12 @@
 1	ip	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	tokõna	_	ADP	adp	_	1	mark	1:mark	_
 3	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
-4	yɨy	_	VERB	v	Mood=Ind|Person=3Imp	0	root	0:root	_
+4	yɨy	_	VERB	v	Decl=Assert|Person=3Imp	0	root	0:root	_
 
 # sent_id = 383
 # text = oyãn mẽganape mĩn
 # text_eng = I live here now. (Gabas 1999, 132)
-1	oyãn	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyãn	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	mẽganape	_	ADV	adv	_	1	advmod	1:advmod	_
 3	mĩn	_	ADV	adv	_	1	obl	1:obl	_
 
@@ -2748,7 +2748,7 @@
 # text_eng = He killed many men long ago. (Gabas 1999, 133)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	péŋ	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	paʔpiktem	_	ADJ	adj	_	2	advmod	2:advmod	_
 5	mɨy	_	ADV	adv	_	3	advmod	3:advmod	_
 6	mãm	mãm	PART	part	_	3	discourse	3:discourse	_
@@ -2759,14 +2759,14 @@
 1	mẽganape	_	ADV	adv	_	4	advmod	4:advmod	_
 2	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 3	ameko	_	NOUN	n	_	4	obj	4:obj	_
-4	top	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	top	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	matet	_	ADV	adv	_	4	obl	4:obl	_
 
 # sent_id = 386
 # text = pecéptem ʔep mĩn
 # text_eng = In an ugly way you did (it) now. (Gabas 1999, 133)
 1	pecéptem	_	ADJ	adj	_	2	advmod	2:advmod	_
-2	ʔep	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	ʔep	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 3	mĩn	_	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 387
@@ -2775,7 +2775,7 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	apəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	pepat	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	pepat	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	cək	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	mãm	PART	part	_	4	discourse	4:discourse	_
 
@@ -2783,7 +2783,7 @@
 # text = õn aʔtoy pattem
 # text_eng = I saw it nicely. (Gabas 1999, 134)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	pattem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 389
@@ -2791,7 +2791,7 @@
 # text_eng = The shaman killed many white men. (Gabas 1999, 134)
 1	agóaʔpət	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	péŋ	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	paʔpiktem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
 # sent_id = 390
@@ -2801,14 +2801,14 @@
 2	iʔke	_	PART	part	_	5	advmod	5:advmod	_
 3	maʔpəy	_	NOUN	n	_	5	nsubj	5:nsubj	_
 4	icɨ	_	NOUN	n	_	5	obj	5:obj	_
-5	arap	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	arap	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 391
 # text = pattem iʔke ap towerowɨya
 # text_eng = It was not beautifully that he spoke. (Gabas 1999, 134)
 1	pattem	_	ADJ	adj	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+3	ap	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 4	towerowɨya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 392
@@ -2818,7 +2818,7 @@
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	rokõna	_	ADP	adp	Corf=Yes|Person=3	1	mark	1:mark	_
 4	Petĩp	_	PROPN	propn	_	6	nsubj	6:nsubj	_
-5	ʔep	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
+5	ʔep	_	AUX	aux	Decl=Assert	6	aux	6:aux	_
 6	towetõa	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	1	dep	1:dep	_
 
 # sent_id = 393
@@ -2826,7 +2826,7 @@
 # text_eng = The woman did not bring water now. (Gabas 1999, 135)
 1	maʔpəy	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	icɨ	_	NOUN	n	_	3	obj	3:obj	_
-3	an	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	an	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	iʔke	_	PART	part	_	3	advmod	3:advmod	_
 5	rẽna	_	ADV	adv	_	3	advmod	3:advmod	_
 
@@ -2834,7 +2834,7 @@
 # text = aʔwero wɨy iʔke battem
 # text_eng = He did not speak beautifully. (Gabas 1999, 135)
 1	aʔwero	_	NOUN	n	Number=Sing|Person=3	2	dep	2:dep	_
-2	wɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	wɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	battem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
@@ -2842,7 +2842,7 @@
 # text = Petɨp petõn iʔke matet
 # text_eng = Petĩp did not told (the story) yesterday. (Gabas 1999, 135)
 1	Petɨp	_	PROPN	propn	_	2	nsubj	2:nsubj	_
-2	petõn	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	petõn	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	matet	_	ADV	adv	_	2	obl	2:obl	_
 
@@ -2851,7 +2851,7 @@
 # text_eng = The man caught two fish yesterday. (Gabas 1999, 135)
 1	maʔwɨt	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	matet	_	ADV	adv	_	3	obl	3:obl	_
 5	cagárokõmnem	_	NUM	num	_	2	advmod	2:advmod	_
 
@@ -2860,7 +2860,7 @@
 # text_eng = The man caught two fish yesterday. (Gabas 1999, 135)
 1	maʔwɨt	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
-3	ʔɨy	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	cagárokõmnem	_	NUM	num	_	2	advmod	2:advmod	_
 5	matet	_	ADV	adv	_	3	obl	3:obl	_
 
@@ -2868,7 +2868,7 @@
 # text = ar atati baʔpiktem meŋɨk to
 # text_eng = He brought lots of it over there. (Gabas 1999, 136)
 1	ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	atati	_	VERB	v	Case=Com|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	atati	_	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	baʔpiktem	_	ADJ	adj	_	2	advmod	2:advmod	_
 4	meŋɨk	_	ADV	adv	_	2	advmod	2:advmod	_
 5	to	_	X	x	_	_	_	_	_
@@ -2879,7 +2879,7 @@
 1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	bakán	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	mark	4:mark	_
 
 # sent_id = 400
@@ -2888,7 +2888,7 @@
 1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	bakán	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	mark	4:mark	_
 6	matet	_	ADV	adv	_	4	obl	4:obl	_
 
@@ -2898,7 +2898,7 @@
 1	war	_	PRON	pron	Number=Sing|Person=1	2	nmod	2:nmod	_
 2	owã	_	NOUN	n	_	4	nsubj	4:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	bakán	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	bakán	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	4	case	4:case	_
 
 # sent_id = 402
@@ -2915,13 +2915,13 @@
 # text = púŋ wet co
 # text_eng = I shot. (Gabas 1999, 137)
 1	púŋ	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	co	_	PART	part	Tense=Past	1	mark	1:mark	_
 
 # sent_id = 404
 # text = eken ahyə co battem
 # text_eng = Did you sleep well? (Gabas 1999, 137)
-1	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 3	co	_	PART	part	Tense=Past	1	mark	1:mark	_
 4	battem	_	ADJ	adj	_	1	advmod	1:advmod	_
@@ -2931,14 +2931,14 @@
 # text_eng = I healed the girl (long ago). (Gabas 1999, 137)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ĩriŋ	_	NOUN	n	_	3	obj	3:obj	_
-3	macéri	_	VERB	v	Mood=Ind|Voice=Cau	0	root	0:root	_
+3	macéri	_	VERB	v	Decl=Assert|Voice=Cau	0	root	0:root	_
 4	gán	_	PART	part	Tense=RPast	3	mark	3:mark	_
 
 # sent_id = 406
 # text = iyõm ŋen co matet
 # text_eng = father slept yesterday (Gabas 1999, 138)
 1	iyõm	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ŋen	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	ŋen	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	co	_	PART	part	Tense=Past	2	mark	2:mark	_
 4	matet	_	ADV	adv	_	2	obl	2:obl	_
 
@@ -2949,7 +2949,7 @@
 2	yaʔmo	_	NOUN	n	_	5	obj	3:compound|5:obj	_
 3	ci	_	NOUN	n	_	_	_	_	_
 4	káʔ	_	ADJ	adj	Clas=Ccv	3	clf	3:clf	_
-5	ʔor	_	VERB	v	Mood=Ind	0	root	0:root	_
+5	ʔor	_	VERB	v	Decl=Assert	0	root	0:root	_
 6	iʔke	_	PART	part	_	5	advmod	5:advmod	_
 7	werem	_	ADV	adv	_	5	obl	5:obl	_
 8	ŋán	_	PART	part	Tense=RPast	7	mark	7:mark	_
@@ -2969,14 +2969,14 @@
 1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	icɨ	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	3	aux	3:aux	_
+4	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	3	aux	3:aux	_
 5	co	_	PART	part	_	3	mark	3:mark	_
 
 # sent_id = 410
 # text = iyõm ikap towenaoba co
 # text_eng = Dad was going to dance. (Gabas 1999, 138)
 1	iyõm	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ikap	_	AUX	aux	Mood=Ind|Person=3Imp|Tenses=Fut	0	root	0:root	_
+2	ikap	_	AUX	aux	Decl=Assert|Person=3Imp|Tenses=Fut	0	root	0:root	_
 3	towenaoba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	xcomp	2:xcomp	_
 4	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 
@@ -2985,7 +2985,7 @@
 # text_eng = I was going to hunt. (Gabas 1999, 138)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	cĩm	_	NOUN	n	_	3	obj	3:obj	_
-3	yegat	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	yegat	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	yat	_	PART	part	Tense=Fut	3	mark	3:mark	_
 5	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 
@@ -2994,7 +2994,7 @@
 # text_eng = I was going to cook my food. (Gabas 1999, 139)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	owirap	_	NOUN	n	_	3	obj	3:obj	_
-3	tɨn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	tɨn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	yat	_	PART	part	Tense=Fut	3	mark	3:mark	_
 5	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 
@@ -3004,7 +3004,7 @@
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
 2	kanã	_	NOUN	n	_	3	obj	3:obj	_
 3	rakəga	_	VERB	v	Case=Com|VerbForm=Ger	0	root	0:root	_
-4	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
+4	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	3	aux	3:aux	_
 5	co	_	PART	part	Tense=Past	3	mark	3:mark	_
 6	kán	_	PART	part	Tense=RPast	3	mark	3:mark	_
 
@@ -3012,7 +3012,7 @@
 # text = õn opit məy mãm co kán
 # text_eng = I took the vaccine long ago (Gabas 1999, 139)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	opit	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	opit	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 3	məy	_	ADV	adv	_	2	advmod	2:advmod	_
 4	mãm	mãm	PART	part	_	2	discourse	2:discourse	_
 5	co	_	PART	part	Tense=Past	2	mark	2:mark	_
@@ -3024,13 +3024,13 @@
 1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 2	[maʔwɨt	_	NOUN	n	_	1	nsubj	1:nsubj	_
 3	cú]	_	ADJ	adj	_	2	amod	2:amod	_
-4	kay	_	AUX	aux	Mood=Ind|Tense=Fut	1	aux	1:aux	_
+4	kay	_	AUX	aux	Decl=Assert|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 416
 # text = owɨya okay
 # text_eng = I am going to leave. (Gabas 1999, 140)
 1	owɨya	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
-2	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
+2	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 417
 # text = mãygãra wĩa [wat owẽ] kay
@@ -3039,14 +3039,14 @@
 2	wĩa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	[wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
 4	owẽ]	_	NOUN	n	_	3	nsubj	3:nsubj	_
-5	kay	_	AUX	aux	Mood=Ind|Tense=Fut	3	aux	3:aux	_
+5	kay	_	AUX	aux	Decl=Assert|Tense=Fut	3	aux	3:aux	_
 
 # sent_id = 418
 # text = aʔtoba cúrem aʔkay
 # text_eng = He is going to see it well. (Gabas 1999, 141)
-1	aʔtoba	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔtoba	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	cúrem	_	ADJ	adj	_	2	advmod	2:advmod	_
-3	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
+3	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
 
 # sent_id = 419
 # text = tokera iʔke maʔwɨt cú gay
@@ -3055,14 +3055,14 @@
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	maʔwɨt	_	NOUN	n	_	1	nsubj	1:nsubj	_
 4	cú	_	ADJ	adj	_	3	amod	3:amod	_
-5	gay	_	AUX	aux	Mood=Ind|Tense=Fut	1	aux	1:aux	_
+5	gay	_	AUX	aux	Decl=Assert|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 420
 # text = owɨya iʔke okay
 # text_eng = I am not going to leave. (Gabas 1999, 141)
 1	owɨya	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
+3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 421
 # text = mãygãra wĩa iʔke [war owẽ] gay
@@ -3072,29 +3072,29 @@
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	[war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
 5	owẽ]	_	NOUN	n	_	2	nsubj	2:nsubj	_
-6	gay	_	AUX	aux	Mood=Ind|Tense=Fut	2	aux	2:aux	_
+6	gay	_	AUX	aux	Decl=Assert|Tense=Fut	2	aux	2:aux	_
 
 # sent_id = 422
 # text = aʔtoba iʔke cúrem aʔkay
 # text_eng = He is not going to see it well. (Gabas 1999, 142)
-1	aʔtoba	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔtoba	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 3	cúrem	_	ADJ	adj	_	2	advmod	2:advmod	_
-4	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
+4	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
 
 # sent_id = 423
 # text = ameko cú yaʔwa yat
 # text_eng = The big jaguar will leave. (Gabas 1999, 142)
 1	ameko	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	yaʔwa	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	yaʔwa	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	yat	_	PART	part	Tense=Fut	3	mark	3:mark	_
 
 # sent_id = 424
 # text = õn aʔtoy yat
 # text_eng = I will see him/it. (Gabas 1999, 142)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 
 # sent_id = 425
@@ -3117,7 +3117,7 @@
 # text_eng = The big jaguar will not leave. (Gabas 1999, 143)
 1	ameko	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	yaʔwan	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	yaʔwan	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	nyat	_	PART	part	Tense=Fut	3	mark	3:mark	_
 5	iʔke	_	PART	part	_	3	advmod	3:advmod	_
 
@@ -3125,7 +3125,7 @@
 # text = õn aʔtoy yar iʔke
 # text_eng = I will not see him/it. (Gabas 1999, 143)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	yar	_	PART	part	Tense=Fut	2	mark	2:mark	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
@@ -3134,51 +3134,51 @@
 # text_eng = Isn't he going to see it/him? (Gabas 1999, 144)
 1	taykir	_	PART	part	_	3	advmod	3:advmod	_
 2	at	_	PRON	pron	Number=Sing|Person=3	3	nsubj	3:nsubj	_
-3	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 4	iga	_	PART	part	Tense=Fut	3	mark	3:mark	_
 
 # sent_id = 430
 # text = taykir aʔken iga
 # text_eng = Isn't he going to sleep? (Gabas 1999, 144)
 1	taykir	_	PART	part	_	2	advmod	2:advmod	_
-2	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	iga	_	PART	part	Tense=Fut	2	mark	2:mark	_
 
 # sent_id = 431
 # text = oyaʔwan nyat oken iga
 # text_eng = I will leave to sleep (Gabas 1999, 144)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	nyat	_	PART	part	Tense=Fut	1	mark	1:mark	_
-3	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	1	obl	1:obl	_
+3	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	1	obl	1:obl	_
 4	iga	_	PART	part	Tense=Fut	3	mark	3:mark	_
 
 # sent_id = 432
 # text = oyaʔwara okay aʔtoy iga
 # text_eng = I am going to leave to see him/it (Gabas 1999, 144)
 1	oyaʔwara	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
-2	okay	_	PART	part	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	mark	1:mark	_
-3	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	1	xcomp	1:xcomp	_
+2	okay	_	PART	part	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	mark	1:mark	_
+3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	1	xcomp	1:xcomp	_
 4	iga	_	PART	part	Tense=Fut	3	mark	3:mark	_
 
 # sent_id = 433
 # text = oyaʔwan nyar aʔtoy iga
 # text_eng = I will leave to see him/it (Gabas 1999, 144)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	nyar	_	PART	part	Tense=Fut	1	mark	1:mark	_
-3	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	xcomp	1:xcomp	_
+3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	xcomp	1:xcomp	_
 2	iga	_	_	_	_	_	_	_	_
 
 # sent_id = 434
 # text = oken iʔke
 # text_eng = I did not sleep. (Gabas 1999, 145)
-1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 435
 # text = ar otoy iʔke
 # text_eng = He/it did not see me. (Gabas 1999, 145)
 1	ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 436
@@ -3187,7 +3187,7 @@
 1	[õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	iʔke]	_	PART	part	_	1	advmod	1:advmod	_
 3	mãygãra	_	NOUN	n	_	4	obj	4:obj	_
-4	roy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	roy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 437
 # text = [ar owẽ rab iʔke] ewirup ʔot
@@ -3197,7 +3197,7 @@
 3	rab	_	PART	part	Case=Com	2	case	2:case	_
 4	iʔke]	_	PART	part	_	2	advmod	2:advmod	_
 5	ewirup	_	NOUN	n	Number=Sing|Person=2	6	obj	6:obj	_
-6	ʔot	_	VERB	v	Mood=Ind	0	root	0:root	_
+6	ʔot	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 438
 # text = [mãygãra iʔke] õn itop
@@ -3250,7 +3250,7 @@
 # sent_id = 444
 # text = owakán iʔke ekəy
 # text_eng = I am not angry with you. (Gabas 1999, 147)
-1	owakán	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	1	obl	1:obl	_
 
@@ -3259,14 +3259,14 @@
 # text_eng = It is not with you that I am angry (Gabas 1999, 147)
 1	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	_	_	_	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
+3	wep	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	4	aux	4:aux	_
 4	owakára	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	ccomp	1:ccomp	_
 
 # sent_id = 446
 # text = õn aʔtoy iʔke at kaʔa ʔa peʔ
 # text_eng = I did not see him/it at his house. (Gabas 1999, 147)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	kaʔa	_	NOUN	n	_	2	obl	2:obl	_
@@ -3281,7 +3281,7 @@
 3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
 5	iʔke	_	PART	part	_	2	advmod	2:advmod	_
-6	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	7	aux	7:aux	_
+6	wep	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	7	aux	7:aux	_
 7	aʔtoba	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	ccomp	2:ccomp	_
 
 # sent_id = 448
@@ -3289,7 +3289,7 @@
 # text_eng = It was not nicely that I slept. (Gabas 1999, 148)
 1	pattem	_	ADJ	adj	_	_	_	_	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	web	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
+3	web	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	4	aux	4:aux	_
 4	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	ccomp	1:ccomp	_
 
 # sent_id = 449
@@ -3298,7 +3298,7 @@
 1	mekõm	_	ADP	adp	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	iʔyat	_	PRON	pron	Number=Plur|Person=1|PronType=Prs	1	nsubj	1:nsubj	_
-4	kotigap	_	VERB	v	Mood=Ind	1	acl	1:acl	_
+4	kotigap	_	VERB	v	Decl=Assert	1	acl	1:acl	_
 5	mɨy	_	ADV	adv	_	4	advmod	4:advmod	_
 6	mãm	mãm	PART	part	_	1	discourse	1:discourse	_
 
@@ -3339,7 +3339,7 @@
 # text_eng = He/it is not a woman/female. (Gabas 1999, 149)
 1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	aʔnãn	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+3	aʔnãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 455
 # text = péŋ mecéb iʔke aʔmãn
@@ -3347,14 +3347,14 @@
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
 2	mecéb	_	ADJ	adj	_	1	amod	1:amod	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-4	aʔmãn	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+4	aʔmãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 456
 # text = okera iʔke okay
 # text_eng = I am not going to sleep. (Gabas 1999, 150)
 1	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
+3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 457
 # text = cĩm cára iʔke aʔkay
@@ -3362,12 +3362,12 @@
 1	cĩm	_	NOUN	n	_	2	obj	2:obj	_
 2	cára	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
-4	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
+4	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
 
 # sent_id = 458
 # text = aʔwɨy yat iʔke
 # text_eng = He will not go out. (Gabas 1999, 150)
-1	aʔwɨy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔwɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	yat	_	PART	part	Tense=Fut	1	mark	1:mark	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 
@@ -3375,7 +3375,7 @@
 # text = õn aʔtoy yat iʔke pattem
 # text_eng = I will not see it/him nicley. (Gabas 1999, 150)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 5	pattem	_	ADV	adv	_	2	advmod	2:advmod	_
@@ -3383,26 +3383,26 @@
 # sent_id = 460
 # text = ewét yahmãm
 # text_eng = Don't cry! (Gabas 1999, 151)
-1	ewét	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	ewét	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	yahmãm	mãm	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 461
 # text = karokéran yahmãm
 # text_eng = Don't sleep (you PL.)! (Gabas 1999, 151)
-1	karokéran	_	VERB	v	Mood=Ind|Number=Plur|Person=2	0	root	0:root	_
+1	karokéran	_	VERB	v	Decl=Assert|Number=Plur|Person=2	0	root	0:root	_
 2	yahmãm	mãm	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 462
 # text = ayowan yahmãm
 # text_eng = Don't leave it. (Gabas 1999, 151)
-1	ayowan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	ayowan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	yahmãm	mãm	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 463
 # text = cĩm yegat yahmãm tẽna
 # text_eng = Don't hunt now! (Gabas 1999, 151)
 1	cĩm	_	NOUN	n	_	2	obj	2:obj	_
-2	yegat	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yegat	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	yahmãm	mãm	PART	part	_	2	advmod	2:advmod	_
 4	tẽna	_	ADV	adv	_	2	advmod	2:advmod	_
 
@@ -3411,7 +3411,7 @@
 # text_eng = How (come) he did not see me? (Gabas 1999, 151)
 1	kõm	_	ADV	adv	_	3	advmod	3:advmod	_
 2	ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
-3	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+3	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 4	yahmãm	mãm	PART	part	_	3	advmod	3:advmod	_
 
 # sent_id = 465
@@ -3419,7 +3419,7 @@
 # text_eng = How (come) the white man did not go with him/it? (Gabas 1999, 152)
 1	kõm	_	ADV	adv	_	3	advmod	3:advmod	_
 2	péŋ	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	ʔet	_	AUX	aux	Mood=Ind	0	root	0:root	_
+3	ʔet	_	AUX	aux	Decl=Assert	0	root	0:root	_
 4	nyahmãm	mãm	PART	part	_	3	advmod	3:advmod	_
 5	apik	_	ADP	adp	Case=All|Number=Sing|Person=3	3	case	3:case	_
 
@@ -3427,17 +3427,17 @@
 # text = kiganape ap naʔto roy yahmãm
 # text_eng = Where did he not see the tapir? (Gabas 1999, 152)
 1	kiganape	_	ADV	adv	_	4	advmod	4:advmod	_
-2	ap	_	AUX	Mood=Ind|Number=Sing|Person=2	_	4	aux	4:aux	_
+2	ap	_	AUX	Decl=Assert|Number=Sing|Person=2	_	4	aux	4:aux	_
 3	naʔto	_	NOUN	n	_	4	obj	4:obj	_
-4	roy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	roy	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	yahmãm	mãm	PART	part	_	4	advmod	4:advmod	_
 
 # sent_id = 467
 # text = kiganape ep eken yahmãm
 # text_eng = Where did you not sleep? (Gabas 1999, 152)
 1	kiganape	_	ADV	adv	_	3	advmod	3:advmod	_
-2	ep	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	3	aux	3:aux	_
-3	eken	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	ep	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	3	aux	3:aux	_
+3	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 4	yahmãm	mãm	PART	part	_	3	advmod	3:advmod	_
 
 # sent_id = 468
@@ -3468,14 +3468,14 @@
 # text =  taykit eyamoy iga
 # text_eng = Aren't you going to bathe? (Gabas 1999, 153)
 1	taykit	_	PART	part	_	2	advmod	2:advmod	_
-2	eyamoy	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	eyamoy	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 3	iga	_	PART	part	Tense=Fut	2	mark	2:mark	_
 
 # sent_id = 472
 # text =  taykit ebiaʔan iga mɨrɨrɨy kəy
 # text_eng = Aren't you going to be afraid of the toad? (Gabas 1999, 153)
 1	taykit	_	PART	part	_	2	advmod	2:advmod	_
-2	ebiaʔan	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+2	ebiaʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 3	iga	_	PART	part	Tense=Fut	2	mark	2:mark	_
 4	mɨrɨrɨy	_	NOUN	n	_	2	obl	2:obl	_
 5	kəy	_	ADP	adp	_	4	case	4:case	_
@@ -3538,7 +3538,7 @@
 # sent_id = 480
 # text = at.
 # text_eng = He (the alligator) did. (Gabas 1999, 156)
-1	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
+1	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	0	root	0:root	SpaceAfter=No
 2	.	_	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 481
@@ -3564,7 +3564,7 @@
 # sent_id = 483
 # text = oyaʔwan aʔkera kanãp
 # text_eng = I left when he slept. (Gabas 1999, 157)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	aʔkera	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	conj	1:conj	_
 3	kanãp	_	SCONJ	sconj	_	1	mark	1:mark	_
 
@@ -3583,7 +3583,7 @@
 # text = péŋ yaʔwan [towéya kanãp]
 # text_eng = The white man left when he cried. (Gabas 1999, 158)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	yaʔwan	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yaʔwan	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	[towéya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	dep	2:dep	_
 4	kanãp]	_	SCONJ	sconj	_	3	mark	3:mark	_
 
@@ -3611,14 +3611,14 @@
 # text = õn aʔwĩn aʔ=to kanãp
 # text_eng = I killed it/him when I saw it/him. (Gabas 1999, 158)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	aʔ=to	_	VERB	v	Number=Sing|Person=3	2	dep	2:dep	_
 4	kanãp	_	SCONJ	sconj	_	4	mark	4:mark	_
 
 # sent_id = 489
 # text = oweʔcɨn [at oto kanãp]
 # text_eng = I ran when he/it saw me. (Gabas 1999, 159)
-1	oweʔcɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oweʔcɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	[at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 3	oto	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	1:dep	_
 4	kanãp]	_	SCONJ	sconj	_	3	mark	3:mark	_
@@ -3637,7 +3637,7 @@
 # text = ŋa otoy iʔke [okera kanãp]
 # text_eng = She did not see me when I slept. (Gabas 1999, 159)
 1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 4	[okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	2:dep	_
 5	kanãp]	_	SCONJ	sconj	_	4	mark	4:mark	_
@@ -3646,7 +3646,7 @@
 # text = õn aʔtoy [agóaʔpət aʔwĩ kanãp]
 # text_eng = I saw it/him when the shaman killed it/him. (Gabas 1999, 159)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	[agóaʔpət	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	aʔwĩ	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	dep	2:dep	_
 5	kanãp]	_	SCONJ	sconj	_	4	mark	4:mark	_
@@ -3654,7 +3654,7 @@
 # sent_id = 493
 # text = aʔti toat macaʔɨt wĩ nãt toʔwa]
 # text_eng = He came to kill his animals. (Gabas 1999, 160)
-1	aʔti	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔti	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	_
 3	macaʔɨt	_	NOUN	n	_	5	obj	5:obj	_
 4	wĩ	_	VERB	v	_	1	dep	1:dep	_
@@ -3664,7 +3664,7 @@
 # sent_id = 494
 # text = oyaʔwan [ocaʔyõk nãt wa]
 # text_eng = I left to get drunk. (Gabas 1999, 160)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	[ocaʔyõk	_	VERB	v	Number=Sing|Person=1	1	dep	1:dep	_
 3	nãt	_	SCONJ	sconj	_	2	mark	2:mark	_
 4	wa]	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	2	aux	2:aux	_
@@ -3675,14 +3675,14 @@
 1	[at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	macaʔɨt	_	NOUN	n	_	4	obj	4:obj	_
-4	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	nãt]	_	SCONJ	sconj	_	4	mark	4:mark	_
 6	totia	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	4:dep	_
 
 # sent_id = 496
 # text = [oken nãt] ocaʔyõga
 # text_eng = (in order) to sleep I got drunk. (Gabas 1999, 160)
-1	[oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	[oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	nãt]	_	SCONJ	sconj	_	1	mark	1:mark	_
 3	ocaʔyõga	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	1:dep	_
 
@@ -3692,7 +3692,7 @@
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	cĩm	_	NOUN	n	_	4	obj	4:obj	_
-4	nati	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	nati	_	VERB	v	Decl=Assert	0	root	0:root	_
 5	aʔcá	_	VERB	v	Number=Sing|Person=3	4	dep	4:dep	_
 6	nãt	_	SCONJ	sconj	_	6	mark	6:mark	_
 7	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	6	aux	6:aux	_
@@ -3700,7 +3700,7 @@
 # sent_id = 498
 # text = abeʔcɨn [noorawa nãt toʔwa rawrem]
 # text_eng = He ran to defecate far away. (Gabas 1999, 161)
-1	abeʔcɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	abeʔcɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	[noorawa	_	VERB	v	_	1	dep	1:dep	_
 3	nãt	_	SCONJ	sconj	_	2	mark	2:mark	_
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
@@ -3711,7 +3711,7 @@
 # text_eng = I brought her so that you could see her. (Gabas 1999, 161)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	3:obj	_
-3	tati	_	VERB	v	Case=Com|Mood=Ind	0	root	0:root	_
+3	tati	_	VERB	v	Case=Com|Decl=Assert	0	root	0:root	_
 4	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
 5	ŋato	_	VERB	v	Number=Sing|Person=3	3	dep	3:dep	_
 6	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
@@ -3721,7 +3721,7 @@
 # text = maʔwɨt owin [owəy nã nãt toʔwa]
 # text_eng = The man fed me so that I would grow up. (Gabas 1999, 161)
 1	maʔwɨt	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	owin	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	owin	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 3	[owəy	_	VERB	v	Number=Sing|Person=1	2	dep	2:dep	_
 4	nã	_	AUX	aux	_	3	cop	3:cop	_
 5	nãt	_	SCONJ	sconj	_	3	mark	3:mark	_
@@ -3730,7 +3730,7 @@
 # sent_id = 501
 # text = ebeʔcɨn wat iyõm eto nãr a
 # text_eng = You ran so that my father could see you. (Gabas 1999, 162)
-1	ebeʔcɨn	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	ebeʔcɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 2	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	3:nmod	_
 3	iyõm	_	NOUN	n	_	4	nsubj	4:nsubj	_
 4	eto	_	VERB	v	Number=Sing|Person=2	1	dep	1:dep	_
@@ -3740,7 +3740,7 @@
 # sent_id = 502
 # text = oyaʔwan iʔke ya [amãn yat]
 # text_eng = Because it rained, I did not leave. (Gabas 1999, 162)
-1	oyaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 3	ya	_	SCONJ	sconj	_	5	mark	5:mark	_
 4	[amãn	_	NOUN	n	_	5	nsubj	5:nsubj	_
@@ -3750,36 +3750,36 @@
 # text = õn ŋabean ya ŋa oyaʔti nãn
 # text_eng = Because she liked me, I married her (Gabas 1999, 162)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	ŋabean	_	VERB	v	Clas=Fem|Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	ŋabean	_	VERB	v	Clas=Fem|Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	ya	_	SCONJ	sconj	_	5	mark	5:mark	_
 4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 5	oyaʔti	_	VERB	v	Number=Sing|Person=1	2	dep	2:dep	_
-6	nãn	_	AUX	aux	Mood=Ind	5	cop	5:cop	_
+6	nãn	_	AUX	aux	Decl=Assert	5	cop	5:cop	_
 
 # sent_id = 504
 # text = wawwaw bay ye ŋaʔet toyaʔwara
 # text_eng = Because the dog died, she left. (Gabas 1999, 163)
 1	wawwaw	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	bay	_	VERB	v	Mood=Ind	5	dep	5:dep	_
+2	bay	_	VERB	v	Decl=Assert	5	dep	5:dep	_
 3	ye	_	SCONJ	sconj	_	5	mark	5:mark	_
-4	ŋaʔet	_	AUX	aux	Clas=Fem|Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
+4	ŋaʔet	_	AUX	aux	Clas=Fem|Decl=Assert|Number=Sing|Person=3	5	aux	5:aux	_
 5	toyaʔwara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 505
 # text = [ar otoy] ye wer oweʔcɨra
 # text_eng = Because he/it saw me, I ran. (Gabas 1999, 163)
 1	[ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	otoy]	_	VERB	v	Mood=Ind|Number=Sing|Person=1	5	dep	5:dep	_
+2	otoy]	_	VERB	v	Decl=Assert|Number=Sing|Person=1	5	dep	5:dep	_
 3	ye	_	SCONJ	sconj	_	5	mark	5:mark	_
-4	wer	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	5	aux	5:aux	_
+4	wer	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	5	aux	5:aux	_
 5	oweʔcɨra	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 506
 # text = ŋaken yəye wer oyaʔwara
 # text_eng = Because she slept, I left. (Gabas 1999, 163)
-1	ŋaken	_	VERB	v	Clas=Fem|Mood=Ind|Number=Sing|Person=3	4	dep	4:dep	_
+1	ŋaken	_	VERB	v	Clas=Fem|Decl=Assert|Number=Sing|Person=3	4	dep	4:dep	_
 2	yəye	_	SCONJ	sconj	_	1	mark	1:mark	_
-3	wer	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	4	aux	4:aux	_
+3	wer	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	4	aux	4:aux	_
 4	oyaʔwara	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 507
@@ -4291,7 +4291,7 @@
 # text = púŋ wet péŋ kəy
 # text_eng = I shot the white man once. (Gabas 1999, 187)
 1	púŋ	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	péŋ	_	NOUN	n	_	1	obj	1:obj	_
 4	kəy	_	ADP	adp	Case=Dat	1	case	1:case	_
 
@@ -4299,7 +4299,7 @@
 # text = púŋpúŋ wet péŋ kəy
 # text_eng = I shot the white man several times. (Gabas 1999, 187)
 1	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	péŋ	_	NOUN	n	_	2	obj	2:obj	_
 4	kəy	_	ADP	adp	Case=Dat	2	case	2:case	_
 
@@ -4309,7 +4309,7 @@
 1	tuy	_	VERB	v	_	6	obl	6:obl	_
 2	Babesáya	_	PROPN	propn	_	6	nsubj	6:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
+4	ʔet	_	AUX	aux	Decl=Assert	6	aux	6:aux	_
 5	yate	_	NOUN	n	_	6	obj	6:obj	_
 6	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
@@ -4319,7 +4319,7 @@
 1	tuytuy	tuy	VERB	v	Aspect=Iter|Redup=Yes	6	obl	6:obl	_
 2	Babesáya	_	PROPN	propn	_	6	nsubj	6:nsubj	_
 3	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	2:clf	_
-4	ʔet	_	AUX	aux	Mood=Ind	6	aux	6:aux	_
+4	ʔet	_	AUX	aux	Decl=Assert	6	aux	6:aux	_
 5	yate	_	NOUN	n	_	6	obj	6:obj	_
 6	taʔwara	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
@@ -4327,7 +4327,7 @@
 # text = wéy wet tágɨp peʔ
 # text_eng = I stretched the bow. (Gabas 1999, 188)
 1	wéy	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	tágɨp	_	NOUN	n	_	1	obj	1:obj	_
 4	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
 
@@ -4335,7 +4335,7 @@
 # text = weriweri at cahwíptem
 # text_eng = He paddled very fast. (Gabas 1999, 188)
 1	weriweri	weri	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	cahwíptem	_	ADJ	adj	_	1	advmod	1:advmod	_
 
 # sent_id = 587
@@ -4349,14 +4349,14 @@
 # text = púŋ at ahyə
 # text_eng = Did he shoot? (Gabas 1999, 189)
 1	púŋ	_	VERB	v	_	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 3	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 
 # sent_id = 589
 # text = cutcut ʔet ahyə ŋakəy
 # text_eng = Did you kiss her? (Gabas 1999, 189)
 1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	ʔet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	2	aux	2:aux	_
+2	ʔet	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	2	aux	2:aux	_
 3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
 4	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
 
@@ -4395,7 +4395,7 @@
 # text = kãykãy wet iʔke
 # text_eng = I did not scratch myself. (Gabas 1999, 191)
 1	kãykãy	kãykãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	2	aux	2:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	2	aux	2:aux	_
 3	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 595
@@ -4404,7 +4404,7 @@
 1	púŋ	_	VERB	v	_	0	root	0:root	_
 2	wa	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	1	aux	1:aux	_
 3	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-4	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+4	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 
 # sent_id = 596
 # text = maʔwɨt iʔke cokcok toʔwa
@@ -4449,7 +4449,7 @@
 # text = iyɨt okay oʔa ecap pɨʔtoʔ peʔ
 # text_eng = I will pinch both your legs. (Gabas 1999, 193)
 1	iyɨt	_	VERB	v	_	0	root	0:root	_
-2	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
+2	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 3	oʔa	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	1:dep	_
 4	ecap	_	NOUN	n	Number=Sing|Person=2	1	obj	1:obj	_
 5	pɨʔtoʔ	_	ADJ	adj	Clas=Cyls|Number=Plur	4	clf	4:clf	_
@@ -4467,7 +4467,7 @@
 # text_eng = I will not shoot. (Gabas 1999, 194)
 1	púŋ	_	NOUN	n	_	0	root	0:root	_
 2	wa	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	1	aux	1:aux	_
-3	okay	_	AUX	aux	Mood=Ind|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
+3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 4	yahmãm	mãm	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 604
@@ -4475,14 +4475,14 @@
 # text_eng = He will not stand up. (Gabas 1999, 194)
 1	ŋit	_	VERB	v	_	0	root	0:root	_
 2	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	1	aux	1:aux	_
-3	aʔkay	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
+3	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
 4	yahmãm	mãm	PART	part	_	1	advmod	1:advmod	_
 
 # sent_id = 605
 # text = púŋ wet yat iʔke
 # text_eng = I will not shoot. (Gabas 1999, 194)
 1	púŋ	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=2	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	1	aux	1:aux	_
 3	yat	_	PART	part	Tense=Fut	1	mark	1:mark	_
 4	iʔke	_	PART	part	_	1	advmod	1:advmod	_
 
@@ -4491,7 +4491,7 @@
 # text_eng = The woman will not grind. (Gabas 1999, 195)
 2	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 3	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-4	ʔet	_	AUX	aux	Mood=Ind	2	aux	2:aux	_
+4	ʔet	_	AUX	aux	Decl=Assert	2	aux	2:aux	_
 5	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
 6	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
@@ -4506,7 +4506,7 @@
 # text_eng = Are you going to shoot? (Gabas 1999, 195)
 1	púŋ	_	VERB	v	_	3	xcomp	3:xcomp	_
 2	ahyə	_	PART	part	Int=Yes	3	mark	3:mark	_
-3	ekay	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
+3	ekay	_	AUX	aux	Decl=Assert|Number=Sing|Person=2|Tense=Fut	0	root	0:root	_
 4	eʔa	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 609
@@ -4524,13 +4524,13 @@
 2	púŋ	_	VERB	v	_	4	obl	4:obl	_
 3	kanã	_	PART	part	Nomzr=Circ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
+5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 611
 # text = õn aʔtoy púŋ kanã peʔ
 # text_eng = I saw him at his shooting (place). (Gabas 1999, 196)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	púŋ	_	VERB	v	_	2	obl	2:obl	_
 4	kanã	_	PART	part	Nomzr=Circ	3	mark	3:mark	_
 5	peʔ	_	ADP	adp	Case=Loc	3	case	3:case	_
@@ -4541,13 +4541,13 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	_
 2	cá	_	NOUN	n	_	3	root	3:root	_
 3	cá	_	NOUN	n	_	4	obj	4:obj	_
-4	kotoy	_	VERB	v	Mood=Ind	0	root	0:root	_
+4	kotoy	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 613
 # text = mẽt wep púŋ wa
 # text_eng = Here I shot. (Gabas 1999, 197)
 1	mẽt	_	ADV	adv	_	3	advmod	3:advmod	_
-2	wep	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	3	aux	3:aux	_
+2	wep	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	3	aux	3:aux	_
 3	púŋ	_	VERB	v	_	0	root	0:root	_
 4	wa	_	AUX	aux	Number=Sing|Person=1	3	aux	3:aux	_
 
@@ -4555,7 +4555,7 @@
 # text = mẽt ap púŋ toʔwa
 # text_eng = Here he shot. (Gabas 1999, 197)
 1	mẽt	_	ADV	adv	_	3	advmod	3:advmod	_
-2	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	3	aux	3:aux	_
+2	ap	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	3	aux	3:aux	_
 3	púŋ	_	VERB	v	_	0	root	0:root	_
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
@@ -4565,7 +4565,7 @@
 1	kaʔa	_	NOUN	n	_	5	obl	5:obl	_
 2	ʔa	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
 3	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
-4	ap	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	5	aux	5:aux	_
+4	ap	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	5	aux	5:aux	_
 5	kãykãy	kãy	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 6	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	5:aux	_
 
@@ -4573,7 +4573,7 @@
 # text = ameko aʔkɨgat tpu toʔwa
 # text_eng = The jaguar caught it/him (by) jumping. (Gabas 1999, 198)
 1	ameko	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔkɨgat	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔkɨgat	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	tpu	_	VERB	v	_	2	obl	2:obl	_
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
@@ -4582,14 +4582,14 @@
 # text_eng = The jaguar jumped (and) caught(ing) it. (Gabas 1999, 198)
 1	tpu	_	VERB	v	_	0	root	0:root	_
 2	ameko	_	NOUN	n	_	1	nsubj	1:nsubj	_
-3	ʔet	_	AUX	aux	Mood=Ind	1	aux	1:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	1	aux	1:aux	_
 4	aʔkɨga	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	conj	1:conj	_
 
 # sent_id = 618
 # text = õn aʔtoy ué ué kanãp
 # text_eng = I saw him vomiting. (Gabas 1999, 198)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	ué	_	VERB	v	_	4	root	4:root	_
 4	ué	_	VERB	v	_	2	dep	2:dep	_
 5	kanãp	_	ADV	adv	_	2	advmod	2:advmod	_
@@ -4597,7 +4597,7 @@
 # sent_id = 619
 # text = oken kãy kãy kanãp
 # text_eng = I slept scratching. (Gabas 1999, 198)
-1	oken	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	kãy	_	VERB	v	_	3	obj	3:obj	_
 3	kãy	_	VERB	v	_	1	obj	1:obj	_
 4	kanãp	_	ADV	adv	_	1	advmod	1:advmod	_
@@ -4606,7 +4606,7 @@
 # text = onaká yakoy wen wen kanãp cúrem
 # text_eng = My head gets hot when I write too much. (Gabas 1999, 199)
 1	onaká	_	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	yakoy	_	VERB	v	Mood=Ind	0	root	0:root	_
+2	yakoy	_	VERB	v	Decl=Assert	0	root	0:root	_
 3	wen	_	VERB	v	_	4	root	4:root	_
 4	wen	_	VERB	v	_	2	advcl	2:advcl	_
 5	kanãp	_	ADV	adv	_	4	advmod	4:advmod	_
@@ -4616,51 +4616,51 @@
 # text = at otoy
 # text_eng = He/it saw me. (Gabas 1999, 199)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 622
 # text = mõm at okəy
 # text_eng = He/it saw (me). (Gabas 1999, 199)
 1	mõm	_	VERB	v	_	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	1:obj	_
 
 # sent_id = 623
 # text = õn aʔyamón
 # text_eng = I missed him/it. (Gabas 1999, 199)
 1	õn	_	PRON	pron	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	aʔyamón	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔyamón	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 624
 # text = kahyep wet aʔkəy
 # text_eng = I missed (him/it). (Gabas 1999, 199)
 1	kahyep	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	1:obj	_
 
 # sent_id = 625
 # text = õn aʔtigat
 # text_eng = I threw him/it. (Gabas 1999, 199)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtigat	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtigat	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 626
 # text = kaʔmep wet (aʔkəy)
 # text_eng = I threw (him/it). (Gabas 1999, 199)
 1	kaʔmep	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	(aʔkəy)	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	1:obj	_
 
 # sent_id = 627
 # text = aʔtóy
 # text_eng = He/it disappeared. (Gabas 1999, 200)
-1	aʔtóy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	_	_
+1	aʔtóy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 628
 # text = yep at
 # text_eng = He/it disappeared. (Gabas 1999, 200)
 1	yep	_	VERB	v	_	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 
 # sent_id = 629
 # text = məy aʔwaʔye totia oyuruŋ aʔwaʔye
@@ -4675,7 +4675,7 @@
 # text = onoroŋ at tocit paʔpara
 # text_eng = He fell from his bike. (Gabas 1999, 200)
 1	onoroŋ	_	VERB	v	_	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 3	tocit	_	NOUN	n	Corf=Yes|Person=3	1	obl	1:obl	_
 4	paʔpara	_	VERB	v	VerbForm=Ger	1	dep	1:dep	_
 
@@ -4684,7 +4684,7 @@
 # text_eng = He was picking his pears, they say. (Gabas 1999, 200)
 1	tɨk	_	VERB	v	_	2	compound	2:compound	_
 2	tɨk	_	VERB	v	_	7	parataxis	7:parataxis	_
-3	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	2	aux	2:aux	_
+3	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	2	aux	2:aux	_
 4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	wirik	_	NOUN	n	_	7	obj	7:obj	_
 6	kanã	_	ADV	adv	_	5	advmod	5:advmod	_
@@ -4706,46 +4706,46 @@
 # text = at otoy
 # text_eng = He/it saw me. Gabas 1999, 201)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	otoy	_	VERB	v	Mood=Ind|Number=Sing|Person=1	0	root	0:root	_
+2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 634
 # text = mõm ʔat okəy
 # text_eng = He/it saw something/(me).(Gabas 1999, 201)
 1	mõm	_	VERB	v	_	0	root	0:root	_
-2	ʔat	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+2	ʔat	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obl	1:obl	_
 
 # sent_id = 635
 # text = õn aʔyamón
 # text_eng = I missed him/it. (Gabas 1999, 201)
 1	õn	_	PRON	pron	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	aʔyamón	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔyamón	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 636
 # text = kahyep wet aʔkəy
 # text_eng = I missed something/(him/it).(Gabas 1999, 201)
 1	kahyep	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	1:obj	_
 
 # sent_id = 637
 # text = õn aʔtigat
 # text_eng = I threw him/it. (Gabas 1999, 202)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtigat	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtigat	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 638
 # text = kaʔmep wet aʔkəy
 # text_eng = I threw something/(him/it). (Gabas 1999, 202)
 1	kaʔmep	_	VERB	v	_	0	root	0:root	_
-2	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	1	aux	1:aux	_
+2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
 3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	1:obj	_
 
 # sent_id = 639
 # text = péŋ ʔet topə toat macaʔɨt wĩa
 # text_eng = (It was seen that) the white man killed his pet. (Gabas 1999, 209)
 1	péŋ	_	NOUN	n	_	6	nsubj	6:nsubj	_
-2	ʔet	_	AUX	aux	Mood=Ind	3	aux	3:aux	_
+2	ʔet	_	AUX	aux	Decl=Assert	3	aux	3:aux	_
 3	topə	_	PART	part	Evident=Fh	0	root	0:root	_
 4	toat	_	PRON	pron	PronType=Prs	5	nmod	5:nmod	_
 5	macaʔɨt	_	NOUN	n	_	6	obj	6:obj	_
@@ -4762,40 +4762,40 @@
 # text_eng = He clearly killed the snake. (Gabas 1999, 209)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-3	wĩn	_	VERB	v	Mood=Ind	0	root	0:root	_
+3	wĩn	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	coke	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
 
 # sent_id = 642
 # text = péŋ aʔwĩn aket
 # text_eng = The white man must have killed it. (Gabas 1999, 210)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
 
 # sent_id = 643
 # text = tokera at igã
 # text_eng = He must have gone to sleep. (Gabas 1999, 210)
 1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
 3	igã	_	PART	part	Evident=Fh	1	aux	1:aux	_
 
 # sent_id = 644
 # text = aʔken memã
 # text_eng = I suppose he is sleeping. (Gabas 1999, 210)
-1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	memã	_	VERB	v	_	1	parataxis	1:parataxis	_
 
 # sent_id = 645
 # text = aʔken iʔkɨy
 # text_eng = It is possible that he is sleeping/slept. (Gabas 1999, 211)
-1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	iʔkɨy	_	PART	part	Evident=Fh	1	parataxis	1:parataxis	_
 
 # sent_id = 646
 # text = at aʔwĩn iga manã
 # text_eng = He will most likely kill it (Gabas 1999, 211)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	iga	_	PART	part	Tense=Fut	2	mark	2:mark	_
 4	manã	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
@@ -4803,7 +4803,7 @@
 # text = õn aʔtoy nãnin kán
 # text_eng = I really saw him long ago. (Gabas 1999, 211)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	kán	_	PART	part	Tense=RPast	2	mark	2:mark	_
 
@@ -4812,7 +4812,7 @@
 # text_eng = Would it be that the woman threw his hat. (Gabas 1999, 212)
 1	maʔpəy	_	NOUN	n	_	7	nsubj	7:nsubj	_
 2	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	1:clf	_
-3	ʔet	_	AUX	aux	Mood=Ind	7	aux	7:aux	_
+3	ʔet	_	AUX	aux	Decl=Assert	7	aux	7:aux	_
 4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	5:nmod	_
 5	chapéu	_	NOUN	n	_	7	obj	7:obj	_
 6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	5:clf	_
@@ -4823,7 +4823,7 @@
 # text = at aʔwĩn pə
 # text_eng = Maybe he killed it. (Gabas 1999, 212)
 1	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	pə	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 650
@@ -4833,7 +4833,7 @@
 2	ahyə	_	PART	part	Int=Yes	_	_	_	_
 3	menə	_	PART	part	Evident=Fh	_	_	_	_
 4	kanã	_	NOUN	n	_	_	_	_	_
-5	tayãn	_	VERB	v	Case=Com|Mood=Ind	_	_	_	_
+5	tayãn	_	VERB	v	Case=Com|Decl=Assert	_	_	_	_
 6	menə	_	PART	part	Evident=Fh	_	_	_	_
 
 # sent_id = 651
@@ -4841,7 +4841,7 @@
 # text_eng = It was really the white man who killed it/him. (Gabas 1999, 213)
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
 2	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
-3	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	1	dep	1:dep	_
+3	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	dep	1:dep	_
 4	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 
 # sent_id = 652
@@ -4852,7 +4852,7 @@
 3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	4:nmod	_
 4	macaʔɨt	_	NOUN	n	_	2	obj	2:obj	_
 5	nõ	_	ADV	adv	_	4	nmod	4:nmod	_
-6	wĩn	_	VERB	v	Mood=Ind	2	ccomp	2:ccomp	_
+6	wĩn	_	VERB	v	Decl=Assert	2	ccomp	2:ccomp	_
 
 # sent_id = 653
 # text = péŋ iʔkɨy aʔwĩa wet
@@ -4860,13 +4860,13 @@
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	iʔkɨy	_	PART	part	Evident=Fh	0	root	0:root	_
 3	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	xcomp	2:xcomp	_
-4	wet	_	AUX	aux	Mood=Ind|Number=Sing|Person=1	2	aux	2:aux	_
+4	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	2	aux	2:aux	_
 
 # sent_id = 654
 # text = mɨrɨrɨy imatẽran nãnin toʔwa
 # text_eng = The toad would certainly make people get lost. (Gabas 1999, 214)
 1	mɨrɨrɨy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	imatẽran	_	VERB	v	Mood=Ind|Person=3Imp|Voice=Cau	0	root	0:root	_
+2	imatẽran	_	VERB	v	Decl=Assert|Person=3Imp|Voice=Cau	0	root	0:root	_
 3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
@@ -4883,7 +4883,7 @@
 1	nãn	_	PRON	pron	Int=Yes	5	obj	5:obj	_
 2	mã	_	PART	part	Case=Ins	1	mark	1:mark	_
 3	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-4	aʔwĩm	_	VERB	v	Mood=Ind|Number=Sing|Person=3	5	advcl	5:advcl	_
+4	aʔwĩm	_	VERB	v	Decl=Assert|Number=Sing|Person=3	5	advcl	5:advcl	_
 5	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 
 # sent_id = 657
@@ -4891,7 +4891,7 @@
 # text_eng = It is said that it was not the white man who saw it/him. (Gabas 1999, 214)
 1	péŋ	_	NOUN	n	_	3	dep	3:dep	_
 2	iʔke	_	PART	part	_	1	advmod	1:advmod	_
-3	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 4	tə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
 
 # sent_id = 658
@@ -4905,14 +4905,14 @@
 # text = agóaʔpət aʔnãn igã
 # text_eng = He must be the shaman. (Gabas 1999, 215)
 1	agóaʔpət	_	NOUN	n	_	0	root	0:root	_
-2	aʔnãn	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	cop	1:cop	_
+2	aʔnãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 3	igã	_	PART	part	Evident=Fh	1	aux	1:aux	_
 
 # sent_id = 660
 # text = péŋ aʔwĩn aket igã
 # text_eng = The white man must have been killing/beating it/him (Gabas 1999, 217)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	aket	_	PART	part	Evident=Fh	2	mark	2:mark	_
 4	igã	_	PART	part	Evident=Fh	2	mark	2:mark	_
 
@@ -4920,7 +4920,7 @@
 # text = péŋ aʔwĩn aket memã
 # text_eng = The white man must have supposedly killed it/him. (Gabas 1999, 217)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
 4	memã	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
@@ -4928,7 +4928,7 @@
 # text = owekuy nãn iʔkɨy tə
 # text_eng = I guess it is said that I had a dream (Gabas 1999, 217)
 1	owekuy	_	NOUN	n	Number=Sing|Person=1	4	obj	4:obj	_
-2	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
+2	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
 3	iʔkɨy	_	PART	part	Evident=Fh	4	parataxis	4:parataxis	_
 4	tə	_	PART	part	Evident=Nfh	_	_	_	_
 
@@ -4936,14 +4936,14 @@
 # text = péŋ aʔwĩn aket nãnin
 # text_eng = The white man must really have killed it/him. (Gabas 1999, 218)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	aket	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
 4	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 664
 # text = ayaʔwan topə nãnin
 # text_eng = It was seen that he really left. (Gabas 1999, 218)
-1	ayaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	2	ccomp	2:ccomp	_
+1	ayaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	2	ccomp	2:ccomp	_
 2	topə	_	PART	part	Evident=Fh	0	root	0:root	_
 3	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 
@@ -4951,7 +4951,7 @@
 # text = kõm at iʔkɨy menə
 # text_eng = I wonder how he might have done it? (Gabas 1999, 218)
 1	kõm	_	PRON	pron	Int=Yes	2	advmod	2:advmod	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	4	aux	4:aux	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	4	aux	4:aux	_
 3	iʔkɨy	_	PART	part	Evident=Fh	4	mark	4:mark	_
 4	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 
@@ -4959,7 +4959,7 @@
 # text = péŋ aʔwĩn nãnin aket
 # text_eng = The white man really must have killed it. (Gabas 1999, 218)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
 
@@ -4967,14 +4967,14 @@
 # text = õn aʔtoy nãnin coke
 # text_eng = I really just saw him/it. (Gabas 1999, 219)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 4	coke	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
 
 # sent_id = 668
 # text = ayaʔwan nãnin igã
 # text_eng = He really must have left. (Gabas 1999, 219)
-1	ayaʔwan	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	ayaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 3	igã	_	PART	part	Evident=Fh	1	aux	1:aux	_
 
@@ -4982,7 +4982,7 @@
 # text = péŋ aʔwĩn menə aket
 # text_eng = It is wondered whether the white man must have killed it/him (Gabas 1999, 219)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔwĩn	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
+2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 3	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 4	aket	_	PART	part	Evident=Fh	3	aux	3:aux	_
 
@@ -4997,7 +4997,7 @@
 # sent_id = 671
 # text = aʔken pə coke
 # text_eng = Clearly he may have slept. (Gabas 1999, 220)
-1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	0	root	0:root	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	pə	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 3	coke	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
 
@@ -5008,14 +5008,14 @@
 2	co	_	PART	part	Tense=Past	5	mark	5:mark	_
 3	iʔyat	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
 4	ip	_	NOUN	n	_	5	obj	5:obj	_
-5	ʔɨy	_	VERB	v	Mood=Ind	7	ccomp	7:ccomp	_
+5	ʔɨy	_	VERB	v	Decl=Assert	7	ccomp	7:ccomp	_
 6	nãnin	_	PART	part	Evident=Fh	7	advmod	7:advmod	_
 7	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 
 # sent_id = 673
 # text = aʔken pə menə
 # text_eng = It is wondered whether he is sleeping. (Gabas 1999, 220)
-1	aʔken	_	VERB	v	Mood=Ind|Number=Sing|Person=3	3	ccomp	3:ccomp	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 2	pə	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
 3	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 
