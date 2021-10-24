@@ -797,18 +797,18 @@
 # sent_id = 115
 # text = wat awe orabitẽy
 # text_eng = My brother crossed with me. (Gabas 1999, 67)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
-2	awe	_	NOUN	n	_	3	nsubj	3:nsubj	_
-3	orabitẽy	_	VERB	v	Case=Com|Mood=Ind|Person=1|PronType=Prs	0	root	0:root	_
+1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
+2	awe	awe	NOUN	n	_	3	nsubj	3:nsubj	_
+3	orabitẽy	pitẽp	VERB	v	Case=Com|Mood=Ind|Person=1	0	root	0:root	_
 
 # sent_id = 116
 # text = ŋa toat owẽ ragahmõm nãn
 # text_eng = She calmed her child and calmed down herself. (Gabas 1999, 67)
-1	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
+1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+2	toat	toat	PRON	pron	Corf=Yes|Person=3	3	nmod	3:nmod	_
 3	owẽ	_	NOUN	n	_	4	obj	4:obj	_
-4	ragahmõm	_	VERB	v	Case=Com	0	root	0:root	_
-5	nãn	_	AUX	aux	Mood=Ind	4	cop	4:cop	_
+4	ragahmõm	kahmõm	VERB	v	Case=Com	0	root	0:root	_
+5	nãn	nã	AUX	aux	Mood=Ind	4	cop	4:cop	_
 
 # sent_id = 117
 # text = oyãy bemeŋãn
@@ -884,13 +884,13 @@
 # text = tap toroyapít
 # text_eng = They killed each other. (Gabas 1999, 70)
 1	tap	_	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
-2	toroyapít	_	VERB	v	Mood=Ind|Person=3|PronType=Rcp	0	root	0:root	_
+2	toroyapít	_	VERB	v	Mood=Ind|Person=3	0	root	0:root	_
 
 # sent_id = 129
 # text = kaʔto karorocapét ahyə
 # text_eng = Did you beat each other? (Gabas 1999, 71)
 1	kaʔto	_	PRON	pron	Number=Plur|Person=2|PronType=Prs	2	nsubj	2:nsubj	_
-2	karorocapét	_	VERB	v	Mood=Ind|Number=Plur|Person=2|PronType=Rcp	0	root	0:root	_
+2	karorocapét	_	VERB	v	Mood=Ind|Number=Plur|Person=2	0	root	0:root	_
 3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
 
 # sent_id = 130
@@ -4622,7 +4622,7 @@
 # text = mõm at okəy
 # text_eng = He/it saw (me). (Gabas 1999, 199)
 1	mõm	_	VERB	v	_	0	root	0:root	_
-2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3|PronType=Prs	1	aux	1:aux	_
+2	at	_	AUX	aux	Mood=Ind|Number=Sing|Person=3	1	aux	1:aux	_
 3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	1:obj	_
 
 # sent_id = 623
