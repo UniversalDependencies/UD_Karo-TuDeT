@@ -2105,8 +2105,8 @@
 # sent_id = 298
 # text = tomanẽ mãŋa tə
 # text_eng = him entirely, they say (Gabas 1999, 115)
-1	tomanẽ	_	ADV	adv	Corf=Yes|Person=3	0	root	0:root	_
-2	mãŋa	_	VERB	v	VerbForm=Ger	1	advmod	1:advmod	_
+1	tomanẽ	_	ADV	adv	Corf=Yes|Person=3	2	advmod	2:advmod	_
+2	mãŋa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	tə	_	PART	part	Evident=Nfh	2	discourse	2:discourse	_
 
 # sent_id = 299
@@ -3534,10 +3534,9 @@
 4	ya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 480
-# text = at.
+# text = at
 # text_eng = He (the alligator) did. (Gabas 1999, 156)
 1	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-2	.	_	PUNCT	punct	_	1	punct	1:punct	_
 
 # sent_id = 481
 # text = iʔtə maʔpəy ŋa cet maʔã iʔke nãnin
@@ -3556,7 +3555,7 @@
 1	naco	_	NOUN	n	_	5	obl	5:obl	_
 2	ʔerem	_	ADP	adp	Case=Disp	1	case	1:case	_
 3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	5:aux	_
-4	kanãp	_	NOUN	n	_	5	mark	5:mark	_
+4	kanãp	_	SCONJ	sconj	_	5	mark	5:mark	_
 5	iʔkəga	_	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 483
@@ -3654,7 +3653,7 @@
 # text_eng = He came to kill his animals. (Gabas 1999, 160)
 1	aʔti	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	_
-3	macaʔɨt	_	NOUN	n	_	_	_	_	_
+3	macaʔɨt	_	NOUN	n	_	4	obj	4:obj	_
 4	wĩ	_	VERB	v	_	1	dep	1:dep	_
 5	nãt	_	SCONJ	sconj	_	4	mark	4:mark	_
 6	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
@@ -4124,7 +4123,7 @@
 2	nãk	_	NOUN	n	_	0	root	0:root	_
 3	káʔ	_	ADJ	adj	Clas=Ccv	2	clf	2:clf	_
 4	cú	_	NOUN	n	_	2	amod	2:amod	_
-5	gáʔ	_	PART	part	Clas=Ccv	2	clf	2:clf	_
+5	gáʔ	_	ADJ	adj	Clas=Ccv	2	clf	2:clf	_
 
 # sent_id = 558
 # text = wayo yogá beʔ cára beʔ
