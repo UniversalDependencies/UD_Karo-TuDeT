@@ -328,7 +328,7 @@
 # sent_id = 049
 # text = aʔkun
 # text_eng = his/its belly (Gabas 1999, 43)
-1	aʔkun	_	NOUN	n	Number=Sing|Person=3	_	_	_	_
+1	aʔkun	_	NOUN	n	Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 050
 # text = owẽ gun
@@ -590,8 +590,8 @@
 # sent_id = 086
 # text = caropaptem gaʔto garo=kõna
 # text_eng = You (PL.) are sad. (Gabas 1999, 56)
-1	caropaptem	_	ADJ	adj	_	_	_	_	_
-2	gaʔto	_	PRON	pron	Number=Plur|Person=2	0	root	0:root|1:cop	_
+1	caropaptem	_	ADJ	adj	_	0	root	0:root	_
+2	gaʔto	_	PRON	pron	Number=Plur|Person=2	1	nsubj	1:nsubj	_
 3	garo=kõna	_	ADP	adp	Number=Plur|Person=2|PronType=Emp	2	clf	2:clf	_
 
 # sent_id = 087
@@ -916,11 +916,10 @@
 2	beʔnogat	_	VERB	_	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 134
-# text = kãram meʔnẽykãram meʔnẽy
+# text = kãram meʔnẽy
 # text_eng = Let the hummingbird fly! (Gabas 1999, 72)
 1	kãram	_	NOUN	n	_	2	obj	2:obj	_
-2	meʔnẽykãram	_	_	_	_	_	_	_	_
-3	meʔnẽy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
+2	meʔnẽy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	0:root	_
 
 # sent_id = 135
 # text = cãn meʔŋen
@@ -985,17 +984,17 @@
 # sent_id = 145
 # text =abeʔnan
 # text_eng= Let it/him fall. (Gabas 1999, 74)
-1	abeʔnan	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	_	_	_	_
+1	abeʔnan	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 146
 # text = aʔan
 # text_eng= It/he fell. (Gabas 1999, 74)
-1	aʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
+1	aʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 147
 # text = kaʔaroʔ
 # text_ eng = houses (Gabas 1999, 74)
-1	kaʔaroʔ	_	NOUN	n	Number=Plur	_	_	_	_
+1	kaʔaroʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 148
 # text = kaʔa ʔaʔtoʔ
@@ -1014,12 +1013,12 @@
 # sent_id = 150
 # text = inakároʔ
 # text_eng= heads (Gabas 1999, 75)
-1	inakároʔ	_	NOUN	n	Number=Plur|Person=3Imp	_	_	_	_
+1	inakároʔ	_	NOUN	n	Number=Plur|Person=3Imp	0	root	0:root	_
 
 # sent_id = 151
 # text = inãwroʔ
 # text_eng= curassows (Gabas 1999, 75)
-1	inãwroʔ	_	NOUN	n	Number=Plur	_	_	_	_
+1	inãwroʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 152
 # text = wat naʔwəyroʔ
@@ -1030,22 +1029,22 @@
 # sent_id = 153
 # text = karamnoʔ
 # text_eng = hummingirds (Gabas 1999, 75)
-1	karamnoʔ	_	NOUN	n	Number=Plur	_	_	_	_
+1	karamnoʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 154
 # text = cibekonnoʔ
 # text_eng = vultures (Gabas 1999, 76)
-1	cibekonnoʔ	_	NOUN	n	Number=Plur	_	_	_	_
+1	cibekonnoʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 155
 # text = tuŋnoʔ
 # text_eng = mortars (Gabas 1999, 76)
-1	tuŋnoʔ	_	NOUN	n	Number=Plur	_	_	_	_
+1	tuŋnoʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 156
 # text = piro
 # text_eng= feet (Gabas 1999, 76)
-1	piro	_	NOUN	n	Number=Plur	_	_	_	_
+1	piro	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 157
 # text = piro cú
@@ -1142,17 +1141,17 @@
 # sent_id = 171
 # text = oyaʔkoy
 # text_eng= I sweat. (Gabas 1999, 83)
-1	oyaʔkoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	_	_	_
+1	oyaʔkoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 172
 # text = eyaʔi
 # text_eng= You climbed down. (Gabas 1999, 83)
-1	eyaʔi	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	_	_	_
+1	eyaʔi	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 173
 # text = aʔken
 # text_eng = He slept. (Gabas 1999, 83)
-1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	_	_	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 174
 # text = õn aʔpap toy
@@ -1570,10 +1569,10 @@
 # sent_id = 229
 # text = maʔpəy bat yet opɨya
 # text_eng = (It was) the beautiful woman (who) waited for me. (Gabas 1999, 98)
-1	maʔpəy	_	NOUN	n	_	0	root	0:root	_
+1	maʔpəy	_	NOUN	n	_	0	root	0:root|4:nsubj	_
 2	bat	_	ADJ	adj	_	1	amod	1:amod	_
-3	yet	_	AUX	aux	Decl=Assert|Person=3Imp	_	_	_	_
-4	opɨya	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	_	_	_	_
+3	yet	_	AUX	aux	Decl=Assert|Person=3Imp	4	aux	4:aux	_
+4	opɨya	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 230
 # text = cak mãm okap cĩm ʔóa
@@ -1771,22 +1770,22 @@
 # sent_id = 253
 # text = ewɨya
 # text_eng = Leave! (Gabas 1999, 104)
-1	ewɨya	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	_	_	_	_
+1	ewɨya	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 254
 # text = karowɨya
 # text_eng = Leave (you PL.)! (Gabas 1999, 104)
-1	karowɨya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	_	_	_	_
+1	karowɨya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 255
 # text = ekera
 # text_eng = Sleep! (Gabas 1999, 105)
-1	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	_	_	_	_
+1	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 256
 # text = karokérara
 # text_eng = Sleep (you PL.)! (Gabas 1999, 105)
-1	karokérara	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	_	_	_	_
+1	karokérara	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 257
 # text = taptoba kaʔto
@@ -2132,7 +2131,7 @@
 # sent_id = 301
 # text = ocãp
 # text_eng = my leg (Gabas 1999, 116)
-1	ocãp	_	NOUN	n	Number=Sing|Person=1	_	_	_	_
+1	ocãp	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 302
 # text = itɨ cãp
@@ -2143,7 +2142,7 @@
 # sent_id = 303
 # text = ekap
 # text_eng = your fat(Gabas 1999, 116)
-1	ekap	_	NOUN	n	Number=Sing|Person=2	_	_	_	_
+1	ekap	_	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 304
 # text = yate gap
@@ -2154,7 +2153,7 @@
 # sent_id = 305
 # text = acagá
 # text_eng = his/its eye (Gabas 1999, 116)
-1	acagá	_	NOUN	n	Number=Sing|Person=3	_	_	_	_
+1	acagá	_	NOUN	n	Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 306
 # text = aoro cagá
@@ -2307,12 +2306,12 @@
 # sent_id = 325
 # text = oken
 # text_eng = I slept. (Gabas 1999, 120)
-1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	_	_	_	_
+1	oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 326
 # text = owaraʔkət
 # text_eng = I went back. (Gabas 1999, 120)
-1	owaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	_	_	_	_
+1	owaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 327
 # text = maʔwɨt ken
@@ -2323,7 +2322,7 @@
 # sent_id = 328
 # text = aʔ=ken
 # text_eng = He/it slept. (Gabas 1999, 120)
-1	aʔ=ken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
+1	aʔ=ken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 329
 # text = agóaʔpət paraʔkət
@@ -2334,7 +2333,7 @@
 # sent_id = 330
 # text = abaraʔkət
 # text_eng = He/it went back. (Gabas 1999, 121)
-1	abaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
+1	abaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 331
 # text = õn ameko toy
@@ -2442,7 +2441,7 @@
 # sent_id = 345
 # text = aʔken
 # text_eng = He slept. (Gabas 1999, 125)
-1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 346
 # text = agóaʔpət wɨy
@@ -2871,7 +2870,7 @@
 2	atati	_	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	baʔpiktem	_	ADJ	adj	_	2	advmod	2:advmod	_
 4	meŋɨk	_	ADV	adv	_	2	advmod	2:advmod	_
-5	to	_	X	x	_	_	_	_	_
+5	to	_	X	x	_	2	dep	2:dep	_
 
 # sent_id = 399
 # text = war owã ŋa bakán okəy
@@ -2946,8 +2945,8 @@
 # text = iʔat yaʔmo ci káʔ ʔor iʔke werem ŋán
 # text_eng = In the beginning we did not eat sweet potato soup. (Gabas 1999, 138)
 1	iʔat	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
-2	yaʔmo	_	NOUN	n	_	5	obj	3:compound|5:obj	_
-3	ci	_	NOUN	n	_	_	_	_	_
+2	yaʔmo	_	NOUN	n	_	3	compound	3:compound	_
+3	ci	_	NOUN	n	_	5	obj	5:obj	_
 4	káʔ	_	ADJ	adj	Clas=Ccv	3	clf	3:clf	_
 5	ʔor	_	VERB	v	Decl=Assert	0	root	0:root	_
 6	iʔke	_	PART	part	Polarity=Neg	5	advmod	5:advmod	_
@@ -3257,10 +3256,10 @@
 # sent_id = 445
 # text = ekəy  iʔke wep owakára
 # text_eng = It is not with you that I am angry (Gabas 1999, 147)
-1	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	_	_	_	_
+1	ekəy	_	ADP	adp	Case=Dat|Number=Sing|Person=2	4	obl	4:obl	_
 2	iʔke	_	PART	part	Polarity=Neg	1	advmod	1:advmod	_
 3	wep	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	4	aux	4:aux	_
-4	owakára	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	ccomp	1:ccomp	_
+4	owakára	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 446
 # text = õn aʔtoy iʔke at kaʔa ʔa peʔ
@@ -3287,10 +3286,10 @@
 # sent_id = 448
 # text = pattem iʔke web okera
 # text_eng = It was not nicely that I slept. (Gabas 1999, 148)
-1	pattem	_	ADJ	adj	_	_	_	_	_
+1	pattem	_	ADV	adv	_	4	advmod	4:advmod	_
 2	iʔke	_	PART	part	Polarity=Neg	1	advmod	1:advmod	_
 3	web	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	4	aux	4:aux	_
-4	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	ccomp	1:ccomp	_
+4	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 449
 # text = mekõm iʔke iʔyat kotigap mɨy mãm
