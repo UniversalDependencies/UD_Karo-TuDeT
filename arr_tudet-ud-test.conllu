@@ -1720,53 +1720,53 @@
 # sent_id = 247
 # text = kɨganape ahyə ekerap
 # text_eng = Where did you sleep? (Gabas 1999, 103)
-1	kɨganape	_	PRON	pron	Int=Yes	3	advmod	3:advmod	_
-2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	ekerap	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	kɨganape	kɨganape	ADV	adv	Int=Yes	3	advmod	3:advmod	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
+3	ekerap	ket	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 248
 # text = kɨganapət ahyə at etop
 # text_eng = From where did it see you? (Gabas 1999, 103)
-1	kɨganapət	_	PRON	pron	Int=Yes	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
-4	etop	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	kɨganapət	kɨganapət	ADV	adv	Int=Yes	4	advmod	4:advmod	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
+3	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	4:nsubj	_
+4	etop	top	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 249
 # text = kɨgope ahyə ekap eyaʔwara
 # text_eng = When will you come back? (Gabas 1999, 103)
-1	kɨgope	_	PRON	pron	Int=Yes	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	ekap	_	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
-4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
+1	kɨgope	kɨgope	ADV	adv	Int=Yes	4	advmod	4:advmod	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
+3	ekap	kap	AUX	aux	Mood=Ind|Number=Sing|Person=2|Tense=Fut	4	aux	4:aux	_
+4	eyaʔwara	yaʔwat	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 250
 # text = kõm ahyə mãygãra etóp
 # text_eng = How did the snake bite you? (Gabas 1999, 103)
-1	kõm	_	PRON	pron	Int=Yes	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	mãygãra	_	NOUN	n	_	4	nsubj	4:nsubj	_
-4	etóp	_	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
+1	kõm	kõm	ADV	adv	Int=Yes	4	advmod	4:advmod	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
+3	mãygãra	mãygãra	NOUN	n	_	4	nsubj	4:nsubj	_
+4	etóp	tóp	VERB	v	Mood=Ind|Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 251
 # text = kõm ahyə igu ẽn ip yapít
 # text_eng = How many fish did you shoot with a bow? (Gabas 1999, 104)
-1	kõm	_	PRON	pron	Int=Yes	3	advmod	3:advmod	_
-2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	igu	_	ADJ	adj	_	5	amod	5:amod	_
-4	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
-5	ip	_	NOUN	n	_	6	obj	6:obj	_
-6	yapít	_	VERB	v	Mood=Ind	0	root	0:root	_
+1	kõm	kõm	ADV	adv	Int=Yes	3	advmod	3:advmod	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
+3	igu	igu	ADJ	adj	_	5	amod	5:amod	_
+4	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	6	nsubj	6:nsubj	_
+5	ip	ip	NOUN	n	_	6	obj	6:obj	_
+6	yapít	yapí	VERB	v	Mood=Ind	0	root	0:root	_
 
 # sent_id = 252
 # text = nãnã ahyə agóaʔpət óra wɨy maŋaptem
 # text_eng = Why did the shaman sing for so long? (Gabas 1999, 104)
-1	nãnã	_	PRON	pron	Int=Yes	4	advmod	4:advmod	_
-2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
-3	agóaʔpət	_	NOUN	n	_	4	nsubj	4:nsubj	_
-4	óra	_	NOUN	n	_	0	root	0:root	_
-5	wɨy	_	VERB	v	Mood=Ind	4	compound	4:compound	_
-6	maŋaptem	_	ADJ	adj	_	4	advmod	4:advmod	_
+1	nãnã	nãnã	ADV	adv	Int=Yes	4	advmod	4:advmod	_
+2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	1:discourse	_
+3	agóaʔpət	agóaʔpət	NOUN	n	_	4	nsubj	4:nsubj	_
+4	óra	óra	NOUN	n	_	0	root	0:root	_
+5	wɨy	wɨy	VERB	v	Mood=Ind	4	compound	4:compound	_
+6	maŋaptem	maŋap	ADJ	adj	_	4	advmod	4:advmod	_
 
 # sent_id = 253
 # text = ewɨya
