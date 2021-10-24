@@ -1569,7 +1569,7 @@
 # sent_id = 229
 # text = maʔpəy bat yet opɨya
 # text_eng = (It was) the beautiful woman (who) waited for me. (Gabas 1999, 98)
-1	maʔpəy	_	NOUN	n	_	0	root	0:root|4:nsubj	_
+1	maʔpəy	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	bat	_	ADJ	adj	_	1	amod	1:amod	_
 3	yet	_	AUX	aux	Decl=Assert|Person=3Imp	4	aux	4:aux	_
 4	opɨya	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
@@ -1594,11 +1594,11 @@
 # text = wat kaʔa ʔa peʔ web aʔpɨya
 # text_eng = (It was) at my house (that) I waited for him/it. (Gabas 1999, 99)
 1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
-2	kaʔa	_	NOUN	n	_	0	root	0:root	_
-3	ʔa	_	ADJ	adj	Clas=Rd	1	clf	1:clf	_
-4	peʔ	_	ADP	adp	Case=Loc	1	case	1:case	_
-5	web	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	5	aux	5:aux	_
-6	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	obj	1:obj	_
+2	kaʔa	_	NOUN	n	_	6	obl	6:obl	_
+3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
+4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
+5	web	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	6	aux	6:aux	_
+6	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	0:root	_
 
 # sent_id = 233
 # text = et kaʔa ʔa peʔ at epɨyap
@@ -1866,7 +1866,7 @@
 1	kopət	_	NOUN	n	_	0	root	0:root	_
 2	to	_	PART	part	Number=Plur	1	clf	1:clf	_
 3	wecéb	_	ADJ	adj	_	1	amod	1:amod	_
-4	aʔmãn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
+4	aʔmãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 
 # sent_id = 268
 # text = Antônio yãn kaʔa ʔa naʔot peʔ
@@ -2105,15 +2105,15 @@
 # sent_id = 298
 # text = tomanẽ mãŋa tə
 # text_eng = him entirely, they say (Gabas 1999, 115)
-1	tomanẽ	_	ADJ	adj	Corf=Yes|Person=3	2	amod	2:amod	_
-2	mãŋa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	tə	_	PART	part	Evident=Nfh	2	mark	2:mark	_
+1	tomanẽ	_	NOUN	n	Corf=Yes|Person=3	0	root	0:root	_
+2	mãŋa	_	VERB	v	VerbForm=Ger	1	advmod	1:advmod	_
+3	tə	_	PART	part	Evident=Nfh	2	discourse	2:discourse	_
 
 # sent_id = 299
 # text = péŋ tə
 # text_eng = the white man, they say. (Gabas 1999,115)
 1	péŋ	_	NOUN	n	_	0	root	0:root	_
-2	tə	_	PART	part	Evident=Nfh	1	mark	1:mark	_
+2	tə	_	PART	part	Evident=Nfh	1	discourse	1:discourse	_
 
 # sent_id = 300
 # text = kanãy pèŋ ʔep toat mok peroʔ cára icɨ peʔ
@@ -2233,7 +2233,7 @@
 # text_eng = He and Cabirera are big shamans. (lit. He is a big shaman, like Cabirera)(Gabas 1999, 118)
 1	agóaʔpət	_	NOUN	n	_	0	root	0:root	_
 2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	aʔnãn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
+3	aʔnãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	1:cop	_
 4	Cabirera	_	PROPN	propn	_	1	obl	1:obl	_
 5	kõm	_	ADP	adp	Case=Sim	4	case	4:case	_
 
@@ -2419,7 +2419,7 @@
 1	mãygãra	_	NOUN	n	_	2	obj	2:obj	_
 2	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	iʔke	_	PART	part	Polarity=Neg	2	advmod	2:advmod	_
-4	agóaʔpət	_	NOUN	n	_	5	nsubj	5:nsubj	_
+4	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
 5	ʔet	_	AUX	aux	_	2	aux	2:aux	_
 
 # sent_id = 343
@@ -2851,7 +2851,7 @@
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
 4	matet	_	ADV	adv	_	3	obl	3:obl	_
-5	cagárokõmnem	_	NUM	num	_	2	advmod	2:advmod	_
+5	cagárokõmnem	_	NUM	num	_	2	nummod	2:nummod	_
 
 # sent_id = 397
 # text = maʔwɨt ip ʔɨy cagárokõmnem matet
@@ -2859,7 +2859,7 @@
 1	maʔwɨt	_	NOUN	n	_	3	nsubj	3:nsubj	_
 2	ip	_	NOUN	n	_	3	obj	3:obj	_
 3	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
-4	cagárokõmnem	_	NUM	num	_	2	advmod	2:advmod	_
+4	cagárokõmnem	_	NUM	num	_	2	nummod	2:nummod	_
 5	matet	_	ADV	adv	_	3	obl	3:obl	_
 
 # sent_id = 398
@@ -2974,7 +2974,7 @@
 # text = iyõm ikap towenaoba co
 # text_eng = Dad was going to dance. (Gabas 1999, 138)
 1	iyõm	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	ikap	_	AUX	aux	Decl=AssertFoc|Person=3Imp|Tenses=Fut	0	root	0:root	_
+2	ikap	_	AUX	aux	Decl=AssertFoc|Person=3Imp|Tense=Fut	0	root	0:root	_
 3	towenaoba	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	xcomp	2:xcomp	_
 4	co	_	PART	part	Tense=Past	3	dep	3:dep	_
 
@@ -3031,20 +3031,20 @@
 2	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 417
-# text = mãygãra wĩa [wat owẽ] kay
+# text = mãygãra wĩa wat owẽ kay
 # text_eng = My son is going to kill a/the snake. (Gabas 1999, 141)
-1	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
-2	wĩa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-3	[wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nmod	5:nmod	_
-4	owẽ]	_	NOUN	n	_	3	nsubj	3:nsubj	_
-5	kay	_	AUX	aux	Decl=Assert|Tense=Fut	3	aux	3:aux	_
+1	mãygãra	_	NOUN	n	_	2	obj	2:obj	_
+2	wĩa	_	VERB	v	VerbForm=Ger	5	xcomp	5:xcomp	_
+3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
+4	owẽ	_	NOUN	n	_	5	nsubj	5:nsubj	_
+5	kay	_	AUX	aux	Decl=Assert|Tense=Fut	0	root	0:root	_
 
 # sent_id = 418
 # text = aʔtoba cúrem aʔkay
 # text_eng = He is going to see it well. (Gabas 1999, 141)
 1	aʔtoba	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-2	cúrem	_	ADJ	adj	_	2	advmod	2:advmod	_
-3	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
+2	cúrem	_	ADV	adv	_	1	advmod	1:advmod	_
+3	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 419
 # text = tokera iʔke maʔwɨt cú gay
@@ -3076,9 +3076,9 @@
 # text = aʔtoba iʔke cúrem aʔkay
 # text_eng = He is not going to see it well. (Gabas 1999, 142)
 1	aʔtoba	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-2	iʔke	_	PART	part	Polarity=Neg	2	advmod	2:advmod	_
-3	cúrem	_	ADJ	adj	_	2	advmod	2:advmod	_
-4	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	2	aux	2:aux	_
+2	iʔke	_	PART	part	Polarity=Neg	1	advmod	1:advmod	_
+3	cúrem	_	ADV	adv	_	1	advmod	1:advmod	_
+4	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	1:aux	_
 
 # sent_id = 423
 # text = ameko cú yaʔwa yat
@@ -3154,9 +3154,9 @@
 # text = oyaʔwara okay aʔtoy iga
 # text_eng = I am going to leave to see him/it (Gabas 1999, 144)
 1	oyaʔwara	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	0:root	_
-2	okay	_	PART	part	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	mark	1:mark	_
+2	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	1:aux	_
 3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	1	xcomp	1:xcomp	_
-4	iga	_	PART	part	Tense=Fut	3	mark	3:mark	_
+4	iga	_	PART	part	Tense=Fut	3	discourse	3:discourse	_
 
 # sent_id = 433
 # text = oyaʔwan nyar aʔtoy iga
