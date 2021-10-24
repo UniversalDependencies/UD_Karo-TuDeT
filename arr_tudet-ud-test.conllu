@@ -3208,13 +3208,13 @@
 4	itop	_	VERB	v	Person=3Imp	0	root	0:root	_
 
 # sent_id = 439
-# text = [naʔto cú iʔke] at iwĩ
+# text = naʔto cú iʔke at iwĩ
 # text_eng = It wasn't the big tapir that he killed. (Gabas 1999, 146)
-1	[naʔto	_	NOUN	n	_	_	_	_	_
-2	cú	_	ADJ	adj	_	1	amod	1:amod	_
-3	iʔke]	_	PART	part	_	1	advmod	1:advmod	_
-4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
-5	iwĩ	_	VERB	v	Person=3Imp	_	_	_	_
+1	naʔto	naʔto	NOUN	n	_	5	obj	5:obj	_
+2	cú	cú	ADJ	adj	_	1	amod	1:amod	_
+3	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	1:advmod	_
+4	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+5	iwĩ	iwĩ	VERB	v	Person=3Imp	0	root	0:root	_
 
 # sent_id = 440
 # text = [ẽn iʔke] ŋa icát
@@ -5003,13 +5003,13 @@
 # sent_id = 672
 # text = kõm co iʔyat ip ʔɨy nãnin menə
 # text_eng = I really wonder how we catch the fish. (Gabas 1999, 220)
-1	kõm	_	PRON	pron	Int=Yes	5	advmod	5:advmod	_
-2	co	_	PART	part	Tense=Past	5	dep	5:dep	_
-3	iʔyat	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
-4	ip	_	NOUN	n	_	5	obj	5:obj	_
+1	kõm	kõm	ADV	adv	Int=Yes	5	advmod	5:advmod	_
+2	co	co	PART	part	Tense=Past	5	dep	5:dep	_
+3	iʔyat	iʔyat	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
+4	ip	ip	NOUN	n	_	5	obj	5:obj	_
 5	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
-6	nãnin	_	PART	part	Evident=Fh	5	discourse	5:discourse	_
-7	menə	_	PART	part	Evident=Fh	5	discourse	5:discourse	_
+6	nãnin	nãnin	PART	part	Evident=Fh	5	discourse	5:discourse	_
+7	menə	menə	PART	part	Evident=Fh	5	discourse	5:discourse	_
 
 # sent_id = 673
 # text = aʔken pə menə
