@@ -4354,9 +4354,9 @@
 # text = cutcut ʔet ahyə ŋakəy
 # text_eng = Did you kiss her? (Gabas 1999, 189)
 1	cutcut	cut	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	ʔet	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	2	aux	2:aux	_
-3	ahyə	_	PART	part	Int=Yes	2	mark	2:mark	_
-4	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	2:obj	_
+2	ʔet	_	AUX	aux	Decl=Assert|Number=Sing|Person=2	1	aux	1:aux	_
+3	ahyə	_	PART	part	Int=Yes	1	discourse	1:discourse	_
+4	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	1	obj	1:obj	_
 
 # sent_id = 590
 # text = at ahyə úeúe ye
@@ -4406,10 +4406,10 @@
 # sent_id = 596
 # text = maʔwɨt iʔke cokcok toʔwa
 # text_eng = It was not the man who ground (it). (Gabas 1999, 191)
-1	maʔwɨt	_	NOUN	n	_	4	nsubj	4:nsubj	_
-2	iʔke	_	PART	part	Polarity=Neg	4	advmod	4:advmod	_
+1	maʔwɨt	_	NOUN	n	_	3	nsubj	3:nsubj	_
+2	iʔke	_	PART	part	Polarity=Neg	3	discourse	3:discourse	_
 3	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 597
 # text = õn iʔke púŋ wa
@@ -4423,7 +4423,7 @@
 # text = púŋpúŋ karoʔwa
 # text_eng = (You PL.) shoot! (Gabas 1999, 192)
 1	púŋpúŋ	púŋpúŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	karoʔwa	_	AUX	aux	Number=Plur|Person=2|VerbForm=Ger	2	aux	2:aux	_
+2	karoʔwa	_	AUX	aux	Number=Plur|Person=2|VerbForm=Ger	1	aux	1:aux	_
 
 # sent_id = 599
 # text = kãykãy ʔa et kaʔa ʔa peʔ
@@ -4456,8 +4456,8 @@
 # text = uéué we yat
 # text_eng = I will vomit. (Gabas 1999, 193)
 1	uéué	ué	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	we	_	AUX	aux	Number=Sing|Person=1	2	aux	2:aux	_
-3	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
+2	we	_	AUX	aux	Number=Sing|Person=1	1	aux	1:aux	_
+3	yat	_	PART	part	Tense=Fut	1	discourse	1:discourse	_
 
 # sent_id = 603
 # text = púŋ wa okay yahmãm
@@ -4487,9 +4487,9 @@
 # text = cokcok maʔpəy ʔet yat iʔke
 # text_eng = The woman will not grind. (Gabas 1999, 195)
 1	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-2	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
+2	maʔpəy	_	NOUN	n	_	1	nsubj	1:nsubj	_
 3	ʔet	_	AUX	aux	Decl=Assert	2	aux	2:aux	_
-4	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
+4	yat	_	PART	part	Tense=Fut	2	discourse	2:discourse	_
 5	iʔke	_	PART	part	Polarity=Neg	2	advmod	2:advmod	_
 
 # sent_id = 607
@@ -4509,10 +4509,10 @@
 # sent_id = 609
 # text = nãn ikap púŋpúŋ toʔwa
 # text_eng = Who is going to shoot? (Gabas 1999, 196)
-1	nãn	nã	AUX	aux	Int=Yes	4	nsubj	4:nsubj	_
-2	ikap	_	AUX	aux	Person=3Imp|Tense=Fut	4	aux	4:aux	_
+1	nãn	nã	AUX	aux	Int=Yes	3	nsubj	3:nsubj	_
+2	ikap	_	AUX	aux	Person=3Imp|Tense=Fut	3	aux	3:aux	_
 3	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	3:aux	_
 
 # sent_id = 610
 # text = õn púŋ kanã yaʔti nãn
