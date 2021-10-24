@@ -3166,7 +3166,7 @@
 1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	nyar	_	PART	part	Tense=Fut	1	mark	1:mark	_
 3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	xcomp	1:xcomp	_
-2	iga	_	_	_	_	_	_	_	_
+4	iga	_	_	_	_	_	_	_	_
 
 # sent_id = 434
 # text = oken iʔke
@@ -3612,8 +3612,8 @@
 # text_eng = I killed it/him when I saw it/him. (Gabas 1999, 158)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-3	aʔ=to	_	VERB	v	Number=Sing|Person=3	2	dep	2:dep	_
-4	kanãp	_	SCONJ	sconj	_	4	mark	4:mark	_
+3	aʔ=to	_	VERB	v	Number=Sing|Person=3	2	advcl	2:advcl	_
+4	kanãp	_	SCONJ	sconj	_	3	mark	3:mark	_
 
 # sent_id = 489
 # text = oweʔcɨn [at oto kanãp]
@@ -4489,11 +4489,11 @@
 # sent_id = 606
 # text = cokcok maʔpəy ʔet yat iʔke
 # text_eng = The woman will not grind. (Gabas 1999, 195)
-2	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-3	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-4	ʔet	_	AUX	aux	Decl=Assert	2	aux	2:aux	_
-5	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
-6	iʔke	_	PART	part	_	2	advmod	2:advmod	_
+1	cokcok	cok	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+2	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
+3	ʔet	_	AUX	aux	Decl=Assert	2	aux	2:aux	_
+4	yat	_	PART	part	Tense=Fut	2	mark	2:mark	_
+5	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 607
 # text = muturum yahmãm
@@ -4514,8 +4514,8 @@
 # text_eng = Who is going to shoot? (Gabas 1999, 196)
 1	nãn	nã	AUX	aux	Int=Yes	4	nsubj	4:nsubj	_
 2	ikap	_	AUX	aux	Person=3Imp|Tense=Fut	4	aux	4:aux	_
-4	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
-5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
+3	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
+4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 610
 # text = õn púŋ kanã yaʔti nãn
