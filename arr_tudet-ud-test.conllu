@@ -1504,7 +1504,7 @@
 # sent_id = 221
 # text = abaʔpan
 # text_eng = He fell down. (Gabas 1999, 96)
-1	abaʔpan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	_	_	_	_
+1	abaʔpan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 222
 # text =wayo gap ar iʔop
@@ -1617,7 +1617,7 @@
 2	ʔoa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	2	aux	2:aux	_
 4	cak	_	ADV	adv	_	2	obl	2:obl	_
-5	mam	_	X	x	_	_	_	_	_
+5	mam	_	X	x	_	2	dep	2:dep	_
 
 # sent_id = 235
 # text = õn aʔtoy ʔĩttem
@@ -2210,14 +2210,13 @@
 5	pihmãm	mãm	ADP	adp	Case=Com	4	case	4:case	_
 
 # sent_id = 314
-# text = owakán matet wat iyõm pihmãm (towakára)
+# text = owakán matet wat iyõm pihmãm
 # text_eng = My father and I were angry yesterday. (Gabas 1999, 117)
 1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	matet	_	ADV	adv	_	1	advmod	1:advmod	_
 3	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
 4	iyõm	_	NOUN	n	_	1	obl	1:obl	_
 5	pihmãm	mãm	ADP	adp	Case=Com	4	case	4:case	_
-6	(towakára)	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	_	_	_	_
 
 # sent_id = 315
 # text = at ĩya wĩn kokõ wĩa kõam
@@ -2418,10 +2417,10 @@
 # text = mãygãra toba iʔke agóaʔpət ʔet
 # text_eng = Not seeing the snake was what the shaman did. (Gabas 1999, 124)
 1	mãygãra	_	NOUN	n	_	2	obj	2:obj	_
-2	toba	_	VERB	v	VerbForm=Ger	0	root	0:root|5:dep	_
+2	toba	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	iʔke	_	PART	part	Polarity=Neg	2	advmod	2:advmod	_
 4	agóaʔpət	_	NOUN	n	_	5	nsubj	5:nsubj	_
-5	ʔet	_	AUX	aux	_	_	_	_	_
+5	ʔet	_	AUX	aux	_	2	aux	2:aux	_
 
 # sent_id = 343
 # text = maʔwɨt ken iʔke
@@ -3598,13 +3597,13 @@
 # text = wĩt wĩaw aʔwaʔye at chapéu káʔ to kanãp
 # text_eng = He whistled when he saw his hat. (Gabas 1999, 158)
 1	wĩt	_	NOUN	n	_	2	compound	2:compound	_
-2	wĩaw	_	NOUN	n	_	_	_	_	_
+2	wĩaw	_	NOUN	n	_	0	root	0:root	_
 3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	2:aux	_
-4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nmod	6:nmod	_
-5	chapéu	_	NOUN	n	_	8	obj	8:obj	_
-6	káʔ	_	ADJ	adj	Clas=Ccv	6	clf	6:clf	_
-7	to	_	VERB	v	_	0	root	0:root	_
-8	kanãp	_	SCONJ	sconj	_	8	mark	8:mark	_
+4	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
+5	chapéu	_	NOUN	n	_	7	obj	7:obj	_
+6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	5:clf	_
+7	to	_	VERB	v	_	2	advcl	2:advcl	_
+8	kanãp	_	ADV	adv	_	7	mark	7:mark	_
 
 # sent_id = 488
 # text = õn aʔwĩn aʔ=to kanãp
