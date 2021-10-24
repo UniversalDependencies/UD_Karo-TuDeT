@@ -4828,12 +4828,12 @@
 # sent_id = 650
 # text = ẽn ahyə menə kanã tayãn menə
 # text_eng = Are you really the one who has many things? (Gabas 1999, 213)
-1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	_	_	_	_
-2	ahyə	_	PART	part	Int=Yes	_	_	_	_
-3	menə	_	PART	part	Evident=Fh	_	_	_	_
-4	kanã	_	NOUN	n	_	_	_	_	_
-5	tayãn	_	VERB	v	Case=Com|Decl=Assert	_	_	_	_
-6	menə	_	PART	part	Evident=Fh	_	_	_	_
+1	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	5:nsubj	_
+2	ahyə	_	PART	part	Int=Yes	5	discourse	5:discourse	_
+3	menə	_	PART	part	Evident=Fh	5	discourse	5:discourse	_
+4	kanã	_	NOUN	n	_	5	nmod	5:nmod	_
+5	tayãn	_	VERB	v	Case=Com|Decl=Assert	0	root	0:root	_
+6	menə	_	PART	part	Evident=Fh	5	discourse	5:discourse	_
 
 # sent_id = 651
 # text = péŋ nãnin aʔwĩn nãnin
