@@ -4872,7 +4872,7 @@
 # sent_id = 655
 # text = kõm aʔcat menə
 # text_eng = I wonder what his name is. (Gabas 1999, 214)
-1	kõm	_	PRON	pron	Int=Yes	3	advmod	3:advmod	_
+1	kõm	_	ADV	adv	Int=Yes	3	advmod	3:advmod	_
 2	aʔcat	_	NOUN	n	Number=Sing|Person=3	3	obj	3:obj	_
 3	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 
@@ -4880,8 +4880,8 @@
 # text = nãn mã at aʔwĩm menə
 # text_eng = I wonder with what he killed it/him. (Gabas 1999, 214)
 1	nãn	nã	AUX	aux	Int=Yes	5	obj	5:obj	_
-2	mã	_	PART	part	Case=Ins	1	mark	1:mark	_
-3	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
+2	mã	mã	PART	part	Case=Ins	1	mark	1:mark	_
+3	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 4	aʔwĩm	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=3	5	advcl	5:advcl	_
 5	menə	_	PART	part	Evident=Fh	0	root	0:root	_
 
