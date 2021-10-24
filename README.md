@@ -1,20 +1,36 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
 
+UD_Karo-TuDeT is a collection of annotated sentences in [Karo](https://www.endangeredlanguages.com/lang/1368). The project is a work in progress and the treebank is being updated on a regular basis.
+
+</br>
+</br>
+</br>
+</br>
+</br>
 
 # Introduction
 
-...
+UD_Karo-TuDeT is a collection of annotated sentences in Karo. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The sentences are being annotated by Fabrício Ferraz Gerardi.
+
+## Text sources
+
+* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD dissertation.
+
 
 
 # Acknowledgments
 
-...
+The development of the treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
 
 ## References
 
-* (citation)
+* Crofts, M. (2004). Aspectos da língua Mundurukú. SIL-Cuiabá (MT). 2<sup>a</sup> edição.
+
+* Ferraz Gerardi, F. (2020) Mundurukú notes. Unpublished manuscript (ongoing work). Tübingen. 
+
+* Gomes, D. M. (2006). Estudo morfológico e sintático da língua Mundurukú (Tupí). PhD thesis. Universidade de Brasília.
+
 
 
 # Changelog
