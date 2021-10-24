@@ -359,7 +359,7 @@
 # text = Noep at tágɨp
 # text_eng = Noep's bow (Gabas 1999, 43)
 1	Noep	_	PROPN	propn	_	3	nmod	3:nmod	_
-2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
+2	at	_	PART	part	PronType=Prs	1	case	1:case	_
 3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 055
@@ -1231,10 +1231,10 @@
 # sent_id = 185
 # text = wat ip ʔɨya kanã
 # text_eng = My place to catch fish. (Gabas 1999, 87)
-1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	4:nmod	_
-2	ip	_	NOUN	n	_	3	obj	3:obj	_
+1	wat	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	2:nmod	_
+2	ip	_	NOUN	n	_	3	nmod	3:nmod	_
 3	ʔɨya	_	VERB	v	VerbForm=Ger	0	root	0:root	_
-4	kanã	_	PART	part	Nomzr=Circ	3	mark	3:mark	_
+4	kanã	_	PART	part	Nomzr=Circ	3	dep	3:dep	_
 
 # sent_id = 186
 # text = õn aʔwĩa kanã yaʔti nãn
@@ -2105,7 +2105,7 @@
 # sent_id = 298
 # text = tomanẽ mãŋa tə
 # text_eng = him entirely, they say (Gabas 1999, 115)
-1	tomanẽ	_	NOUN	n	Corf=Yes|Person=3	0	root	0:root	_
+1	tomanẽ	_	ADV	adv	Corf=Yes|Person=3	0	root	0:root	_
 2	mãŋa	_	VERB	v	VerbForm=Ger	1	advmod	1:advmod	_
 3	tə	_	PART	part	Evident=Nfh	2	discourse	2:discourse	_
 
@@ -3503,7 +3503,7 @@
 # text = ci baʔpe mawɨga
 # text_eng = (He) dirtied the edge of the water (Gabas 1999, 155)
 1	ci	_	NOUN	n	_	3	nmod	3:nmod	_
-2	baʔpe	_	NOUN	n	_	4	obj	4:obj	_
+2	baʔpe	_	NOUN	n	_	3	obj	3:obj	_
 3	mawɨga	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	0:root	_
 
 # sent_id = 476
@@ -3650,14 +3650,14 @@
 5	kanãp]	_	SCONJ	sconj	_	4	mark	4:mark	_
 
 # sent_id = 493
-# text = aʔti toat macaʔɨt wĩ nãt toʔwa]
+# text = aʔti toat macaʔɨt wĩ nãt toʔwa
 # text_eng = He came to kill his animals. (Gabas 1999, 160)
 1	aʔti	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	4:nmod	_
-3	macaʔɨt	_	NOUN	n	_	5	obj	5:obj	_
+3	macaʔɨt	_	NOUN	n	_	_	_	_	_
 4	wĩ	_	VERB	v	_	1	dep	1:dep	_
-5	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
-6	toʔwa]	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	5:aux	_
+5	nãt	_	SCONJ	sconj	_	4	mark	4:mark	_
+6	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
 
 # sent_id = 494
 # text = oyaʔwan [ocaʔyõk nãt wa]
@@ -3691,9 +3691,9 @@
 2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	3:nmod	_
 3	cĩm	_	NOUN	n	_	4	obj	4:obj	_
 4	nati	_	VERB	v	Decl=Assert	0	root	0:root	_
-5	aʔcá	_	VERB	v	Number=Sing|Person=3	4	dep	4:dep	_
-6	nãt	_	SCONJ	sconj	_	6	mark	6:mark	_
-7	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	6	aux	6:aux	_
+5	aʔcá	_	VERB	v	Number=Sing|Person=3	4	xcomp	4:xcomp	_
+6	nãt	_	SCONJ	sconj	_	5	mark	5:mark	_
+7	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	5:aux	_
 
 # sent_id = 498
 # text = abeʔcɨn [noorawa nãt toʔwa rawrem]
@@ -4298,8 +4298,8 @@
 # text_eng = I shot the white man several times. (Gabas 1999, 187)
 1	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	1:aux	_
-3	péŋ	_	NOUN	n	_	2	obj	2:obj	_
-4	kəy	_	ADP	adp	Case=Dat	2	case	2:case	_
+3	péŋ	_	NOUN	n	_	1	obj	1:obj	_
+4	kəy	_	ADP	adp	Case=Dat	3	case	3:case	_
 
 # sent_id = 583
 # text = tuy Babesáya ŋa ʔet yate taʔwara
