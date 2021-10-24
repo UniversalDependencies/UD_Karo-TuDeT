@@ -476,7 +476,7 @@
 # text = maʔpəy aʔtoy ʔĩttem
 # text_eng = The woman saw him/it briefly. (Gabas 1999, 49)
 1	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Number=Sing|Decl=Assert|Person=3	_	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Number=Sing|Decl=Assert|Person=3	0	root	0:root	_
 3	ʔĩttem	_	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 072
@@ -1604,7 +1604,7 @@
 # sent_id = 233
 # text = et kaʔa ʔa peʔ at epɨyap
 # text_eng = (It was) at your house (that) he waited for you. (Gabas 1999, 99)
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	_	2	nmod	2:nmod	_
+1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	2:nmod	_
 2	kaʔa	kaʔa	NOUN	n	_	0	root	0:root	_
 3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	2:clf	_
 4	peʔ	_	ADP	adp	Case=Loc	2	case	2:case	_
@@ -1623,7 +1623,7 @@
 # sent_id = 235
 # text = õn aʔtoy ʔĩttem
 # text_eng = I saw it/him briefly. (Gabas 1999, 99)
-1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	_	2	nsubj	2:nsubj	_
+1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	ʔĩttem	_	ADJ	adj	_	2	advmod	2:advmod	_
 
@@ -2143,7 +2143,7 @@
 # sent_id = 303
 # text = ekap
 # text_eng = your fat(Gabas 1999, 116)
-1	ekap	_	NOUN	n	Number=Sing|Person=2	_	_	_	_	_
+1	ekap	_	NOUN	n	Number=Sing|Person=2	_	_	_	_
 
 # sent_id = 304
 # text = yate gap
@@ -3427,7 +3427,7 @@
 # text = kiganape ap naʔto roy yahmãm
 # text_eng = Where did he not see the tapir? (Gabas 1999, 152)
 1	kiganape	_	ADV	adv	_	4	advmod	4:advmod	_
-2	ap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	_	4	aux	4:aux	_
+2	ap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	4	aux	4:aux	_
 3	naʔto	_	NOUN	n	_	4	obj	4:obj	_
 4	roy	_	VERB	v	Decl=AssertFoc	0	root	0:root	_
 5	yahmãm	mãm	PART	part	_	4	advmod	4:advmod	_
@@ -4382,7 +4382,7 @@
 # text_eng = Who climbed down? (Gabas 1999, 190)
 1	nãn	_	PRON	pron	Int=Yes	2	nsubj	2:nsubj	_
 2	oturum	_	VERB	v	_	0	root	0:root	_
-3	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	_	2	aux	2:aux	_
+3	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 593
 # text = nãn nərəŋ toʔwa
