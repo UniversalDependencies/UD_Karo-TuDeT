@@ -51,7 +51,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	yaracewag	_	NOUN	n	_	3	obj	3:obj	_
 3	yaʔti	_	VERB	v	_	0	root	0:root	_
-4	nãn	_	AUX	aux	Decl=Assert	3	cop	3:cop	_
+4	nãn	nã	AUX	aux	Decl=Assert	3	cop	3:cop	_
 
 # sent_id = 009
 # text = yate naʔcəg wew
@@ -216,27 +216,27 @@
 # sent_id = 033
 # text = nãn iket
 # text_eng = Who slept? (Gabas 1999, 39)
-1	nãn	_	PRON	pro	Int=Yes	2	nsubj	2:nsubj	_
+1	nãn	nã	AUX	aux	Int=Yes	2	nsubj	2:nsubj	_
 2	iket	_	VERB	v	Person=3Imp	0	root	0:root	_
 
 # sent_id = 034
 # text = nãn mãygãra wīn
 # text_eng = Who killed the snake? (Gabas 1999, 40)
-1	nãn	_	PRON	pron	Int=Yes	3	nsubj	3:nsubj	_
+1	nãn	nã	AUX	aux	Int=Yes	3	nsubj	3:nsubj	_
 2	mãygãra	_	NOUN	n	_	3	obj	3:obj	_
 3	wīn	_	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 035
 # text = nãn ẽn itop
 # text_eng = Who/what did you see? (Gabas 1999, 40)
-1	nãn	_	PRON	pro	Int=Yes	3	obj	3:obj	_
+1	nãn	nã	AUX	aux	Int=Yes	3	obj	3:obj	_
 2	ẽn	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	3:nsubj	_
 3	itop	_	VERB	v	Person=3Imp	0	root	0:root	_
 
 # sent_id = 036
 # text = nãn bihmãm ekerap
 # text_ eng = With whom did you sleep? (Gabas 1999, 40)
-1	nãn	_	PRON	pron	Int=Yes	3	obl	3:obl	_
+1	nãn	nã	AUX	aux	Int=Yes	3	obl	3:obl	_
 2	bihmãm	mãm	ADP	adp	Case=Com	1	case	1:case	_
 3	ekerap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	0:root	_
 
@@ -269,7 +269,7 @@
 # sent_id = 040
 # text = nãn ahyə mẽr ã
 # text_eng = What is this here? (Gabas 1999, 41)
-1	nãn	_	PRON	pron	Int=Yes	0	root	0:root	_
+1	nãn	nã	AUX	aux	Int=Yes	0	root	0:root	_
 2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 3	mẽr	_	ADV	adv	_	1	advmod	1:advmod	_
 4	ã	_	X	x	_	_	_	_	_
@@ -277,7 +277,7 @@
 # sent_id = 041
 # text = nãn ahyə
 # text_eng = What (happened)?; What/who is it? (Gabas 1999, 41)
-1	nãn	_	PRON	pron	_	0	root	0:root	_
+1	nãn	nã	AUX	aux	_	0	root	0:root	_
 2	ahyə	_	PART	part	Int=Yes	1	mark	1:mark	_
 
 # sent_id = 042
@@ -460,7 +460,7 @@
 # sent_id = 069
 # text = nãn mihmãm ekab eyaʔwara
 # text_eng = With whom you will leave? (Gabas 1999, 48)
-1	nãn	_	PRON	pron	Int=Yes	4	obl	_	_
+1	nãn	nã	AUX	aux	Int=Yes	4	obl	_	_
 2	mihmãm	mãm	ADP	adp	Case=Com	1	case	_	_
 3	ekab	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2|Tense=Fut	4	aux	_	_
 4	eyaʔwara	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
@@ -493,7 +493,7 @@
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	obj	4:obj	_
 3	tap	tap	PART	part	Case=Com	2	case	2:case	_
 4	yaʔti	yaʔti	VERB	v	_	0	root	0:root	_
-5	nãn	nãn	PART	part	Decl=Assert	4	cop	4:cop	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 6	cúrem	cú=tem	ADV	adv	_	4	advmod	4:advmod	_
 
 # sent_id = 074
@@ -703,7 +703,7 @@
 # text_eng = The shaman made him/it calm down. (Gabas 1999, 64)
 1	agóaʔpət	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	amagahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	0:root	_
-3	nãn	_	AUX	aux	Decl=Assert	2	cop	2:cop	_
+3	nãn	nã	AUX	aux	Decl=Assert	2	cop	2:cop	_
 
 # sent_id = 102
 # text = õn amapəri
@@ -1244,7 +1244,7 @@
 2	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	adp	Nomzr=Circ	4	mark	4:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 187
 # text = õn wat mok pe cára kanã yaʔti nãn iʔke
@@ -1256,7 +1256,7 @@
 5	cára	_	VERB	v	VerbForm=Ger	7	xcomp	7:xcomp	_
 6	kanã	_	PART	part	Nomzr=Circ	5	mark	5:mark	_
 7	yaʔti	_	VERB	v	_	0	root	0:root	_
-8	nãn	_	AUX	aux	Decl=Assert	7	aux	7:aux	_
+8	nãn	nã	AUX	aux	Decl=Assert	7	aux	7:aux	_
 9	iʔke	_	PART	part	Polarity=Neg	7	advmod	7:advmod	_
 
 # sent_id = 188
@@ -1266,7 +1266,7 @@
 2	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	part	Nomzr=Circ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 6	ahyə	_	PART	part	Int=Yes	4	mark	4:mark	_
 
 # sent_id = 189
@@ -1276,7 +1276,7 @@
 2	karowéya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	4	xcomp	4:xcomp	_
 3	kanã	_	PART	part	Nomzr=Circ	2	case	2:case	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 190
 # text = owirup tẽy kokəy okap ocagəpto cára koãm
@@ -2505,7 +2505,7 @@
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	3:nsubj	_
 2	péŋ	_	NOUN	n	_	3	obj	3:obj	_
 3	yati	_	VERB	v	_	0	root	0:root	_
-4	nãn	_	VERB	v	Decl=Assert	3	cop	3:cop	_
+4	nãn	nã	AUX	aux	Decl=Assert	3	cop	3:cop	_
 5	iʔke	_	PART	part	_	3	clf	3:clf	_
 
 # sent_id = 354
@@ -2513,7 +2513,7 @@
 # text_eng =They are not few. (Gabas 1999, 126)
 1	tap	_	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	_
 2	táy	_	ADJ	adj	_	0	root	0:root	_
-3	nãn	_	VERB	v	Decl=Assert	2	cop	2:cop	_
+3	nãn	nã	AUX	aux	Decl=Assert	2	cop	2:cop	_
 4	iʔke	_	PART	part	_	2	advmod	2:advmod	_
 
 # sent_id = 355
@@ -3754,7 +3754,7 @@
 3	ya	_	SCONJ	sconj	_	5	mark	5:mark	_
 4	ŋa	_	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 5	oyaʔti	_	VERB	v	Number=Sing|Person=1	2	dep	2:dep	_
-6	nãn	_	AUX	aux	Decl=Assert	5	cop	5:cop	_
+6	nãn	nã	AUX	aux	Decl=Assert	5	cop	5:cop	_
 
 # sent_id = 504
 # text = wawwaw bay ye ŋaʔet toyaʔwara
@@ -4380,14 +4380,14 @@
 # sent_id = 592
 # text = nãn oturum toʔwa
 # text_eng = Who climbed down? (Gabas 1999, 190)
-1	nãn	_	PRON	pron	Int=Yes	2	nsubj	2:nsubj	_
+1	nãn	nã	AUX	aux	Int=Yes	2	nsubj	2:nsubj	_
 2	oturum	_	VERB	v	_	0	root	0:root	_
 3	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
 # sent_id = 593
 # text = nãn nərəŋ toʔwa
 # text_eng = Who turned his head over? (Gabas 1999, 190)
-1	nãn	_	PRON	pron	Int=Yes	2	nsubj	2:nsubj	_
+1	nãn	nã	AUX	aux	Int=Yes	2	nsubj	2:nsubj	_
 2	nərəŋ	_	VERB	v	_	0	root	0:root	_
 3	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	2:aux	_
 
@@ -4512,7 +4512,7 @@
 # sent_id = 609
 # text = nãn ikap púŋpúŋ toʔwa
 # text_eng = Who is going to shoot? (Gabas 1999, 196)
-1	nãn	_	PRON	pron	Int=Yes	4	nsubj	4:nsubj	_
+1	nãn	nã	AUX	aux	Int=Yes	4	nsubj	4:nsubj	_
 2	ikap	_	AUX	aux	Person=3Imp|Tense=Fut	4	aux	4:aux	_
 4	púŋpúŋ	púŋ	VERB	v	Aspect=Iter|Redup=Yes	0	root	0:root	_
 5	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	4:aux	_
@@ -4524,7 +4524,7 @@
 2	púŋ	_	VERB	v	_	4	obl	4:obl	_
 3	kanã	_	PART	part	Nomzr=Circ	2	mark	2:mark	_
 4	yaʔti	_	VERB	v	_	0	root	0:root	_
-5	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
+5	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 
 # sent_id = 611
 # text = õn aʔtoy púŋ kanã peʔ
@@ -4880,7 +4880,7 @@
 # sent_id = 656
 # text = nãn mã at aʔwĩm menə
 # text_eng = I wonder with what he killed it/him. (Gabas 1999, 214)
-1	nãn	_	PRON	pron	Int=Yes	5	obj	5:obj	_
+1	nãn	nã	AUX	aux	Int=Yes	5	obj	5:obj	_
 2	mã	_	PART	part	Case=Ins	1	mark	1:mark	_
 3	at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	5:nsubj	_
 4	aʔwĩm	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=3	5	advcl	5:advcl	_
@@ -4928,7 +4928,7 @@
 # text = owekuy nãn iʔkɨy tə
 # text_eng = I guess it is said that I had a dream (Gabas 1999, 217)
 1	owekuy	_	NOUN	n	Number=Sing|Person=1	4	obj	4:obj	_
-2	nãn	_	AUX	aux	Decl=Assert	4	cop	4:cop	_
+2	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
 3	iʔkɨy	_	PART	part	Evident=Fh	4	parataxis	4:parataxis	_
 4	tə	_	PART	part	Evident=Nfh	_	_	_	_
 
