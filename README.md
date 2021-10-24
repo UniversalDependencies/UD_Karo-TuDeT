@@ -25,12 +25,9 @@ The development of the treebank is supported by the by European Research Council
 
 ## References
 
-* Crofts, M. (2004). Aspectos da língua Mundurukú. SIL-Cuiabá (MT). 2<sup>a</sup> edição.
+* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD dissertation.
 
-* Ferraz Gerardi, F. (2020) Mundurukú notes. Unpublished manuscript (ongoing work). Tübingen. 
-
-* Gomes, D. M. (2006). Estudo morfológico e sintático da língua Mundurukú (Tupí). PhD thesis. Universidade de Brasília.
-
+* Gavião, Sebastião and Gabas Jr., Nilson (2007) Dicionário Karo-Português. Unpublished.
 
 
 # Changelog
