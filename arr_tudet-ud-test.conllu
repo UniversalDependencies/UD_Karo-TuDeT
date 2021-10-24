@@ -4921,16 +4921,16 @@
 # text_eng = The white man must have supposedly killed it/him. (Gabas 1999, 217)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-3	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
-4	memã	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
+3	aket	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
+4	memã	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
 
 # sent_id = 662
 # text = owekuy nãn iʔkɨy tə
 # text_eng = I guess it is said that I had a dream (Gabas 1999, 217)
-1	owekuy	_	NOUN	n	Number=Sing|Person=1	4	obj	4:obj	_
-2	nãn	nã	AUX	aux	Decl=Assert	4	cop	4:cop	_
-3	iʔkɨy	_	PART	part	Evident=Fh	4	parataxis	4:parataxis	_
-4	tə	_	PART	part	Evident=Nfh	_	_	_	_
+1	owekuy	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
+2	nãn	nã	AUX	aux	Decl=Assert	1	aux	1:aux	_
+3	iʔkɨy	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
+4	tə	_	PART	part	Evident=Nfh	1	discourse	1:discourse	_
 
 # sent_id = 663
 # text = péŋ aʔwĩn aket nãnin
@@ -4938,45 +4938,45 @@
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	aket	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
-4	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
+4	nãnin	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
 
 # sent_id = 664
 # text = ayaʔwan topə nãnin
 # text_eng = It was seen that he really left. (Gabas 1999, 218)
-1	ayaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	2	ccomp	2:ccomp	_
-2	topə	_	PART	part	Evident=Fh	0	root	0:root	_
-3	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
+1	ayaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
+2	topə	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
+3	nãnin	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
 
 # sent_id = 665
 # text = kõm at iʔkɨy menə
 # text_eng = I wonder how he might have done it? (Gabas 1999, 218)
-1	kõm	_	PRON	pron	Int=Yes	2	advmod	2:advmod	_
-2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	4	aux	4:aux	_
-3	iʔkɨy	_	PART	part	Evident=Fh	4	mark	4:mark	_
-4	menə	_	PART	part	Evident=Fh	0	root	0:root	_
+1	kõm	_	ADV	adv	Int=Yes	0	root	0:root	_
+2	at	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	1:aux	_
+3	iʔkɨy	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
+4	menə	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
 
 # sent_id = 666
 # text = péŋ aʔwĩn nãnin aket
 # text_eng = The white man really must have killed it. (Gabas 1999, 218)
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
-4	aket	_	PART	part	Evident=Fh	2	aux	2:aux	_
+3	nãnin	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
+4	aket	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
 
 # sent_id = 667
 # text = õn aʔtoy nãnin coke
 # text_eng = I really just saw him/it. (Gabas 1999, 219)
 1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	2:nsubj	_
 2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-3	nãnin	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
-4	coke	_	PART	part	Evident=Fh	2	advmod	2:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
+4	coke	_	PART	part	Evident=Fh	2	discourse	2:discourse	_
 
 # sent_id = 668
 # text = ayaʔwan nãnin igã
 # text_eng = He really must have left. (Gabas 1999, 219)
 1	ayaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-2	nãnin	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
-3	igã	_	PART	part	Evident=Fh	1	aux	1:aux	_
+2	nãnin	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
+3	igã	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
 
 # sent_id = 669
 # text = péŋ aʔwĩn menə aket
@@ -4984,22 +4984,22 @@
 1	péŋ	_	NOUN	n	_	2	nsubj	2:nsubj	_
 2	aʔwĩn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	3	ccomp	3:ccomp	_
 3	menə	_	PART	part	Evident=Fh	0	root	0:root	_
-4	aket	_	PART	part	Evident=Fh	3	aux	3:aux	_
+4	aket	_	PART	part	Evident=Fh	3	discourse	3:discourse	_
 
 # sent_id = 670
 # text = amãn yat nãnin tə
 # text_eng = They say that the rain will really fall (or: They really say that the rain will fall.) (Gabas 1999, 219)
 1	amãn	_	NOUN	n	_	4	nsubj	4:nsubj	_
 2	yat	_	PART	part	Tense=Fut	4	mark	4:mark	_
-3	nãnin	_	PART	part	Evident=Fh	4	advmod	4:advmod	_
+3	nãnin	_	PART	part	Evident=Fh	4	discourse	4:discourse	_
 4	tə	_	PART	part	Evident=Nfh	0	root	0:root	_
 
 # sent_id = 671
 # text = aʔken pə coke
 # text_eng = Clearly he may have slept. (Gabas 1999, 220)
 1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
-2	pə	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
-3	coke	_	PART	part	Evident=Fh	1	advmod	1:advmod	_
+2	pə	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
+3	coke	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
 
 # sent_id = 672
 # text = kõm co iʔyat ip ʔɨy nãnin menə
@@ -5008,14 +5008,14 @@
 2	co	_	PART	part	Tense=Past	5	mark	5:mark	_
 3	iʔyat	_	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	5:nsubj	_
 4	ip	_	NOUN	n	_	5	obj	5:obj	_
-5	ʔɨy	_	VERB	v	Decl=Assert	7	ccomp	7:ccomp	_
-6	nãnin	_	PART	part	Evident=Fh	7	advmod	7:advmod	_
-7	menə	_	PART	part	Evident=Fh	0	root	0:root	_
+5	ʔɨy	_	VERB	v	Decl=Assert	0	root	0:root	_
+6	nãnin	_	PART	part	Evident=Fh	5	discourse	5:discourse	_
+7	menə	_	PART	part	Evident=Fh	5	discourse	5:discourse	_
 
 # sent_id = 673
 # text = aʔken pə menə
 # text_eng = It is wondered whether he is sleeping. (Gabas 1999, 220)
-1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	3	ccomp	3:ccomp	_
-2	pə	_	PART	part	Evident=Fh	3	advmod	3:advmod	_
-3	menə	_	PART	part	Evident=Fh	0	root	0:root	_
+1	aʔken	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
+2	pə	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
+3	menə	_	PART	part	Evident=Fh	1	discourse	1:discourse	_
 
