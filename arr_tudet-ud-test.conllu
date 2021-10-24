@@ -2105,7 +2105,7 @@
 # sent_id = 298
 # text = tomanẽ mãŋa tə
 # text_eng = him entirely, they say (Gabas 1999, 115)
-1	tomanẽ	_	ADV	adv	Corf=Yes|Person=3	2	advmod	2:advmod	_
+1	tomanẽ	_	NOUN	n	Corf=Yes|Person=3	2	advmod	2:advmod	_
 2	mãŋa	_	VERB	v	VerbForm=Ger	0	root	0:root	_
 3	tə	_	PART	part	Evident=Nfh	2	discourse	2:discourse	_
 
