@@ -306,7 +306,7 @@
 # sent_id = 045
 # text = opía
 # text_eng =  my liver (Gabas 1999, 43)
-1	opía	_	NOUN	n	Number=Sing|Person=1	_	_	_	_
+1	opía	_	NOUN	n	Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 046
 # text = naʔwəy bía
@@ -317,7 +317,7 @@
 # sent_id = 047
 # text = enaká
 # text_eng = your head (Gabas 1999, 43)
-1	enaká	_	NOUN	n	Number=Sing|Person=2	_	_	_	_
+1	enaká	_	NOUN	n	Number=Sing|Person=2	0	root	0:root	_
 
 # sent_id = 048
 # text = wayo naká
@@ -621,11 +621,11 @@
 # sent_id = 090
 # text = õn maʔwɨt at kaʔa toy
 # text_eng = I saw the man's house. (Gabas 1999, 58)
-1	õn	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
-2	maʔwɨt	_	NOUN	n	_	4	nmod	4:nmod	_
-3	at	_	PART	part	_	2	case	2:case	_
-4	kaʔa	_	NOUN	n	_	_	_	_	_
-5	toy	_	VERB	v	Decl=Assert	0	root	0:root	_
+1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	5	nsubj	5:nsubj	_
+2	maʔwɨt	maʔwɨt	NOUN	n	_	4	nmod	4:nmod	_
+3	at	at	PART	part	_	2	nmod	2:nmod	_
+4	kaʔa	kaʔa	NOUN	n	_	5	obj	5:obj	_
+5	toy	top	VERB	v	Decl=Assert	0	root	0:root	_
 
 # sent_id = 091
 # text = cúrem at towirup ʔop
@@ -847,7 +847,7 @@
 # sent_id = 122
 # text = abebeʔtɨra
 # text_eng = I got roasted. (Gabas 1999, 69)
-1	abebeʔtɨra	_	VERB	v	Person=3|VerbForm=Ger|Voice=Pass	0	_	_	_
+1	abebeʔtɨra	_	VERB	v	Person=3|VerbForm=Ger|Voice=Pass	0	root	0:root	_
 
 # sent_id = 123
 # text = abegahmõm nã
@@ -896,12 +896,12 @@
 # sent_id = 130
 # text = oweʔŋen
 # text_eng = Let me sleep. (Gabas 1999, 71)
-1	oweʔŋen	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	_	_	_
+1	oweʔŋen	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 131
 # text = abeʔŋət
 # text_eng = Let him/it walk. (Gabas 1999, 71)
-1	abeʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	_	_	_
+1	abeʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	0:root	_
 
 # sent_id = 132
 # text = naʔwəy beʔŋət
@@ -961,12 +961,12 @@
 # sent_id = 141
 # text = oweʔŋət
 # text_eng = Let me walk. (Gabas 1999, 73)
-1	oweʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	_	_	_	_
+1	oweʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 142
 # text = okət
 # text_eng = I walked. (Gabas 1999, 73)
-1	okət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	_	_	_	_
+1	okət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 
 # sent_id = 143
 # text = õn ip peʔnɨy
@@ -1281,13 +1281,13 @@
 # sent_id = 190
 # text = owirup tẽy kokəy okap ocagəpto cára koãm
 # text_eng = While my food boils I will go wash my dishes too. (Gabas 1999, 88)
-1	owirup	_	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
-2	tẽy	_	VERB	v	Decl=Assert	4	advcl	4:advcl	_
-3	kokəy	_	ADP	adp	Case=Dat|Nomzr=Circ	2	case	2:case	_
-4	okap	kap	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1|Tense=Fut	0	root	0:root	_
-5	ocagəpto	_	NOUN	n	Number=Plur|Person=1	6	obj	6:obj	_
-6	cára	_	VERB	v	VerbForm=Ger	4	dep	4:dep	_
-7	koãm	_	ADV	adv	_	6	advmod	6:advmod	_
+1	owirup	wirup	NOUN	n	Number=Sing|Person=1	2	nsubj	2:nsubj	_
+2	tẽy	tẽp	VERB	v	Decl=Assert	0	root	0:root	_
+3	kokəy	kəy	ADP	adp	Case=Dat|Nomzr=Circ	2	obl	2:obl	_
+4	okap	kap	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1|Tense=Fut	2	aux	2:aux	_
+5	ocagəpto	cagəp	NOUN	n	Number=Plur|Person=1	6	obj	6:obj	_
+6	cára	cát	VERB	v	VerbForm=Ger	2	xcomp	2:xcomp	_
+7	koãm	koãm	ADV	adv	_	6	advmod	6:advmod	_
 
 # sent_id = 191
 # text = matet kokoãm ocagəptoʔ ʔet toyawɨga
@@ -1562,10 +1562,10 @@
 # sent_id = 228
 # text = maʔwɨr yet mãygãra roba
 # text_eng = (It was) the man (who) saw the snake. (Gabas 1999, 98)
-1	maʔwɨr	_	NOUN	n	_	5	nsubj	5:nsubj	_
-2	yet	_	AUX	aux	Decl=Assert|Person=3Imp	_	_	_	_
-3	mãygãra	_	NOUN	n	_	5	obj	5:obj	_
-4	roba	_	VERB	v	VerbForm=Ger	_	_	_	_
+1	maʔwɨr	maʔwɨt	NOUN	n	_	0	root	0:root	_
+2	yet	ʔe	AUX	aux	Decl=Assert|Person=3Imp	1	aux	1:aux	_
+3	mãygãra	mãygãra	NOUN	n	_	4	obj	4:obj	_
+4	roba	top	VERB	v	VerbForm=Ger	1	xcomp	1:xcomp	_
 
 # sent_id = 229
 # text = maʔpəy bat yet opɨya
@@ -3163,10 +3163,10 @@
 # sent_id = 433
 # text = oyaʔwan nyar aʔtoy iga
 # text_eng = I will leave to see him/it (Gabas 1999, 144)
-1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
-2	nyar	_	PART	part	Tense=Fut	1	mark	1:mark	_
-3	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	1	xcomp	1:xcomp	_
-4	iga	_	_	_	_	_	_	_	_
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
+2	nyar	yat	PART	part	Tense=Fut	1	dep	1:dep	_
+3	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	1	xcomp	1:xcomp	_
+4	iga	iga	PART	part	_	1	dep	1:dep	_
 
 # sent_id = 434
 # text = oken iʔke
