@@ -1899,7 +1899,7 @@
 4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	3:clf	_
 5	kət	_	VERB	v	Decl=Assert	0	root	0:root	_
 6	cagáro	_	NUM	num	_	3	nummod	3:nummod	_
-7	kõmnem	_	X	x	_	5	advmod	5:advmod	_
+7	kõmnem	_	X	x	_	5	dep	5:dep	_
 
 # sent_id = 271
 # text = at toat makãri rakət
@@ -1943,14 +1943,14 @@
 # text = maʔwɨt at tágɨp
 # text_eng = man's bow (Gabas 1999, 110)
 1	maʔwɨt	_	NOUN	n	_	3	nmod	3:nmod	_
-2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
+2	at	_	PRON	pron	PronType=Prs	1	nmod	1:nmod	_
 3	tágɨp	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 277
 # text = agóaʔpət at kaʔa ʔaʔ
 # text_eng = shaman's house (Gabas 1999, 110)
 1	agóaʔpət	_	NOUN	n	_	3	nmod	3:nmod	_
-2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
+2	at	_	PRON	pron	PronType=Prs	1	nmod	1:nmod	_
 3	kaʔa	_	NOUN	n	_	0	root	0:root	_
 4	ʔaʔ	_	PART	part	_	3	clf	3:clf	_
 
@@ -1958,7 +1958,7 @@
 # text = maʔpəy at manikap
 # text_eng = woman's hammock (Gabas 1999, 110)
 1	maʔpəy	_	NOUN	n	_	3	nmod	3:nmod	_
-2	at	_	PRON	pron	PronType=Prs	1	case	1:case	_
+2	at	_	PRON	pron	PronType=Prs	1	nmod	1:nmod	_
 3	manikap	_	NOUN	n	_	0	root	0:root	_
 
 # sent_id = 279
@@ -2011,7 +2011,7 @@
 # text = ite at owẽ nakɨra cop
 # text_eng = the dirt of the ear of my uncle's child (Gabas 1999, 112)
 1	ite	_	NOUN	n	_	3	nmod	3:nmod	_
-2	at	_	PRON	pron	_	1	case	1:case	_
+2	at	_	PRON	pron	_	1	nmod	1:nmod	_
 3	owẽ	_	NOUN	n	_	4	nmod	4:nmod	_
 4	nakɨra	_	NOUN	n	_	5	nmod	5:nmod	_
 5	cop	_	NOUN	n	_	0	root	0:root	_
@@ -2088,10 +2088,10 @@
 # text = pagon nóptem nakõm nap tə
 # text_eng = three kids, they say (Gabas 1999, 115)
 1	pagon	_	NUM	num	_	3	nummod	3:nummod	_
-2	nóptem	_	X	x	_	3	advmod	3:advmod	_
+2	nóptem	_	X	x	_	3	dep	3:dep	_
 3	nakõm	_	NOUN	n	_	0	root	0:root	_
-4	nap	_	PART	part	_	3	case	3:case	_
-5	tə	_	PART	part	Evident=Nfh	3	mark	3:mark	_
+4	nap	_	PART	part	_	3	nmod	3:nmod	_
+5	tə	_	PART	part	Evident=Nfh	3	discourse	3:discourse	_
 
 # sent_id = 297
 # text = məy péŋ ʔet kohmãy ʔerem tokəga
