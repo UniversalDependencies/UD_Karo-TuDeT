@@ -476,7 +476,7 @@
 # text = maʔpəy aʔtoy ʔĩttem
 # text_eng = The woman saw him/it briefly. (Gabas 1999, 49)
 1	maʔpəy	_	NOUN	n	_	2	nsubj	2:nsubj	_
-2	aʔtoy	_	VERB	v	Number=Sing|Decl=Assert|Person=3	0	root	0:root	_
+2	aʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	0:root	_
 3	ʔĩttem	_	ADV	adv	_	2	advmod	2:advmod	_
 
 # sent_id = 072
