@@ -235,7 +235,7 @@
 
 # sent_id = 036
 # text = nãn bihmãm ekerap
-# text_ eng = With whom did you sleep? (Gabas 1999, 40)
+# text_eng = With whom did you sleep? (Gabas 1999, 40)
 1	nãn	nã	AUX	aux	Int=Yes	3	obl	3:obl	_
 2	bihmãm	mãm	ADP	adp	Case=Com	1	case	1:case	_
 3	ekerap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	0:root	_
@@ -993,12 +993,12 @@
 
 # sent_id = 147
 # text = kaʔaroʔ
-# text_ eng = houses (Gabas 1999, 74)
+# text_eng = houses (Gabas 1999, 74)
 1	kaʔaroʔ	_	NOUN	n	Number=Plur	0	root	0:root	_
 
 # sent_id = 148
 # text = kaʔa ʔaʔtoʔ
-# text_ eng= houses (Gabas 1999, 74)
+# text_eng= houses (Gabas 1999, 74)
 1	kaʔa	_	NOUN	n	_	0	root	0:root	_
 2	ʔaʔtoʔ	_	ADJ	adj	Clas=Rd|Number=Plur	1	clf	1:clf	_
 
