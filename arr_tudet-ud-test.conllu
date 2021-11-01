@@ -69,7 +69,7 @@
 # sent_id = 011
 # text = oyakõy bãttem
 # text_eng = I dove beautifully (Gabas 1999, 26)
-1	oyakõp	yakõp	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
+1	oyakõy	yakõp	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	0:root	_
 2	bãttem	pãt	ADV	adv	_	1	advmod	1:advmod	_
 
 # sent_id = 012
