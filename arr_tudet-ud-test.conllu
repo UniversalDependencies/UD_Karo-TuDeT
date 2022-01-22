@@ -583,16 +583,16 @@
 # sent_id = 085
 # text = cúrem at tokõna
 # text_eng = He is big. (Gabas 1999, 56)
-1	cúrem	_	ADV	adv	_	2	advmod	_	_
+1	cúrem	cú	ADV	adv	_	2	advmod	_	_
 2	at	at	PRON	pron	Number=Sing|Person=3	0	root	_	_
-3	tokõna	_	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	_	_
+3	tokõna	kõna	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	_	_
 
 # sent_id = 086
 # text = caropaptem gaʔto garo=kõna
 # text_eng = You (PL.) are sad. (Gabas 1999, 56)
-1	caropaptem	_	ADJ	adj	_	0	root	_	_
-2	gaʔto	_	PRON	pron	Number=Plur|Person=2	1	nsubj	_	_
-3	garo=kõna	_	ADP	adp	Number=Plur|Person=2|PronType=Emp	2	clf	_	_
+1	caropaptem	caropap	ADJ	adj	_	0	root	_	_
+2	gaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	1	nsubj	_	_
+3	garo=kõna	kõna	ADP	adp	Number=Plur|Person=2|PronType=Emp	2	clf	_	_
 
 # sent_id = 087
 # text = õn mãygãra wĩn təgana peʔ
@@ -600,22 +600,22 @@
 1	õn	õn	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	mãygãra	mãygãra	NOUN	n	_	3	obj	_	_
 3	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
-4	təgana	_	ADV	_	_	3	obl	_	_
-5	peʔ	_	ADP	_	Case=Loc	3	case	_	_
+4	təgana	təgana	ADV	_	_	3	obl	_	_
+5	peʔ	peʔ	ADP	_	Case=Loc	3	case	_	_
 
 # sent_id = 088
 # text = at towirup ʔot cúrem
 # text_eng = He ate his own food a lot. (Gabas 1999, 57)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-2	towirup	_	NOUN	n	_	3	obj	_	_
-3	ʔot	_	VERB	v	Decl=Assert	0	root	_	_
-4	cúrem	_	ADV	adv	_	3	advmod	_	_
+2	towirup	wirup	NOUN	n	_	3	obj	_	_
+3	ʔot	ʔo	VERB	v	Decl=Assert	0	root	_	_
+4	cúrem	cú	ADV	adv	_	3	advmod	_	_
 
 # sent_id = 089
 # text = oyaʔwan át mãm
 # text_eng = I left during the day. (Gabas 1999, 58)
-1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	át	_	NOUN	n	_	1	obl	_	_
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	át	át	NOUN	n	_	1	obl	_	_
 3	mãm	mãm	PART	part	_	1	discourse	_	_
 
 # sent_id = 090
@@ -630,169 +630,169 @@
 # sent_id = 091
 # text = cúrem at towirup ʔop
 # text_eng = A lot, he ate his own food.(Gabas 1999, 60)
-1	cúrem	_	ADV	adv	_	4	obl	_	_
+1	cúrem	cú	ADV	adv	_	4	obl	_	_
 2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-3	towirup	_	NOUN	n	Corf=Yes|Person=3	4	obj	_	_
-4	ʔop	_	VERB	v	Decl=AssertFoc	0	root	_	_
+3	towirup	wirup	NOUN	n	Corf=Yes|Person=3	4	obj	_	_
+4	ʔop	ʔo	VERB	v	Decl=AssertFoc	0	root	_	_
 
 # sent_id = 092
 # text = át mãm oyaʔwarap
 # text_eng = During the day I left (Gabas 1999, 60)
-1	át	_	NOUN	n	_	3	obl	_	_
+1	át	át	NOUN	n	_	3	obl	_	_
 2	mãm	mãm	PART	part	_	3	discourse	_	_
-3	oyaʔwarap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=1	0	root	_	_
+3	oyaʔwarap	yaʔwat	VERB	v	Decl=AssertFoc|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 093
 # text = maʔwɨt at kaʔa õn itop
 # text_eng = It was the white man's house what I saw. (Gabas 1999, 60)
-1	maʔwɨt	_	NOUN	n	_	3	nmod	_	_
+1	maʔwɨt	maʔwɨt	NOUN	n	_	3	nmod	_	_
 2	at	at	PART	part	_	1	case	_	_
-3	kaʔa	_	NOUN	n	_	0	root	_	_
+3	kaʔa	kaʔa	NOUN	n	_	0	root	_	_
 4	õn	õn	PART	part	Number=Sing|Person=1|PronType=Prs	5	nsubj	_	_
-5	itop	_	VERB	v	Decl=AssertFoc|Person=3Imp	3	ccomp	_	_
+5	itop	top	VERB	v	Decl=AssertFoc|Person=3Imp	3	ccomp	_	_
 
 # sent_id = 094
 # text = təgana peʔ õn mãygãra wĩm
 # text_eng = It was there that I killed the snake. (Gabas 1999, 60)
-1	təgana	_	ADV	adv	_	5	advmod	_	_
-2	peʔ	_	ADP	adp	Case=Loc	5	case	_	_
+1	təgana	təgana	ADV	adv	_	5	advmod	_	_
+2	peʔ	peʔ	ADP	adp	Case=Loc	5	case	_	_
 3	õn	õn	PRON	pron	Number=Sing|Person=1	5	nsubj	_	_
 4	mãygãra	mãygãra	NOUN	n	_	5	obj	_	_
-5	wĩm	_	VERB	v	Decl=AssertFoc	0	root	_	_
+5	wĩm	wĩ	VERB	v	Decl=AssertFoc	0	root	_	_
 
 # sent_id = 095
 # text = o=ker-a kanã
 # text_eng = My place to sleep (Gabas 1999, 62)
-1	o=ker-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
-2	kanã	_	PART	part	Nomzr=Circ	1	mark	_	_
+1	o=ker-a	ket	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+2	kanã	kanã	PART	part	Nomzr=Circ	1	mark	_	_
 
 # sent_id = 096
 # text = õn amaken
 # text_eng = I made it/him sleep. (Gabas 1999, 63)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	amaken	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+2	amaken	ket	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
 
 # sent_id = 097
 # text = et owã emakət
 # text_eng = Your mother made you walk. (Gabas 1999, 63)
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-2	owã	_	NOUN	n	_	3	nsubj	_	_
-3	emakət	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+1	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+2	owã	owã	NOUN	n	_	3	nsubj	_	_
+3	emakət	kə	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
 
 # sent_id = 098
 # text = ŋa omacopɨn
 # text_eng = She made me be fat. (Gabas 1999, 63)
 1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	omacopɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=1|Voice=Cau	0	root	_	_
+2	omacopɨn	copɨt	VERB	v	Decl=Assert|Number=Sing|Person=1|Voice=Cau	0	root	_	_
 
 # sent_id = 099
 # text = at amabaraʔkət
 # text_eng = He made it/him come back. (Gabas 1999, 64)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	amabaraʔkət	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	amabaraʔkət	paraʔkə	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 100
 # text = õn emaberopit ŋakəy
 # text_eng = I made you pinch her. (Gabas 1999, 64)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	emaberopit	_	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
-3	ŋakəy	_	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	_	_
+2	emaberopit	peropi	VERB	v	Decl=Assert|Number=Sing|Person=2|Voice=Cau	0	root	_	_
+3	ŋakəy	ŋa	PRON	pron	Case=Dat|Clas=Fem|Number=Sing|Person=3	2	obj	_	_
 
 # sent_id = 101
 # text = agóaʔpət amagahmõm nãn
 # text_eng = The shaman made him/it calm down. (Gabas 1999, 64)
 1	agóaʔpət	agóaʔpət	NOUN	n	_	2	nsubj	_	_
-2	amagahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	amagahmõm	kahmõm	VERB	v	Number=Sing|Person=3|Voice=Cau	0	root	_	_
 3	nãn	nã	AUX	aux	Decl=Assert	2	cop	_	_
 
 # sent_id = 102
 # text = õn amapəri
 # text_eng = I emptied it. (Gabas 1999, 64)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	amapəri	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	amapəri	pərəp	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 103
 # text = at amati
 # text_eng = He made him/it come (Gabas 1999, 64)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	amati	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	amati	ti	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 104
 # text = õn amaken
 # text_eng = I put him/it to sleep. (Gabas 1999, 65)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	amaken	_	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
+2	amaken	ket	VERB	v	Decl=Assert|Number=Sing|Person=3|Voice=Cau	0	root	_	_
 
 # sent_id = 105
 # text = wat owã orakət
 # text_eng = My mother made me walk, walking with me. (Gabas 1999, 65)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	owã	_	NOUN	n	_	3	nsubj	_	_
-3	orakət	_	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	owã	owã	NOUN	n	_	3	nsubj	_	_
+3	orakət	kə	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 106
 # text = õn wat awe rabitẽy
 # text_eng = I made my brother cross, crossing with him. (Gabas 1999, 65)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
-3	awe	_	NOUN	n	_	4	obj	_	_
-4	rabitẽy	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+3	awe	awe	NOUN	n	_	4	obj	_	_
+4	rabitẽy	bitẽp	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 107
 # text = ŋa toat owẽ tanogat
 # text_eng = She fed her baby, eating with it. (Gabas 1999, 65)
 1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	toat	_	PRON	pron	Corf=Yes|Person=3	3	nmod	_	_
-3	owẽ	_	NOUN	n	_	4	obj	_	_
-4	tanogat	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+2	toat	toat	PRON	pron	Corf=Yes|Person=3	3	nmod	_	_
+3	owẽ	owẽ	NOUN	n	_	4	obj	_	_
+4	tanogat	noga	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 108
 # text = õn wat owẽ raken
 # text_eng = I put my baby to sleep, sleeping with it. (Gabas 1999, 66)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
-3	owẽ	_	NOUN	n	_	4	obj	_	_
-4	raken	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+3	owẽ	owẽ	NOUN	n	_	4	obj	_	_
+4	raken	ket	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 109
 # text = õn aʔ=rati
 # text_eng = I brought him/it. (Gabas 1999, 66)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	aʔ=rati	_	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔ=rati	ti	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 110
 # text = ẽn yaw rati
 # text_eng = You brought the ray. (Gabas 1999, 66)
 1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nsubj	_	_
 2	yaw	yaw	NOUN	n	_	3	obj	_	_
-3	rati	rati	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+3	rati	ti	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 111
 # text = at mɨrɨrɨy ramoy
 # text_eng = He dove with the toad. (Gabas 1999, 66)
 1	at	at	PRON	pron	Number=Sing|Person=3	3	nsubj	_	_
-2	mɨrɨrɨy	_	NOUN	n	_	3	obj	_	_
-3	ramoy	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+2	mɨrɨrɨy	mɨrɨrɨy	NOUN	n	_	3	obj	_	_
+3	ramoy	mop	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 112
 # text = agóaʔpət et iyõm nakõy
 # text_eng = The shaman warmed your father (warming himself). (Gabas 1999, 66)
 1	agóaʔpət	agóaʔpət	NOUN	n	_	4	nsubj	_	_
-2	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
+2	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	3	nmod	_	_
 3	iyõm	iyõm	NOUN	n	_	4	obj	_	_
-4	nakõy	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+4	nakõy	kõp	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 113
 # text = cãn nakəga
 # text_eng = Walk the cat! (Gabas 1999, 67)
-1	cãn	_	NOUN	n	_	2	obj	_	_
-2	nakəga	_	VERB	v	Case=Com|VerbForm=Ger	0	root	_	_
+1	cãn	cãn	NOUN	n	_	2	obj	_	_
+2	nakəga	kək	VERB	v	Case=Com|VerbForm=Ger	0	root	_	_
 
 # sent_id = 114
 # text = ʔiriŋ nakəga
 # text_eng = Walk the (little) girl! (Gabas 1999, 67)
 1	ʔiriŋ	ʔiriŋ	NOUN	n	_	2	obj	_	_
-2	nakəga	_	VERB	v	Case=Com|VerbForm=Ger	0	root	_	_
+2	nakəga	kək	VERB	v	Case=Com|VerbForm=Ger	0	root	_	_
 
 # sent_id = 115
 # text = wat awe orabitẽy
@@ -806,21 +806,21 @@
 # text_eng = She calmed her child and calmed down herself. (Gabas 1999, 67)
 1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	toat	toat	PRON	pron	Corf=Yes|Person=3	3	nmod	_	_
-3	owẽ	_	NOUN	n	_	4	obj	_	_
+3	owẽ	owẽ	NOUN	n	_	4	obj	_	_
 4	ragahmõm	kahmõm	VERB	v	Case=Com	0	root	_	_
 5	nãn	nã	AUX	aux	Decl=Assert	4	cop	_	_
 
 # sent_id = 117
 # text = oyãy bemeŋãn
 # text_eng = My tooth got dirty. (Gabas 1999, 68)
-1	oyãy	_	NOUN	n	Number=Sing|Person=1	2	nsubj	_	_
-2	bemeŋãn	_	VERB	v	Decl=Assert|Voice=Pass	0	root	_	_
+1	oyãy	yãy	NOUN	n	Number=Sing|Person=1	2	nsubj	_	_
+2	bemeŋãn	meŋã	VERB	v	Decl=Assert|Voice=Pass	0	root	_	_
 
 # sent_id = 118
 # text = taykit yawbe bewĩa
 # text_eng = Isn't the ray going to get killed? (Gabas 1999, 68)
-1	taykit	_	PART	part	Polarity=Neg	3	advmod	_	_
-2	yawbe	_	NOUN	n	Clas=Flat	3	nsubj	_	_
+1	taykit	taykit	PART	part	Polarity=Neg	3	advmod	_	_
+2	yawbe	yaw	NOUN	n	Clas=Flat	3	nsubj	_	_
 3	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 119
