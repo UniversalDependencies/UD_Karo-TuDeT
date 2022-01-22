@@ -588,11 +588,11 @@
 3	tokõna	kõna	ADP	adp	Corf=Yes|Person=3|PronType=Emp	2	case	_	_
 
 # sent_id = 086
-# text = caropaptem gaʔto garo=kõna
+# text = caropaptem gaʔto garokõna
 # text_eng = You (PL.) are sad. (Gabas 1999, 56)
 1	caropaptem	caropap	ADJ	adj	_	0	root	_	_
 2	gaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	1	nsubj	_	_
-3	garo=kõna	kõna	ADP	adp	Number=Plur|Person=2|PronType=Emp	2	clf	_	_
+3	garokõna	kõna	ADP	adp	Number=Plur|Person=2|PronType=Emp	2	clf	_	_
 
 # sent_id = 087
 # text = õn mãygãra wĩn təgana peʔ
@@ -661,9 +661,9 @@
 5	wĩm	wĩ	VERB	v	Decl=AssertFoc	0	root	_	_
 
 # sent_id = 095
-# text = o=ker-a kanã
+# text = okera kanã
 # text_eng = My place to sleep (Gabas 1999, 62)
-1	o=ker-a	ket	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+1	okera	ket	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 2	kanã	kanã	PART	part	Nomzr=Circ	1	mark	_	_
 
 # sent_id = 096
@@ -755,10 +755,10 @@
 4	raken	ket	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 
 # sent_id = 109
-# text = õn aʔ=rati
+# text = õn aʔrati
 # text_eng = I brought him/it. (Gabas 1999, 66)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	aʔ=rati	ti	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔrati	ti	VERB	v	Case=Com|Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 110
 # text = ẽn yaw rati
@@ -822,70 +822,70 @@
 1	taykit	taykit	PART	part	Polarity=Neg	4	advmod	_	_
 2	yaw	yaw	NOUN	n	_	4	nsubj	_	_
 3	be	peʔ	NOUN	n	Clas=Flat	4	nsubj	_	_
-4	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
+4	bewĩa	wĩ	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 119
 # text = taykit aʔi bekɨga
 # text_eng = Did the sloth get caught? (Gabas 1999, 68)
-1	taykit	_	PART	part	Polarity=Neg	3	advmod	_	_
-2	aʔi	_	NOUN	n	_	3	nsubj	_	_
-3	bekɨga	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
+1	taykit	taykit	PART	part	Polarity=Neg	3	advmod	_	_
+2	aʔi	aʔi	NOUN	n	_	3	nsubj	_	_
+3	bekɨga	kɨk	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 120
 # text = boi ʔet towaʔpara towewĩ-a
 # text_eng = The ox fell and got killed. (Gabas 1999, 68)
-1	boi	_	NOUN	n	_	3	nsubj	_	_
-2	ʔet	_	AUX	aux	Decl=Assert	3	aux	_	_
-3	towaʔpara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
-4	towewĩ-a	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger|Voice=Pass	3	conj	_	_
+1	boi	boi	NOUN	n	_	3	nsubj	_	_
+2	ʔet	ʔe	AUX	aux	Decl=Assert	3	aux	_	_
+3	towaʔpara	paʔpat	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+4	towewĩ-a	wĩ	VERB	v	Corf=Yes|Person=3|VerbForm=Ger|Voice=Pass	3	conj	_	_
 
 # sent_id = 121
 # text = cĩm memaʔwaba
 # text_eng = The meat got fried. (Gabas 1999, 69)
-1	cĩm	_	NOUN	n	_	2	nsubj	_	_
-2	memaʔwaba	_	VERB	v	VerbForm=Ger|Voice=Pass	0	root	_	_
+1	cĩm	cĩm	NOUN	n	_	2	nsubj	_	_
+2	memaʔwaba	maʔwap	VERB	v	VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 122
 # text = abebeʔtɨra
 # text_eng = I got roasted. (Gabas 1999, 69)
-1	abebeʔtɨra	_	VERB	v	Person=3|VerbForm=Ger|Voice=Pass	0	root	_	_
+1	abebeʔtɨra	peʔtɨt	VERB	v	Person=3|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 123
 # text = abegahmõm nã
 # text_eng = It got quiet/calmed down. (Gabas 1999, 69)
-1	abegahmõm	_	VERB	v	Number=Sing|Person=3|Voice=Pass	0	root	_	_
-2	nã	_	AUX	aux	VerbForm=Ger	1	cop	_	_
+1	abegahmõm	kahmõm	VERB	v	Number=Sing|Person=3|Voice=Pass	0	root	_	_
+2	nã	nã	AUX	aux	VerbForm=Ger	1	cop	_	_
 
 # sent_id = 124
 # text = õn omãmnoy
 # text_eng = I saw myself. (Gabas 1999, 69)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	omãmnoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1|Reflex=Yes	0	root	_	_
+2	omãmnoy	top	VERB	v	Decl=Assert|Number=Sing|Person=1|Reflex=Yes	0	root	_	_
 
 # sent_id = 125
 # text = at tomãmwĩn
 # text_eng = He killed him/itself. (Gabas 1999, 70)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	tomãmwĩn	_	VERB	v	Corf=Yes|Decl=Assert|Person=3|Reflex=Yes	0	root	_	_
+2	tomãmwĩn	wĩ	VERB	v	Corf=Yes|Decl=Assert|Person=3|Reflex=Yes	0	root	_	_
 
 # sent_id = 126
 # text = owakán omãmkəy
 # text_eng = I am angry at myself. (Gabas 1999, 70)
-1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	omãmkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1|Reflex=Yes	1	obl	_	_
+1	owakán	waká	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	omãmkəy	mãm	ADP	adp	Case=Dat|Number=Sing|Person=1|Reflex=Yes	1	obl	_	_
 
 # sent_id = 127
 # text = aʔwero wɨy tomãmkəy
 # text_eng = He spoke to himself. (Gabas 1999, 70)
-1	aʔwero	_	VERB	v	Number=Sing|Person=3	0	root	_	_
-2	wɨy	wɨy	VERB	v	Decl=Assert	1	clf	_	_
-3	tomãmkəy	_	ADP	adp	Case=Dat|Corf=Yes|Person=3|Reflex=Yes	1	obl	_	_
+1	aʔwero	wero	VERB	v	Number=Sing|Person=3	0	root	_	_
+2	wɨy	wɨ	VERB	v	Decl=Assert	1	clf	_	_
+3	tomãmkəy	mãm	ADP	adp	Case=Dat|Corf=Yes|Person=3|Reflex=Yes	1	obl	_	_
 
 # sent_id = 128
 # text = tap toroyapít
 # text_eng = They killed each other. (Gabas 1999, 70)
 1	tap	tap	PRON	pron	Number=Plur|Person=3|PronType=Prs	2	nsubj	_	_
-2	toroyapít	_	VERB	v	Decl=Assert|Person=3	0	root	_	_
+2	toroyapít	yapí	VERB	v	Decl=Assert|Person=3	0	root	_	_
 
 # sent_id = 129
 # text = kaʔto karorocapét ahyə
@@ -897,60 +897,60 @@
 # sent_id = 130
 # text = oweʔŋen
 # text_eng = Let me sleep. (Gabas 1999, 71)
-1	oweʔŋen	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	root	_	_
+1	oweʔŋen	ket	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 131
 # text = abeʔŋət
 # text_eng = Let him/it walk. (Gabas 1999, 71)
-1	abeʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
+1	abeʔŋət	kə	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 132
 # text = naʔwəy beʔŋət
 # text_eng = Let the monkey walk (free)! (Gabas 1999, 72)
-1	naʔwəy	_	NOUN	n	_	2	obj	_	_
-2	beʔŋət	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+1	naʔwəy	naʔwəy	NOUN	n	_	2	obj	_	_
+2	beʔŋət	ŋə	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
 
 # sent_id = 133
 # text = inãw beʔnogat
 # text_eng = Let the curassow eat! (Gabas 1999, 72)
 1	inãw	inãw	NOUN	n	_	2	obj	_	_
-2	beʔnogat	_	VERB	_	Decl=Assert|Mood=Opt	0	root	_	_
+2	beʔnogat	noga	VERB	_	Decl=Assert|Mood=Opt	0	root	_	_
 
 # sent_id = 134
 # text = kãram meʔnẽy
 # text_eng = Let the hummingbird fly! (Gabas 1999, 72)
-1	kãram	_	NOUN	n	_	2	obj	_	_
-2	meʔnẽy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+1	kãram	kãram	NOUN	n	_	2	obj	_	_
+2	meʔnẽy	tẽp	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
 
 # sent_id = 135
 # text = cãn meʔŋen
 # text_eng = Let the cat sleep! (Gabas 1999, 72)
-1	cãn	_	NOUN	n	_	2	obj	_	_
-2	meʔŋen	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+1	cãn	cãn	NOUN	n	_	2	obj	_	_
+2	meʔŋen	ket	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
 
 # sent_id = 136
 # text = tĩŋ meʔŋət
 # text_eng = Let the worm go (free)! (Gabas 1999, 72)
-1	tĩŋ	_	NOUN	n	_	2	obj	_	_
-2	meʔŋət	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+1	tĩŋ	tĩŋ	NOUN	n	_	2	obj	_	_
+2	meʔŋət	kə	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
 
 # sent_id = 137
 # text = õn abeʔmẽn
 # text_eng = Let me step on it/me. (Gabas 1999, 73)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	abeʔmẽn	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
+2	abeʔmẽn	pẽ	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 138
 # text = õn aʔpẽn
 # text_eng = I stepped on it/him. (Gabas 1999, 73)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	aʔpẽn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔpẽn	pẽ	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 139
 # text = õn abeʔnoy
 # text_eng = Let me see it/him. (Gabas 1999, 73)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	abeʔnoy	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
+2	abeʔnoy	top	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 140
 # text = õn aʔtoy
@@ -961,86 +961,86 @@
 # sent_id = 141
 # text = oweʔŋət
 # text_eng = Let me walk. (Gabas 1999, 73)
-1	oweʔŋət	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	root	_	_
+1	oweʔŋət	kə	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 142
 # text = okət
 # text_eng = I walked. (Gabas 1999, 73)
-1	okət	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+1	okət	kə	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 143
 # text = õn ip peʔnɨy
 # text_eng= Let me catch a/the fish. (Gabas 1999, 73)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	ip	_	NOUN	n	_	3	obj	_	_
-3	peʔnɨy	_	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
+2	ip	ip	NOUN	n	_	3	obj	_	_
+3	peʔnɨy	nɨy	VERB	v	Decl=Assert|Mood=Opt	0	root	_	_
 
 # sent_id = 144
 # text = õn ip ʔɨy
 # text_eng= I caught a/the fish. (Gabas 1999, 73)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	ip	_	NOUN	n	_	3	obj	_	_
+2	ip	ip	NOUN	n	_	3	obj	_	_
 3	ʔɨy	ʔɨy	VERB	v	Decl=Assert	0	root	_	_
 
 # sent_id = 145
 # text = abeʔnan
 # text_eng= Let it/him fall. (Gabas 1999, 74)
-1	abeʔnan	_	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
+1	abeʔnan	ʔat	VERB	v	Decl=Assert|Mood=Opt|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 146
 # text = aʔan
 # text_eng= It/he fell. (Gabas 1999, 74)
-1	aʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+1	aʔan	ʔat	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 147
 # text = kaʔaroʔ
 # text_eng = houses (Gabas 1999, 74)
-1	kaʔaroʔ	_	NOUN	n	Number=Plur	0	root	_	_
+1	kaʔaroʔ	kaʔa	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 148
 # text = kaʔa ʔaʔtoʔ
 # text_eng= houses (Gabas 1999, 74)
-1	kaʔa	_	NOUN	n	_	0	root	_	_
-2	ʔaʔtoʔ	_	ADJ	adj	Clas=Rd|Number=Plur	1	clf	_	_
+1	kaʔa	kaʔa	NOUN	n	_	0	root	_	_
+2	ʔaʔtoʔ	toʔ	ADJ	adj	Clas=Rd|Number=Plur	1	clf	_	_
 
 # sent_id = 149
 # text = wat kaʔa ʔa pɨk=toʔ
 # text_eng= the rest of my houses (Gabas 1999, 75)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	kaʔa	_	NOUN	n	_	4	nmod	_	_
-3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
-4	pɨk=toʔ	_	NOUN	n	Number=Plur	0	root	_	_
+2	kaʔa	kaʔa	NOUN	n	_	4	nmod	_	_
+3	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	2	clf	_	_
+4	pɨk=toʔ	pɨk	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 150
 # text = inakároʔ
 # text_eng= heads (Gabas 1999, 75)
-1	inakároʔ	_	NOUN	n	Number=Plur|Person=3Imp	0	root	_	_
+1	inakároʔ	naká	NOUN	n	Number=Plur|Person=3Imp	0	root	_	_
 
 # sent_id = 151
 # text = inãwroʔ
 # text_eng= curassows (Gabas 1999, 75)
-1	inãwroʔ	_	NOUN	n	Number=Plur	0	root	_	_
+1	inãwroʔ	inãw	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 152
 # text = wat naʔwəyroʔ
 # text_eng= my monkeys (Gabas 1999, 75)
 1	wat	wat	PRON	pron	Number=Plur|Person=1|PronType=Prs	2	nmod	_	_
-2	naʔwəyroʔ	_	NOUN	n	Number=Plur	0	root	_	_
+2	naʔwəyroʔ	naʔwəy	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 153
 # text = karamnoʔ
 # text_eng = hummingirds (Gabas 1999, 75)
-1	karamnoʔ	_	NOUN	n	Number=Plur	0	root	_	_
+1	káramnoʔ	káram	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 154
 # text = cibekonnoʔ
 # text_eng = vultures (Gabas 1999, 76)
-1	cibekonnoʔ	_	NOUN	n	Number=Plur	0	root	_	_
+1	cibekonnoʔ	cibekon	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 155
 # text = tuŋnoʔ
 # text_eng = mortars (Gabas 1999, 76)
-1	tuŋnoʔ	_	NOUN	n	Number=Plur	0	root	_	_
+1	tuŋnoʔ	tuŋ	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 156
 # text = piro
