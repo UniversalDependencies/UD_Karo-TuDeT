@@ -817,11 +817,12 @@
 2	bemeŋãn	meŋã	VERB	v	Decl=Assert|Voice=Pass	0	root	_	_
 
 # sent_id = 118
-# text = taykit yawbe bewĩa
+# text = taykit yaw be bewĩa
 # text_eng = Isn't the ray going to get killed? (Gabas 1999, 68)
-1	taykit	taykit	PART	part	Polarity=Neg	3	advmod	_	_
-2	yawbe	yaw	NOUN	n	Clas=Flat	3	nsubj	_	_
-3	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
+1	taykit	taykit	PART	part	Polarity=Neg	4	advmod	_	_
+2	yaw	yaw	NOUN	n	_	4	nsubj	_	_
+3	be	peʔ	NOUN	n	Clas=Flat	4	nsubj	_	_
+4	bewĩa	_	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 119
 # text = taykit aʔi bekɨga
