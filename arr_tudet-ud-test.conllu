@@ -832,12 +832,12 @@
 3	bekɨga	kɨk	VERB	v	Person=0|VerbForm=Ger|Voice=Pass	0	root	_	_
 
 # sent_id = 120
-# text = boi ʔet towaʔpara towewĩ-a
+# text = boi ʔet towaʔpara towewĩa
 # text_eng = The ox fell and got killed. (Gabas 1999, 68)
 1	boi	boi	NOUN	n	_	3	nsubj	_	_
 2	ʔet	ʔe	AUX	aux	Decl=Assert	3	aux	_	_
 3	towaʔpara	paʔpat	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
-4	towewĩ-a	wĩ	VERB	v	Corf=Yes|Person=3|VerbForm=Ger|Voice=Pass	3	conj	_	_
+4	towewĩa	wĩ	VERB	v	Corf=Yes|Person=3|VerbForm=Ger|Voice=Pass	3	conj	_	_
 
 # sent_id = 121
 # text = cĩm memaʔwaba
@@ -1045,92 +1045,92 @@
 # sent_id = 156
 # text = piro
 # text_eng= feet (Gabas 1999, 76)
-1	piro	_	NOUN	n	Number=Plur	0	root	_	_
+1	piro	pi	NOUN	n	Number=Plur	0	root	_	_
 
 # sent_id = 157
 # text = piro cú
 # text_eng= big feet (Gabas 1999, 76)
-1	piro	_	NOUN	n	Number=Plur	0	root	_	_
-2	cú	_	ADJ	adj	_	1	amod	_	_
+1	piro	pi	NOUN	n	Number=Plur	0	root	_	_
+2	cú	cú	ADJ	adj	_	1	amod	_	_
 
 # sent_id = 158
 # text = oken cúrem
 # text_eng= I slept a lot. (Gabas 1999, 77)
 1	oken	ket	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	cúrem	_	ADV	adv	_	1	advmod	_	_
+2	cúrem	cú	ADV	adv	_	1	advmod	_	_
 
 # sent_id = 159
 # text = cúrem wep okera
 # text_eng= I slept a lot (A lot, I slept). (Gabas 1999, 77)
-1	cúrem	_	ADJ	adj	_	3	advmod	_	_
-2	wep	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	3	aux	_	_
-3	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+1	cúrem	cú	ADJ	adj	_	3	advmod	_	_
+2	wep	ʔe	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	3	aux	_	_
+3	okera	ket	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 
 # sent_id = 160
 # text = ŋa oʔtoy maŋaptem
 # text_eng= She watched me for a long time (Gabas 1999, 77)
 1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	oʔtoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-3	maŋaptem	_	ADJ	adj	_	2	advmod	_	_
+2	oʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+3	maŋaptem	maŋap	ADJ	adj	_	2	advmod	_	_
 
 # sent_id = 161
 # text = maŋaptem ŋaap otoba
 # text_eng= For a long time she watched me. (Gabas 1999, 77)
-1	maŋaptem	_	ADJ	adj	_	3	advmod	_	_
-2	ŋaap	_	AUX	aux	Clas=Fem|Decl=AssertFoc|Number=Sing|Person=3	3	aux	_	_
-3	otoba	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+1	maŋaptem	maŋap	ADJ	adj	_	3	advmod	_	_
+2	ŋaap	ʔe	AUX	aux	Clas=Fem|Decl=AssertFoc|Number=Sing|Person=3	3	aux	_	_
+3	otoba	top	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 
 # sent_id = 162
 # text = cárarem õn
 # text_eng= I am tall. (Gabas 1999, 77)
-1	cárarem	_	ADV	adv	_	0	root	_	_
+1	cárarem	cára	ADV	adv	_	0	root	_	_
 2	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	1	nsubj	_	_
 
 # sent_id = 163
 # text = kaptem at ahyə
 # text_eng= Is it delicious? (Gabas 1999, 78)
-1	kaptem	_	ADJ	adj	_	0	root	_	_
+1	káptem	káp	ADJ	adj	_	0	root	_	_
 2	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	1	nsubj	_	_
 3	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
 # sent_id = 164
 # text = pattem maʔpəy
 # text_eng= The woman is beautiful (Gabas 1999, 78)
-1	pattem	_	ADJ	adj	_	0	root	_	_
-2	maʔpəy	_	NOUN	n	_	1	nsubj	_	_
+1	páttem	pát	ADJ	adj	_	0	root	_	_
+2	maʔpəy	maʔpəy	NOUN	n	_	1	nsubj	_	_
 
 # sent_id = 165
 # text = pattem cúrem wat owe tap
 # text_eng= My children are big and beautiful. (Gabas 1999, 78)
-1	pattem	_	ADJ	adj	_	4	amod	_	_
-2	cúrem	_	ADJ	adj	_	1	conj	_	_
+1	páttem	pát	ADJ	adj	_	4	amod	_	_
+2	cúrem	cú	ADJ	adj	_	1	conj	_	_
 3	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
-4	owe	_	NOUN	n	_	0	root	_	_
+4	owé	owé	NOUN	n	_	0	root	_	_
 5	tap	tap	PART	part	_	4	case	_	_
 
 # sent_id = 166
 # text = otoyrem at
 # text_eng= He/it is pretending to be watching me. (Gabas 1999, 78)
-1	otoyrem	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=1	0	root	_	_
+1	otoyrem	to	VERB	v	Decl=AssertFoc|Number=Sing|Person=1	0	root	_	_
 2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
 
 # sent_id = 167
 # text = okennem wet
 # text_eng= I am pretending to be sleeping. (Gabas 1999, 79)
-1	okennem	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=1	0	root	_	_
-2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+1	okennem	ke	VERB	v	Decl=AssertFoc|Number=Sing|Person=1	0	root	_	_
+2	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
 
 # sent_id = 168
 # text = ameko otoy
 # text_eng= The jaguar saw me. (Gabas 1999, 82)
 1	ameko	ameko	NOUN	n	_	2	nsubj	_	_
-2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	otoy	top	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 169
 # text = at ecapét ahyə
 # text_eng= Did he beat you? (Gabas 1999, 83)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	ecapét	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+2	ecapét	capé	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
 3	ahyə	ahyə	PART	part	Int=Yes	2	mark	_	_
 
 # sent_id = 170
@@ -1142,12 +1142,12 @@
 # sent_id = 171
 # text = oyaʔkoy
 # text_eng= I sweat. (Gabas 1999, 83)
-1	oyaʔkoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+1	oyaʔkoy	yaʔkop	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 172
 # text = eyaʔi
 # text_eng= You climbed down. (Gabas 1999, 83)
-1	eyaʔi	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+1	eyaʔi	yaʔi	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 173
 # text = aʔken
@@ -1158,41 +1158,41 @@
 # text = õn aʔpap toy
 # text_eng = I saw him/it dead/hurt. (Gabas 1999, 83)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
-2	aʔpap	_	ADJ	adj	Number=Sing|Person=3	3	xcomp	_	_
+2	aʔpap	pap	ADJ	adj	Number=Sing|Person=3	3	xcomp	_	_
 3	toy	top	VERB	v	Decl=Assert	0	root	_	_
 
 # sent_id = 175
 # text = maʔwɨt aʔkɨrɨk ʔan
 # text_eng = The man brought the green one. (Gabas 1999, 84)
-1	maʔwɨt	_	NOUN	n	_	3	nsubj	_	_
-2	aʔkɨrɨk	_	ADJ	adj	Number=Sing|Person=3	3	obj	_	_
-3	ʔan	_	VERB	v	Decl=Assert	0	root	_	_
+1	maʔwɨt	maʔwɨt	NOUN	n	_	3	nsubj	_	_
+2	aʔkɨrɨk	kɨrɨk	ADJ	adj	Number=Sing|Person=3	3	obj	_	_
+3	ʔan	ʔat	VERB	v	Decl=Assert	0	root	_	_
 
 # sent_id = 176
 # text = tocitóga aʔkay
 # text_eng = He will go urinate. (Gabas 1999, 84)
-1	tocitóga	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
-2	aʔkay	_	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	_	_
+1	tocitóga	citók	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+2	aʔkay	kap	AUX	aux	Decl=Assert|Number=Sing|Person=3|Tense=Fut	1	aux	_	_
 
 # sent_id = 177
 # text = kanãy wep okera
 # text_eng = Then I slept. (Gabas 1999, 84)
-1	kanãy	_	ADV	adv	_	3	advmod	_	_
-2	wep	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	3	aux	_	_
-3	okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+1	kanãy	kanãy	ADV	adv	_	3	advmod	_	_
+2	wep	ʔe	AUX	aux	Decl=AssertFoc|Number=Sing|Person=1	3	aux	_	_
+3	okera	ket	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 
 # sent_id = 178
 # text = owakán aʔkəy
 # text_eng = I am angry at him/it. (Gabas 1999, 84)
-1	owakán	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	aʔkəy	_	PRON	pron	Case=Dat|Number=Sing|Person=3	1	obl	_	_
+1	owakán	pakát	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	aʔkəy	aʔ	PRON	pron	Case=Dat|Number=Sing|Person=3	1	obl	_	_
 
 # sent_id = 179
 # text = maʔwɨt yaʔwan ŋapik
 # text_eng = The man left with her. (Gabas 1999, 84)
-1	maʔwɨt	_	NOUN	n	_	2	nsubj	_	_
-2	yaʔwan	_	VERB	v	Decl=Assert	0	root	_	_
-3	ŋapik	_	PRON	pron	Case=All|Clas=Fem|Number=Sing|Person=3	2	obl	_	_
+1	maʔwɨt	maʔwɨt	NOUN	n	_	2	nsubj	_	_
+2	yaʔwan	yaʔwat	VERB	v	Decl=Assert	0	root	_	_
+3	ŋapik	ŋa	PRON	pron	Case=All|Clas=Fem|Number=Sing|Person=3	2	obl	_	_
 
 # sent_id = 180
 # text = wat iyõm ip ʔɨy owihmãm
