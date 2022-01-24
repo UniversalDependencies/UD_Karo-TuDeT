@@ -1604,70 +1604,70 @@
 # sent_id = 233
 # text = et kaʔa ʔa peʔ at epɨyap
 # text_eng = (It was) at your house (that) he waited for you. (Gabas 1999, 99)
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+1	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
 2	kaʔa	kaʔa	NOUN	n	_	0	root	_	_
-3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
-4	peʔ	_	ADP	adp	Case=Loc	2	case	_	_
+3	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	2	clf	_	_
+4	peʔ	peʔ	ADP	adp	Case=Loc	2	case	_	_
 5	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-6	epɨyap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	2	parataxis	_	_
+6	epɨyap	pɨy	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	2	parataxis	_	_
 
 # sent_id = 234
-# text = cĩm ʔoa okay cak mam
+# text = cĩm ʔoa okay cák mãm
 # text_eng = I will eat meat tomorrow. (Gabas 1999, 99)
-1	cĩm	_	NOUN	n	_	2	obj	_	_
-2	ʔoa	_	VERB	v	VerbForm=Ger	0	root	_	_
-3	okay	_	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	2	aux	_	_
-4	cak	_	ADV	adv	_	2	obl	_	_
-5	mam	_	X	x	_	2	dep	_	_
+1	cĩm	cĩm	NOUN	n	_	2	obj	_	_
+2	ʔoa	ʔo	VERB	v	VerbForm=Ger	0	root	_	_
+3	okay	kap	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	2	aux	_	_
+4	cák	cák	ADV	adv	_	2	obl	_	_
+5	mãm	mãm	X	x	_	2	dep	_	_
 
 # sent_id = 235
 # text = õn aʔtoy ʔĩttem
 # text_eng = I saw it/him briefly. (Gabas 1999, 99)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-3	ʔĩttem	_	ADJ	adj	_	2	advmod	_	_
+3	ʔĩttem	ʔĩt	ADJ	adj	_	2	advmod	_	_
 
 # sent_id = 236
 # text = aʔpɨya wet wat kaʔa ʔa peʔ
 # text_eng = I waited for him/it at my house. (Gabas 1999, 100)
-1	aʔpɨya	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
-2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+1	aʔpɨya	aʔpɨy	VERB	v	Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
+2	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
 3	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	4	nmod	_	_
-4	kaʔa	_	NOUN	n	_	1	obl	_	_
-5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	_	_
-6	peʔ	_	ADP	adp	Case=Loc	4	case	_	_
+4	kaʔa	kaʔa	NOUN	n	_	1	obl	_	_
+5	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	4	clf	_	_
+6	peʔ	peʔ	ADP	adp	Case=Loc	4	case	_	_
 
 # sent_id = 237
 # text = at epɨy et kaʔa ʔa peʔ
 # text_eng = He waited for you at your house. (Gabas 1999, 100)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	epɨy	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
-3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	kaʔa	_	NOUN	n	_	2	obl	_	_
-5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	_	_
-6	peʔ	_	PART	part	_	4	case	_	_
+2	epɨy	epɨy	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+3	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+4	kaʔa	kaʔa	NOUN	n	_	2	obl	_	_
+5	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	4	clf	_	_
+6	peʔ	peʔ	PART	part	_	4	case	_	_
 
 # sent_id = 238
 # text = eken ahyə
 # text_eng = Did you sleep? (Gabas 1999, 100)
-1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+1	eken	eket	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
 # sent_id = 239
-# text = eken mattem ahyə
+# text = eken máttem ahyə
 # text_eng = Did you sleep well? (Gabas 1999, 100)
-1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
-2	mattem	_	ADJ	adj	_	1	advmod	_	_
+1	eken	eket	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+2	máttem	pát	ADJ	adj	_	1	advmod	_	_
 3	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
 # sent_id = 240
 # text = eken wat manikap peʔ battem ahyə
 # text_eng = Did you sleep well in my hammock? (Gabas 1999, 101)
-1	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+1	eken	eket	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
-3	manikap	_	NOUN	b	_	1	obl	_	_
-4	peʔ	_	ADP	adp	Case=Loc	3	case	_	_
-5	battem	_	ADJ	adj	_	1	advmod	_	_
+3	manikap	manikap	NOUN	b	_	1	obl	_	_
+4	peʔ	peʔ	ADP	adp	Case=Loc	3	case	_	_
+5	báttem	pát	ADJ	adj	_	1	advmod	_	_
 6	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 
 # sent_id = 241
@@ -1675,15 +1675,15 @@
 # text_eng = Was it you who saw the white man? (Gabas 1999, 101)
 1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
-3	béŋ	_	NOUN	n	_	4	obj	_	_
-4	noy	_	VERB	v	Decl=Assert	1	dep	_	_
+3	béŋ	péŋ	NOUN	n	_	4	obj	_	_
+4	noy	top	VERB	v	Decl=Assert	1	dep	_	_
 
 # sent_id = 242
 # text = mɨrɨrɨy ahyə imaterãn nãnin
 # text_eng = Was it the toad who really made us get lost? (Gabas 1999, 101)
-1	mɨrɨrɨy	_	NOUN	n	_	0	root	_	_
+1	mɨrɨrɨy	mɨrɨrɨy	NOUN	n	_	0	root	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
-3	imaterãn	_	VERB	v	Decl=Assert|Number=Plur|Person=1|Voice=Cau	1	acl	_	_
+3	imaterãn	terã	VERB	v	Decl=Assert|Number=Plur|Person=1|Voice=Cau	1	acl	_	_
 4	nãnin	nãnin	PART	part	Evident=Fh	3	advmod	_	_
 
 # sent_id = 243
@@ -1692,30 +1692,30 @@
 1	péŋ	péŋ	NOUN	n	_	0	root	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
 3	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nsubj	_	_
-4	itop	_	VERB	v	Person=3Imp	1	acl	_	_
+4	itop	itop	VERB	v	Person=3Imp	1	acl	_	_
 
 # sent_id = 244
 # text = ẽn ahyə iket
 # text_eng = Was it you who slept? (Gabas 1999, 102)
 1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	0	root	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	mark	_	_
-3	iket	_	VERB	v	Person=3Imp	1	dep	_	_
+3	iket	ket	VERB	v	Person=3Imp	1	dep	_	_
 
 # sent_id = 245
-# text = pattem ahyə ekerap
+# text = páttem ahyə ekerap
 # text_eng = Did you sleep well? (lit. "Is it well that you slept?"")(Gabas 1999, 102)
-1	pattem	_	ADJ	adj	_	3	advmod	_	_
+1	páttem	pát	ADJ	adj	_	3	advmod	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	3	mark	_	_
-3	ekerap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
+3	ekerap	ket	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 246
 # text = wat manikap peʔ ahyə ekerap
 # text_eng = Did you sleep in my hammock? ("Was it in my hammock you slept?")(Gabas 1999, 102)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	manikap	_	NOUN	n	_	5	obl	_	_
-3	peʔ	_	ADP	adp	Case=Loc	2	case	_	_
+2	manikap	manikap	NOUN	n	_	5	obl	_	_
+3	peʔ	peʔ	ADP	adp	Case=Loc	2	case	_	_
 4	ahyə	ahyə	PART	part	Int=Yes	5	case	_	_
-5	ekerap	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
+5	ekerap	ket	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 247
 # text = kɨganape ahyə ekerap
@@ -1746,7 +1746,7 @@
 1	kõm	kõm	ADV	adv	_	4	advmod	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	1	discourse	_	_
 3	mãygãra	mãygãra	NOUN	n	_	4	nsubj	_	_
-4	etóp	tóp	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
+4	etóp	tó	VERB	v	Decl=AssertFoc|Number=Sing|Person=2	0	root	_	_
 
 # sent_id = 251
 # text = kõm ahyə igu ẽn ip yapít
@@ -1771,57 +1771,57 @@
 # sent_id = 253
 # text = ewɨya
 # text_eng = Leave! (Gabas 1999, 104)
-1	ewɨya	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
+1	ewɨya	wɨy	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 254
 # text = karowɨya
 # text_eng = Leave (you PL.)! (Gabas 1999, 104)
-1	karowɨya	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	_
+1	karowɨya	wɨy	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 255
 # text = ekera
 # text_eng = Sleep! (Gabas 1999, 105)
-1	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
+1	ekera	ket	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 256
 # text = karokérara
 # text_eng = Sleep (you PL.)! (Gabas 1999, 105)
-1	karokérara	_	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	_
+1	karokérara	kérar	VERB	v	Number=Plur|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 257
 # text = taptoba kaʔto
 # text_eng = Watch them! (Gabas 1999, 105)
-1	taptoba	_	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	_	_
+1	taptoba	top	VERB	v	Number=Plur|Person=3|VerbForm=Ger	0	root	_	_
 2	kaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	1	appos	_	_
 
 # sent_id = 258
 # text = owirup tɨra ẽn
 # text_eng = Cook my food! (Gabas 1999, 105)
-1	owirup	_	NOUN	n	Number=Sing|Person=1	2	obj	_	_
-2	tɨra	_	VERB	v	VerbForm=Ger	0	root	_	_
+1	owirup	wirup	NOUN	n	Number=Sing|Person=1	2	obj	_	_
+2	tɨra	tɨt	VERB	v	VerbForm=Ger	0	root	_	_
 3	ẽn	ẽn	PRON	pron	Number=Sing|Person=2	2	appos	_	_
 
 # sent_id = 259
 # text = yét maʔpəy bat toba ẽn
 # text_eng = Watch this beautiful woman! (Gabas 1999, 105)
 1	yét	yét	PRON	pron	PronType=Dem	2	nmod	_	_
-2	maʔpəy	_	NOUN	n	_	4	obj	_	_
-3	bat	_	ADJ	adj	_	2	amod	_	_
-4	toba	_	VERB	v	VerbForm=Ger	0	root	_	_
+2	maʔpəy	maʔpəy	NOUN	n	_	4	obj	_	_
+3	bát	pát	ADJ	adj	_	2	amod	_	_
+4	toba	top	VERB	v	VerbForm=Ger	0	root	_	_
 5	ẽn	ẽn	PRON	pron	Number=Sing|Person=2	4	appos	_	_
 
 # sent_id = 260
 # text = wat manikap peya kaʔto
 # text_eng = Make my hammock! (Gabas 1999, 105)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	manikap	_	NOUN	n	_	3	obj	_	_
-3	peya	_	VERB	v	VerbForm=Ger	0	root	_	_
+2	manikap	manikap	NOUN	n	_	3	obj	_	_
+3	peya	pe	VERB	v	VerbForm=Ger	0	root	_	_
 4	kaʔto	kaʔto	PRON	pron	Number=Plur|Person=2	3	appos	_	_
 
 # sent_id = 261
 # text = kanãy yét péŋ [ʔet]
 # text_eng = Then this white man said/did. (Gabas 1999, 106)
-1	kanãy	_	ADV	adv	_	4	advmod	_	_
+1	kanãy	kanãy	ADV	adv	_	4	advmod	_	_
 2	yét	yét	PRON	pron	PronType=Dem	3	nmod	_	_
 3	péŋ	péŋ	NOUN	n	_	4	nsubj	_	_
 4	[ʔet]	_	AUX	aux	Decl=Assert	0	root	_	_
@@ -1829,8 +1829,8 @@
 # sent_id = 262
 # text = maʔwɨt [ken]
 # text_eng = The man slept. (Gabas 1999, 106)
-1	maʔwɨt	_	NOUN	n	_	2	nsubj	_	_
-2	[ken]	_	VERB	v	Decl=Assert	0	root	_	_
+1	maʔwɨt	maʔwɨt	NOUN	n	_	2	nsubj	_	_
+2	[ken]	ket	VERB	v	Decl=Assert	0	root	_	_
 
 # sent_id = 263
 # text = õn [aʔwéro toy]
@@ -1842,42 +1842,42 @@
 # sent_id = 264
 # text = cárarem õn
 # text_eng = I am tall. (Gabas 1999, 106)
-1	cárarem	_	ADJ	adj	_	0	root	_	_
+1	cárarem	cára	ADJ	adj	_	0	root	_	_
 2	õn	õn	PRON	pron	Number=Sing|Person=1	1	nsubj	_	_
 
 # sent_id = 265
 # text = cúrem wat kaʔa ʔa
 # text_eng = My house is big. (Gabas 1999, 107)
-1	cúrem	_	ADJ	adj	_	0	root	_	_
+1	cúrem	cú	ADJ	adj	_	0	root	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
-3	kaʔa	_	NOUN	n	_	1	nsubj	_	_
-4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	_	_
+3	kaʔa	kaʔa	NOUN	n	_	1	nsubj	_	_
+4	ʔa	ʔa	ADJ	adj	Clas=Rd	3	clf	_	_
 
 # sent_id = 266
-# text = pattem et owẽ rap
+# text = páttem et owẽ rap
 # text_eng = Your children are beautiful. (Gabas 1999, 107)
-1	pattem	_	ADJ	adj	_	0	root	_	_
-2	et	_	PRON	pron	Number=Sing|Person=2	3	nmod	_	_
-3	owẽ	_	NOUN	n	_	1	nsubj	_	_
-4	rap	_	PART	part	_	3	case	_	_
+1	páttem	pát	ADJ	adj	_	0	root	_	_
+2	et	et	PRON	pron	Number=Sing|Person=2	3	nmod	_	_
+3	owẽ	owẽ	NOUN	n	_	1	nsubj	_	_
+4	rap	tap	PART	part	_	3	case	_	_
 
 # sent_id = 267
-# text = kopət to wecéb aʔmãn
+# text = kopət to wecéb aʔnãn
 # text_eng = He/it is an ugly animal. (Gabas 1999, 107)
-1	kopət	_	NOUN	n	_	0	root	_	_
-2	to	_	PART	part	Number=Plur	1	clf	_	_
-3	wecéb	_	ADJ	adj	_	1	amod	_	_
-4	aʔmãn	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+1	kopət	kopət	NOUN	n	_	0	root	_	_
+2	to	to	PART	part	Number=Plur	1	clf	_	_
+3	wecéb	pecép	ADJ	adj	_	1	amod	_	_
+4	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
 
 # sent_id = 268
 # text = Antônio yãn kaʔa ʔa naʔot peʔ
 # text_eng = Antônio is on the top of the house. (Gabas 1999, 107)
-1	Antônio	_	PROPN	propn	_	2	nsubj	_	_
-2	yãn	_	VERB	v	Decl=Assert	0	root	_	_
-3	kaʔa	_	NOUN	n	_	2	obl	_	_
-4	ʔa	_	ADJ	adj	Clas=Rd	3	clf	_	_
-5	naʔot	_	ADV	adv	_	3	advmod	_	_
-6	peʔ	_	ADP	adp	Case=Loc	5	case	_	_
+1	Antônio	Antônio	PROPN	propn	_	2	nsubj	_	_
+2	yãn	yã	VERB	v	Decl=Assert	0	root	_	_
+3	kaʔa	kaʔa	NOUN	n	_	2	obl	_	_
+4	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	3	clf	_	_
+5	naʔot	naʔot	ADV	adv	_	3	advmod	_	_
+6	peʔ	peʔ	ADP	adp	Case=Loc	5	case	_	_
 
 # sent_id = 269
 # text = tik wán ahyə et kaʔa ʔa peʔ
