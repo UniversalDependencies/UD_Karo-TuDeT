@@ -1100,7 +1100,7 @@
 2	maʔpəy	maʔpəy	NOUN	n	_	1	nsubj	_	_
 
 # sent_id = 165
-# text = páttem cúrem wat owe tap
+# text = páttem cúrem wat owé tap
 # text_eng= My children are big and beautiful. (Gabas 1999, 78)
 1	páttem	pát	ADJ	adj	_	4	amod	_	_
 2	cúrem	cú	ADJ	adj	_	1	conj	_	_
@@ -1335,7 +1335,7 @@
 2	capõt	capõt	ADJ	adj	_	1	compound	_	_
 
 # sent_id = 197
-# text = korét capõt pat
+# text = korét capõt pát
 # text_eng = beautiful bird (sp.) (Gabas 1999, 90)
 1	korét	korét	NOUN	n	_	0	root	_	_
 2	capõt	capõt	ADJ	adj	_	1	compound	_	_
@@ -1516,7 +1516,7 @@
 4	iʔop	ʔo	VERB	v	Decl=AssertFoc|Person=3Imp	0	root	_	_
 
 # sent_id = 223
-# text = ar wayo gap ʔot
+# text = ar wayo gáp ʔot
 # text_eng = He ate a tasty alligator. (Gabas 1999, 97)
 1	ar	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
 2	wayo	wayo	NOUN	n	_	4	obj	_	_
@@ -1802,7 +1802,7 @@
 3	ẽn	ẽn	PRON	pron	Number=Sing|Person=2	2	appos	_	_
 
 # sent_id = 259
-# text = yét maʔpəy bat toba ẽn
+# text = yét maʔpəy bát toba ẽn
 # text_eng = Watch this beautiful woman! (Gabas 1999, 105)
 1	yét	yét	PRON	pron	PronType=Dem	2	nmod	_	_
 2	maʔpəy	maʔpəy	NOUN	n	_	4	obj	_	_
