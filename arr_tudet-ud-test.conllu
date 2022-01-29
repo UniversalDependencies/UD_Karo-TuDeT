@@ -3783,26 +3783,26 @@
 # sent_id = 507
 # text = wayo bap
 # text_eng = alligator (Gabas 1999, 169)
-1	wayo	_	NOUN	n	_	0	root	_	_
-2	bap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+1	wayo	wayo	NOUN	n	_	0	root	_	_
+2	bap	pap	ADJ	adj	Clas=Cylb	1	clf	_	_
 
 # sent_id = 508
 # text = mãygãra bap
 # text_eng = snake (Gabas 1999, 169)
 1	mãygãra	mãygãra	NOUN	n	_	0	root	_	_
-2	bap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+2	bap	pap	ADJ	adj	Clas=Cylb	1	clf	_	_
 
 # sent_id = 509
 # text = ĩya ʔɨp
 # text_eng = bird (general) (Gabas 1999, 169)
-1	ĩya	_	NOUN	n	_	0	root	_	_
-2	ʔɨp	_	ADJ	adj	Clas=Cylm	1	clf	_	_
+1	ĩya	ĩya	NOUN	n	_	0	root	_	_
+2	ʔɨp	ʔɨp	ADJ	adj	Clas=Cylm	1	clf	_	_
 
 # sent_id = 510
 # text = wáya ʔɨp
 # text_eng = spoon (Gabas 1999, 169)
-1	wáya	_	NOUN	n	_	0	root	_	_
-2	ʔɨp	_	ADJ	adj	Clas=Cylm	1	clf	_	_
+1	wáya	wáya	NOUN	n	_	0	root	_	_
+2	ʔɨp	ʔɨp	ADJ	adj	Clas=Cylm	1	clf	_	_
 
 # sent_id = 511
 # text = icãp pɨʔ
@@ -3813,118 +3813,118 @@
 # sent_id = 512
 # text = icapop pɨʔ
 # text_eng = tail (Gabas 1999, 170)
-1	icapop	_	NOUN	n	Person=3Imp	0	root	_	_
-2	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+1	icapop	capop	NOUN	n	Person=3Imp	0	root	_	_
+2	pɨʔ	pɨʔ	ADJ	adj	Clas=Cyls	1	clf	_	_
 
 # sent_id = 513
 # text = ibeon meʔ
 # text_eng = skin (Gabas 1999, 170)
-1	ibeon	_	NOUN	n	Person=3Imp	0	root	_	_
-2	meʔ	_	ADJ	adj	Clas=Tflat	1	clf	_	_
+1	ibeon	peon	NOUN	n	Person=3Imp	0	root	_	_
+2	meʔ	peʔ	ADJ	adj	Clas=Tflat	1	clf	_	_
 
 # sent_id = 514
 # text = ipá beʔ
 # text_eng = hand (Gabas 1999, 170)
-1	ipá	_	NOUN	n	Person=3Imp	0	root	_	_
-2	beʔ	_	ADJ	adj	Clas=Tflat	1	clf	_	_
+1	ipá	pá	NOUN	n	Person=3Imp	0	root	_	_
+2	beʔ	peʔ	ADJ	adj	Clas=Tflat	1	clf	_	_
 
 # sent_id = 515
 # text = naʔyop cɨʔ
 # text_eng = leaf (also: money) (Gabas 1999, 170)
-1	naʔyop	_	NOUN	n	_	0	root	_	_
-2	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	_	_
+1	naʔyop	naʔyop	NOUN	n	_	0	root	_	_
+2	cɨʔ	cɨʔ	ADJ	adj	Clas=Tflat	1	clf	_	_
 
 # sent_id = 516
 # text = wəwə cɨʔ
 # text_eng = hand fanner (Gabas 1999, 170)
-1	wəwə	_	NOUN	n	_	0	root	_	_
-2	cɨʔ	_	ADJ	adj	Clas=Tflat	1	clf	_	_
+1	wəwə	wəwə	NOUN	n	_	0	root	_	_
+2	cɨʔ	cɨʔ	ADJ	adj	Clas=Tflat	1	clf	_	_
 
 # sent_id = 517
 # text = karo ʔaʔ
 # text_eng = macaw (Gabas 1999, 170)
-1	karo	_	NOUN	n	_	0	root	_	_
-2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+1	karo	karo	NOUN	n	_	0	root	_	_
+2	ʔaʔ	ʔaʔ	ADJ	adj	Clas=Rd	1	clf	_	_
 
 # sent_id = 518
 # text = icagá ʔaʔ
 # text_eng = eye (Gabas 1999, 170)
-1	icagá	_	NOUN	n	Person=3Imp	0	root	_	_
-2	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+1	icagá	cagá	NOUN	n	Person=3Imp	0	root	_	_
+2	ʔaʔ	ʔaʔ	ADJ	adj	Clas=Rd	1	clf	_	_
 
 # sent_id = 519
 # text = inãk káʔ
 # text_eng = mouth (Gabas 1999, 170)
-1	inãk	_	NOUN	n	Person=3Imp	0	root	_	_
-2	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+1	inãk	nãk	NOUN	n	Person=3Imp	0	root	_	_
+2	káʔ	káʔ	ADJ	adj	Clas=Ccv	1	clf	_	_
 
 # sent_id = 520
 # text = maʔẽ gáʔ
 # text_eng = pan (Gabas 1999, 170)
-1	maʔẽ	_	NOUN	n	_	0	root	_	_
-2	gáʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+1	maʔẽ	maʔẽ	NOUN	n	_	0	root	_	_
+2	gáʔ	káʔ	ADJ	adj	Clas=Ccv	1	clf	_	_
 
 # sent_id = 521
 # text = makap kap
 # text_eng = peanut (Gabas 1999, 170)
-1	makap	_	NOUN	n	_	0	root	_	_
-2	kap	_	ADJ	adj	Clas=Bss	1	clf	_	_
+1	makap	makap	NOUN	n	_	0	root	_	_
+2	kap	kap	ADJ	adj	Clas=Bss	1	clf	_	_
 
 # sent_id = 522
 # text = iyãy gap
 # text_eng = teeth (Gabas 1999, 170)
 1	iyãy	yãy	NOUN	n	Person=3Imp	0	root	_	_
-2	gap	_	ADJ	adj	Clas=Bss	1	clf	_	_
+2	gap	kap	ADJ	adj	Clas=Bss	1	clf	_	_
 
 # sent_id = 523
 # text = maʔta maʔ
 # text_eng = beans (Gabas 1999, 171)
-1	maʔta	_	NOUN	n	_	0	root	_	_
-2	maʔ	_	ADJ	adj	Clas=Bds	1	clf	_	_
+1	maʔta	maʔta	NOUN	n	_	0	root	_	_
+2	maʔ	maʔ	ADJ	adj	Clas=Bds	1	clf	_	_
 
 # sent_id = 524
 # text = cicɨ maʔ
 # text_eng = mosquito (Gabas 1999, 171)
-1	cicɨ	_	NOUN	n	_	0	root	_	_
-2	maʔ	_	ADJ	adj	Clas=Bds	1	clf	_	_
+1	cicɨ	cicɨ	NOUN	n	_	0	root	_	_
+2	maʔ	maʔ	ADJ	adj	Clas=Bds	1	clf	_	_
 
 # sent_id = 525
 # text = maʔpəy ŋa
 # text_eng = woman (Gabas 1999, 171)
-1	maʔpəy	_	NOUN	n	_	0	root	_	_
+1	maʔpəy	maʔpəy	NOUN	n	_	0	root	_	_
 2	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	_	_
 
 # sent_id = 526
 # text = icey ŋa
 # text_eng = wife (Gabas 1999, 171)
-1	icey	_	NOUN	n	Person=3Imp	0	root	_	_
+1	icey	cey	NOUN	n	Person=3Imp	0	root	_	_
 2	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	_	_
 
 # sent_id = 527
 # text = mani nãʔ
 # text_eng = manioc (Gabas 1999, 171)
-1	mani	_	NOUN	n	_	0	root	_	_
-2	nãʔ	_	ADJ	adj	Clas=X	1	clf	_	_
+1	mani	mani	NOUN	n	_	0	root	_	_
+2	nãʔ	nãʔ	ADJ	adj	Clas=X	1	clf	_	_
 
 # sent_id = 528
 # text = cán nãʔ
 # text_eng = fire (Gabas 1999, 171)
-1	cán	_	NOUN	n	_	0	root	_	_
-2	nãʔ	_	ADJ	adj	Clas=X	1	clf	_	_
+1	cán	cán	NOUN	n	_	0	root	_	_
+2	nãʔ	nãʔ	ADJ	adj	Clas=X	1	clf	_	_
 
 # sent_id = 529
 # text = wayo nãk pap
 # text_eng = mouth of (an) alligator(Gabas 1999, 171)
-1	wayo	_	NOUN	n	_	2	nmod	_	_
-2	nãk	_	NOUN	n	_	0	root	_	_
-3	pap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
+1	wayo	wayo	NOUN	n	_	2	nmod	_	_
+2	nãk	nãk	NOUN	n	_	0	root	_	_
+3	pap	pap	ADJ	adj	Clas=Cylb	1	clf	_	_
 
 # sent_id = 530
 # text = ei nãk káʔ
 # text_eng = mouth of (an) honey-eater (Gabas 1999, 172)
-1	ei	_	NOUN	n	_	2	nmod	_	_
-2	nãk	_	NOUN	n	_	0	root	_	_
-3	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+1	ei	ei	NOUN	n	_	2	nmod	_	_
+2	nãk	nãk	NOUN	n	_	0	root	_	_
+3	káʔ	káʔ	ADJ	adj	Clas=Ccv	1	clf	_	_
 
 # sent_id = 531
 # text = wayo yogá beʔ
@@ -3936,75 +3936,75 @@
 # sent_id = 532
 # text = wayo nakira beʔ
 # text_eng = ear of (an) alligator (Gabas 1999, 83)
-1	wayo	_	NOUN	n	_	2	nmod	_	_
-2	nakira	_	NOUN	n	_	0	root	_	_
-3	beʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+1	wayo	wayo	NOUN	n	_	2	nmod	_	_
+2	nakira	nakira	NOUN	n	_	0	root	_	_
+3	beʔ	peʔ	ADJ	adj	Clas=Flat	1	clf	_	_
 
 # sent_id = 533
 # text = aʔi nãk káʔ
 # text_eng = mouth of (a) sloth (Gabas 1999, 172)
-1	aʔi	_	NOUN	n	_	2	nmod	_	_
-2	nãk	_	NOUN	n	_	0	root	_	_
-3	káʔ	_	ADJ	adj	Clas=Ccv	1	clf	_	_
+1	aʔi	aʔi	NOUN	n	_	2	nmod	_	_
+2	nãk	nãk	NOUN	n	_	0	root	_	_
+3	káʔ	káʔ	ADJ	adj	Clas=Ccv	1	clf	_	_
 
 # sent_id = 534
-# text = karam nãk pɨʔ
+# text = káram nãk pɨʔ
 # text_eng = mouth of (a) hummingbird (Gabas 1999, 173)
-1	karam	_	NOUN	n	_	2	nmod	_	_
-2	nãk	_	NOUN	n	_	0	root	_	_
-3	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+1	káram	káram	NOUN	n	_	2	nmod	_	_
+2	nãk	nãk	NOUN	n	_	0	root	_	_
+3	pɨʔ	pɨʔ	ADJ	adj	Clas=Cyls	1	clf	_	_
 
 # sent_id = 535
 # text = karam yogá bɨʔ
 # text_eng = tongue of (a) hummingbird (Gabas 1999, 173)
-1	karam	_	NOUN	n	_	2	nmod	_	_
-2	yogá	_	NOUN	n	_	0	root	_	_
-3	bɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+1	káram	káram	NOUN	n	_	2	nmod	_	_
+2	yogá	yogá	NOUN	n	_	0	root	_	_
+3	bɨʔ	pɨʔ	ADJ	adj	Clas=Cyls	1	clf	_	_
 
 # sent_id = 536
 # text = karo nãg aʔ
 # text_eng = mouth of (a) macaw (Gabas 1999, 173)
-1	karo	_	NOUN	n	_	2	nmod	_	_
-2	nãg	_	NOUN	n	_	0	root	_	_
-3	aʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+1	karo	karo	NOUN	n	_	2	nmod	_	_
+2	nãg	nãk	NOUN	n	_	0	root	_	_
+3	aʔ	aʔa	ADJ	adj	Clas=Rd	1	clf	_	_
 
 # sent_id = 537
 # text = karo yogá ʔaʔ
 # text_eng = tongue of (a) macaw (Gabas 1999, 173)
-1	karo	_	NOUN	n	_	2	nmod	_	_
-2	yogá	_	NOUN	n	_	0	root	_	_
-3	ʔaʔ	_	ADJ	adj	Clas=Rd	1	clf	_	_
+1	karo	karo	NOUN	n	_	2	nmod	_	_
+2	yogá	yogá	NOUN	n	_	0	root	_	_
+3	ʔaʔ	ʔaʔ	ADJ	adj	Clas=Rd	1	clf	_	_
 
 # sent_id = 538
 # text = wayo biru
 # text_eng = footprint of (an) alligator (Gabas 1999, 174)
-1	wayo	_	NOUN	n	_	2	nmod	_	_
-2	biru	_	NOUN	n	_	0	root	_	_
+1	wayo	wayo	NOUN	n	_	2	nmod	_	_
+2	biru	piru	NOUN	n	_	0	root	_	_
 
 # sent_id = 539
 # text = ameko ʔora
 # text_eng = excrement of (a) jaguar (Gabas 1999, 174)
 1	ameko	ameko	NOUN	n	_	2	nmod	_	_
-2	ʔora	_	NOUN	n	_	0	root	_	_
+2	ʔora	ʔora	NOUN	n	_	0	root	_	_
 
 # sent_id = 540
 # text = karam wirap
 # text_eng = hummingbird's food (Gabas 1999, 174)
-1	karam	_	NOUN	n	_	2	nmod	_	_
-2	wirap	_	NOUN	n	_	0	root	_	_
+1	káram	káram	NOUN	n	_	2	nmod	_	_
+2	wirap	wirap	NOUN	n	_	0	root	_	_
 
 # sent_id = 541
 # text = parato cək
 # text_eng = hole of (an) armadillo (sp.) (Gabas 1999, 175)
-1	parato	_	NOUN	n	_	2	nmod	_	_
-2	cək	_	NOUN	n	_	0	root	_	_
+1	parato	parato	NOUN	n	_	2	nmod	_	_
+2	cək	cək	NOUN	n	_	0	root	_	_
 
 # sent_id = 542
 # text = iu bap ci
 # text_eng = açai wine (Gabas 1999, 175)
-1	iu	_	NOUN	n	_	3	compound	_	_
-2	bap	_	ADJ	adj	Clas=Cylb	1	clf	_	_
-3	ci	_	NOUN	n	_	0	root	_	_
+1	iu	iu	NOUN	n	_	3	compound	_	_
+2	bap	pap	ADJ	adj	Clas=Cylb	1	clf	_	_
+3	ci	ci	NOUN	n	_	0	root	_	_
 
 # sent_id = 543
 # text = cat pap cakɨ
