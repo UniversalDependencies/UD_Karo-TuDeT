@@ -3652,133 +3652,133 @@
 # sent_id = 493
 # text = aʔti toat macaʔɨt wĩ nãt toʔwa
 # text_eng = He came to kill his animals. (Gabas 1999, 160)
-1	aʔti	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
-3	macaʔɨt	_	NOUN	n	_	4	obj	_	_
-4	wĩ	_	VERB	v	_	1	dep	_	_
-5	nãt	_	SCONJ	sconj	_	4	mark	_	_
-6	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	_	_
+1	aʔti	aʔti	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	toat	toat	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nmod	_	_
+3	macaʔɨt	macaʔɨt	NOUN	n	_	4	obj	_	_
+4	wĩ	wĩ	VERB	v	_	1	dep	_	_
+5	nãt	nãt	SCONJ	sconj	_	4	mark	_	_
+6	toʔwa	ʔe	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	4	aux	_	_
 
 # sent_id = 494
 # text = oyaʔwan [ocaʔyõk nãt wa]
 # text_eng = I left to get drunk. (Gabas 1999, 160)
-1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	[ocaʔyõk	_	VERB	v	Number=Sing|Person=1	1	dep	_	_
-3	nãt	_	SCONJ	sconj	_	2	mark	_	_
-4	wa]	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	2	aux	_	_
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	[ocaʔyõk	caʔyõk	VERB	v	Number=Sing|Person=1	1	dep	_	_
+3	nãt	nãt	SCONJ	sconj	_	2	mark	_	_
+4	wa]	ʔe	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	2	aux	_	_
 
 # sent_id = 495
 # text = [at toat macaʔɨt wĩn nãt] totia
 # text_eng = (In order) to kill his animals he came. (Gabas 1999, 160)
-1	[at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-3	macaʔɨt	_	NOUN	n	_	4	obj	_	_
+1	[at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
+2	toat	toat	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+3	macaʔɨt	macaʔɨt	NOUN	n	_	4	obj	_	_
 4	wĩn	wĩ	VERB	v	Decl=Assert	0	root	_	_
-5	nãt]	_	SCONJ	sconj	_	4	mark	_	_
-6	totia	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	_	_
+5	nãt]	nãt	SCONJ	sconj	_	4	mark	_	_
+6	totia	ti	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	_	_
 
 # sent_id = 496
 # text = [oken nãt] ocaʔyõga
 # text_eng = (in order) to sleep I got drunk. (Gabas 1999, 160)
-1	[oken	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	nãt]	_	SCONJ	sconj	_	1	mark	_	_
-3	ocaʔyõga	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	_	_
+1	[oken	ket	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	nãt]	nãt	SCONJ	sconj	_	1	mark	_	_
+3	ocaʔyõga	caʔyõk	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	_	_
 
 # sent_id = 497
 # text = at toat cĩm nati aʔcá nãt toʔwa
 # text_eng = He brought his hunt to wash it. (Gabas 1999, 161)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
-2	toat	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
-3	cĩm	_	NOUN	n	_	4	obj	_	_
-4	nati	_	VERB	v	Decl=Assert	0	root	_	_
-5	aʔcá	_	VERB	v	Number=Sing|Person=3	4	xcomp	_	_
-6	nãt	_	SCONJ	sconj	_	5	mark	_	_
-7	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	_	_
+2	toat	toat	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nmod	_	_
+3	cĩm	cĩm	NOUN	n	_	4	obj	_	_
+4	nati	tati	VERB	v	Decl=Assert	0	root	_	_
+5	aʔcá	aʔcá	VERB	v	Number=Sing|Person=3	4	xcomp	_	_
+6	nãt	nãt	SCONJ	sconj	_	5	mark	_	_
+7	toʔwa	toʔwa	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	5	aux	_	_
 
 # sent_id = 498
-# text = abeʔcɨn [noorawa nãt toʔwa rawrem]
+# text = abeʔcɨn [noorawa nãt toʔwa ráwrem]
 # text_eng = He ran to defecate far away. (Gabas 1999, 161)
-1	abeʔcɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-2	[noorawa	_	VERB	v	_	1	dep	_	_
-3	nãt	_	SCONJ	sconj	_	2	mark	_	_
-4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	_	_
-5	rawrem]	_	ADJ	adj	_	2	advmod	_	_
+1	abeʔcɨn	abeʔcɨt	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	[noorawa	orawa	VERB	v	_	1	dep	_	_
+3	nãt	nãt	SCONJ	sconj	_	2	mark	_	_
+4	toʔwa	ʔe	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	_	_
+5	ráwrem]	táw	ADJ	adj	_	2	advmod	_	_
 
 # sent_id = 499
 # text = õn ŋa tati ẽn ŋato nãt wa
 # text_eng = I brought her so that you could see her. (Gabas 1999, 161)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	obj	_	_
-3	tati	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+3	tati	ti	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 4	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
-5	ŋato	_	VERB	v	Number=Sing|Person=3	3	dep	_	_
-6	nãt	_	SCONJ	sconj	_	5	mark	_	_
-7	wa	_	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	5	aux	_	_
+5	ŋato	top	VERB	v	Number=Sing|Person=3	3	dep	_	_
+6	nãt	nãt	SCONJ	sconj	_	5	mark	_	_
+7	wa	ʔe	AUX	aux	Number=Sing|Person=1|VerbForm=Ger	5	aux	_	_
 
 # sent_id = 500
 # text = maʔwɨt owin [owəy nã nãt toʔwa]
 # text_eng = The man fed me so that I would grow up. (Gabas 1999, 161)
-1	maʔwɨt	_	NOUN	n	_	2	nsubj	_	_
-2	owin	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-3	[owəy	_	VERB	v	Number=Sing|Person=1	2	dep	_	_
-4	nã	_	AUX	aux	_	3	cop	_	_
-5	nãt	_	SCONJ	sconj	_	3	mark	_	_
-6	toʔwa]	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
+1	maʔwɨt	maʔwɨt	NOUN	n	_	2	nsubj	_	_
+2	owin	wit	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+3	[owəy	wəy	VERB	v	Number=Sing|Person=1	2	dep	_	_
+4	nã	nã	AUX	aux	_	3	cop	_	_
+5	nãt	nãt	SCONJ	sconj	_	3	mark	_	_
+6	toʔwa]	ʔe	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	3	aux	_	_
 
 # sent_id = 501
 # text = ebeʔcɨn wat iyõm eto nãr a
 # text_eng = You ran so that my father could see you. (Gabas 1999, 162)
-1	ebeʔcɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+1	ebeʔcɨn	ebeʔcɨn	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
 2	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nmod	_	_
 3	iyõm	iyõm	NOUN	n	_	4	nsubj	_	_
-4	eto	_	VERB	v	Number=Sing|Person=2	1	dep	_	_
-5	nãr	_	SCONJ	sconj	_	4	mark	_	_
-6	a	_	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	4	aux	_	_
+4	eto	eto	VERB	v	Number=Sing|Person=2	1	dep	_	_
+5	nãr	nãr	SCONJ	sconj	_	4	mark	_	_
+6	a	ʔa	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	4	aux	_	_
 
 # sent_id = 502
 # text = oyaʔwan iʔke ya [amãn yat]
 # text_eng = Because it rained, I did not leave. (Gabas 1999, 162)
-1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
 2	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
-3	ya	_	SCONJ	sconj	_	5	mark	_	_
-4	[amãn	_	NOUN	n	_	5	nsubj	_	_
-5	yat]	_	VERB	v	_	1	dep	_	_
+3	ya	ye	SCONJ	sconj	_	5	mark	_	_
+4	[amãn	amãn	NOUN	n	_	5	nsubj	_	_
+5	yat]	ya	VERB	v	_	1	dep	_	_
 
 # sent_id = 503
-# text = õn ŋabean ya ŋa oyaʔti nãn
+# text = õn ŋabean ye ŋa oyaʔti nãn
 # text_eng = Because she liked me, I married her (Gabas 1999, 162)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	ŋabean	_	VERB	v	Clas=Fem|Decl=Assert|Number=Sing|Person=3	0	root	_	_
-3	ya	_	SCONJ	sconj	_	5	mark	_	_
+2	ŋabean	beat	VERB	v	Clas=Fem|Decl=Assert|Number=Sing|Person=3	0	root	_	_
+3	ye	ye	SCONJ	sconj	_	5	mark	_	_
 4	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-5	oyaʔti	_	VERB	v	Number=Sing|Person=1	2	dep	_	_
+5	oyaʔti	yaʔti	VERB	v	Number=Sing|Person=1	2	dep	_	_
 6	nãn	nã	AUX	aux	Decl=Assert	5	cop	_	_
 
 # sent_id = 504
 # text = wawwaw bay ye ŋaʔet toyaʔwara
 # text_eng = Because the dog died, she left. (Gabas 1999, 163)
-1	wawwaw	_	NOUN	n	_	2	nsubj	_	_
-2	bay	_	VERB	v	Decl=Assert	5	dep	_	_
-3	ye	_	SCONJ	sconj	_	5	mark	_	_
-4	ŋaʔet	_	AUX	aux	Clas=Fem|Decl=Assert|Number=Sing|Person=3	5	aux	_	_
-5	toyaʔwara	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+1	wawwaw	wawwaw	NOUN	n	_	2	nsubj	_	_
+2	bay	pap	VERB	v	Decl=Assert	5	dep	_	_
+3	ye	ye	SCONJ	sconj	_	5	mark	_	_
+4	ŋaʔet	ʔe	AUX	aux	Clas=Fem|Decl=Assert|Number=Sing|Person=3	5	aux	_	_
+5	toyaʔwara	yaʔwat	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
 
 # sent_id = 505
 # text = [ar otoy] ye wer oweʔcɨra
 # text_eng = Because he/it saw me, I ran. (Gabas 1999, 163)
-1	[ar	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	otoy]	_	VERB	v	Decl=Assert|Number=Sing|Person=1	5	dep	_	_
-3	ye	_	SCONJ	sconj	_	5	mark	_	_
-4	wer	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	5	aux	_	_
-5	oweʔcɨra	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+1	[ar	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
+2	otoy]	top	VERB	v	Decl=Assert|Number=Sing|Person=1	5	dep	_	_
+3	ye	ye	SCONJ	sconj	_	5	mark	_	_
+4	wer	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	5	aux	_	_
+5	oweʔcɨra	peʔcɨt	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 
 # sent_id = 506
 # text = ŋaken yəye wer oyaʔwara
 # text_eng = Because she slept, I left. (Gabas 1999, 163)
-1	ŋaken	_	VERB	v	Clas=Fem|Decl=Assert|Number=Sing|Person=3	4	dep	_	_
-2	yəye	_	SCONJ	sconj	_	1	mark	_	_
-3	wer	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	4	aux	_	_
-4	oyaʔwara	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
+1	ŋaken	ket	VERB	v	Clas=Fem|Decl=Assert|Number=Sing|Person=3	4	dep	_	_
+2	yəye	yəye	SCONJ	sconj	_	1	mark	_	_
+3	wer	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	4	aux	_	_
+4	oyaʔwara	yaʔwat	VERB	v	Number=Sing|Person=1|VerbForm=Ger	0	root	_	_
 
 # sent_id = 507
 # text = wayo bap
