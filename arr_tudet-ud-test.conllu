@@ -3400,139 +3400,139 @@
 # sent_id = 463
 # text = cĩm yegat yahmãm tẽna
 # text_eng = Don't hunt now! (Gabas 1999, 151)
-1	cĩm	_	NOUN	n	_	2	obj	_	_
-2	yegat	_	VERB	v	Decl=Assert	0	root	_	_
-3	yahmãm	mãm	PART	part	_	2	advmod	_	_
-4	tẽna	_	ADV	adv	_	2	advmod	_	_
+1	cĩm	cĩm	NOUN	n	_	2	obj	_	_
+2	yegat	yek	VERB	v	Decl=Assert	0	root	_	_
+3	yahmãm	yahmãm	PART	part	_	2	advmod	_	_
+4	tẽna	tẽna	ADV	adv	_	2	advmod	_	_
 
 # sent_id = 464
 # text = kõm ar otoy yahmãm
 # text_eng = How (come) he did not see me? (Gabas 1999, 151)
 1	kõm	kõm	ADV	adv	_	3	advmod	_	_
 2	ar	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-4	yahmãm	mãm	PART	part	_	3	advmod	_	_
+3	otoy	top	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+4	yahmãm	yahmãm	PART	part	_	3	advmod	_	_
 
 # sent_id = 465
 # text = kõm péŋ ʔet nyahmãm apik
 # text_eng = How (come) the white man did not go with him/it? (Gabas 1999, 152)
 1	kõm	kõm	ADV	adv	_	3	advmod	_	_
 2	péŋ	péŋ	NOUN	n	_	3	nsubj	_	_
-3	ʔet	_	AUX	aux	Decl=Assert	0	root	_	_
-4	nyahmãm	mãm	PART	part	_	3	advmod	_	_
-5	apik	_	ADP	adp	Case=All|Number=Sing|Person=3	3	case	_	_
+3	ʔet	ʔe	AUX	aux	Decl=Assert	0	root	_	_
+4	nyahmãm	yahmãm	PART	part	_	3	advmod	_	_
+5	apik	pik	ADP	adp	Case=All|Number=Sing|Person=3	3	case	_	_
 
 # sent_id = 466
-# text = kiganape ap naʔto roy yahmãm
+# text = kɨganape ap naʔto roy yahmãm
 # text_eng = Where did he not see the tapir? (Gabas 1999, 152)
-1	kiganape	_	ADV	adv	_	4	advmod	_	_
-2	ap	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	4	aux	_	_
-3	naʔto	_	NOUN	n	_	4	obj	_	_
+1	kɨganape	kɨganape	ADV	adv	_	4	advmod	_	_
+2	ap	ʔe	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	4	aux	_	_
+3	naʔto	naʔto	NOUN	n	_	4	obj	_	_
 4	roy	top	VERB	v	Decl=AssertFoc	0	root	_	_
-5	yahmãm	mãm	PART	part	_	4	advmod	_	_
+5	yahmãm	yahmãm	PART	part	_	4	advmod	_	_
 
 # sent_id = 467
-# text = kiganape ep eken yahmãm
+# text = kɨganape ep eken yahmãm
 # text_eng = Where did you not sleep? (Gabas 1999, 152)
-1	kiganape	_	ADV	adv	_	3	advmod	_	_
-2	ep	_	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	3	aux	_	_
-3	eken	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
-4	yahmãm	mãm	PART	part	_	3	advmod	_	_
+1	kɨganape	kɨganape	ADV	adv	_	3	advmod	_	_
+2	ep	ʔe	AUX	aux	Decl=AssertFoc|Number=Sing|Person=2	3	aux	_	_
+3	eken	ket	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+4	yahmãm	yahmãm	PART	part	_	3	advmod	_	_
 
 # sent_id = 468
 # text = taykir iʔwirup toba
 # text_eng = Aren't/weren't (you) watching our food? (Gabas 1999, 152)
-1	taykir	_	PART	part	_	3	advmod	_	_
-2	iʔwirup	_	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	obj	_	_
-3	toba	_	VERB	v	VerbForm=Ger	0	root	_	_
+1	taykir	taykit	PART	part	_	3	advmod	_	_
+2	iʔwirup	wirup	NOUN	n	Clusivity=In|Number=Plur|Person=1	3	obj	_	_
+3	toba	top	VERB	v	VerbForm=Ger	0	root	_	_
 
 # sent_id = 469
 # text = taykir ekera et kaʔa ʔa peʔ
 # text_eng = Weren't you sleeping at your house? (Gabas 1999, 153)
-1	taykir	_	PART	part	_	2	advmod	_	_
-2	ekera	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
-3	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
-4	kaʔa	_	NOUN	n	_	2	obl	_	_
-5	ʔa	_	ADJ	adj	Clas=Rd	4	clf	_	_
-6	peʔ	_	ADP	adp	Case=Loc	4	case	_	_
+1	taykir	taykit	PART	part	_	2	advmod	_	_
+2	ekera	ket	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
+3	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	4	nmod	_	_
+4	kaʔa	kaʔa	NOUN	n	_	2	obl	_	_
+5	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	4	clf	_	_
+6	peʔ	peʔ	ADP	adp	Case=Loc	4	case	_	_
 
 # sent_id = 470
 # text = taykit péŋ ekɨga
 # text_eng = Isn't/wasn't the white man holding you? (Gabas 1999, 153)
-1	taykit	_	PART	part	_	3	advmod	_	_
+1	taykit	taykit	PART	part	_	3	advmod	_	_
 2	péŋ	péŋ	NOUN	n	_	3	nsubj	_	_
-3	ekɨga	_	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
+3	ekɨga	kɨga	VERB	v	Number=Sing|Person=2|VerbForm=Ger	0	root	_	_
 
 # sent_id = 471
 # text = taykit eyamoy iga
 # text_eng = Aren't you going to bathe? (Gabas 1999, 153)
-1	taykit	_	PART	part	_	2	advmod	_	_
-2	eyamoy	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
-3	iga	_	PART	part	Tense=Fut	2	mark	_	_
+1	taykit	taykit	PART	part	_	2	advmod	_	_
+2	eyamoy	yamoy	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+3	iga	iga	PART	part	Tense=Fut	2	mark	_	_
 
 # sent_id = 472
 # text = taykit ebiaʔan iga mɨrɨrɨy kəy
 # text_eng = Aren't you going to be afraid of the toad? (Gabas 1999, 153)
-1	taykit	_	PART	part	_	2	advmod	_	_
-2	ebiaʔan	_	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
-3	iga	_	PART	part	Tense=Fut	2	mark	_	_
-4	mɨrɨrɨy	_	NOUN	n	_	2	obl	_	_
-5	kəy	_	ADP	adp	_	4	case	_	_
+1	taykit	taykit	PART	part	_	2	advmod	_	_
+2	ebiaʔan	piaʔat	VERB	v	Decl=Assert|Number=Sing|Person=2	0	root	_	_
+3	iga	iga	PART	part	Tense=Fut	2	mark	_	_
+4	mɨrɨrɨy	mɨrɨrɨy	NOUN	n	_	2	obl	_	_
+5	kəy	kəy	ADP	adp	_	4	case	_	_
 
 # sent_id = 473
 # text = məy yét maʔpəy ŋa waʔye cán nã makɨra
 # text_eng = Then this woman started a fire, (Gabas 1999, 154)
-1	məy	_	ADV	adv	_	8	advmod	_	_
+1	məy	_məy	ADV	adv	_	8	advmod	_	_
 2	yét	yét	PRON	pron	PronType=Dem	3	det	_	_
-3	maʔpəy	_	NOUN	n	_	8	nsubj	_	_
+3	maʔpəy	maʔpəy	NOUN	n	_	8	nsubj	_	_
 4	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	3	clf	_	_
-5	waʔye	_	AUX	aux	_	8	aux	_	_
-6	cán	_	NOUN	n	_	8	obj	_	_
-7	nã	_	PART	part	_	6	clf	_	_
-8	makɨra	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+5	waʔye	waʔye	AUX	aux	_	8	aux	_	_
+6	cán	cán	NOUN	n	_	8	obj	_	_
+7	nã	nã	PART	part	_	6	clf	_	_
+8	makɨra	kɨt	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
 
 # sent_id = 474
 # text = war iyõm ʔet okəy matet
 # text_eng = my father said (to me yesterday). (Gabas 1999, 154)
-1	war	_	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
+1	war	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	iyõm	iyõm	NOUN	n	_	3	obj	_	_
-3	ʔet	_	AUX	aux	_	0	root	_	_
-4	okəy	_	ADP	adp	_	3	case	_	_
-5	matet	_	ADV	adv	_	3	obl	_	_
+3	ʔet	ʔet	AUX	aux	_	0	root	_	_
+4	okəy	kəy	ADP	adp	_	3	case	_	_
+5	matet	matet	ADV	adv	_	3	obl	_	_
 
 # sent_id = 475
 # text = ci baʔpe mawɨga
 # text_eng = (He) dirtied the edge of the water (Gabas 1999, 155)
-1	ci	_	NOUN	n	_	3	nmod	_	_
-2	baʔpe	_	NOUN	n	_	3	obj	_	_
-3	mawɨga	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+1	ci	ci	NOUN	n	_	3	nmod	_	_
+2	baʔpe	paʔpe	NOUN	n	_	3	obj	_	_
+3	mawɨga	wɨk	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
 
 # sent_id = 476
 # text = ci mininĩ ʔa mõm mawɨya
 # text_eng = (he) made the water bubbles to come up, (Gabas 1999, 155)
-1	ci	_	NOUN	n	_	2	compound	_	_
-2	mininĩ	_	NOUN	n	_	5	obj	_	_
-3	ʔa	_	ADJ	adj	Clas=Rd	2	clf	_	_
-4	mõm	_	ADV	adv	_	2	advmod	_	_
-5	mawɨya	_	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
+1	ci	ci	NOUN	n	_	2	compound	_	_
+2	mininĩ	mininĩ	NOUN	n	_	5	obj	_	_
+3	ʔa	ʔa	ADJ	adj	Clas=Rd	2	clf	_	_
+4	mõm	mõm	ADV	adv	_	2	advmod	_	_
+5	mawɨya	wɨy	VERB	v	VerbForm=Ger|Voice=Cau	0	root	_	_
 
 # sent_id = 477
 # text = ŋaramãya
 # text_eng = (he) took her (in), (Gabas 1999, 155)
-1	ŋaramãya	_	VERB	v	Case=Com|Clas=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
+1	ŋaramãya	mãy	VERB	v	Case=Com|Clas=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
 
 # sent_id = 478
 # text = ŋaʔóa
 # text_eng = (he) ate her, (Gabas 1999, 156)
-1	ŋaʔóa	_	VERB	v	Clas=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
+1	ŋaʔóa	ʔó	VERB	v	Clas=Fem|Number=Sing|Person=3|VerbForm=Ger	0	root	_	_
 
 # sent_id = 479
 # text = toyãy ʔa binõ ya
 # text_eng = (he) cracked his own teeth (Gabas 1999, 156)
-1	toyãy	_	NOUN	n	Corf=Yes|Person=3	4	obj	_	_
-2	ʔa	_	ADJ	adj	Clas=Rd	1	clf	_	_
-3	binõ	_	NOUN	n	_	1	compound	_	_
-4	ya	_	VERB	v	VerbForm=Ger	0	root	_	_
+1	toyãy	yãy	NOUN	n	Corf=Yes|Person=3	4	obj	_	_
+2	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	1	clf	_	_
+3	binõ	pinõ	NOUN	n	_	1	compound	_	_
+4	ya	ya	VERB	v	VerbForm=Ger	0	root	_	_
 
 # sent_id = 480
 # text = at
@@ -3543,111 +3543,111 @@
 # text = iʔtə maʔpəy ŋa cet maʔã iʔke nãnin
 # text_eng = We really cannot call the woman's name, (Gabas 1999, 156)
 1	iʔtə	iʔtə	PRON	pron	Clusivity=In|Number=Plur|Person=1	5	nsubj	_	_
-2	maʔpəy	_	NOUN	n	_	4	nmod	_	_
+2	maʔpəy	maʔpəy	NOUN	n	_	4	nmod	_	_
 3	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	clf	_	_
-4	cet	_	NOUN	n	_	5	obj	_	_
-5	maʔã	_	VERB	v	VerbForm=Ger	0	root	_	_
+4	cet	cet	NOUN	n	_	5	obj	_	_
+5	maʔã	maʔã	VERB	v	VerbForm=Ger	0	root	_	_
 6	iʔke	iʔke	PART	part	Polarity=Neg	5	advmod	_	_
 7	nãnin	nãnin	PART	part	Evident=Fh	5	mark	_	_
 
 # sent_id = 482
 # text = naco ʔerem ye kanãp iʔkəga
 # text_eng = when we walk through the forest. (Gabas 1999, 156)
-1	naco	_	NOUN	n	_	5	obl	_	_
-2	ʔerem	_	ADP	adp	Case=Disp	1	case	_	_
-3	ye	_	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	_	_
-4	kanãp	_	SCONJ	sconj	_	5	mark	_	_
-5	iʔkəga	_	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	_	_
+1	naco	naco	NOUN	n	_	5	obl	_	_
+2	ʔerem	ʔerem	ADP	adp	Case=Disp	1	case	_	_
+3	ye	ʔe	AUX	aux	Clusivity=In|Number=Plur|Person=1	5	aux	_	_
+4	kanãp	kanãp	SCONJ	sconj	_	5	mark	_	_
+5	iʔkəga	kək	VERB	v	Number=Plur|Person=1|VerbForm=Ger	0	root	_	_
 
 # sent_id = 483
 # text = oyaʔwan aʔkera kanãp
 # text_eng = I left when he slept. (Gabas 1999, 157)
-1	oyaʔwan	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	aʔkera	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	conj	_	_
-3	kanãp	_	SCONJ	sconj	_	1	mark	_	_
+1	oyaʔwan	yaʔwat	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	aʔkera	ket	VERB	v	Number=Sing|Person=3|VerbForm=Ger	1	conj	_	_
+3	kanãp	kanãp	SCONJ	sconj	_	1	mark	_	_
 
 # sent_id = 484
 # text = õn aʔtop mãm at towirap ʔo kanãp
 # text_eng = I stayed watching it/him while he ate his food. (Gabas 1999, 157)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	aʔtop	_	VERB	v	Number=Sing|Person=3	0	root	_	_
+2	aʔtop	top	VERB	v	Number=Sing|Person=3	0	root	_	_
 3	mãm	mãm	PART	part	_	2	discourse	_	_
 4	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	6	nsubj	_	_
-5	towirap	_	NOUN	n	Corf=Yes|Person=3	6	obj	_	_
-6	ʔo	_	VERB	v	VerbForm=Ger	2	dep	_	_
-7	kanãp	_	SCONJ	sconj	_	6	mark	_	_
+5	towirap	wirap	NOUN	n	Corf=Yes|Person=3	6	obj	_	_
+6	ʔo	ʔo	VERB	v	VerbForm=Ger	2	dep	_	_
+7	kanãp	kanãp	SCONJ	sconj	_	6	mark	_	_
 
 # sent_id = 485
 # text = péŋ yaʔwan [towéya kanãp]
 # text_eng = The white man left when he cried. (Gabas 1999, 158)
 1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
-2	yaʔwan	_	VERB	v	Decl=Assert	0	root	_	_
-3	[towéya	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	dep	_	_
-4	kanãp]	_	SCONJ	sconj	_	3	mark	_	_
+2	yaʔwan	yaʔwat	VERB	v	Decl=Assert	0	root	_	_
+3	[towéya	wé	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	2	dep	_	_
+4	kanãp]	kanãp	SCONJ	sconj	_	3	mark	_	_
 
 # sent_id = 486
-# text = õn aʔwĩn [ewpak-a kanãp]
+# text = õn aʔwĩn [owepaka kanãp]
 # text_eng = I killed it/him when I woke up. (Gabas 1999, 158)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aʔwĩn	wĩ	VERB	v	Number=Sing|Person=3	0	root	_	_
-3	[ewpak-a	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	_	_
-4	kanãp]	_	SCONJ	sconj	_	3	mark	_	_
+3	[owepaka	pepak	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	_	_
+4	kanãp]	kanãp	SCONJ	sconj	_	3	mark	_	_
 
 # sent_id = 487
 # text = wĩt wĩaw aʔwaʔye at chapéu káʔ to kanãp
 # text_eng = He whistled when he saw his hat. (Gabas 1999, 158)
-1	wĩt	_	NOUN	n	_	2	compound	_	_
-2	wĩaw	_	NOUN	n	_	0	root	_	_
-3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	_	_
+1	wĩt	wĩt	NOUN	n	_	2	compound	_	_
+2	wĩaw	wĩaw	NOUN	n	_	0	root	_	_
+3	aʔwaʔye	waʔye	AUX	aux	Number=Sing|Person=3	2	aux	_	_
 4	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-5	chapéu	_	NOUN	n	_	7	obj	_	_
-6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	_	_
-7	to	_	VERB	v	_	2	advcl	_	_
-8	kanãp	_	ADV	adv	_	7	mark	_	_
+5	chapéu	chapéu	NOUN	n	_	7	obj	_	_
+6	káʔ	káʔ	ADJ	adj	Clas=Ccv	5	clf	_	_
+7	to	top	VERB	v	_	2	advcl	_	_
+8	kanãp	kanãp	ADV	adv	_	7	mark	_	_
 
 # sent_id = 488
-# text = õn aʔwĩn aʔ=to kanãp
+# text = õn aʔwĩn aʔto kanãp
 # text_eng = I killed it/him when I saw it/him. (Gabas 1999, 158)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aʔwĩn	wĩ	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-3	aʔ=to	_	VERB	v	Number=Sing|Person=3	2	advcl	_	_
-4	kanãp	_	SCONJ	sconj	_	3	mark	_	_
+3	aʔto	top	VERB	v	Number=Sing|Person=3	2	advcl	_	_
+4	kanãp	kanãp	SCONJ	sconj	_	3	mark	_	_
 
 # sent_id = 489
 # text = oweʔcɨn [at oto kanãp]
 # text_eng = I ran when he/it saw me. (Gabas 1999, 159)
-1	oweʔcɨn	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
-2	[at	_	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
-3	oto	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	_	_
-4	kanãp]	_	SCONJ	sconj	_	3	mark	_	_
+1	oweʔcɨn	peʔcɨt	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	[at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	3	nsubj	_	_
+3	oto	top	VERB	v	Number=Sing|Person=1|VerbForm=Ger	1	dep	_	_
+4	kanãp]	kanãp	SCONJ	sconj	_	3	mark	_	_
 
 # sent_id = 490
 # text = mõm aʔwaʔye [péŋ manẽ ya kanãp]
 # text_eng = He looked when the man entirely stood up. (Gabas 1999, 159)
-1	mõm	_	VERB	v	_	0	root	_	_
-2	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	1	aux	_	_
-3	[péŋ	_	NOUN	n	_	5	nsubj	_	_
-4	manẽ	_	ADJ	adj	_	3	amod	_	_
-5	ya	_	VERB	v	VerbForm=Ger	1	dep	_	_
-6	kanãp]	_	SCONJ	sconj	_	5	mark	_	_
+1	mõm	mõm	VERB	v	_	0	root	_	_
+2	aʔwaʔye	waʔye	AUX	aux	Number=Sing|Person=3	1	aux	_	_
+3	[péŋ	péŋ	NOUN	n	_	5	nsubj	_	_
+4	manẽ	manẽ	ADJ	adj	_	3	amod	_	_
+5	ya	ya	VERB	v	VerbForm=Ger	1	dep	_	_
+6	kanãp]	kanãp	SCONJ	sconj	_	5	mark	_	_
 
 # sent_id = 491
 # text = ŋa otoy iʔke [okera kanãp]
 # text_eng = She did not see me when I slept. (Gabas 1999, 159)
 1	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	otoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 3	iʔke	iʔke	PART	part	Polarity=Neg	2	advmod	_	_
-4	[okera	_	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	_	_
-5	kanãp]	_	SCONJ	sconj	_	4	mark	_	_
+4	[okera	ket	VERB	v	Number=Sing|Person=1|VerbForm=Ger	2	dep	_	_
+5	kanãp]	kanãp	SCONJ	sconj	_	4	mark	_	_
 
 # sent_id = 492
 # text = õn aʔtoy [agóaʔpət aʔwĩ kanãp]
 # text_eng = I saw it/him when the shaman killed it/him. (Gabas 1999, 159)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-3	[agóaʔpət	_	NOUN	n	_	4	nsubj	_	_
-4	aʔwĩ	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	dep	_	_
-5	kanãp]	_	SCONJ	sconj	_	4	mark	_	_
+3	[agóaʔpət	agóaʔpət	NOUN	n	_	4	nsubj	_	_
+4	aʔwĩ	wĩ	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	dep	_	_
+5	kanãp]	kanãp	SCONJ	sconj	_	4	mark	_	_
 
 # sent_id = 493
 # text = aʔti toat macaʔɨt wĩ nãt toʔwa
