@@ -4610,140 +4610,140 @@
 # text = at otoy
 # text_eng = He/it saw me. (Gabas 1999, 199)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	otoy	top	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 622
 # text = mõm at okəy
 # text_eng = He/it saw (me). (Gabas 1999, 199)
-1	mõm	_	VERB	v	_	0	root	_	_
+1	mõm	mõm	VERB	v	_	0	root	_	_
 2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
-3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	_	_
+3	okəy	kəy	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obj	_	_
 
 # sent_id = 623
 # text = õn aʔyamón
 # text_eng = I missed him/it. (Gabas 1999, 199)
 1	õn	õn	PRON	pron	Number=Sing|Person=1	2	nsubj	_	_
-2	aʔyamón	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔyamón	yamót	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 624
 # text = kahyep wet aʔkəy
 # text_eng = I missed (him/it). (Gabas 1999, 199)
-1	kahyep	_	VERB	v	_	0	root	_	_
-2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
-3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
+1	kahyep	kahyep	VERB	v	_	0	root	_	_
+2	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+3	aʔkəy	kəy	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
 
 # sent_id = 625
 # text = õn aʔtigat
 # text_eng = I threw him/it. (Gabas 1999, 199)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	aʔtigat	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔtigat	tiga	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 626
 # text = kaʔmep wet (aʔkəy)
 # text_eng = I threw (him/it). (Gabas 1999, 199)
-1	kaʔmep	_	VERB	v	_	0	root	_	_
-2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
-3	(aʔkəy)	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
+1	kaʔmep	kaʔmep	VERB	v	_	0	root	_	_
+2	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+3	(aʔkəy)	kəy	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
 
 # sent_id = 627
 # text = aʔtóy
 # text_eng = He/it disappeared. (Gabas 1999, 200)
-1	aʔtóy	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+1	aʔtóy	tóp	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 628
-# text = yep at
+# text = yép at
 # text_eng = He/it disappeared. (Gabas 1999, 200)
-1	yep	_	VERB	v	_	0	root	_	_
+1	yép	yép	VERB	v	_	0	root	_	_
 2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
 
 # sent_id = 629
 # text = məy aʔwaʔye totia oyuruŋ aʔwaʔye
 # text_eng = Then he came. (Gabas 1999, 200)
-1	məy	_	ADV	adv	_	4	advmod	_	_
-2	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	4	aux	_	_
-3	totia	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	_	_
-4	oyuruŋ	_	VERB	v	_	0	root	_	_
-5	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	4	aux	_	_
+1	məy	məy	ADV	adv	_	4	advmod	_	_
+2	aʔwaʔye	waʔye	AUX	aux	Number=Sing|Person=3	4	aux	_	_
+3	totia	ti	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	4	dep	_	_
+4	oyuruŋ	oyuruŋ	VERB	v	_	0	root	_	_
+5	aʔwaʔye	waʔye	AUX	aux	Number=Sing|Person=3	4	aux	_	_
 
 # sent_id = 630
 # text = onoroŋ at tocit paʔpara
 # text_eng = He fell from his bike. (Gabas 1999, 200)
-1	onoroŋ	_	VERB	v	_	0	root	_	_
+1	onoroŋ	onoroŋ	VERB	v	_	0	root	_	_
 2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
-3	tocit	_	NOUN	n	Corf=Yes|Person=3	1	obl	_	_
-4	paʔpara	_	VERB	v	VerbForm=Ger	1	dep	_	_
+3	tocit	cit	NOUN	n	Corf=Yes|Person=3	1	obl	_	_
+4	paʔpara	paʔpar	VERB	v	VerbForm=Ger	1	dep	_	_
 
 # sent_id = 631
 # text = tɨk tɨk at toat wirik kanã təga tə
 # text_eng = He was picking his pears, they say. (Gabas 1999, 200)
-1	tɨk	_	VERB	v	_	2	compound	_	_
-2	tɨk	_	VERB	v	_	7	parataxis	_	_
+1	tɨk	tɨk	VERB	v	_	2	compound	_	_
+2	tɨk	tɨk	VERB	v	_	7	parataxis	_	_
 3	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	2	aux	_	_
-4	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	_	_
-5	wirik	_	NOUN	n	_	7	obj	_	_
-6	kanã	_	ADV	adv	_	5	advmod	_	_
-7	təga	_	VERB	v	VerbForm=Ger	0	root	_	_
+4	toat	toat	PRON	pron	Corf=Yes|Person=3|PronType=Prs	5	nmod	_	_
+5	wirik	wirik	NOUN	n	_	7	obj	_	_
+6	kanã	kanã	ADV	adv	_	5	advmod	_	_
+7	təga	tək	VERB	v	VerbForm=Ger	0	root	_	_
 8	tə	tə	PART	part	Evident=Nfh	7	mark	_	_
 
 # sent_id = 632
 # text = məy mõm aʔwaʔye yét kanã cit toba
 # text_eng = Then he looked and saw this basket. (Gabas 1999, 200)
-1	məy	_	ADV	adv	_	2	advmod	_	_
-2	mõm	_	VERB	v	_	0	root	_	_
-3	aʔwaʔye	_	AUX	aux	Number=Sing|Person=3	2	aux	_	_
+1	məy	məy	ADV	adv	_	2	advmod	_	_
+2	mõm	mõm	VERB	v	_	0	root	_	_
+3	aʔwaʔye	waʔye	AUX	aux	Number=Sing|Person=3	2	aux	_	_
 4	yét	yét	PRON	pron	PronType=Dem	6	det	_	_
-5	kanã	_	ADV	adv	_	6	advmod	_	_
-6	cit	_	NOUN	n	_	7	obj	_	_
-7	toba	_	VERB	verb	VerbForm=Ger	2	conj	_	_
+5	kanã	kanã	ADV	adv	_	6	advmod	_	_
+6	cit	cit	NOUN	n	_	7	obj	_	_
+7	toba	top	VERB	verb	VerbForm=Ger	2	conj	_	_
 
 # sent_id = 633
 # text = at otoy
 # text_eng = He/it saw me. Gabas 1999, 201)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
-2	otoy	_	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
+2	otoy	top	VERB	v	Decl=Assert|Number=Sing|Person=1	0	root	_	_
 
 # sent_id = 634
 # text = mõm ʔat okəy
 # text_eng = He/it saw something/(me).(Gabas 1999, 201)
-1	mõm	_	VERB	v	_	0	root	_	_
-2	ʔat	_	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
-3	okəy	_	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obl	_	_
+1	mõm	mõm	VERB	v	_	0	root	_	_
+2	ʔat	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
+3	okəy	kəy	ADP	adp	Case=Dat|Number=Sing|Person=1	1	obl	_	_
 
 # sent_id = 635
-# text = õn aʔyamón
+# text = õn aʔyamon
 # text_eng = I missed him/it. (Gabas 1999, 201)
 1	õn	õn	PRON	pron	Number=Sing|Person=1	2	nsubj	_	_
-2	aʔyamón	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔyamon	yamot	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 636
 # text = kahyep wet aʔkəy
 # text_eng = I missed something/(him/it).(Gabas 1999, 201)
-1	kahyep	_	VERB	v	_	0	root	_	_
-2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
-3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
+1	kahyep	kahyep	VERB	v	_	0	root	_	_
+2	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+3	aʔkəy	kəy	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
 
 # sent_id = 637
 # text = õn aʔtigat
 # text_eng = I threw him/it. (Gabas 1999, 202)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
-2	aʔtigat	_	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
+2	aʔtigat	tiga	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 
 # sent_id = 638
 # text = kaʔmep wet aʔkəy
 # text_eng = I threw something/(him/it). (Gabas 1999, 202)
-1	kaʔmep	_	VERB	v	_	0	root	_	_
-2	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
-3	aʔkəy	_	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
+1	kaʔmep	kaʔmep	VERB	v	_	0	root	_	_
+2	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	1	aux	_	_
+3	aʔkəy	kəy	ADP	adp	Case=Dat|Number=Sing|Person=3	1	obj	_	_
 
 # sent_id = 639
 # text = péŋ ʔet topə toat macaʔɨt wĩa
 # text_eng = (It was seen that) the white man killed his pet. (Gabas 1999, 209)
 1	péŋ	péŋ	NOUN	n	_	6	nsubj	_	_
-2	ʔet	_	AUX	aux	Decl=Assert	3	aux	_	_
+2	ʔet	ʔe	AUX	aux	Decl=Assert	3	aux	_	_
 3	topə	topə	PART	part	Evident=Fh	0	root	_	_
-4	toat	_	PRON	pron	PronType=Prs	5	nmod	_	_
-5	macaʔɨt	_	NOUN	n	_	6	obj	_	_
-6	wĩa	_	VERB	v	VerbForm=Ger	3	ccomp	_	_
+4	toat	at	PRON	pron	PronType=Prs	5	nmod	_	_
+5	macaʔɨt	macaʔɨt	NOUN	n	_	6	obj	_	_
+6	wĩa	wĩ	VERB	v	VerbForm=Ger	3	ccomp	_	_
 
 # sent_id = 640
 # text = ayaʔwan tə
@@ -4790,8 +4790,8 @@
 # text_eng = He will most likely kill it (Gabas 1999, 211)
 1	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	2	nsubj	_	_
 2	aʔwĩn	wĩ	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
-3	iga	_	PART	part	Tense=Fut	2	mark	_	_
-4	manã	_	PART	part	Evident=Fh	2	advmod	_	_
+3	iga	iga	PART	part	Tense=Fut	2	mark	_	_
+4	manã	manã	PART	part	Evident=Fh	2	advmod	_	_
 
 # sent_id = 647
 # text = õn aʔtoy nãnin kán
@@ -4799,18 +4799,18 @@
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nsubj	_	_
 2	aʔtoy	top	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 3	nãnin	nãnin	PART	part	Evident=Fh	2	advmod	_	_
-4	kán	_	PART	part	Tense=RPast	2	dep	_	_
+4	kán	kán	PART	part	Tense=RPast	2	dep	_	_
 
 # sent_id = 648
 # text = maʔpəy ŋa ʔet at chapéu káʔ tiga menə
 # text_eng = Would it be that the woman threw his hat. (Gabas 1999, 212)
-1	maʔpəy	_	NOUN	n	_	7	nsubj	_	_
+1	maʔpəy	maʔpəy	NOUN	n	_	7	nsubj	_	_
 2	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	_	_
-3	ʔet	_	AUX	aux	Decl=Assert	7	aux	_	_
+3	ʔet	ʔe	AUX	aux	Decl=Assert	7	aux	_	_
 4	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nmod	_	_
-5	chapéu	_	NOUN	n	_	7	obj	_	_
-6	káʔ	_	ADJ	adj	Clas=Ccv	5	clf	_	_
-7	tiga	_	VERB	v	VerbForm=Ger	0	root	_	_
+5	chapéu	chapéu	NOUN	n	_	7	obj	_	_
+6	káʔ	káʔ	ADJ	adj	Clas=Ccv	5	clf	_	_
+7	tiga	tiga	VERB	v	VerbForm=Ger	0	root	_	_
 8	menə	menə	PART	part	_	7	mark	_	_
 
 # sent_id = 649
@@ -4826,8 +4826,8 @@
 1	ẽn	ẽn	PRON	pron	Number=Sing|Person=2|PronType=Prs	5	nsubj	_	_
 2	ahyə	ahyə	PART	part	Int=Yes	5	discourse	_	_
 3	menə	menə	PART	part	Evident=Fh	5	discourse	_	_
-4	kanã	_	NOUN	n	_	5	nmod	_	_
-5	tayãn	_	VERB	v	Case=Com|Decl=Assert	0	root	_	_
+4	kanã	kanã	NOUN	n	_	5	nmod	_	_
+5	tayãn	yã	VERB	v	Case=Com|Decl=Assert	0	root	_	_
 6	menə	menə	PART	part	Evident=Fh	5	discourse	_	_
 
 # sent_id = 651
@@ -4843,9 +4843,9 @@
 # text_eng = The white man was seen to have killed one of his own pets. (Gabas 1999, 213)
 1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
 2	topə	topə	PART	part	Evident=Fh	0	root	_	_
-3	toat	_	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	_	_
-4	macaʔɨt	_	NOUN	n	_	2	obj	_	_
-5	nõ	_	ADV	adv	_	4	nmod	_	_
+3	toat	toat	PRON	pron	Corf=Yes|Person=3|PronType=Prs	4	nmod	_	_
+4	macaʔɨt	macaʔɨt	NOUN	n	_	2	obj	_	_
+5	nõ	nõ	ADV	adv	_	4	nmod	_	_
 6	wĩn	wĩ	VERB	v	Decl=Assert	2	ccomp	_	_
 
 # sent_id = 653
@@ -4853,22 +4853,22 @@
 # text_eng = The white man is supposed to have killed it/him (Gabas 1999, 213)
 1	péŋ	péŋ	NOUN	n	_	2	nsubj	_	_
 2	iʔkɨy	iʔkɨy	PART	part	Evident=Fh	0	root	_	_
-3	aʔwĩa	_	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	xcomp	_	_
-4	wet	_	AUX	aux	Decl=Assert|Number=Sing|Person=1	2	aux	_	_
+3	aʔwĩa	wĩ	VERB	v	Number=Sing|Person=3|VerbForm=Ger	2	xcomp	_	_
+4	wet	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=1	2	aux	_	_
 
 # sent_id = 654
 # text = mɨrɨrɨy imatẽran nãnin toʔwa
 # text_eng = The toad would certainly make people get lost. (Gabas 1999, 214)
-1	mɨrɨrɨy	_	NOUN	n	_	2	nsubj	_	_
-2	imatẽran	_	VERB	v	Decl=Assert|Person=3Imp|Voice=Cau	0	root	_	_
+1	mɨrɨrɨy	mɨrɨrɨy	NOUN	n	_	2	nsubj	_	_
+2	imatẽran	matẽra	VERB	v	Decl=Assert|Person=3Imp|Voice=Cau	0	root	_	_
 3	nãnin	nãnin	PART	part	Evident=Fh	2	advmod	_	_
-4	toʔwa	_	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	_	_
+4	toʔwa	ʔe	AUX	aux	Corf=Yes|Person=3|VerbForm=Ger	2	aux	_	_
 
 # sent_id = 655
-# text = kõm aʔcat menə
+# text = kõm aʔcet menə
 # text_eng = I wonder what his name is. (Gabas 1999, 214)
 1	kõm	kõm	ADV	adv	Int=Yes	3	advmod	_	_
-2	aʔcat	_	NOUN	n	Number=Sing|Person=3	3	obj	_	_
+2	aʔcet	cet	NOUN	n	Number=Sing|Person=3	3	obj	_	_
 3	menə	menə	PART	part	Evident=Fh	0	root	_	_
 
 # sent_id = 656
@@ -4877,7 +4877,7 @@
 1	nãn	nã	AUX	aux	Int=Yes	5	obj	_	_
 2	mã	mã	PART	part	Case=Ins	1	mark	_	_
 3	at	at	PRON	pron	Number=Sing|Person=3|PronType=Prs	5	nsubj	_	_
-4	aʔwĩm	_	VERB	v	Decl=AssertFoc|Number=Sing|Person=3	5	advcl	_	_
+4	aʔwĩm	wĩ	VERB	v	Decl=AssertFoc|Number=Sing|Person=3	5	advcl	_	_
 5	menə	menə	PART	part	Evident=Fh	0	root	_	_
 
 # sent_id = 657
