@@ -3929,9 +3929,9 @@
 # sent_id = 531
 # text = wayo yogá beʔ
 # text_eng = tongue of (an) alligator (Gabas 1999, 172)
-1	wayo	_	NOUN	n	_	2	nmod	_	_
-2	yogá	_	NOUN	n	_	0	root	_	_
-3	beʔ	_	ADJ	adj	Clas=Flat	1	clf	_	_
+1	wayo	wayo	NOUN	n	_	2	nmod	_	_
+2	yogá	yogá	NOUN	n	_	0	root	_	_
+3	beʔ	peʔ	ADJ	adj	Clas=Flat	1	clf	_	_
 
 # sent_id = 532
 # text = wayo nakira beʔ
@@ -4769,7 +4769,7 @@
 # sent_id = 643
 # text = tokera at igã
 # text_eng = He must have gone to sleep. (Gabas 1999, 210)
-1	tokera	_	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
+1	tokera	ket	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
 2	at	ʔe	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	aux	_	_
 3	igã	igã	PART	part	Evident=Fh	1	discourse	_	_
 
