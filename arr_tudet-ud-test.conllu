@@ -1920,7 +1920,7 @@
 # text = kanãy [yét] ʔet tocaropaba
 # text_eng = Then this (white man) was sad. (Gabas 1999, 109)
 1	kanãy	kanãy	ADV	adv	_	4	advmod	_	_
-2	[yét]	_	PRON	pron	PronType=Dem	4	nsubj	_	_
+2	[yét]	yét	PRON	pron	PronType=Dem	4	nsubj	_	_
 3	ʔet	ʔe	AUX	aux	Decl=Assert	4	aux	_	_
 4	tocaropaba	caropap	VERB	v	Corf=Yes|Person=3|VerbForm=Ger	0	root	_	_
 
@@ -2299,7 +2299,7 @@
 # text = wat awe iyõm capét
 # text_eng = My brother beat father. (Gabas 1999, 120)
 1	wat	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
-2	awe	_	NOUN	n	_	4	nsubj	_	_
+2	awe	awe	NOUN	n	_	4	nsubj	_	_
 3	iyõm	iyõm	NOUN	n	_	4	obj	_	_
 4	capét	capé	VERB	v	Decl=Assert	0	root	_	_
 
@@ -3807,8 +3807,8 @@
 # sent_id = 511
 # text = icãp pɨʔ
 # text_eng = leg (Gabas 1999, 170)
-1	icãp	_	NOUN	_	Person=3Imp	0	root	_	_
-2	pɨʔ	_	ADJ	adj	Clas=Cyls	1	clf	_	_
+1	icãp	cãp	NOUN	_	Person=3Imp	0	root	_	_
+2	pɨʔ	pɨʔ	ADJ	adj	Clas=Cyls	1	clf	_	_
 
 # sent_id = 512
 # text = icapop pɨʔ
