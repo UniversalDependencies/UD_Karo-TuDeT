@@ -352,8 +352,8 @@
 # sent_id = 053
 # text = et tágɨp
 # text_eng = your bow (Gabas 1999, 43)
-1	et	_	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
-2	tágɨp	_	NOUN	n	_	0	root	_	_
+1	et	et	PRON	pron	Number=Sing|Person=2|PronType=Prs	2	nmod	_	_
+2	tágɨp	tágɨp	NOUN	n	_	0	root	_	_
 
 # sent_id = 054
 # text = Noep at tágɨp
