@@ -50,7 +50,7 @@
 # text_eng = I like the wild dog (Gabas 1999, 25)
 1	õn	õn	PRON	pron	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
 2	yaracewag	yaracewak	NOUN	n	_	3	obj	_	_
-3	yaʔti	_	VERB	v	_	0	root	_	_
+3	yaʔti	yaʔti	VERB	v	_	0	root	_	_
 4	nãn	nã	AUX	aux	Decl=Assert	3	cop	_	_
 
 # sent_id = 009
