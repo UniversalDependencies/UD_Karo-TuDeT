@@ -3955,7 +3955,7 @@
 3	pɨʔ	pɨʔ	ADJ	adj	Clas=Cyls	1	clf	_	_
 
 # sent_id = 535
-# text = karam yogá bɨʔ
+# text = káram yogá bɨʔ
 # text_eng = tongue of (a) hummingbird (Gabas 1999, 173)
 1	káram	káram	NOUN	n	_	2	nmod	_	_
 2	yogá	yogá	NOUN	n	_	0	root	_	_
@@ -3988,7 +3988,7 @@
 2	ʔora	ʔora	NOUN	n	_	0	root	_	_
 
 # sent_id = 540
-# text = karam wirap
+# text = káram wirap
 # text_eng = hummingbird's food (Gabas 1999, 174)
 1	káram	káram	NOUN	n	_	2	nmod	_	_
 2	wirap	wirap	NOUN	n	_	0	root	_	_
@@ -4037,7 +4037,7 @@
 4	ɨp	ʔɨp	ADJ	adj	Clas=Cylm	1	clf	_	_
 
 # sent_id = 547
-# text = icap pɨʔ cára bɨʔ
+# text = icáp pɨʔ cára bɨʔ
 # text_eng = long leg (Gabas 1999, 176)
 1	icáp	cáp	NOUN	n	Person=3Imp	0	root	_	_
 2	pɨʔ	pɨʔ	ADJ	adj	Clas=Cyls	1	clf	_	_
@@ -4061,7 +4061,7 @@
 4	cɨʔ	cɨʔ	ADJ	adj	Clas=Tflat	1	clf	_	_
 
 # sent_id = 550
-# text = karo ʔaʔ par aʔ
+# text = karo ʔaʔ pár aʔ
 # text_eng = beautiful macaw (Gabas 1999, 177)
 1	karo	karo	NOUN	n	_	0	root	_	_
 2	ʔaʔ	ʔaʔ	ADJ	adj	Clas=Rd	1	clf	_	_
@@ -4085,7 +4085,7 @@
 4	gap	kap	ADJ	adj	Clas=Bss	1	clf	_	_
 
 # sent_id = 553
-# text = maʔta maʔ kap maʔ
+# text = maʔta maʔ káp maʔ
 # text_eng = delicious beans (Gabas 1999, 177)
 1	maʔta	maʔta	NOUN	n	_	0	root	_	_
 2	maʔ	maʔ	ADJ	adj	Clas=Bds	1	clf	_	_
@@ -4093,7 +4093,7 @@
 4	maʔ	maʔ	ADJ	adj	Clas=Bds	1	clf	_	_
 
 # sent_id = 554
-# text = maʔpəy ŋa para ŋa
+# text = maʔpəy ŋa pára ŋa
 # text_eng = beautiful woman (Gabas 1999, 177)
 1	maʔpəy	maʔpəy	NOUN	n	_	0	root	_	_
 2	ŋa	ŋa	PRON	pron	Clas=Fem|Number=Sing|Person=3|PronType=Prs	1	clf	_	_
@@ -4109,7 +4109,7 @@
 4	nãʔ	nãʔ	ADJ	adj	Clas=X	1	clf	_	_
 
 # sent_id = 556
-# text = wayo nak pap cú bap
+# text = wayo nák pap cú bap
 # text_eng = big alligator mouth (Gabas 1999, 178)
 1	wayo	wayo	NOUN	n	_	2	compound	_	_
 2	nák	nák	NOUN	n	_	0	root	_	_
@@ -4443,7 +4443,7 @@
 3	ʔa	ʔe	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	1	aux	_	_
 
 # sent_id = 601
-# text = iyɨt okay oʔa ecap pɨʔtoʔ peʔ
+# text = iyɨt okay oʔa ecáp pɨʔtoʔ peʔ
 # text_eng = I will pinch both your legs. (Gabas 1999, 193)
 1	iyɨt	iyɨt	VERB	v	_	0	root	_	_
 2	okay	kap	AUX	aux	Decl=Assert|Number=Sing|Person=1|Tense=Fut	1	aux	_	_
