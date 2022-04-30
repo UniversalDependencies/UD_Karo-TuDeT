@@ -1,34 +1,24 @@
 
 # Summary
 
-
-UD_Karo-TuDeT is a collection of annotated texts in <a href="https://glottolog.org/resource/languoid/id/karo1306"> Karo</a>. The project is a work in progress and the treebank is being updated on a regular basis.
-
-</br>
-</br>
-</br>
-</br>
-</br>
+UD_Karo-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/karo1306"> Karo</a>. The sentences stem from the only grammatical description of the language (Gabas, 1999) and from the sentences in the dictionary by the same author (Gabas, 2007).  Sentence annotation and documentation by Fabrício Ferraz Gerardi.
 
 # Introduction
 
-UD_Karo-TuDeT is a collection of annotated sentences in Karo. It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The sentences are being annotated by Fabrício Ferraz Gerardi.
+UD_Karo-TuDeT is a collection of annotated sentences in <a href="https://glottolog.org/resource/languoid/id/karo1306"> Karo</a>. The sentences stem from the only grammatical description of the language (Gabas, 1999) and from the sentences in the dictionary by the same author (Gavião and Gabas, 2007). It is part of [TuLaR](https://tular.clld.org), Tupían Language Resources. The project is work-in-progress and the treebank is being updated on a regular basis. Sentence annotation and documentation by Fabrício Ferraz Gerardi.
 
 ## Text sources
 
-* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD dissertation.
-
+* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD thesis.
+* Gavião, Sebastião and Gabas Jr., Nilson (2007) Dicionário Karo - Português. Privatly published.
 
 
 # Acknowledgments
 
-The development of the treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
+The development of this treebank is supported by the by European Research Council (ERC) under the European Union’s Horizon 2020 research and innovation programme (Grant agreement No. [834050](https://uni-tuebingen.de/fakultaeten/philosophische-fakultaet/fachbereiche/neuphilologie/seminar-fuer-sprachwissenschaft/arbeitsbereiche/allg-sprachwissenschaft/projekte/crosslingference/)).
 
 ## References
 
-* Gabas Jr., Nilson (1999) A Grammar of Karo, Tupi (Brazil). University of California. Unpublished PhD dissertation.
-
-* Gavião, Sebastião and Gabas Jr., Nilson (2007) Dicionário Karo-Português. Unpublished.
 
 
 # Changelog
