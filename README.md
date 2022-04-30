@@ -2,7 +2,7 @@
 # Summary
 
 
-UD_Karo-TuDeT is a collection of annotated texts in <a href="https://www.endangeredlanguages.com/lang/1368"> Karo</a>. The project is a work in progress and the treebank is being updated on a regular basis.
+UD_Karo-TuDeT is a collection of annotated texts in <a href="https://glottolog.org/resource/languoid/id/karo1306"> Karo</a>. The project is a work in progress and the treebank is being updated on a regular basis.
 
 </br>
 </br>
