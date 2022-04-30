@@ -3496,7 +3496,7 @@
 # text_eng = my father said (to me yesterday). (Gabas 1999, 154)
 1	war	wat	PRON	pron	Number=Sing|Person=1|PronType=Prs	2	nmod	_	_
 2	iyõm	iyõm	NOUN	n	_	3	obj	_	_
-3	ʔet	ʔet	AUX	aux	_	0	root	_	_
+3	ʔet	ʔe	AUX	aux	_	0	root	_	_
 4	okəy	kəy	ADP	adp	_	3	case	_	_
 5	matet	matet	ADV	adv	_	3	obl	_	_
 
@@ -3530,7 +3530,7 @@
 # text = toyãy ʔa binõ ya
 # text_eng = (he) cracked his own teeth (Gabas 1999, 156)
 1	toyãy	yãy	NOUN	n	Corf=Yes|Person=3	4	obj	_	_
-2	ʔa	ʔaʔ	ADJ	adj	Clas=Rd	1	clf	_	_
+2	ʔa	ʔa	ADJ	adj	Clas=Rd	1	clf	_	_
 3	binõ	pinõ	NOUN	n	_	1	compound	_	_
 4	ya	ya	VERB	v	VerbForm=Ger	0	root	_	_
 
@@ -3733,7 +3733,7 @@
 3	iyõm	iyõm	NOUN	n	_	4	nsubj	_	_
 4	eto	eto	VERB	v	Number=Sing|Person=2	1	dep	_	_
 5	nãr	nãr	SCONJ	sconj	_	4	mark	_	_
-6	a	ʔa	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	4	aux	_	_
+6	a	ʔe	AUX	aux	Number=Sing|Person=2|VerbForm=Ger	4	aux	_	_
 
 # sent_id = 502
 # text = oyaʔwan iʔke ya [amãn yat]
