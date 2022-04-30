@@ -216,7 +216,7 @@
 # sent_id = 033
 # text = nãn iket
 # text_eng = Who slept? (Gabas 1999, 39)
-1	nãn	nãn	AUX	aux	Int=Yes	2	nsubj	_	_
+1	nãn	nã	AUX	aux	Int=Yes	2	nsubj	_	_
 2	iket	ket	VERB	v	Person=3Imp	0	root	_	_
 
 # sent_id = 034
@@ -3346,7 +3346,7 @@
 1	péŋ	péŋ	NOUN	n	_	0	root	_	_
 2	mecéb	pecép	ADJ	adj	_	1	amod	_	_
 3	iʔke	iʔke	PART	part	Polarity=Neg	1	advmod	_	_
-4	aʔnãn	aʔnã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
+4	aʔnãn	nã	AUX	aux	Decl=Assert|Number=Sing|Person=3	1	cop	_	_
 
 # sent_id = 456
 # text = okera iʔke okay
@@ -3481,7 +3481,7 @@
 
 # sent_id = 473
 # text = məy yét maʔpəy ŋa waʔye cán nã makɨra
-# text_eng = Then this woman started a fire, (Gabas 1999, 154)
+# text_eng = Then this woman started a fire (Gabas 1999, 154)
 1	məy	_məy	ADV	adv	_	8	advmod	_	_
 2	yét	yét	PRON	pron	PronType=Dem	3	det	_	_
 3	maʔpəy	maʔpəy	NOUN	n	_	8	nsubj	_	_
@@ -5012,4 +5012,3 @@
 1	aʔken	ket	VERB	v	Decl=Assert|Number=Sing|Person=3	0	root	_	_
 2	pə	pə	PART	part	Evident=Fh	1	discourse	_	_
 3	menə	menə	PART	part	Evident=Fh	1	discourse	_	_
-
