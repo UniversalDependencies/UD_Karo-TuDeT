@@ -1,40 +1,40 @@
 Running the following version of UD tools:
-commit 3478a99bb195eb8749c367af4f7b3fd357a12a4c
-Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue Nov 2 22:17:19 2021 +0100
+commit ba6fbf413cb14afa25145b931c79fb60ef9456e2
+Author: www-data (nschneid) <nschneid@github.com>
+Date:   Wed May 11 05:10:30 2022 +0200
 Evaluating the following revision of UD_Karo-TuDeT:
-commit ac65d771a940ed28dd994803052e2226f1864187
+commit deb5bd8e455c3ad64c8447b3f317cef4868e2dba
+Merge: 081b46a 819e9e5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Wed Nov 3 14:49:29 2021 +0100
-Size: counted 2318 of 2318 words (nodes).
-Size: min(0, log((N/1000)**2)) = 1.68140948983512.
+Size: counted 2319 of 2319 words (nodes).
+Size: min(0, log((N/1000)**2)) = 1.68227211654679.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
-Lemmas: '_' is the most frequent lemma.
+Lemmas: source of annotation (from README) factor is 0.8.
 Universal POS tags: 13 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.8.
-Features: 1428 out of 2318 total words have one or more features.
+Features: 1428 out of 2319 total words have one or more features.
 Features: source of annotation (from README) factor is 0.8.
 Universal relations: 25 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Udapi:
-               TOTAL        447
-Udapi: found 447 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 2318 words.
+               TOTAL        446
+Udapi: found 446 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 2319 words.
 Genres: found 2 out of 17 known.
 validate.py --lang arr --max-err=10 UD_Karo-TuDeT/arr_tudet-ud-test.conllu
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.8) = 0.0615384615384615
 (weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
-(weight=0.0769230769230769) * (score{lemmas}=0.01) = 0.000769230769230769
-(weight=0.256410256410256) * (score{size}=0.121704477209192) = 0.0312062762074852
+(weight=0.0769230769230769) * (score{lemmas}=0.8) = 0.0615384615384615
+(weight=0.256410256410256) * (score{size}=0.121766916212662) = 0.031222286208375
 (weight=0.0512820512820513) * (score{split}=0.01) = 0.000512820512820513
 (weight=0.0769230769230769) * (score{tags}=0.611764705882353) = 0.0470588235294118
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
 (weight=0.0769230769230769) * (score{udeprels}=0.540540540540541) = 0.0415800415800416
-(TOTAL score=0.194792350970031) * (availability=1) * (validity=1) = 0.194792350970031
-STARS = 1
-UD_Karo-TuDeT	0.194792350970031	1
+(TOTAL score=0.255577591740151) * (availability=1) * (validity=1) = 0.255577591740151
+STARS = 1.5
+UD_Karo-TuDeT	0.255577591740151	1.5
