@@ -84,7 +84,7 @@
     <feat name="Voice" value="Pass" upos="VERB">7</feat><!-- abebeʔtɨra, abegahmõm, bekɨga, bemeŋãn, bewĩa, memaʔwaba, towewĩa -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="25">
+  <deps unique="26">
     <dep name="acl">4</dep>
     <dep name="advcl">3</dep>
     <dep name="advmod">185</dep>
@@ -94,15 +94,16 @@
     <dep name="case">84</dep>
     <dep name="ccomp">8</dep>
     <dep name="clf">153</dep>
-    <dep name="compound">44</dep>
+    <dep name="compound">45</dep>
     <dep name="conj">7</dep>
     <dep name="cop">21</dep>
     <dep name="dep">67</dep>
     <dep name="det">6</dep>
     <dep name="discourse">61</dep>
+    <dep name="dislocated">1</dep>
     <dep name="mark">109</dep>
     <dep name="nmod">138</dep>
-    <dep name="nsubj">296</dep>
+    <dep name="nsubj">294</dep>
     <dep name="nummod">4</dep>
     <dep name="obj">151</dep>
     <dep name="obl">72</dep>
