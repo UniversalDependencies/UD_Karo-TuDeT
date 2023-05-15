@@ -171,7 +171,7 @@
 # text = aʔwɑ̃ŋ naʔto wīn
 # text_eng = He, being sick, killed the tapir. (Gabas 1999, 29)
 1	aʔwɑ̃ŋ	wɑ̃k	VERB	v	Number=Sing|Person=3	0	root	_	_
-2	naʔto	naʔto	NOUN	n	_	3	obj	_	_
+2	naʔto	naʔto	NOUN	n	_	3	obj	_	[naʔˈtɔ]
 3	wīn	wī	VERB	v	Decl=Assert	1	dep	_	_
 
 # sent_id = 027
@@ -2956,7 +2956,7 @@
 # sent_id = 408
 # text = toto ibetõ mɨy mãm ŋán
 # text_eng = It was grandfather who told (the story) long ago. (Gabas 1999, 138)
-1	toto	toto	NOUN	n	_	2	nsubj	_	_
+1	toto	toto	NOUN	n	_	2	nsubj	_	[tɔˈtːɔ]
 2	ibetõ	betõ	VERB	v	Person=3Imp	0	root	_	_
 3	mɨy	mɨy	ADV	adv	_	2	advmod	_	_
 4	mãm	mãm	PART	part	_	2	discourse	_	_
