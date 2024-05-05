@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Karo-TuDeT:
-commit 90362d463177b8137d34354fe7e622db5ace4c00
-Merge: 025c74a b092c1b
+commit 6eb7a3508816d755521e6e2b4887c4d8e9fdf9b2
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Mon Nov 6 12:31:54 2023 +0100
 Size: counted 2319 of 2319 words (nodes).
 Size: min(0, log((N/1000)**2)) = 1.68227211654679.
 Size: maximum value 13.815511 is for 1000000 words or more.
