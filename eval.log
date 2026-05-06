@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Karo-TuDeT:
-commit c6a066218441aec83393781e719f0386bba7c807
-Merge: 8b470b7 e541023
+commit 49416723effd0567caa8337937286f7050e2d8f7
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Tue Nov 11 20:08:25 2025 +0100
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'arr_tudet'
 Language code (from CoNLL-U file name) = 'arr'
@@ -25,17 +25,17 @@ Universal relations: 26 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.8.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang arr --max-err=10 UD_Karo-TuDeT/arr_tudet-ud-test.conllu
-[Line 99 Sent 015]: [L3 Warning pron-det-without-prontype] The word 'iʔnõ' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 246 Sent 037]: [L3 Warning pron-det-without-prontype] The word 'kɨgomət' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 253 Sent 038]: [L3 Warning pron-det-without-prontype] The word 'kɨgomət' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 261 Sent 039]: [L3 Warning pron-det-without-prontype] The word 'kɨgomət' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 272 Sent 040]: [L3 Warning pron-det-without-prontype] The word 'nãn' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 280 Sent 041]: [L3 Warning pron-det-without-prontype] The word 'nãn' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 392 Sent 059]: [L3 Warning pron-det-without-prontype] The word 'iʔtə' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 463 Sent 069]: [L3 Warning pron-det-without-prontype] The word 'nãn' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 485 Sent 072]: [L3 Warning pron-det-without-prontype] The word 'at' is tagged 'PRON' but it lacks the 'PronType' feature
-[Line 492 Sent 073]: [L3 Warning pron-det-without-prontype] The word 'õn' is tagged 'PRON' but it lacks the 'PronType' feature
-...suppressing further errors regarding Warning
+[Line 99 Sent 015]: [L3 WARNING pron-det-without-prontype] The word 'iʔnõ' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 246 Sent 037]: [L3 WARNING pron-det-without-prontype] The word 'kɨgomət' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 253 Sent 038]: [L3 WARNING pron-det-without-prontype] The word 'kɨgomət' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 261 Sent 039]: [L3 WARNING pron-det-without-prontype] The word 'kɨgomət' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 272 Sent 040]: [L3 WARNING pron-det-without-prontype] The word 'nãn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 280 Sent 041]: [L3 WARNING pron-det-without-prontype] The word 'nãn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 392 Sent 059]: [L3 WARNING pron-det-without-prontype] The word 'iʔtə' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 463 Sent 069]: [L3 WARNING pron-det-without-prontype] The word 'nãn' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 485 Sent 072]: [L3 WARNING pron-det-without-prontype] The word 'at' is tagged 'PRON' but it lacks the 'PronType' feature
+[Line 492 Sent 073]: [L3 WARNING pron-det-without-prontype] The word 'õn' is tagged 'PRON' but it lacks the 'PronType' feature
+...suppressing further messages regarding WARNING/MORPHO
 Warnings: 44
 *** PASSED ***
 Validity: 1
